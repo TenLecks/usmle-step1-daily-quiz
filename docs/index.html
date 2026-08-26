@@ -113,7 +113,19 @@ function escapeHtml(str) {
 
 // --- extension hooks (Task 9 replaces onAnswerSubmitted; Task 10 replaces the other two) ---
 function onAnswerSubmitted(question, selectedIndex, isCorrect) {
-  // Task 9 (Review Missed) replaces this to also record wrong answers.
+  const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
+  if (!isCorrect) {
+    const existing = wrongBank[question.id];
+    wrongBank[question.id] = {
+      question,
+      dateAdded: existing ? existing.dateAdded : todayStr(),
+      timesWrong: (existing ? existing.timesWrong : 0) + 1,
+    };
+    saveJSON(LS_KEYS.wrongBank, wrongBank);
+  } else if (session.mode === 'review' && wrongBank[question.id]) {
+    delete wrongBank[question.id];
+    saveJSON(LS_KEYS.wrongBank, wrongBank);
+  }
 }
 
 function renderQuestionExtras(question) {
@@ -320,7 +332,18 @@ function renderSummary() {
 
 // Real implementations land in Task 9 (Review) and Task 10 (Bookmarks).
 // For this task, both currently just return to Home.
-async function startReviewQuiz() { await renderHome(); }
+async function startReviewQuiz() {
+  const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
+  const questions = Object.values(wrongBank).map(entry => entry.question);
+  if (questions.length === 0) {
+    render(`<div class="empty-state">Nothing to review — no wrong answers saved yet.</div>
+      <button class="btn-secondary" id="btn-back">Back</button>`);
+    document.getElementById('btn-back').addEventListener('click', renderHome);
+    return;
+  }
+  session = { mode: 'review', questions, index: 0 };
+  renderQuestion();
+}
 async function startBookmarksQuiz() { await renderHome(); }
 
 renderHome();
