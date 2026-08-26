@@ -1,0 +1,15 @@
+{
+  "name": "USMLE Step 1 Daily Quiz",
+  "short_name": "Step1 Quiz",
+  "description": "Daily 30-question USMLE Step 1 practice quiz generated from Boards & Beyond notes",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
