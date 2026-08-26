@@ -129,12 +129,25 @@ function onAnswerSubmitted(question, selectedIndex, isCorrect) {
 }
 
 function renderQuestionExtras(question) {
-  // Task 10 (Bookmarks) replaces this to render a star toggle button.
-  return '';
+  const bookmarks = loadJSON(LS_KEYS.bookmarks, {});
+  const active = !!bookmarks[question.id];
+  return `<button class="star-btn ${active ? 'active' : ''}" id="btn-star">${active ? '★' : '☆'}</button>`;
 }
 
 function attachExtrasHandlers(question) {
-  // Task 10 (Bookmarks) replaces this to wire the star toggle button's click handler.
+  const btn = document.getElementById('btn-star');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const bookmarks = loadJSON(LS_KEYS.bookmarks, {});
+    if (bookmarks[question.id]) {
+      delete bookmarks[question.id];
+    } else {
+      bookmarks[question.id] = { question, dateAdded: todayStr() };
+    }
+    saveJSON(LS_KEYS.bookmarks, bookmarks);
+    document.getElementById('extras').innerHTML = renderQuestionExtras(question);
+    attachExtrasHandlers(question);
+  });
 }
 
 // --- app state ---
@@ -344,7 +357,18 @@ async function startReviewQuiz() {
   session = { mode: 'review', questions, index: 0 };
   renderQuestion();
 }
-async function startBookmarksQuiz() { await renderHome(); }
+async function startBookmarksQuiz() {
+  const bookmarks = loadJSON(LS_KEYS.bookmarks, {});
+  const questions = Object.values(bookmarks).map(entry => entry.question);
+  if (questions.length === 0) {
+    render(`<div class="empty-state">No bookmarked questions yet.</div>
+      <button class="btn-secondary" id="btn-back">Back</button>`);
+    document.getElementById('btn-back').addEventListener('click', renderHome);
+    return;
+  }
+  session = { mode: 'bookmarks', questions, index: 0 };
+  renderQuestion();
+}
 
 renderHome();
 </script>
