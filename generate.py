@@ -54,9 +54,12 @@ def save_state(state):
 
 
 def call_claude_headless(prompt, folder_path):
-    # claude.cmd + shell=False avoids Windows shell-quoting problems with a
-    # large multi-line prompt string (shell=True would need list2cmdline to
-    # re-quote everything correctly, which is fragile for KB-sized prompts).
+    # claude.cmd + shell=False avoids Windows shell-quoting problems (shell=True
+    # would need list2cmdline to re-quote everything correctly, which is
+    # fragile for KB-sized prompts). NOTE: `prompt` (from build_prompt) MUST be
+    # a single line with no embedded newlines — claude.cmd is a Windows
+    # batch-file wrapper, and batch-file argument passing is line-oriented:
+    # a multi-line -p prompt is silently truncated at the first newline.
     cmd = [
         "claude.cmd",
         "-p", prompt,
@@ -67,7 +70,7 @@ def call_claude_headless(prompt, folder_path):
     ]
     result = subprocess.run(
         cmd, cwd=REPO_ROOT, capture_output=True, text=True,
-        timeout=CLAUDE_TIMEOUT_SECONDS,
+        timeout=CLAUDE_TIMEOUT_SECONDS, encoding="utf-8", errors="replace",
     )
     if result.returncode != 0:
         raise RuntimeError(f"claude CLI exited {result.returncode}: {result.stderr[-2000:]}")
@@ -76,10 +79,20 @@ def call_claude_headless(prompt, folder_path):
 
 def parse_claude_output(raw_stdout):
     outer = json.loads(raw_stdout)
-    # --output-format json wraps the response as {"result": ...}; depending on
-    # CLI version "result" may be a JSON string or an already-parsed object —
-    # handle both rather than assuming one shape.
-    payload = outer.get("result", outer) if isinstance(outer, dict) else outer
+    if not isinstance(outer, dict):
+        return outer
+    if outer.get("is_error"):
+        raise RuntimeError(
+            f"claude CLI reported an error: {outer.get('result')!r} "
+            f"(permission_denials={outer.get('permission_denials')})"
+        )
+    # --output-format json includes a ready-parsed "structured_output" field
+    # when --json-schema is used — prefer it. Fall back to parsing "result"
+    # (a JSON string, or occasionally an already-parsed object) for CLI
+    # versions where structured_output isn't present.
+    if "structured_output" in outer:
+        return outer["structured_output"]
+    payload = outer.get("result", outer)
     if isinstance(payload, str):
         payload = json.loads(payload)
     return payload
