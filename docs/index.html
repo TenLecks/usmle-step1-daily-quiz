@@ -76,7 +76,11 @@ function saveJSON(key, value) {
 }
 
 function todayStr() {
-  return new Date().toISOString().slice(0, 10);
+  const d = new Date();
+  const yyyy = d.getFullYear();
+  const mm = String(d.getMonth() + 1).padStart(2, '0');
+  const dd = String(d.getDate()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd}`;
 }
 
 async function fetchDailyQuestions() {
@@ -211,6 +215,12 @@ async function startDailyQuiz() {
   }
 
   if (!progress) {
+    if (data.date !== todayStr()) {
+      render(`<div class="empty-state">Today's quiz isn't ready yet. Check back soon.</div>
+        <button class="btn-secondary" id="btn-back">Back</button>`);
+      document.getElementById('btn-back').addEventListener('click', renderHome);
+      return;
+    }
     progress = {
       date: todayStr(),
       subject: data.subject,
@@ -343,8 +353,6 @@ function renderSummary() {
   document.getElementById('btn-home').addEventListener('click', () => { session = null; renderHome(); });
 }
 
-// Real implementations land in Task 9 (Review) and Task 10 (Bookmarks).
-// For this task, both currently just return to Home.
 async function startReviewQuiz() {
   const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
   const questions = Object.values(wrongBank).map(entry => entry.question);
