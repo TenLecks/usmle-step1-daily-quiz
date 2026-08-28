@@ -207,7 +207,58 @@ function render(html) {
   app.innerHTML = html;
 }
 
+// --- in-app back navigation via the History API ---
+// This is a client-rendered SPA with no real page navigation, so by default
+// a browser/OS back action (swipe-back on mobile, hardware back on Android)
+// has no history to act on and closes the app instead of moving between
+// in-app screens. Every screen reached from Home (or, for a subject's
+// question list, from the Subject Menu) pushes one history entry; every
+// on-screen "Home"/"Back" control calls goBack() instead of rendering
+// directly, so the visible button and the OS gesture always agree and stay
+// in sync automatically.
+let screenDepth = 0; // how many screens pushed since Home; lets code that
+                      // programmatically returns to Home (not via a click)
+                      // unwind exactly that many history entries, so a later
+                      // back-press doesn't land on a stale intermediate screen
+
+function pushScreen(screen, params) {
+  screenDepth += 1;
+  history.pushState({ screen, params: params || null }, '', '#' + screen);
+}
+
+function goBack() {
+  history.back();
+}
+
+function goHomeCollapsingHistory() {
+  if (screenDepth > 0) {
+    history.go(-screenDepth); // triggers popstate, which lands on 'home'
+  } else {
+    renderHome();
+  }
+}
+
+function renderForState(state) {
+  session = null;
+  if (!state || state.screen === 'home') { renderHome(); return; }
+  switch (state.screen) {
+    case 'review': startReviewQuiz(false); break;
+    case 'bookmarks': startBookmarksQuiz(false); break;
+    case 'subjects': renderSubjectMenu(false); break;
+    case 'stats': renderStats(false); break;
+    case 'subjectList': startSubjectQuiz(state.params.subject, false); break;
+    // A mid-quiz question isn't itself reconstructable (which question,
+    // which filtered list) from a popped state, and forward-navigating back
+    // into one is a rare edge case — fall back to Home, same as what every
+    // in-quiz "Home" link already does today.
+    default: renderHome();
+  }
+}
+
+window.addEventListener('popstate', (e) => renderForState(e.state));
+
 async function renderHome() {
+  screenDepth = 0;
   const progress = getProgress();
   let dailyLabel = 'Start Daily Quiz';
   let dailySub = '30 new questions';
@@ -257,6 +308,7 @@ async function renderHome() {
 }
 
 async function startDailyQuiz() {
+  pushScreen('quiz');
   let progress = getProgress();
   let data;
   try {
@@ -264,7 +316,7 @@ async function startDailyQuiz() {
   } catch (e) {
     render(`<div class="empty-state">Could not load today's questions.<br>${escapeHtml(e.message)}</div>
       <button class="btn-secondary" id="btn-back">Back</button>`);
-    document.getElementById('btn-back').addEventListener('click', renderHome);
+    document.getElementById('btn-back').addEventListener('click', goBack);
     return;
   }
 
@@ -272,7 +324,7 @@ async function startDailyQuiz() {
     if (data.date !== todayStr()) {
       render(`<div class="empty-state">Today's quiz isn't ready yet. Check back soon.</div>
         <button class="btn-secondary" id="btn-back">Back</button>`);
-      document.getElementById('btn-back').addEventListener('click', renderHome);
+      document.getElementById('btn-back').addEventListener('click', goBack);
       return;
     }
     progress = {
@@ -320,7 +372,7 @@ function renderQuestion() {
     </div>
   `);
 
-  document.getElementById('btn-home').addEventListener('click', () => { session = null; renderHome(); });
+  document.getElementById('btn-home').addEventListener('click', () => { session = null; goBack(); });
   attachExtrasHandlers(q);
 
   const optionsEl = document.getElementById('options');
@@ -390,7 +442,7 @@ function finishSession() {
     renderSummary();
   } else {
     session = null;
-    renderHome();
+    goHomeCollapsingHistory();
   }
 }
 
@@ -404,10 +456,13 @@ function renderSummary() {
     </div>
     <button class="btn-primary" id="btn-home">Back to Home</button>
   `);
-  document.getElementById('btn-home').addEventListener('click', () => { session = null; renderHome(); });
+  document.getElementById('btn-home').addEventListener('click', () => { session = null; goBack(); });
 }
 
 // --- searchable question list (used by Review Missed, Bookmarked, and Browse by Subject) ---
+// Assumes the caller has already pushScreen()'d before calling this, so its
+// own "Home" link just needs to call goBack() to correctly return to
+// whichever screen the caller came from (Home, or the Subject Menu).
 function renderQuestionList(questions, opts) {
   if (questions.length === 0) {
     render(`
@@ -417,7 +472,7 @@ function renderQuestionList(questions, opts) {
       </div>
       <div class="empty-state">${escapeHtml(opts.emptyMessage)}</div>
     `);
-    document.getElementById('btn-home').addEventListener('click', opts.onBack || renderHome);
+    document.getElementById('btn-home').addEventListener('click', goBack);
     return;
   }
 
@@ -430,11 +485,12 @@ function renderQuestionList(questions, opts) {
     <button class="btn-primary" id="btn-start-all"></button>
     <div id="list-items"></div>
   `);
-  document.getElementById('btn-home').addEventListener('click', opts.onBack || renderHome);
+  document.getElementById('btn-home').addEventListener('click', goBack);
 
   let currentFiltered = questions;
 
   function startQuizFrom(list, index) {
+    pushScreen('quiz');
     session = { mode: opts.mode, questions: list, index };
     renderQuestion();
   }
@@ -466,7 +522,8 @@ function renderQuestionList(questions, opts) {
   document.getElementById('filter-input').addEventListener('input', (e) => renderItems(e.target.value));
 }
 
-async function startReviewQuiz() {
+async function startReviewQuiz(push = true) {
+  if (push) pushScreen('review');
   const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
   const questions = Object.values(wrongBank).map(entry => entry.question);
   renderQuestionList(questions, {
@@ -476,7 +533,8 @@ async function startReviewQuiz() {
   });
 }
 
-async function startBookmarksQuiz() {
+async function startBookmarksQuiz(push = true) {
+  if (push) pushScreen('bookmarks');
   const bookmarks = loadJSON(LS_KEYS.bookmarks, {});
   const questions = Object.values(bookmarks).map(entry => entry.question);
   renderQuestionList(questions, {
@@ -487,7 +545,8 @@ async function startBookmarksQuiz() {
 }
 
 // --- Browse by Subject ---
-async function renderSubjectMenu() {
+async function renderSubjectMenu(push = true) {
+  if (push) pushScreen('subjects');
   let index = {};
   try {
     const res = await fetch(`archive/index.json?v=${Date.now()}`, { cache: 'no-store' });
@@ -510,13 +569,14 @@ async function renderSubjectMenu() {
     </div>
     ${rows}
   `);
-  document.getElementById('btn-home').addEventListener('click', renderHome);
+  document.getElementById('btn-home').addEventListener('click', goBack);
   document.querySelectorAll('.subject-row').forEach(btn => {
     btn.addEventListener('click', () => startSubjectQuiz(btn.dataset.subject));
   });
 }
 
-async function startSubjectQuiz(subject) {
+async function startSubjectQuiz(subject, push = true) {
+  if (push) pushScreen('subjectList', { subject });
   let data;
   try {
     const res = await fetch(`archive/${encodeURIComponent(subject)}.json?v=${Date.now()}`, { cache: 'no-store' });
@@ -529,7 +589,6 @@ async function startSubjectQuiz(subject) {
     title: subject,
     emptyMessage: `No archived questions yet for ${subject}.`,
     mode: 'subject',
-    onBack: renderSubjectMenu,
   });
 }
 
@@ -563,7 +622,8 @@ function subjectBreakdown(history) {
     .sort((a, b) => a.pct - b.pct);
 }
 
-function renderStats() {
+function renderStats(push = true) {
+  if (push) pushScreen('stats');
   const history = getHistory();
   const totalQuizzes = history.length;
   const totalScore = history.reduce((s, h) => s + h.score, 0);
@@ -595,11 +655,12 @@ function renderStats() {
     <div class="card">${breakdownHtml}</div>
     <button class="btn-secondary" id="btn-home2">Back to Home</button>
   `);
-  document.getElementById('btn-home').addEventListener('click', renderHome);
-  document.getElementById('btn-home2').addEventListener('click', renderHome);
+  document.getElementById('btn-home').addEventListener('click', goBack);
+  document.getElementById('btn-home2').addEventListener('click', goBack);
 }
 
 initTheme();
+history.replaceState({ screen: 'home' }, '', '#home');
 renderHome();
 </script>
 </body>
