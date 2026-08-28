@@ -11,6 +11,7 @@ from lib.rotation import next_subject
 from lib.schema import validate_questions
 from lib.prompt import build_prompt
 from lib.extract import extract_subject_text
+from lib.shuffle import shuffle_question_options
 
 REPO_ROOT = Path(__file__).parent
 PDF_ROOT = Path(r"C:\Users\Omer\Desktop\BoardAndBeyond_PDFs")
@@ -152,6 +153,12 @@ def main():
 
     rng = random.Random(today)
     rng.shuffle(questions)
+    # LLMs writing MCQs tend to place the correct answer at the same
+    # position across many questions (confirmed directly: one real
+    # generated set had it at index 0 in all 30/30 questions). Reorder each
+    # question's own options locally so the correct answer's position is
+    # actually randomized, independent of the model's positional bias.
+    questions = [shuffle_question_options(q, rng) for q in questions]
     for i, q in enumerate(questions, start=1):
         q["id"] = f"{today}-{i:02d}"
 

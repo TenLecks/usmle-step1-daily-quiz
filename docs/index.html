@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>USMLE Step 1 Daily Quiz</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#2563eb" id="meta-theme-color">
+<meta name="theme-color" content="#2563eb">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -15,10 +15,6 @@
   :root {
     --bg: #0f172a; --panel: #1e293b; --text: #e2e8f0; --muted: #94a3b8;
     --accent: #2563eb; --correct: #16a34a; --incorrect: #dc2626; --border: #334155;
-  }
-  :root[data-theme="light"] {
-    --bg: #f8fafc; --panel: #ffffff; --text: #0f172a; --muted: #64748b;
-    --accent: #2563eb; --correct: #16a34a; --incorrect: #dc2626; --border: #e2e8f0;
   }
   * { box-sizing: border-box; }
   body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -52,8 +48,6 @@
   .star-btn { background: none; border: none; font-size: 1.4rem; cursor: pointer; color: var(--muted); }
   .star-btn.active { color: #facc15; }
   .empty-state { color: var(--muted); text-align: center; padding: 32px 16px; }
-  .theme-toggle { position: fixed; top: 12px; right: 12px; background: var(--panel); border: 1px solid var(--border);
-    border-radius: 50%; width: 40px; height: 40px; font-size: 1.1rem; cursor: pointer; z-index: 10; }
   .filter-input { display: block; width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px;
     background: var(--panel); color: var(--text); font-size: 0.95rem; margin-bottom: 12px; }
   .filter-input::placeholder { color: var(--muted); }
@@ -65,7 +59,6 @@
 </style>
 </head>
 <body>
-<button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark theme">🌙</button>
 <div id="app"></div>
 <script>
 'use strict';
@@ -75,7 +68,6 @@ const LS_KEYS = {
   history: 'usmle_history_v1',
   wrongBank: 'usmle_wrong_bank_v1',
   bookmarks: 'usmle_bookmarks_v1',
-  theme: 'usmle_theme_v1',
 };
 
 const SUBJECTS = [
@@ -138,25 +130,6 @@ function escapeHtml(str) {
   const div = document.createElement('div');
   div.textContent = str;
   return div.innerHTML;
-}
-
-// --- theme ---
-function applyTheme(theme) {
-  document.documentElement.setAttribute('data-theme', theme);
-  document.getElementById('theme-toggle').textContent = theme === 'light' ? '🌙' : '☀️';
-  document.getElementById('meta-theme-color').setAttribute('content', theme === 'light' ? '#f8fafc' : '#0f172a');
-}
-
-function initTheme() {
-  const saved = localStorage.getItem(LS_KEYS.theme);
-  const theme = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
-  applyTheme(theme);
-  document.getElementById('theme-toggle').addEventListener('click', () => {
-    const current = document.documentElement.getAttribute('data-theme');
-    const next = current === 'light' ? 'dark' : 'light';
-    localStorage.setItem(LS_KEYS.theme, next);
-    applyTheme(next);
-  });
 }
 
 // --- wrong-bank / bookmark hooks ---
@@ -659,7 +632,6 @@ function renderStats(push = true) {
   document.getElementById('btn-home2').addEventListener('click', goBack);
 }
 
-initTheme();
 history.replaceState({ screen: 'home' }, '', '#home');
 renderHome();
 </script>
