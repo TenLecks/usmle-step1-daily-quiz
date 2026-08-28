@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from lib.rotation import next_subject
 from lib.schema import validate_questions
 from lib.prompt import build_prompt
+from lib.extract import extract_subject_text
 
 REPO_ROOT = Path(__file__).parent
 PDF_ROOT = Path(r"C:\Users\Omer\Desktop\BoardAndBeyond_PDFs")
@@ -18,6 +19,13 @@ QUESTIONS_PATH = REPO_ROOT / "docs" / "questions.json"
 CLAUDE_TIMEOUT_SECONDS = 900  # 15 min ceiling for a single headless run
 HISTORY_PER_SUBJECT_CAP = 200
 AVOID_STEMS_IN_PROMPT = 60
+# Text-only generation (no agentic PDF reading) costs well under $1-2 per
+# subject in practice. This is a hard ceiling, not an expected cost — it
+# exists so a misbehaving run fails loudly and cheaply instead of silently
+# spending an unbounded amount, which is what happened before this design
+# (one failed attempt reached $23.57 before hitting the account's own rate
+# limit, with zero cost governor anywhere in the pipeline).
+CLAUDE_MAX_BUDGET_USD = "5"
 
 QUESTIONS_SCHEMA = {
     "type": "object",
@@ -53,23 +61,32 @@ def save_state(state):
     STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
 
 
-def call_claude_headless(prompt, folder_path):
+def call_claude_headless(prompt):
     # claude.cmd + shell=False avoids Windows shell-quoting problems (shell=True
     # would need list2cmdline to re-quote everything correctly, which is
     # fragile for KB-sized prompts). NOTE: `prompt` (from build_prompt) MUST be
     # a single line with no embedded newlines — claude.cmd is a Windows
     # batch-file wrapper, and batch-file argument passing is line-oriented:
     # a multi-line -p prompt is silently truncated at the first newline.
+    #
+    # No --add-dir: the prompt already contains the subject's PDF text
+    # (extracted locally, see lib/extract.py) rather than asking Claude to
+    # read the PDF files itself, so no filesystem access is needed at all.
+    # The prompt (subject text can run 100K+ characters) is piped via stdin,
+    # not passed as a -p argument: Windows caps a process's total command-line
+    # length (~32K chars), which a large embedded-text prompt exceeds,
+    # raising "WinError 206: The filename or extension is too long". Passing
+    # no prompt after -p makes the CLI read it from stdin instead.
     cmd = [
         "claude.cmd",
-        "-p", prompt,
+        "-p",
         "--output-format", "json",
         "--json-schema", json.dumps(QUESTIONS_SCHEMA),
         "--permission-mode", "bypassPermissions",
-        "--add-dir", str(folder_path),
+        "--max-budget-usd", CLAUDE_MAX_BUDGET_USD,
     ]
     result = subprocess.run(
-        cmd, cwd=REPO_ROOT, capture_output=True, text=True,
+        cmd, cwd=REPO_ROOT, input=prompt, capture_output=True, text=True,
         timeout=CLAUDE_TIMEOUT_SECONDS, encoding="utf-8", errors="replace",
     )
     if result.returncode != 0:
@@ -107,8 +124,9 @@ def main():
     history = state.setdefault("history", {})
     avoid_stems = history.get(subject, [])[-AVOID_STEMS_IN_PROMPT:]
 
-    prompt = build_prompt(subject, folder_path, avoid_stems)
-    raw_stdout = call_claude_headless(prompt, folder_path)
+    extracted_text = extract_subject_text(folder_path)
+    prompt = build_prompt(subject, extracted_text, avoid_stems)
+    raw_stdout = call_claude_headless(prompt)
     payload = parse_claude_output(raw_stdout)
     questions = validate_questions(payload)
 
