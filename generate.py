@@ -16,6 +16,8 @@ REPO_ROOT = Path(__file__).parent
 PDF_ROOT = Path(r"C:\Users\Omer\Desktop\BoardAndBeyond_PDFs")
 STATE_PATH = REPO_ROOT / "state.json"
 QUESTIONS_PATH = REPO_ROOT / "docs" / "questions.json"
+ARCHIVE_DIR = REPO_ROOT / "docs" / "archive"
+ARCHIVE_INDEX_PATH = ARCHIVE_DIR / "index.json"
 CLAUDE_TIMEOUT_SECONDS = 900  # 15 min ceiling for a single headless run
 HISTORY_PER_SUBJECT_CAP = 200
 AVOID_STEMS_IN_PROMPT = 60
@@ -59,6 +61,24 @@ def load_state():
 
 def save_state(state):
     STATE_PATH.write_text(json.dumps(state, indent=2), encoding="utf-8")
+
+
+def update_archive(subject, questions):
+    """Append today's questions to this subject's cumulative archive (for the
+    PWA's "Browse by Subject" mode), and update the subject->count index the
+    PWA uses to render the subject menu without fetching all 15 archives."""
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    archive_path = ARCHIVE_DIR / f"{subject}.json"
+    if archive_path.exists():
+        archive = json.loads(archive_path.read_text(encoding="utf-8"))
+    else:
+        archive = {"subject": subject, "questions": []}
+    archive["questions"].extend(questions)
+    archive_path.write_text(json.dumps(archive, indent=2), encoding="utf-8")
+
+    index = json.loads(ARCHIVE_INDEX_PATH.read_text(encoding="utf-8")) if ARCHIVE_INDEX_PATH.exists() else {}
+    index[subject] = len(archive["questions"])
+    ARCHIVE_INDEX_PATH.write_text(json.dumps(index, indent=2), encoding="utf-8")
 
 
 def call_claude_headless(prompt):
@@ -139,12 +159,16 @@ def main():
         json.dumps({"date": today, "subject": subject, "questions": questions}, indent=2),
         encoding="utf-8",
     )
+    update_archive(subject, questions)
 
     history.setdefault(subject, []).extend(q["stem"][:100] for q in questions)
     history[subject] = history[subject][-HISTORY_PER_SUBJECT_CAP:]
     save_state(state)
 
-    subprocess.run(["git", "add", "state.json", "docs/questions.json"], cwd=REPO_ROOT, check=True)
+    subprocess.run(
+        ["git", "add", "state.json", "docs/questions.json", "docs/archive"],
+        cwd=REPO_ROOT, check=True,
+    )
     subprocess.run(["git", "commit", "-m", f"Daily quiz: {subject} ({today})"], cwd=REPO_ROOT, check=True)
     subprocess.run(["git", "push"], cwd=REPO_ROOT, check=True)
     print(f"Generated 30 {subject} questions for {today} and pushed to GitHub.")

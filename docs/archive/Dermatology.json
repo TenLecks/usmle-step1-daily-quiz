@@ -1,0 +1,565 @@
+{
+  "subject": "Dermatology",
+  "questions": [
+    {
+      "format": "simple4",
+      "stem": "A pregnant woman develops symmetric, irregular tan-brown patches on her cheeks and forehead (melasma). Which topical medication works by inhibiting tyrosinase to lighten the affected areas?",
+      "options": [
+        "Hydroquinone",
+        "Benzoyl peroxide",
+        "Isotretinoin",
+        "Ketoconazole"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Hydroquinone is a skin-lightening agent that works by inhibiting tyrosinase, reducing melanin synthesis, and is used to treat melasma.",
+        "Incorrect: Benzoyl peroxide is a comedolytic and antibacterial agent used to treat acne, not melasma, and does not act via tyrosinase inhibition.",
+        "Incorrect: Isotretinoin is a retinoid used for severe acne by decreasing keratin production in follicles, not a treatment for melasma.",
+        "Incorrect: Ketoconazole is an antifungal used to treat seborrheic dermatitis (targeting Malassezia), not melasma."
+      ],
+      "id": "2026-08-27-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "A biopsy of a thickened, scaly skin plaque shows marked thickening of the stratum corneum without retention of nuclei. This finding, also responsible for calluses, is termed:",
+      "options": [
+        "Hyperkeratosis",
+        "Parakeratosis",
+        "Acanthosis",
+        "Hypergranulosis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Hyperkeratosis is thickening of the stratum corneum due to excess keratin, seen in psoriasis and in calluses from repeated pressure or friction.",
+        "Incorrect: Parakeratosis is hyperkeratosis with retained nuclei in the stratum corneum, indicating hyperproliferation; the question specifies no nuclear retention.",
+        "Incorrect: Acanthosis refers to thickening of the stratum spinosum (spinous layer), not the stratum corneum.",
+        "Incorrect: Hypergranulosis is increased thickness of the stratum granulosum, a different layer than the one described."
+      ],
+      "id": "2026-08-27-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "A newborn has white hair, very pale skin, and blue-gray irides. Genetic testing reveals a mutation causing decreased activity of an enzyme required for melanin synthesis. Which enzyme is most commonly deficient in this condition?",
+      "options": [
+        "Tyrosinase",
+        "Phenylalanine hydroxylase",
+        "Homogentisate oxidase",
+        "Tyrosine hydroxylase"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Oculocutaneous albinism most commonly results from decreased activity of tyrosinase, the enzyme required to convert tyrosine into melanin precursors, resulting in absent or reduced pigmentation.",
+        "Incorrect: Phenylalanine hydroxylase deficiency causes phenylketonuria, a distinct metabolic disorder not described in this content as a cause of albinism.",
+        "Incorrect: Homogentisate oxidase deficiency causes alkaptonuria, unrelated to melanin synthesis or albinism.",
+        "Incorrect: Tyrosine hydroxylase is involved in catecholamine synthesis, not melanin production, and is not the enzyme implicated in oculocutaneous albinism here."
+      ],
+      "id": "2026-08-27-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "A biopsy of a pearly papule with surface telangiectasias on the nose shows nests of dark basaloid cells in the dermis, with peripheral nuclei aligned in a linear fashion around the outer edge of each nest. This histologic pattern is termed:",
+      "options": [
+        "Peripheral palisading",
+        "Koilocytosis",
+        "Keratin pearl formation",
+        "Row of tombstones"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Basal cell carcinoma classically shows nests of basaloid cells with peripheral palisading, where nuclei line up around the periphery of the tumor nests.",
+        "Incorrect: Koilocytosis, perinuclear cytoplasmic vacuolization, is a feature of HPV-related verrucae, not basal cell carcinoma.",
+        "Incorrect: Keratin pearl formation, concentric eosinophilic keratin whorls, is characteristic of squamous cell carcinoma, not basal cell carcinoma.",
+        "Incorrect: 'Row of tombstones' describes the intact basal cell layer remaining after acantholysis in pemphigus vulgaris, not the palisading pattern of basal cell carcinoma."
+      ],
+      "id": "2026-08-27-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient presents with a painful, pink-purple papule beneath a fingernail that produces severe, episodic pain when exposed to cold. This benign tumor arises from modified smooth muscle cells of a structure that normally functions to:",
+      "options": [
+        "Regulate skin temperature by shunting blood flow away from the surface in cold conditions",
+        "Increase melanin production in response to ultraviolet exposure",
+        "Secrete sebum from sebaceous glands",
+        "Produce sweat from eccrine glands"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Glomus tumors arise from the glomus body, a dermal structure containing modified smooth muscle cells that regulates skin temperature by shunting blood away from the surface in cold conditions, explaining the classic cold-induced pain.",
+        "Incorrect: Melanin production in response to UV exposure is a function of melanocytes, not the glomus body, and is unrelated to glomus tumor pathophysiology.",
+        "Incorrect: Sebum secretion is a function of sebaceous glands, not the glomus body, which regulates blood flow rather than oil production.",
+        "Incorrect: Sweat production is a function of eccrine glands, not the glomus body, which is a vascular thermoregulatory structure."
+      ],
+      "id": "2026-08-27-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which organism, an anaerobic component of normal skin flora, proliferates within obstructed pilosebaceous units and contributes to inflammatory acne?",
+      "options": [
+        "Cutibacterium (Propionibacterium) acnes",
+        "Staphylococcus aureus",
+        "Malassezia furfur",
+        "Streptococcus pyogenes"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Cutibacterium acnes (formerly Propionibacterium acnes) is an anaerobic component of normal skin flora that proliferates in sebum-blocked follicles, contributing to acne inflammation.",
+        "Incorrect: Staphylococcus aureus is not identified as the organism responsible for acne pathogenesis in this content; it is implicated in impetigo and scalded skin syndrome instead.",
+        "Incorrect: Malassezia furfur is a fungal organism associated with seborrheic dermatitis, not acne.",
+        "Incorrect: Streptococcus pyogenes is associated with impetigo, erysipelas, and necrotizing fasciitis, not acne pathogenesis."
+      ],
+      "id": "2026-08-27-06"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman has a pigmented lesion on her back that has become darker and more irregularly bordered over the past 6 months and now measures 9 mm. Excisional biopsy shows a proliferation of atypical melanocytes with nuclear irregularity extending into the dermis in a vertical growth pattern. Measurement from the granular layer of the epidermis to the deepest tumor cell is 2.1 mm.",
+      "options": [
+        "The 2.1 mm measurement is the Breslow thickness and correlates with metastatic risk",
+        "This finding indicates the tumor is confined to a purely radial growth phase",
+        "A negative HMB-45 stain would strongly support this diagnosis",
+        "This lesion most likely represents lentigo maligna confined to the epidermis",
+        "BRAF mutation testing has no relevance to prognosis or treatment in this case"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: The distance from the granular layer of the epidermis to the deepest invading tumor cell is the Breslow thickness; increasing depth of invasion (vertical growth phase) correlates directly with increased risk of metastasis in melanoma.",
+        "Incorrect: Invasion into the dermis (vertical growth phase) is described, not a purely radial (epidermal/superficial dermal) growth pattern, which would carry a better prognosis.",
+        "Incorrect: HMB-45 is highly specific for melanoma and would be expected to stain positive, not negative, in this lesion; a negative HMB-45 would argue against, not support, the diagnosis.",
+        "Incorrect: Lentigo maligna is confined to the epidermis ('melanoma in situ'); this lesion has invaded the dermis with vertical growth, making it lentigo maligna melanoma or another invasive subtype, not lentigo maligna alone.",
+        "Incorrect: BRAF V600E mutation testing is clinically relevant because BRAF inhibitors (vemurafenib, dabrafenib) improve survival in melanomas carrying this mutation, which is present in a substantial proportion of sporadic melanomas."
+      ],
+      "id": "2026-08-27-07"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A newborn is noted to have a pink-red patch involving the right forehead and upper eyelid that does not fully blanch and does not fade over the following weeks. At 4 months of age, the infant develops recurrent focal seizures affecting the left side of the body. Ophthalmologic examination reveals elevated intraocular pressure in the right eye.",
+      "options": [
+        "A somatic mosaic mutation in the GNAQ gene causing abnormal capillary malformation",
+        "A germline autosomal dominant mutation in NF1 causing loss of neurofibromin",
+        "A germline mutation in TSC2 causing overactivation of the mTOR pathway",
+        "An X-linked mutation causing absent melanocyte migration to the epidermis",
+        "An autosomal recessive mutation causing deficient tyrosinase activity"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: A congenital facial port-wine stain in the trigeminal distribution, ipsilateral seizures from a leptomeningeal angioma, and glaucoma describe Sturge-Weber syndrome, caused by a somatic (non-inherited) mosaic mutation in GNAQ leading to abnormal capillary malformation.",
+        "Incorrect: Neurofibromatosis type 1 is a germline autosomal dominant NF1 mutation causing caf\u00e9-au-lait spots and neurofibromas, not a port-wine stain, and is inherited rather than a sporadic somatic mutation.",
+        "Incorrect: Tuberous sclerosis involves germline TSC1/TSC2 mutations causing mTOR overactivity, presenting with ash-leaf spots, angiofibromas, and seizures, but not a facial port-wine stain or glaucoma as described here.",
+        "Incorrect: Sturge-Weber syndrome is not caused by an X-linked mutation affecting melanocyte migration; it is a sporadic somatic GNAQ mutation affecting capillary development.",
+        "Incorrect: Deficient tyrosinase activity causes oculocutaneous albinism, characterized by hypopigmentation, not the vascular malformation and seizures described in this vignette."
+      ],
+      "id": "2026-08-27-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient has pruritic, violaceous, flat-topped papules on the wrists along with lacy white streaks (Wickham striae) on the buccal mucosa. The white streaks are caused by which histologic change?",
+      "options": [
+        "Hypergranulosis (thickened stratum granulosum)",
+        "Parakeratosis (retained nuclei in the stratum corneum)",
+        "Spongiosis (intercellular epidermal edema)",
+        "Acantholysis (loss of keratinocyte connections)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Lichen planus classically shows hypergranulosis, a thickened stratum granulosum, which produces the lacy white Wickham striae best seen on oral mucosal lesions.",
+        "Incorrect: Parakeratosis with retained nuclei is a feature of psoriasis and actinic keratosis, not the cause of Wickham striae in lichen planus.",
+        "Incorrect: Spongiosis is the hallmark of eczema, unrelated to the Wickham striae of lichen planus.",
+        "Incorrect: Acantholysis is the hallmark of pemphigus vulgaris, unrelated to the Wickham striae seen in lichen planus."
+      ],
+      "id": "2026-08-27-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 72-year-old man presents with several weeks of intensely pruritic, tense bullae on an erythematous base over his abdomen and inner thighs. There is no oral mucosal involvement, and gently rubbing adjacent normal skin does not cause it to slip off. Skin biopsy shows a subepidermal blister with a dense eosinophilic infiltrate. Direct immunofluorescence shows a linear band of IgG along the dermal-epidermal junction.",
+      "options": [
+        "Autoantibodies against hemidesmosomal proteins BP180 and BP230",
+        "Autoantibodies against desmoglein 3 in the stratum spinosum",
+        "Granular IgA deposition at the tips of dermal papillae",
+        "Loss of E-cadherin function promoting cell detachment",
+        "Neutrophilic collection beneath the stratum corneum"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: This presentation (elderly patient, tense pruritic bullae, no mucosal involvement, negative Nikolsky sign, subepidermal blister with eosinophils, linear IgG at the basement membrane) is classic for bullous pemphigoid, caused by autoantibodies against the hemidesmosomal proteins BP180 and BP230.",
+        "Incorrect: Antibodies against desmoglein 3 cause pemphigus vulgaris, which produces flaccid, easily ruptured intraepidermal bullae with oral involvement and a positive Nikolsky sign, not tense subepidermal bullae with eosinophils.",
+        "Incorrect: Granular IgA deposition at dermal papillae tips is the immunofluorescence finding in dermatitis herpetiformis, which is associated with celiac disease, not this linear IgG pattern.",
+        "Incorrect: E-cadherin loss is implicated in tumor metastasis (e.g., breast and gastric cancer), not in the pathogenesis of any autoimmune blistering disorder described here.",
+        "Incorrect: A neutrophilic collection beneath the stratum corneum describes the superficial epidermal infection seen in impetigo, not an autoimmune subepidermal blistering disease."
+      ],
+      "id": "2026-08-27-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "Biopsy of a hyperkeratotic papule on a child's hand shows epidermal hyperplasia and keratinocytes with perinuclear cytoplasmic vacuolization ('halos'). This finding, termed koilocytosis, is characteristic of infection with:",
+      "options": [
+        "Human papillomavirus",
+        "Herpes simplex virus",
+        "Molluscum contagiosum virus",
+        "Varicella zoster virus"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Verruca vulgaris (common wart) is caused by human papillomavirus and characteristically shows epidermal hyperplasia with koilocytosis, cytoplasmic vacuolization creating a halo around the nucleus.",
+        "Incorrect: Herpes simplex virus causes vesicular lesions with multinucleated giant cells and viral cytopathic changes, not the koilocytosis described here.",
+        "Incorrect: Molluscum contagiosum produces umbilicated papules with Henderson-Patterson bodies, not koilocytosis.",
+        "Incorrect: Varicella zoster virus causes vesicular eruptions with multinucleated giant keratinocytes, not the koilocytosis characteristic of HPV infection."
+      ],
+      "id": "2026-08-27-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which layer of the epidermis contains the stem cells responsible for continuous keratinocyte renewal?",
+      "options": [
+        "Stratum basale",
+        "Stratum granulosum",
+        "Stratum corneum",
+        "Stratum lucidum"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: The stratum basale (basal layer) contains the stem cells that continuously divide to replenish the epidermis.",
+        "Incorrect: The stratum granulosum contains keratohyalin granules and is involved in the keratinization process, not stem cell renewal.",
+        "Incorrect: The stratum corneum consists of anucleated, dead keratinized cells and does not contain proliferating stem cells.",
+        "Incorrect: The stratum lucidum is a thin, clear layer of dead skin cells found in thick skin, not a site of stem cell activity."
+      ],
+      "id": "2026-08-27-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 61-year-old man presents with several months of progressively darkening, velvety, thickened plaques in his axillae and on the back of his neck. He also reports an unintentional 15-pound weight loss and early satiety over the same period. He is not obese and has no history of diabetes. Skin biopsy shows hyperkeratosis and acanthosis of the epidermis without atypia.",
+      "options": [
+        "Gastric adenocarcinoma",
+        "Basal cell carcinoma",
+        "Chronic lymphocytic leukemia",
+        "Prostate adenocarcinoma",
+        "Renal cell carcinoma"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Acanthosis nigricans in a patient without obesity or insulin resistance, especially with red-flag systemic symptoms like weight loss, suggests 'malignant' acanthosis nigricans, which is most commonly associated with gastric adenocarcinoma.",
+        "Incorrect: Basal cell carcinoma is not associated with paraneoplastic acanthosis nigricans; it is a locally invasive skin cancer that rarely metastasizes.",
+        "Incorrect: Chronic lymphocytic leukemia is not the classic malignancy linked to acanthosis nigricans in this content; gastric adenocarcinoma is specifically identified as the most common association.",
+        "Incorrect: Prostate adenocarcinoma is not identified as the classic malignancy associated with acanthosis nigricans in this content.",
+        "Incorrect: Renal cell carcinoma is associated with von Hippel-Lindau disease, not with paraneoplastic acanthosis nigricans."
+      ],
+      "id": "2026-08-27-13"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 58-year-old man with poorly controlled diabetes develops rapidly spreading redness, swelling, and severe pain of his leg three days after a minor scrape. The pain is markedly out of proportion to physical exam findings. On exam, there is crepitus with palpation of the skin, and the erythema has progressed to a dusky purple-gray discoloration. He is febrile and hypotensive.",
+      "options": [
+        "Urgent surgical debridement is required; this is likely a polymicrobial infection typical of type 1 necrotizing fasciitis in a diabetic patient",
+        "Oral antibiotics as an outpatient are appropriate; this is a monomicrobial Group A streptococcal infection",
+        "Topical mupirocin is the treatment of choice; this represents a superficial staphylococcal skin infection",
+        "Incision and drainage alone without antibiotics is sufficient; this is a walled-off abscess",
+        "Observation with serial exams is appropriate; this represents a self-limited viral exanthem"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Pain out of proportion to exam, crepitus (gas produced by bacteria), skin color progression to purple/gray, and hypotension in a diabetic patient after minor trauma are classic for necrotizing fasciitis, which requires urgent surgical debridement; type 1 (polymicrobial, often anaerobic) disease classically occurs in diabetics and immunocompromised patients.",
+        "Incorrect: Necrotizing fasciitis is a surgical emergency with high mortality; outpatient oral antibiotics are inadequate and delay urgent debridement. It is also typically polymicrobial (type 1) in diabetics, not a simple monomicrobial infection.",
+        "Incorrect: Topical mupirocin is used for superficial infections like impetigo, not for a deep, life-threatening fascial infection with crepitus and systemic toxicity.",
+        "Incorrect: A skin abscess is a walled-off collection of pus without crepitus or the systemic toxicity and skin necrosis described; this presentation is far more consistent with necrotizing fasciitis requiring urgent debridement.",
+        "Incorrect: The presence of crepitus, hypotension, fever, and progressive skin necrosis indicates a fulminant bacterial infection, not a self-limited viral process; delaying treatment could be fatal."
+      ],
+      "id": "2026-08-27-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child presents with pruritic vesicles and papules on the face that rupture and develop a golden, honey-colored crust. Which organism is the most common cause of this presentation?",
+      "options": [
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Pseudomonas aeruginosa",
+        "Malassezia furfur"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Impetigo, characterized by superficial vesicles/papules that rupture into honey-colored crusted erosions, is most commonly caused by Staphylococcus aureus (with group A Streptococcus as another cause).",
+        "Incorrect: Streptococcus pneumoniae is not identified as a cause of impetigo in this content; it is a respiratory pathogen.",
+        "Incorrect: Pseudomonas aeruginosa is not the classic organism associated with impetigo's honey-colored crusting.",
+        "Incorrect: Malassezia furfur is a fungal organism linked to seborrheic dermatitis, not the bacterial infection impetigo."
+      ],
+      "id": "2026-08-27-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A dermatologist prescribes isotretinoin for a patient with severe nodulocystic acne. Which of the following is required before and during treatment given the drug's most serious risk?",
+      "options": [
+        "Monthly pregnancy testing and effective contraception due to teratogenicity",
+        "Baseline echocardiogram due to cardiotoxicity",
+        "Annual audiometry due to ototoxicity",
+        "Renal function monitoring due to nephrotoxicity"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Isotretinoin is highly teratogenic, so pregnancy tests and effective contraception (such as an OCP) are required before and during treatment in patients who could become pregnant.",
+        "Incorrect: Cardiotoxicity requiring echocardiographic monitoring is not the major risk associated with isotretinoin; teratogenicity is the primary safety concern described.",
+        "Incorrect: Ototoxicity and audiometric monitoring are not associated with isotretinoin therapy in this content.",
+        "Incorrect: Nephrotoxicity requiring renal monitoring is not the key safety concern for isotretinoin; its major risk is teratogenicity, along with photosensitivity."
+      ],
+      "id": "2026-08-27-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a history of chronic diarrhea and weight loss develops intensely pruritic, grouped papulovesicles on the elbows and knees. Direct immunofluorescence of a skin biopsy would most likely show which finding?",
+      "options": [
+        "Granular IgA deposition at the tips of the dermal papillae",
+        "Linear IgG deposition along the basement membrane",
+        "Reticular IgG deposition between keratinocytes",
+        "IgE-mediated mast cell degranulation in the dermis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Dermatitis herpetiformis, associated with celiac disease (explaining the chronic diarrhea and weight loss), classically shows IgA deposition at the tips of the dermal papillae on direct immunofluorescence.",
+        "Incorrect: Linear IgG deposition along the basement membrane is the immunofluorescence pattern of bullous pemphigoid, not dermatitis herpetiformis.",
+        "Incorrect: A reticular IgG pattern between keratinocytes is characteristic of pemphigus vulgaris, not dermatitis herpetiformis, which involves IgA rather than IgG.",
+        "Incorrect: IgE-mediated mast cell degranulation describes the mechanism of urticaria, not the IgA-mediated process of dermatitis herpetiformis."
+      ],
+      "id": "2026-08-27-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 26-year-old woman develops several tender, red, warm nodules on her anterior shins one week after being treated for streptococcal pharyngitis. She has no oral or genital ulcers. A biopsy of one of the nodules is obtained.",
+      "options": [
+        "Septal panniculitis, with inflammation confined to the connective tissue septa between fat lobules",
+        "Lobular panniculitis, with inflammation centered within the fat lobules themselves",
+        "Acantholysis with an intraepidermal blister above the basal layer",
+        "Noncaseating granulomas with multinucleated giant cells replacing the dermis",
+        "Leukocytoclastic vasculitis involving small dermal vessels"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: This presentation (painful nodules on the shins following streptococcal infection) is classic erythema nodosum, a type IV hypersensitivity reaction whose hallmark pathology is 'septal panniculitis' \u2014 inflammation of the fibrous septa of fat between the dermis and fascia.",
+        "Incorrect: Lobular panniculitis, with inflammation centered in the fat lobules rather than the septa, is explicitly contrasted with the septal pattern seen in erythema nodosum.",
+        "Incorrect: Acantholysis with an intraepidermal blister is the histologic hallmark of pemphigus vulgaris, an entirely different disease process involving the epidermis, not the subcutaneous fat.",
+        "Incorrect: While erythema nodosum can be triggered by granulomatous diseases like sarcoidosis, the panniculitis itself is defined by septal inflammation, not by granuloma formation replacing the dermis.",
+        "Incorrect: Erythema nodosum is not classified as a vasculitis; its defining feature is septal panniculitis of the subcutaneous fat, not inflammation of dermal blood vessels."
+      ],
+      "id": "2026-08-27-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient presents with greasy, red, scaly plaques on the scalp and nasolabial folds. This condition is associated with proliferation of which organism?",
+      "options": [
+        "Malassezia species",
+        "Candida albicans",
+        "Dermatophytes (Trichophyton)",
+        "Cutibacterium acnes"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Seborrheic dermatitis, presenting as red plaques with flaky scale on sebaceous-gland-rich areas like the scalp and face, is associated with the fungal organism Malassezia.",
+        "Incorrect: Candida albicans is not the organism implicated in seborrheic dermatitis in this content.",
+        "Incorrect: Dermatophytes such as Trichophyton cause tinea infections, not seborrheic dermatitis.",
+        "Incorrect: Cutibacterium acnes is associated with acne, not seborrheic dermatitis."
+      ],
+      "id": "2026-08-27-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman presents with 2 weeks of painful oral erosions followed by the development of flaccid, easily ruptured bullae on her trunk and back. Lateral pressure applied at the edge of an intact bulla causes it to extend into adjacent normal-appearing skin. Skin biopsy shows an intraepidermal blister just above the basal cell layer with rounded, detached keratinocytes creating a 'row of tombstones' appearance. Direct immunofluorescence shows a reticular, net-like pattern of IgG deposition between keratinocytes.",
+      "options": [
+        "Desmoglein 1 and desmoglein 3",
+        "BP180 and BP230",
+        "Type IV collagen of the basal lamina",
+        "A gliadin-related antigen triggering IgA deposition",
+        "Connexin proteins forming gap junctions"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Pemphigus vulgaris is caused by IgG autoantibodies against desmoglein 1 and 3, the desmosomal cadherins linking keratinocytes in the stratum spinosum, producing acantholysis, intraepidermal blisters, and a reticular IgG pattern on immunofluorescence.",
+        "Incorrect: BP180 and BP230 are hemidesmosomal proteins targeted in bullous pemphigoid, which produces tense subepidermal bullae with a linear (not reticular) IgG pattern, not the acantholytic intraepidermal blister described here.",
+        "Incorrect: Type IV collagen is a basal lamina protein targeted in Goodpasture syndrome and Alport syndrome, not in pemphigus vulgaris, which involves desmosomal proteins in the epidermis.",
+        "Incorrect: Granular IgA deposition at dermal papillae tips triggered by gluten sensitivity describes dermatitis herpetiformis, not the IgG-mediated, desmoglein-targeted process seen here.",
+        "Incorrect: Connexins form gap junctions that allow small molecule passage between cells; they are not the target of autoantibodies in any of the classic blistering disorders described in this content."
+      ],
+      "id": "2026-08-27-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child has six or more caf\u00e9-au-lait macules, axillary freckling, and multiple cutaneous neurofibromas. Genetic testing reveals a mutation in a tumor suppressor gene on chromosome 17 that normally restricts RAS signaling. This gene encodes:",
+      "options": [
+        "Neurofibromin",
+        "Merlin",
+        "Hamartin",
+        "Tuberin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Neurofibromatosis type 1 results from mutation of the NF1 gene on chromosome 17, which encodes neurofibromin, a tumor suppressor protein that normally restricts RAS activity; loss of function leads to uncontrolled cell growth.",
+        "Incorrect: Merlin is the protein product of the NF2 gene, mutated in neurofibromatosis type 2, which causes bilateral schwannomas, not the caf\u00e9-au-lait spots and neurofibromas described here.",
+        "Incorrect: Hamartin is encoded by TSC1, mutated in tuberous sclerosis, which inhibits the mTOR pathway rather than RAS signaling.",
+        "Incorrect: Tuberin is encoded by TSC2, also implicated in tuberous sclerosis via mTOR pathway inhibition, not in neurofibromatosis type 1."
+      ],
+      "id": "2026-08-27-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "An 8-month-old infant presents with new-onset seizures characterized by sudden flexion spasms. On exam, the infant has several hypopigmented, oval macules on the trunk and a reddish papular rash across the nose and cheeks. An echocardiogram obtained for a murmur reveals a mass embedded within the left ventricular wall.",
+      "options": [
+        "Tuberous sclerosis, caused by a loss-of-function mutation in TSC1 or TSC2 leading to mTOR pathway overactivity",
+        "Neurofibromatosis type 1, caused by a loss-of-function mutation in NF1 leading to RAS overactivity",
+        "Sturge-Weber syndrome, caused by a somatic mutation in GNAQ",
+        "von Hippel-Lindau disease, caused by loss of VHL leading to accumulation of hypoxia-inducible factor",
+        "Neurofibromatosis type 2, caused by a mutation in NF2 leading to bilateral schwannomas"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Infantile seizures, hypopigmented ash-leaf spots, facial angiofibromas, and a cardiac rhabdomyoma are the classic tetrad of tuberous sclerosis, caused by TSC1 (hamartin) or TSC2 (tuberin) mutations that normally inhibit the mTOR pathway; loss of function leads to uncontrolled cell growth.",
+        "Incorrect: Neurofibromatosis type 1 presents with caf\u00e9-au-lait spots, neurofibromas, and Lisch nodules, but does not classically cause cardiac rhabdomyomas or ash-leaf spots; it is caused by NF1 mutations affecting RAS, not mTOR.",
+        "Incorrect: Sturge-Weber syndrome features a facial port-wine stain and leptomeningeal angioma with seizures, but does not cause ash-leaf spots, angiofibromas, or cardiac rhabdomyomas, and is caused by a GNAQ mutation, not TSC1/TSC2.",
+        "Incorrect: Von Hippel-Lindau disease causes hemangioblastomas, renal cysts, and pheochromocytomas, not ash-leaf spots, angiofibromas, or cardiac rhabdomyomas.",
+        "Incorrect: Neurofibromatosis type 2 is characterized by bilateral vestibular schwannomas and meningiomas, not the skin and cardiac findings described here."
+      ],
+      "id": "2026-08-27-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "Desmosomes anchor adjacent keratinocytes together through calcium-dependent adhesion proteins that attach intracellularly to keratin intermediate filaments. These specific adhesion proteins are called:",
+      "options": [
+        "Desmogleins",
+        "Occludins",
+        "Connexins",
+        "Integrins"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Desmogleins are a specific subtype of cadherins found in desmosomes that link adjacent keratinocytes via keratin intermediate filaments; they are the target of autoantibodies in pemphigus vulgaris.",
+        "Incorrect: Occludins are proteins that make up tight junctions, sealing the apical space between cells, not desmosomes.",
+        "Incorrect: Connexins form the channel proteins of gap junctions that allow passage of small molecules between cells, unrelated to desmosomal adhesion.",
+        "Incorrect: Integrins are found in hemidesmosomes, linking basal keratinocytes to the basement membrane, not in desmosomes between adjacent keratinocytes."
+      ],
+      "id": "2026-08-27-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "Hemidesmosomes anchor basal keratinocytes to the underlying basement membrane via integrins. Autoantibodies against the hemidesmosomal proteins BP180 and BP230 cause which disease?",
+      "options": [
+        "Bullous pemphigoid",
+        "Pemphigus vulgaris",
+        "Dermatitis herpetiformis",
+        "Stevens-Johnson syndrome"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Bullous pemphigoid is caused by autoantibodies against BP180 and BP230, hemidesmosomal proteins that anchor epithelial cells to the basement membrane, producing subepidermal blisters.",
+        "Incorrect: Pemphigus vulgaris is caused by autoantibodies against desmogleins in desmosomes within the stratum spinosum, not hemidesmosomal proteins.",
+        "Incorrect: Dermatitis herpetiformis involves IgA deposition at the dermal papillae related to gluten sensitivity, not autoantibodies against BP180/BP230.",
+        "Incorrect: Stevens-Johnson syndrome is a T-cell (type IV hypersensitivity)-mediated keratinocyte apoptosis process, not an autoantibody-mediated hemidesmosomal disease."
+      ],
+      "id": "2026-08-27-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient develops a single, oval, salmon-colored plaque on the chest, followed one week later by numerous smaller lesions on the trunk arranged along skin cleavage lines in a 'Christmas tree' pattern. The initial lesion is called the:",
+      "options": [
+        "Herald patch",
+        "Target lesion",
+        "Wickham striae",
+        "Auspitz sign"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Pityriasis rosea classically begins with a single herald patch, a round or oval salmon-colored lesion, followed days later by a Christmas tree-distributed eruption on the trunk.",
+        "Incorrect: A target lesion, with a dusky center and surrounding red rings, is characteristic of erythema multiforme, not pityriasis rosea.",
+        "Incorrect: Wickham striae are the lacy white lines seen in lichen planus, not pityriasis rosea.",
+        "Incorrect: The Auspitz sign refers to pinpoint bleeding when psoriatic scale is removed, not a feature of pityriasis rosea."
+      ],
+      "id": "2026-08-27-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which histologic finding is the hallmark of acute eczema (atopic dermatitis)?",
+      "options": [
+        "Spongiosis (intercellular epidermal edema)",
+        "Acantholysis with loss of keratinocyte connections",
+        "Munro microabscesses in the stratum corneum",
+        "Keratin pearl formation"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Spongiosis, fluid accumulation in the intercellular spaces of the epidermis, is the classic histologic finding in eczema/atopic dermatitis.",
+        "Incorrect: Acantholysis, loss of connections between keratinocytes with rounded, detached cells, is the hallmark of pemphigus vulgaris, not eczema.",
+        "Incorrect: Munro microabscesses (neutrophils in the stratum corneum) are a classic finding in psoriasis, not eczema.",
+        "Incorrect: Keratin pearls (eosinophilic keratin filaments) are characteristic of squamous cell carcinoma, not eczema."
+      ],
+      "id": "2026-08-27-26"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 24-year-old woman started lamotrigine 10 days ago for new-onset seizures. She now presents with fever, malaise, and a rapidly spreading rash of dusky red macules and target-like lesions beginning on the trunk, along with painful oral erosions and conjunctival injection. Gentle lateral pressure on unaffected skin causes the epidermis to slough. Skin biopsy shows full-thickness epidermal necrosis. The estimated body surface area involved is 8%.",
+      "options": [
+        "Stevens-Johnson syndrome with a positive Nikolsky sign and full-thickness epidermal necrosis",
+        "Toxic epidermal necrolysis with greater than 30% body surface area involvement",
+        "Bullous pemphigoid with a subepidermal blister containing eosinophils",
+        "Erythema multiforme limited to acral extensor surfaces without mucosal involvement",
+        "Staphylococcal scalded skin syndrome with intraepidermal cleavage in the stratum granulosum"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: A drug-triggered (lamotrigine), rapidly progressive, tender rash with mucosal involvement, positive Nikolsky sign, and full-thickness epidermal necrosis involving less than 10% of body surface area defines Stevens-Johnson syndrome.",
+        "Incorrect: Toxic epidermal necrolysis is defined by greater than 30% body surface area involvement; this patient has only 8%, placing her in the SJS category, not TEN.",
+        "Incorrect: Bullous pemphigoid shows a subepidermal blister with eosinophils on biopsy, not full-thickness epidermal necrosis, and is not typically drug-triggered by anticonvulsants in this fulminant fashion.",
+        "Incorrect: Erythema multiforme classically starts on the extensor surfaces of the acral extremities (hands/feet) with centripetal spread, in contrast to this case, which began on the trunk/face, and lacks the full-thickness necrosis described.",
+        "Incorrect: Staphylococcal scalded skin syndrome occurs in neonates/young children due to a bacterial exfoliative toxin causing intraepidermal (not full-thickness) cleavage, and is not linked to anticonvulsant exposure."
+      ],
+      "id": "2026-08-27-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient develops symmetric target lesions with dusky central areas and concentric red rings on the extensor surfaces of the hands and feet, one week after a cold sore outbreak. Which infectious agent is the most common trigger for this condition?",
+      "options": [
+        "Herpes simplex virus",
+        "Mycoplasma pneumoniae",
+        "Streptococcus pyogenes",
+        "Varicella zoster virus"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Erythema multiforme, characterized by target lesions on the acral extensor surfaces, is most commonly triggered by herpes simplex virus infection, as illustrated by the preceding cold sore outbreak.",
+        "Incorrect: Mycoplasma pneumoniae is an associated trigger of erythema multiforme, particularly in children, but herpes simplex virus is identified as the overall most common cause.",
+        "Incorrect: Streptococcus pyogenes is not identified as a trigger for erythema multiforme in this content; it is associated with impetigo, erysipelas, and erythema nodosum instead.",
+        "Incorrect: Varicella zoster virus is not identified as a trigger for erythema multiforme in this content."
+      ],
+      "id": "2026-08-27-28"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old man presents with well-demarcated, salmon-colored plaques with silvery-white scale on the extensor surfaces of his elbows and knees. Gentle scraping of the scale produces pinpoint bleeding. Nail examination reveals pitting and separation of the nail from the nail bed. He also reports morning stiffness in several fingers.",
+      "options": [
+        "Parakeratosis with Munro microabscesses and acanthosis of the epidermis",
+        "Acantholysis with an intraepidermal blister above the basal layer",
+        "Hypergranulosis with a sawtooth pattern of the rete ridges",
+        "Koilocytosis with epidermal hyperplasia",
+        "Noncaseating granulomas within the dermis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: The clinical picture (well-demarcated plaques with silvery scale, Auspitz sign from pinpoint bleeding, nail pitting/onycholysis, and joint stiffness suggesting psoriatic arthritis) is classic psoriasis, whose key pathologic findings are acanthosis, parakeratotic scaling, and Munro microabscesses (neutrophils in the stratum corneum).",
+        "Incorrect: Acantholysis with an intraepidermal blister is the hallmark of pemphigus vulgaris, not psoriasis.",
+        "Incorrect: Hypergranulosis and sawtooth rete ridges are classic for lichen planus, a different pruritic, purple, polygonal papular disorder.",
+        "Incorrect: Koilocytosis with epidermal hyperplasia describes HPV-related verrucae, not psoriasis.",
+        "Incorrect: Noncaseating granulomas are not a described histologic feature of psoriasis in this content."
+      ],
+      "id": "2026-08-27-29"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient sustains a burn involving the entire epidermis and dermis with extension into subcutaneous tissue. The wound is dry, leathery in texture, and insensate to touch. This burn is best classified as:",
+      "options": [
+        "Full-thickness (third-degree or greater) burn",
+        "Superficial (first-degree) burn",
+        "Superficial partial-thickness (second-degree) burn",
+        "Deep partial-thickness (second-degree) burn"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Full-thickness burns (third degree, or fourth degree if underlying tissue is involved) destroy the entire epidermis and dermis, are classically painless due to nerve destruction, and heal with scarring and wound contracture.",
+        "Incorrect: A superficial (first-degree) burn involves only the epidermis, is painful, blanches with pressure, and resembles sunburn without blistering \u2014 not the insensate, full-thickness wound described.",
+        "Incorrect: A superficial partial-thickness burn involves the epidermis and some dermis, is painful, blanches with pressure, and typically blisters \u2014 unlike the insensate wound described.",
+        "Incorrect: A deep partial-thickness burn involves the epidermis and most of the dermis and is painful to deep pressure, unlike the fully insensate, leathery wound described here, which indicates full-thickness injury."
+      ],
+      "id": "2026-08-27-30"
+    }
+  ]
+}
