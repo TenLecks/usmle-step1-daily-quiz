@@ -35,6 +35,13 @@
   .option.correct { background: rgba(22,163,74,0.25); border-color: var(--correct); }
   .option.incorrect { background: rgba(220,38,38,0.25); border-color: var(--incorrect); }
   .option:disabled { cursor: default; opacity: 0.9; }
+  .option.crossed-out { text-decoration: line-through; opacity: 0.45; }
+  .option-row { display: flex; align-items: stretch; gap: 8px; margin-bottom: 10px; }
+  .option-row .option { margin-bottom: 0; flex: 1; }
+  .strike-btn { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; width: 40px;
+    flex-shrink: 0; color: var(--muted); font-size: 1rem; cursor: pointer; }
+  .strike-btn.active { color: var(--incorrect); border-color: var(--incorrect); }
+  .strike-btn:disabled { cursor: default; opacity: 0.5; }
   .explanation { background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
     padding: 12px 14px; margin-top: 4px; margin-bottom: 8px; font-size: 0.9rem; }
   .explanation.correct-exp { border-color: var(--correct); }
@@ -350,11 +357,30 @@ function renderQuestion() {
 
   const optionsEl = document.getElementById('options');
   q.options.forEach((opt, i) => {
+    const row = document.createElement('div');
+    row.className = 'option-row';
+
     const btn = document.createElement('button');
     btn.className = 'option';
     btn.textContent = `${String.fromCharCode(65 + i)}. ${opt}`;
     btn.addEventListener('click', () => selectOption(i));
-    optionsEl.appendChild(btn);
+
+    // Cross-out is a scratch aid only (like UWorld's strike-through) — it
+    // never selects an answer, just toggles a visual line-through so the
+    // option can still be tapped normally if the user changes their mind.
+    const strikeBtn = document.createElement('button');
+    strikeBtn.className = 'strike-btn';
+    strikeBtn.setAttribute('aria-label', 'Cross out this option');
+    strikeBtn.textContent = '✕';
+    strikeBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      btn.classList.toggle('crossed-out');
+      strikeBtn.classList.toggle('active');
+    });
+
+    row.appendChild(btn);
+    row.appendChild(strikeBtn);
+    optionsEl.appendChild(row);
   });
 }
 
@@ -365,9 +391,11 @@ function selectOption(selectedIndex) {
 
   optionButtons.forEach((btn, i) => {
     btn.disabled = true;
+    btn.classList.remove('crossed-out');
     if (i === q.correctIndex) btn.classList.add('correct');
     if (i === selectedIndex && !isCorrect) btn.classList.add('incorrect');
   });
+  document.querySelectorAll('#options .strike-btn').forEach(btn => { btn.disabled = true; });
 
   const expEl = document.getElementById('explanations');
   q.explanations.forEach((text, i) => {
