@@ -1,5 +1,5 @@
 {
-  "cycle_index": 5,
+  "cycle_index": 6,
   "cycle_number": 1,
   "tail_order": [
     "Reproductive",
@@ -165,6 +165,38 @@
       "A 6-year-old boy has moderate intellectual disability, a long narrow face with large protruding ears",
       "An autosomal recessive disease occurs in 1 in 4,900 newborns in a population in Hardy-Weinberg equil",
       "A single gene mutation in a patient with Marfan syndrome leads to lens dislocation, aortic root dila"
+    ],
+    "Hematology": [
+      "A patient with antiphospholipid syndrome has a prolonged aPTT on routine labs but a history of recur",
+      "Leucovorin rescue is effective in reversing methotrexate-induced myelosuppression because leucovorin",
+      "A 6-year-old boy presents with pallor and jaundice during a febrile illness. He has a history of chr",
+      "A 67-year-old man presents with fatigue and lower back pain. Labs show hemoglobin 9.2 g/dL, calcium ",
+      "Warfarin produces its anticoagulant effect by inhibiting which enzyme?",
+      "Compared to anthracycline-induced cardiotoxicity, trastuzumab-induced cardiotoxicity is characterize",
+      "Eculizumab and ravulizumab are used to treat paroxysmal nocturnal hemoglobinuria by which mechanism?",
+      "A 54-year-old man receiving cisplatin for testicular cancer develops decreased urine output and a ri",
+      "Bleomycin causes DNA strand breaks and free radical formation, arresting cancer cells in which phase",
+      "A 27-year-old woman presents with a painless, enlarging mass in the anterior mediastinum found incid",
+      "A patient with deletion of three of the four alpha-globin genes develops chronic hemolytic anemia. W",
+      "A 32-year-old woman presents with fever, confusion, and petechiae. Labs: Hgb 7.8 g/dL, platelets 18,",
+      "Aspirin is unique among NSAIDs in producing a prolonged antiplatelet effect because it:",
+      "A 58-year-old man is started on unfractionated heparin for DVT treatment following hip surgery. On d",
+      "Hemoglobin electrophoresis in a patient with beta thalassemia major would most likely show which pat",
+      "A 9-year-old girl with known sickle cell disease presents with fever, cough, and chest pain 3 days a",
+      "Which mechanism is responsible for the reduction in hemorrhagic cystitis risk when mesna is co-admin",
+      "A patient being treated with rituximab for non-Hodgkin lymphoma should be screened for which infecti",
+      "A patient of Mediterranean descent develops acute hemolytic anemia with back pain after taking dapso",
+      "Anti-D immune globulin (RhoGAM) prevents Rh(D) alloimmunization in Rh-negative mothers primarily thr",
+      "A child presents with mucocutaneous bleeding and thrombocytopenia. Peripheral smear shows abnormally",
+      "The Factor V Leiden mutation causes a hypercoagulable state through which mechanism?",
+      "A patient receiving a vinca alkaloid for lymphoma develops severe constipation, distal extremity wea",
+      "In a patient with von Willebrand disease, addition of ristocetin to platelet-rich plasma typically r",
+      "A 38-year-old woman presents with gum bleeding, easy bruising, and oozing from IV catheter sites. Pe",
+      "A 55-year-old woman with a new diagnosis of DVT is started on warfarin monotherapy without bridging ",
+      "The characteristic 'starry sky' appearance on histology of Burkitt lymphoma results from which under",
+      "A 52-year-old postmenopausal woman presents with fatigue. Labs show Hgb 9.5 g/dL, MCV 68 fL, low ser",
+      "Unfractionated heparin exerts its anticoagulant effect primarily by which mechanism?",
+      "A 45-year-old man is found to have marked leukocytosis with a full spectrum of granulocyte precursor"
     ]
   }
 }
