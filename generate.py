@@ -45,8 +45,9 @@ QUESTIONS_SCHEMA = {
                     "options": {"type": "array", "items": {"type": "string"}},
                     "correctIndex": {"type": "integer"},
                     "explanations": {"type": "array", "items": {"type": "string"}},
+                    "overview": {"type": "string"},
                 },
-                "required": ["format", "stem", "options", "correctIndex", "explanations"],
+                "required": ["format", "stem", "options", "correctIndex", "explanations", "overview"],
             },
         }
     },

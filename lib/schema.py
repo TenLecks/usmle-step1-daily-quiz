@@ -39,6 +39,10 @@ def validate_questions(data):
         if not isinstance(explanations, list) or len(explanations) != expected_len:
             raise ValueError(f"question {i}: explanations must have exactly {expected_len} entries, got {explanations!r}")
 
+        overview = q.get("overview")
+        if not isinstance(overview, str) or not overview.strip():
+            raise ValueError(f"question {i}: overview must be a non-empty string")
+
         stem = q.get("stem")
         if not isinstance(stem, str) or not stem.strip():
             raise ValueError(f"question {i}: stem must be a non-empty string")

@@ -10,6 +10,7 @@ def make_question(fmt="simple4", correct=0):
         "options": [f"Option {i}" for i in range(n)],
         "correctIndex": correct,
         "explanations": [f"Explanation {i}" for i in range(n)],
+        "overview": "High-yield overview of the underlying disease and mechanism.",
     }
 
 
@@ -53,3 +54,17 @@ def test_wrong_format_mix_raises():
     questions = [make_question("simple4") for _ in range(30)]
     with pytest.raises(ValueError, match="expected 10 vignette5"):
         validate_questions({"questions": questions})
+
+
+def test_missing_overview_raises():
+    payload = make_valid_payload()
+    del payload["questions"][0]["overview"]
+    with pytest.raises(ValueError, match="overview"):
+        validate_questions(payload)
+
+
+def test_blank_overview_raises():
+    payload = make_valid_payload()
+    payload["questions"][0]["overview"] = "   "
+    with pytest.raises(ValueError, match="overview"):
+        validate_questions(payload)

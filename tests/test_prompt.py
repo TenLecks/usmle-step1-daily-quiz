@@ -8,6 +8,12 @@ def test_prompt_includes_subject_and_extracted_text():
     assert "10" in prompt and "20" in prompt
 
 
+def test_prompt_requests_overview_field():
+    prompt = build_prompt("Cardiology", "[Heart Failure] EF is reduced in HFrEF.", [])
+    assert "overview" in prompt
+    assert "high-yield" in prompt.lower()
+
+
 def test_prompt_includes_avoid_list_when_present():
     prompt = build_prompt("Renal", "[ADH] ADH acts on the collecting duct.", ["Old question about ADH"])
     assert "Old question about ADH" in prompt

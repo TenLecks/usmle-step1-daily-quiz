@@ -46,6 +46,9 @@
     padding: 12px 14px; margin-top: 4px; margin-bottom: 8px; font-size: 0.9rem; }
   .explanation.correct-exp { border-color: var(--correct); }
   .explanation.incorrect-exp { border-color: var(--incorrect); opacity: 0.85; }
+  .overview { background: var(--panel); border: 1px solid var(--accent); border-radius: 10px;
+    padding: 12px 14px; margin-top: 12px; font-size: 0.9rem; line-height: 1.5; }
+  .overview-title { font-weight: 600; margin-bottom: 4px; color: var(--accent); }
   .btn-primary { display: block; width: 100%; padding: 14px; border: none; border-radius: 10px;
     background: var(--accent); color: white; font-size: 1rem; font-weight: 600; cursor: pointer; margin-top: 12px; }
   .btn-secondary { display: block; width: 100%; padding: 12px; border: 1px solid var(--border); border-radius: 10px;
@@ -404,6 +407,18 @@ function selectOption(selectedIndex) {
     div.textContent = `${String.fromCharCode(65 + i)}. ${text}`;
     expEl.appendChild(div);
   });
+
+  // Older archived questions (generated before this field existed) won't
+  // have q.overview — skip the block rather than rendering it empty.
+  if (q.overview) {
+    const overviewDiv = document.createElement('div');
+    overviewDiv.className = 'overview';
+    overviewDiv.innerHTML = '<div class="overview-title">High-Yield Overview</div>';
+    const overviewText = document.createElement('div');
+    overviewText.textContent = q.overview;
+    overviewDiv.appendChild(overviewText);
+    expEl.appendChild(overviewDiv);
+  }
 
   onAnswerSubmitted(q, selectedIndex, isCorrect);
 
