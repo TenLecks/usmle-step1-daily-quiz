@@ -560,6 +560,596 @@
         "Incorrect: decreased temperature causes a left shift (increased affinity), not a right shift."
       ],
       "id": "2026-08-29-30"
+    },
+    {
+      "format": "simple4",
+      "stem": "Reactivation tuberculosis characteristically involves the lung apices (zone 1). Which combination of physiologic characteristics of zone 1 explains this predilection?",
+      "options": [
+        "Highest blood flow and lowest ventilation, producing a low V/Q ratio",
+        "Lowest blood flow and relatively preserved ventilation, producing the highest V/Q ratio and oxygen tension",
+        "Lowest ventilation and lowest blood flow, producing dead space with no gas exchange",
+        "Highest blood flow and highest ventilation, producing a V/Q ratio near 1"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: This describes zone 3 (the base), not zone 1.",
+        "Correct: Zone 1 (apex) has the lowest blood flow due to gravity but only mildly reduced ventilation, giving the highest V/Q ratio and oxygen tension. Since M. tuberculosis is an obligate aerobe, it preferentially grows here.",
+        "Incorrect: Zone 1 is not true dead space under normal conditions; it has reduced but present ventilation and perfusion.",
+        "Incorrect: A V/Q ratio near 1 with high flow and ventilation describes more the base or matched zones, not the apex."
+      ],
+      "overview": "Gravity creates uneven ventilation and perfusion in the upright lung, divided into three zones: zone 1 (apex) has lowest blood flow and highest V/Q ratio (oxygen-rich), zone 3 (base) has highest blood flow and lowest V/Q ratio, and zone 2 has ventilation best matched to perfusion. Because M. tuberculosis is an obligate aerobe, reactivation TB classically localizes to the oxygen-rich apices.",
+      "id": "2026-08-30-01"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A newborn fails to pass meconium within the first 48 hours of life and develops abdominal distension and vomiting. Abdominal X-ray shows air-fluid levels. Genetic testing later confirms a mutation in a gene on chromosome 7. Which of the following best describes the underlying defect responsible for this newborn's presentation?",
+      "options": [
+        "Deficiency of pancreatic lipase due to autoimmune destruction",
+        "Absence of the vas deferens due to abnormal mesonephric duct development",
+        "Failure of neural crest cell migration into the distal colon",
+        "Mutation in the dynein motor protein impairing ciliary function",
+        "Defective CFTR chloride channel leading to thick, dehydrated secretions"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: CF causes pancreatic insufficiency from thick secretions obstructing ducts, not autoimmune destruction of lipase.",
+        "Incorrect: Absent vas deferens does occur in CF (causing male infertility) but is not the cause of meconium ileus, which relates to thick secretions in the GI tract.",
+        "Incorrect: Failure of neural crest migration into the colon describes Hirschsprung disease, unrelated to a chromosome 7 mutation.",
+        "Incorrect: Dynein mutations cause primary ciliary dyskinesia (Kartagener syndrome), a different disease unrelated to CFTR and chromosome 7.",
+        "Correct: This describes meconium ileus, a classic neonatal presentation of cystic fibrosis. The CFTR gene on chromosome 7 encodes an ATP-gated chloride channel; defective CFTR decreases NaCl and water secretion, producing abnormally thick, sticky secretions including meconium and causing bowel obstruction."
+      ],
+      "overview": "Cystic fibrosis is an autosomal recessive disease caused by mutations (most commonly delta F508) in the CFTR gene on chromosome 7, encoding a chloride channel. Defective CFTR causes thick, dehydrated secretions in the lungs (recurrent Pseudomonas/Staph infections, bronchiectasis) and GI tract (meconium ileus, pancreatic insufficiency with fat-soluble vitamin malabsorption); diagnosis uses elevated sweat chloride, and newborn screening uses immunoreactive trypsinogen.",
+      "id": "2026-08-30-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "Using the Bohr equation for physiologic dead space (Vd/Vt = [PaCO2 - PeCO2]/PaCO2), which finding indicates increased physiologic dead space?",
+      "options": [
+        "Exhaled CO2 (PeCO2) approaching arterial CO2 (PaCO2)",
+        "A decrease in both PaCO2 and PeCO2 equally",
+        "Exhaled CO2 (PeCO2) approaching zero, causing a widening gap from PaCO2",
+        "An increase in alveolar ventilation without a change in perfusion"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: PeCO2 approaching PaCO2 indicates a Vd/Vt ratio approaching zero (minimal dead space), reflecting efficient gas exchange.",
+        "Incorrect: A proportional decrease in both values does not necessarily change the ratio and doesn't describe increasing dead space physiology.",
+        "Correct: As physiologic dead space increases, less gas exchange occurs, so exhaled CO2 approaches zero, widening the gap from arterial CO2 and increasing Vd/Vt, reflecting wasted ventilation and CO2 retention.",
+        "Incorrect: Increased alveolar ventilation without a perfusion change would improve gas exchange efficiency, tending to decrease the dead space fraction, not increase it."
+      ],
+      "overview": "Physiologic dead space refers to ventilated but poorly/non-perfused lung regions, measured using the Bohr equation from tidal volume, arterial CO2, and exhaled CO2. As dead space increases, exhaled CO2 falls (approaching zero) because less gas exchange occurs, widening the gap from arterial CO2 and driving hypercapnia and increased respiratory rate.",
+      "id": "2026-08-30-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "A trauma patient develops sudden hypotension, distended neck veins, and absent breath sounds on the right chest with tracheal deviation to the left. What is the most likely underlying pathophysiologic mechanism?",
+      "options": [
+        "Accumulation of transudative pleural fluid from elevated hydrostatic pressure",
+        "Complete obstruction of the right mainstem bronchus causing lobar collapse and mediastinal shift toward the affected side",
+        "Rupture of a subpleural bleb causing simple pneumothorax without hemodynamic compromise",
+        "Air entering the pleural space during inspiration but unable to escape, causing progressive pressure buildup that compresses the great veins and reduces venous return"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: This describes a transudative effusion, not a pneumothorax, and doesn't match the described exam findings.",
+        "Incorrect: Bronchial obstruction with lobar collapse causes tracheal deviation TOWARD the affected side, not away, and would not typically produce this obstructive shock pattern.",
+        "Incorrect: Simple/spontaneous pneumothorax typically does not cause hemodynamic compromise or tracheal deviation like tension pneumothorax.",
+        "Correct: This presentation is classic for tension pneumothorax, usually from trauma; air enters the pleural space but cannot escape, causing progressive pressure buildup that compresses the vena cava and reduces venous return, producing obstructive shock \u2014 a medical emergency requiring immediate decompression."
+      ],
+      "overview": "Tension pneumothorax, usually from trauma, occurs when air enters the pleural space but cannot exit, causing progressive pressure buildup that compresses the great veins, reduces venous return and cardiac output, and causes hypotension, JVD, and tracheal deviation away from the affected side; it is a medical emergency treated with emergent needle decompression or chest tube placement.",
+      "id": "2026-08-30-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "Pulmonary function testing in a patient with idiopathic pulmonary fibrosis would most likely show which of the following spirometry patterns?",
+      "options": [
+        "Increased FEV1, increased FVC, and normal FEV1/FVC ratio",
+        "Normal FEV1, reduced FVC, and increased FEV1/FVC ratio",
+        "Reduced FEV1, normal FVC, and reduced FEV1/FVC ratio",
+        "Reduced FEV1, reduced FVC, and reduced or normal FEV1/FVC ratio"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: Restrictive disease reduces, not increases, both FEV1 and FVC.",
+        "Incorrect: In restrictive disease FEV1 is also reduced, not normal, because airflow is diminished proportionally with volumes.",
+        "Incorrect: A reduced FEV1/FVC ratio is the hallmark of obstructive disease, not restrictive disease.",
+        "Correct: Restrictive lung disease reduces both FEV1 and FVC roughly proportionally, so the FEV1/FVC ratio remains normal or increased (not reduced, the obstructive hallmark)."
+      ],
+      "overview": "Restrictive lung diseases reduce lung volumes and cause proportional reductions in FEV1 and FVC, so the FEV1/FVC ratio remains normal (>0.70) \u2014 the key distinguishing feature from obstructive disease, where FEV1 falls more than FVC. Residual volume, FRC, and TLC are all decreased in restriction (increased in obstruction).",
+      "id": "2026-08-30-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old man is brought to the ED after being found unconscious in his garage with the car engine running. He is confused with a headache. Vital signs: BP 110/70, HR 110, RR 18. Pulse oximetry reads 98% on room air. His lips appear cherry red. Arterial blood gas shows PaO2 95 mmHg. What is the most likely explanation for the discrepancy between the pulse oximetry reading and the patient's clinical status?",
+      "options": [
+        "Diffusion limitation from alveolar edema is impairing oxygen transfer",
+        "Methemoglobin formation from oxidized iron is causing functional anemia",
+        "Carbon monoxide binds hemoglobin with much greater affinity than oxygen, forming carboxyhemoglobin that pulse oximetry cannot distinguish from oxyhemoglobin",
+        "A right-to-left intracardiac shunt is bypassing the lungs",
+        "The patient has a right-shifted oxygen dissociation curve due to increased 2,3-BPG"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: Nothing suggests alveolar edema; PAO2/PaO2 are typically normal in CO poisoning since the problem is O2 carrying capacity, not diffusion.",
+        "Incorrect: Methemoglobinemia involves oxidized (Fe3+) iron, typically from drugs like benzocaine/nitrites, not car exhaust. It presents with 'chocolate brown' blood, not cherry-red lips.",
+        "Correct: CO binds iron 240x the affinity of O2, forming carboxyhemoglobin, blocking O2 binding sites and creating a functional anemia. Standard pulse oximetry cannot differentiate carboxyhemoglobin from oxyhemoglobin, giving a falsely near-normal reading despite reduced O2 content. Cherry-red lips are classic for CO poisoning.",
+        "Incorrect: No evidence of intracardiac shunt; the exposure history (garage, running engine) supports CO poisoning.",
+        "Incorrect: CO actually causes a LEFT shift of the dissociation curve, increasing affinity for remaining O2 and worsening tissue delivery, not a right shift."
+      ],
+      "overview": "CO poisoning causes headache, malaise, cherry-red lips, and a normal PaO2 with normal/near-normal pulse oximetry despite significant hypoxia, because standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin. Diagnosis requires co-oximetry measuring carboxyhemoglobin level; treatment is 100% oxygen.",
+      "id": "2026-08-30-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 32-year-old woman with ptosis, diplopia, and fatigable muscle weakness is found to have an anterior mediastinal mass on CT chest. Which of the following is the most likely diagnosis of the mass?",
+      "options": [
+        "Bronchogenic cyst",
+        "Thymoma",
+        "Neurogenic tumor such as schwannoma",
+        "Esophageal leiomyoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Bronchogenic cysts typically arise in the middle mediastinum and are not associated with myasthenia gravis symptoms.",
+        "Correct: Thymoma is a classic anterior mediastinal mass strongly associated with myasthenia gravis, which presents with fatigable weakness, ptosis, and diplopia; the anterior mediastinum contains the thymus.",
+        "Incorrect: Neurogenic tumors like schwannomas are classically found in the posterior mediastinum, not associated with myasthenia gravis.",
+        "Incorrect: Esophageal lesions are found in the posterior mediastinum, unrelated to myasthenia gravis."
+      ],
+      "overview": "The mediastinum is divided into anterior, middle, and posterior compartments with characteristic masses: anterior includes thymoma (associated with myasthenia gravis), teratoma/germ cell tumors, and thyroid masses; middle mediastinal masses are typically lymphadenopathy; posterior masses are neurogenic tumors arising from nerve/ganglion tissue.",
+      "id": "2026-08-30-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "In contrast to the systemic circulation, how does the pulmonary circulation respond to a decrease in local alveolar oxygen tension?",
+      "options": [
+        "Vasodilation, to increase blood flow to hypoxic areas",
+        "Vasoconstriction only in the presence of concurrent hypercapnia",
+        "No change in vascular tone, since pulmonary vessels lack smooth muscle",
+        "Vasoconstriction, shunting blood away from poorly ventilated areas"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: This describes the systemic circulation response, the opposite of what occurs in the pulmonary circulation.",
+        "Incorrect: Hypoxic vasoconstriction occurs in response to low oxygen alone; hypercapnia is not a required cofactor.",
+        "Incorrect: Pulmonary arteries contain smooth muscle and actively vasoconstrict in response to hypoxia; they are not passive vessels.",
+        "Correct: Unlike systemic vessels, pulmonary vessels vasoconstrict in response to low alveolar oxygen ('hypoxic vasoconstriction'), redirecting blood flow toward better-ventilated regions and optimizing V/Q matching; this is also critical for keeping pulmonary vascular resistance high in fetal circulation."
+      ],
+      "overview": "The pulmonary circulation is a low-pressure, high-compliance system that, uniquely, vasoconstricts in response to local alveolar hypoxia, redirecting blood flow toward well-ventilated regions. This mechanism is essential in fetal life and becomes pathologic when generalized, as in COPD or high altitude, where diffuse hypoxia causes pulmonary hypertension.",
+      "id": "2026-08-30-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to the Law of Laplace (collapsing pressure = 2 x surface tension / radius), why are smaller alveoli more prone to collapse than larger alveoli at the same surface tension?",
+      "options": [
+        "Smaller alveoli have less surfactant production capacity per unit volume",
+        "Smaller radius produces a higher collapsing pressure for a given surface tension",
+        "Smaller alveoli have a lower V/Q ratio, predisposing to atelectasis",
+        "Smaller alveoli have thinner walls, increasing susceptibility to rupture"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Surfactant is produced by type II pneumocytes; the equation does not describe differential production capacity based on alveolar size.",
+        "Correct: Per the Law of Laplace, collapsing pressure is inversely proportional to radius, so smaller alveoli generate higher collapsing pressure, making them more prone to collapse; surfactant helps counteract this and stabilize alveoli of different sizes.",
+        "Incorrect: V/Q ratio relates to gravity-dependent ventilation-perfusion matching by lung zone, not to the mechanical collapsing forces described by Laplace's law.",
+        "Incorrect: Wall thickness/rupture susceptibility is not the mechanism described by the Law of Laplace."
+      ],
+      "overview": "Surfactant, produced by type II pneumocytes, reduces alveolar surface tension and thus collapsing pressure per the Law of Laplace; without adequate surfactant, small alveoli generate disproportionately high collapsing pressure and are prone to atelectasis, as in neonatal respiratory distress syndrome.",
+      "id": "2026-08-30-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 35-year-old African American woman presents with dry cough and dyspnea. She also reports tender red nodules on both shins and blurred vision. Chest X-ray shows bilateral hilar lymphadenopathy. Laboratory studies reveal a serum calcium of 11.2 mg/dL (elevated) and elevated ACE level. Which of the following best explains her hypercalcemia?",
+      "options": [
+        "Bone metastases from an undiagnosed malignancy",
+        "Vitamin D toxicity from excessive supplementation",
+        "Primary hyperparathyroidism from a parathyroid adenoma",
+        "Increased 1-alpha-hydroxylase activity in activated macrophages leading to elevated calcitriol",
+        "Ectopic PTHrP secretion by granuloma-associated lymphocytes"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: No evidence of malignancy is given; the constellation of erythema nodosum, uveitis, hilar adenopathy, and elevated ACE is specific for sarcoidosis.",
+        "Incorrect: No history of excess vitamin D supplementation is provided; the mechanism in sarcoidosis is endogenous calcitriol overproduction via macrophage 1-alpha-hydroxylase.",
+        "Incorrect: Primary hyperparathyroidism is not associated with granulomatous findings like erythema nodosum and hilar adenopathy.",
+        "Correct: This is a classic presentation of sarcoidosis (bilateral hilar adenopathy, erythema nodosum, uveitis, elevated ACE). Hypercalcemia results from increased 1-alpha-hydroxylase activity in activated alveolar macrophages within granulomas, increasing conversion to active vitamin D3 (calcitriol) and intestinal calcium absorption.",
+        "Incorrect: PTHrP-mediated hypercalcemia is classic for squamous cell lung carcinoma, not sarcoidosis."
+      ],
+      "overview": "Sarcoidosis is an immune-mediated multisystem disease with widespread non-caseating granulomas, classically causing bilateral hilar lymphadenopathy, erythema nodosum, uveitis, and hypercalcemia from macrophage-derived 1-alpha-hydroxylase increasing calcitriol production. It is driven by TH1 CD4+ T cells secreting IL-2 and interferon-gamma, and treatment is corticosteroids or other immunosuppressants.",
+      "id": "2026-08-30-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "A pathology specimen from a patient with chronic bronchitis shows hypertrophy of the submucosal mucous glands. Which histologic measurement is used to quantify this finding, and what value is considered diagnostic?",
+      "options": [
+        "Reid index greater than 0.4 (ratio of submucosal gland layer thickness to total airway wall thickness)",
+        "Reid index less than 0.4",
+        "FEV1/FVC ratio less than 0.7",
+        "DLCO less than 40% predicted"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: The Reid index measures submucosal gland layer thickness relative to total airway wall thickness; a value greater than 0.4 (normal <0.4) indicates the mucous gland hypertrophy of chronic bronchitis.",
+        "Incorrect: A Reid index less than 0.4 is normal, not diagnostic; the diagnostic threshold is greater than 0.4.",
+        "Incorrect: FEV1/FVC <0.7 indicates an obstructive spirometry pattern, but is a functional measure, not the histologic Reid index used to quantify gland hypertrophy.",
+        "Incorrect: DLCO is characteristically reduced in emphysema (loss of alveolar-capillary surface area), not used to quantify mucous gland hypertrophy in chronic bronchitis."
+      ],
+      "overview": "Chronic bronchitis is defined clinically as a productive cough for at least 3 months over two consecutive years, strongly associated with smoking. Pathologically it features submucosal mucous gland hypertrophy quantified by the Reid index (diagnostic if >0.4), along with epithelial metaplasia from ciliated columnar to stratified squamous and mucous plugging.",
+      "id": "2026-08-30-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with community-acquired pneumonia develops a pleural effusion. Thoracentesis reveals a pleural fluid protein/serum protein ratio of 0.6. According to Light's criteria, how should this effusion be classified?",
+      "options": [
+        "Exudative, since the pleural protein/serum protein ratio exceeds 0.5",
+        "Indeterminate, because Light's criteria requires pleural fluid cell count, not protein ratio",
+        "Transudative, because pneumonia only causes transudative effusions",
+        "Transudative, since only one criterion needs to be met and this ratio is below threshold"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Light's criteria classify an effusion as exudative if pleural/serum protein > 0.5, pleural/serum LDH > 0.6, or pleural LDH > 2/3 upper limit of normal serum LDH. A ratio of 0.6 exceeds the 0.5 threshold, consistent with increased capillary permeability from pneumonia.",
+        "Incorrect: Light's criteria are based on pleural fluid protein and LDH relative to serum values, not cell counts.",
+        "Incorrect: Pneumonia is a classic cause of exudative effusions from increased capillary permeability, not transudative effusions.",
+        "Incorrect: A ratio of 0.6 is above the 0.5 threshold, and meeting even one Light's criterion classifies the effusion as exudative."
+      ],
+      "overview": "Pleural effusions are classified as transudative (increased hydrostatic pressure or decreased oncotic pressure, e.g., heart failure) or exudative (increased capillary permeability, e.g., pneumonia, malignancy); Light's criteria distinguish exudates, which generally require drainage, from transudates, typically managed by treating the underlying cause.",
+      "id": "2026-08-30-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 66-year-old man with a 50-pack-year smoking history presents with cough, weight loss, and confusion. A central lung mass is identified on CT. Laboratory studies show serum sodium of 122 mEq/L with inappropriately concentrated urine and normal thyroid and adrenal function. Biopsy of the mass shows sheets of poorly differentiated small, round blue cells that stain positive for chromogranin A and synaptophysin. Which of the following best explains this patient's hyponatremia?",
+      "options": [
+        "Ectopic secretion of antidiuretic hormone by neuroendocrine tumor cells causing SIADH",
+        "Paraneoplastic antibodies against presynaptic calcium channels",
+        "Ectopic secretion of ACTH causing Cushing syndrome",
+        "Ectopic secretion of parathyroid hormone-related peptide by the tumor",
+        "Direct tumor invasion of the adrenal glands causing adrenal insufficiency"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: The histology (small cells positive for chromogranin A and synaptophysin, indicating neuroendocrine origin) and heavy smoking history are classic for small cell lung cancer, well known to cause paraneoplastic SIADH via ectopic ADH secretion, producing hyponatremia and confusion.",
+        "Incorrect: This describes Lambert-Eaton myasthenic syndrome, another small cell paraneoplastic syndrome, but it causes proximal muscle weakness, not hyponatremia.",
+        "Incorrect: While small cell carcinoma can cause ectopic ACTH/Cushing syndrome, this patient's labs (hyponatremia with concentrated urine, normal adrenal function) fit SIADH, not Cushing syndrome.",
+        "Incorrect: PTHrP-mediated hypercalcemia is a paraneoplastic syndrome of squamous cell carcinoma, not small cell carcinoma, and would cause hypercalcemia, not hyponatremia.",
+        "Incorrect: Labs show normal adrenal function, arguing against adrenal insufficiency; the mechanism is inappropriate ADH secretion, not adrenal invasion."
+      ],
+      "overview": "Small cell lung cancer is a highly aggressive, centrally located neuroendocrine tumor (Kulchitsky cell origin, positive for chromogranin A/synaptophysin/neuron-specific enolase) strongly associated with smoking. It is well known for paraneoplastic syndromes including SIADH, ectopic ACTH (Cushing syndrome), and Lambert-Eaton myasthenic syndrome, and is generally not amenable to surgical resection.",
+      "id": "2026-08-30-13"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A male infant is born at 32 weeks gestation via emergency cesarean section to a mother with poorly controlled gestational diabetes. Shortly after birth, the infant develops tachypnea, grunting, and nasal flaring. Chest X-ray shows diffuse ground-glass opacities. Which of the following best explains this infant's respiratory distress?",
+      "options": [
+        "Tracheoesophageal fistula causing recurrent aspiration pneumonia",
+        "A congenital diaphragmatic hernia causing pulmonary hypoplasia",
+        "Bronchopulmonary dysplasia from prolonged oxygen therapy",
+        "Deficiency of surfactant leading to increased alveolar surface tension and diffuse atelectasis",
+        "Meconium aspiration causing airway obstruction"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: TEF presents with drooling, choking with feeds, and inability to pass an NG tube, not the ground-glass pattern described.",
+        "Incorrect: Congenital diaphragmatic hernia shows bowel loops in the thorax and mediastinal shift, not diffuse ground-glass opacities, and isn't linked to the described risk factors.",
+        "Incorrect: Bronchopulmonary dysplasia is a later complication of prolonged oxygen/ventilator therapy, not an immediate presentation at birth.",
+        "Correct: Prematurity, maternal diabetes (hyperinsulinemia decreases surfactant production), and cesarean delivery (reduced fetal cortisol/stress response) are classic risk factors for neonatal RDS. Surfactant deficiency increases alveolar surface tension (Law of Laplace), causing collapse, decreased compliance, and ground-glass opacities.",
+        "Incorrect: Meconium aspiration typically occurs in term/post-term infants with meconium-stained fluid, not preterm infants, and causes patchy obstruction rather than diffuse ground-glass opacities."
+      ],
+      "overview": "Neonatal RDS results from surfactant deficiency (type II pneumocytes mature around 35 weeks), increasing alveolar surface tension and causing collapse per the Law of Laplace. Risk factors include prematurity, maternal diabetes, and cesarean delivery; prevention uses antenatal maternal glucocorticoids, treatment is exogenous surfactant, and fetal lung maturity is assessed via the amniotic fluid lecithin/sphingomyelin ratio.",
+      "id": "2026-08-30-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Fetal hemoglobin (HbF, alpha2gamma2) has a left-shifted oxygen dissociation curve compared to adult hemoglobin. What is the primary molecular explanation for this higher oxygen affinity?",
+      "options": [
+        "Gamma chains bind 2,3-BPG poorly compared to beta chains, resulting in less inhibition of oxygen binding",
+        "HbF is more heavily glycosylated than adult hemoglobin, increasing oxygen affinity",
+        "HbF lacks heme groups, reducing steric interference with oxygen binding",
+        "HbF has four alpha subunits instead of alpha-beta pairs"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: HbF's gamma chains bind 2,3-BPG much less avidly than beta chains of adult hemoglobin. Since 2,3-BPG normally decreases oxygen affinity, reduced binding to HbF results in higher affinity and a left-shifted curve, necessary given the low fetal PaO2 (~40 mmHg).",
+        "Incorrect: Glycosylation is not the mechanism described for HbF's increased oxygen affinity.",
+        "Incorrect: HbF has heme groups just like adult hemoglobin; the affinity difference is due to 2,3-BPG binding differences, not absence of heme.",
+        "Incorrect: HbF is composed of two alpha and two gamma chains, not four alpha chains."
+      ],
+      "overview": "Fetal hemoglobin (HbF, alpha2gamma2) predominates from 8 weeks gestation to several months after birth and has a left-shifted oxygen dissociation curve because its gamma chains bind 2,3-BPG poorly compared to beta chains; this is essential because fetal PaO2 is only ~40 mmHg, requiring higher affinity to load oxygen from maternal blood.",
+      "id": "2026-08-30-15"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old man with a history of latent tuberculosis infection, now on a TNF-alpha inhibitor for rheumatoid arthritis, presents with several weeks of cough, hemoptysis, night sweats, and 15-lb weight loss. Chest X-ray shows a cavitary lesion in the right upper lobe. Which of the following best explains the anatomic distribution of this lesion?",
+      "options": [
+        "Reactivation TB preferentially involves the upper lobes because of decreased blood flow allowing immune evasion regardless of oxygenation",
+        "Reactivation TB preferentially involves the lower lobes, and this presentation is atypical",
+        "Reactivation TB has no lobar predilection and this distribution is coincidental",
+        "Reactivation TB preferentially involves the upper lobes due to greater lymphatic drainage",
+        "Reactivation TB preferentially involves the upper lobes due to their higher oxygen tension, favoring this obligate aerobe"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: While the apex has lower blood flow, the key reason TB favors this region is higher oxygen content (high V/Q), not immune evasion from reduced perfusion.",
+        "Incorrect: Reactivation TB classically favors the upper lobes, not lower lobes; this presentation is the classic pattern.",
+        "Incorrect: There is a well-established lobar predilection (upper lobes) for reactivation TB related to regional oxygen tension.",
+        "Incorrect: The predilection is explained by oxygen tension favoring this aerobic organism, not lymphatic drainage patterns.",
+        "Correct: M. tuberculosis is an obligate aerobe that prefers the upper lobes/apices, which have higher oxygen tension. Reactivation TB classically shows upper lobe cavitary lesions with caseous and liquefactive necrosis and hemoptysis from vascular erosion. TNF-alpha inhibitors are a well-known risk factor for reactivation of latent TB."
+      ],
+      "overview": "Reactivation TB occurs when immune suppression (HIV, TNF-alpha inhibitors, transplant) allows dormant M. tuberculosis to reactivate, classically causing upper lobe cavitary lesions with caseous/liquefactive necrosis, hemoptysis, fever, night sweats, and weight loss. This obligate aerobe preferentially localizes to the oxygen-rich apices (zone 1, high V/Q), in contrast to primary TB which favors the Ghon focus in the mid-to-lower lung with ipsilateral lymph node involvement.",
+      "id": "2026-08-30-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "During venous blood transport of CO2, which ion moves into red blood cells to maintain electrical neutrality as bicarbonate exits into the plasma?",
+      "options": [
+        "Hydrogen",
+        "Chloride",
+        "Sodium",
+        "Potassium"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Hydrogen ions remain inside red blood cells, buffered by deoxyhemoglobin; they do not move to compensate for bicarbonate efflux.",
+        "Correct: As bicarbonate generated by carbonic anhydrase leaves red blood cells for the plasma, chloride ions enter to maintain electrical neutrality \u2014 the 'chloride shift' \u2014 resulting in high chloride content in venous red blood cells.",
+        "Incorrect: Sodium is not involved in this exchange mechanism.",
+        "Incorrect: Potassium is not the ion exchanged for bicarbonate in this process."
+      ],
+      "overview": "Bicarbonate is the major form of CO2 transport in blood (>90%), generated in RBCs by carbonic anhydrase; as HCO3- exits RBCs into plasma, chloride ions enter to preserve electrical neutrality (the 'chloride shift'), while H+ produced in the reaction is buffered by deoxyhemoglobin to prevent a dangerous fall in intracellular pH.",
+      "id": "2026-08-30-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old woman who underwent hip replacement surgery 5 days ago develops sudden-onset pleuritic chest pain and dyspnea. Heart rate is 118/min, respiratory rate is 24/min, and oxygen saturation is 89% on room air. EKG shows sinus tachycardia with an S wave in lead I, Q wave in lead III, and inverted T wave in lead III. Which of the following best describes the expected hemodynamic changes in this patient?",
+      "options": [
+        "Increased cardiac output and decreased systemic vascular resistance",
+        "Decreased left ventricular preload, increased pulmonary artery pressure, and increased systemic vascular resistance",
+        "Normal pulmonary artery pressure with isolated left ventricular systolic dysfunction",
+        "Decreased pulmonary vascular resistance due to recruitment of previously unperfused vessels",
+        "Increased left ventricular preload and decreased pulmonary artery pressure"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Cardiac output falls due to decreased LV preload, and SVR increases (SNS activation) rather than decreasing.",
+        "Correct: PE increases pulmonary vascular resistance, raising PA pressure and RV afterload and reducing flow into the left heart, decreasing LV preload. The resulting drop in cardiac output triggers sympathetic activation, increasing heart rate and SVR ('obstructive shock').",
+        "Incorrect: PA pressure is elevated due to increased pulmonary vascular resistance; the primary physiology is RV strain, not isolated LV dysfunction.",
+        "Incorrect: PE increases pulmonary vascular resistance by obstructing vessels, not decreasing it.",
+        "Incorrect: PE decreases LV preload due to obstructed flow through pulmonary vessels, and PA pressure rises rather than falls."
+      ],
+      "overview": "PE most often arises from DVT embolizing to the pulmonary arteries, causing V/Q mismatch and hypoxemia, hyperventilation-induced hypocapnia, increased pulmonary vascular resistance leading to RV strain (S1Q3T3 pattern), and decreased LV preload/cardiac output with compensatory sympathetic activation. CT angiogram is the preferred diagnostic test; treatment is anticoagulation, or thrombolysis/embolectomy if shock is present.",
+      "id": "2026-08-30-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with idiopathic pulmonary fibrosis has hypoxemia that improves with supplemental oxygen and demonstrates an elevated A-a gradient. What is the primary mechanism of hypoxemia in this condition?",
+      "options": [
+        "Right-to-left shunting through unventilated alveoli",
+        "Hypoventilation from reduced respiratory drive",
+        "Low inspired oxygen at high altitude",
+        "Increased alveolar-capillary membrane thickness impairing oxygen diffusion"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: Shunt (V/Q = 0) characteristically shows poor response to supplemental oxygen, unlike diffusion limitation.",
+        "Incorrect: Hypoventilation causes hypoxemia with a normal A-a gradient, not an elevated one.",
+        "Incorrect: This describes the mechanism at high altitude, which also produces a normal A-a gradient, not the diffusion limitation seen in fibrosis.",
+        "Correct: Pulmonary fibrosis increases the diffusion distance between alveolar air and capillary blood, impairing oxygen diffusion per Fick's law. This causes hypoxemia with an elevated A-a gradient that typically improves with supplemental oxygen."
+      ],
+      "overview": "Diffusion limitation occurs when increased alveolar membrane thickness (fibrosis, edema) or decreased surface area (emphysema) impairs oxygen transfer; it produces hypoxemia with an elevated A-a gradient that improves with supplemental oxygen (unlike shunt), and is assessed clinically using DLCO, which is reduced in these conditions.",
+      "id": "2026-08-30-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old man with sepsis from a urinary source develops acute hypoxemic respiratory failure requiring intubation 3 days into his hospital course. Chest X-ray shows new bilateral pulmonary infiltrates. PaO2/FiO2 ratio is 180. Echocardiogram shows normal left ventricular function, and BNP is within normal limits. What is the most likely underlying mechanism of this patient's respiratory failure?",
+      "options": [
+        "Surfactant deficiency from a genetic CFTR mutation",
+        "Cardiogenic pulmonary edema from acute left ventricular failure",
+        "Pulmonary embolism causing V/Q mismatch",
+        "Diffuse alveolar damage from neutrophil-mediated capillary and epithelial injury with non-cardiogenic pulmonary edema",
+        "Upper airway obstruction from epiglottitis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: CFTR mutations cause cystic fibrosis, unrelated to this acute presentation triggered by sepsis.",
+        "Incorrect: Normal BNP and normal LV function on echo argue against cardiogenic pulmonary edema, which is specifically excluded in ARDS diagnostic criteria.",
+        "Incorrect: PE would not typically cause bilateral diffuse infiltrates on CXR; it usually causes a normal chest X-ray.",
+        "Correct: This is ARDS, triggered by sepsis. Pro-inflammatory cytokines recruit neutrophils that release reactive oxygen species/proteases, damaging capillary endothelium and alveolar epithelium, causing protein-rich fluid leakage, hyaline membranes, decreased compliance, and shunting. Diagnostic criteria include bilateral infiltrates, PaO2/FiO2 <300, and exclusion of a cardiogenic cause.",
+        "Incorrect: Epiglottitis causes upper airway obstruction with stridor, not bilateral infiltrates and hypoxemic respiratory failure from sepsis."
+      ],
+      "overview": "ARDS is triggered by conditions like sepsis, aspiration, trauma, or pancreatitis, causing neutrophil-mediated diffuse alveolar damage, non-cardiogenic pulmonary edema, hyaline membrane formation, and shunting. Diagnosis requires bilateral infiltrates, PaO2/FiO2 <300 within one week of an inciting event, and exclusion of cardiogenic edema; treatment centers on lung-protective mechanical ventilation with low tidal volumes.",
+      "id": "2026-08-30-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child with recurrent sinopulmonary infections, bronchiectasis, and situs inversus is diagnosed with Kartagener syndrome. Which of the following best describes the underlying molecular defect?",
+      "options": [
+        "Mutation in the BMPR2 gene affecting smooth muscle proliferation",
+        "Mutation affecting dynein arm structure or formation, impairing ciliary motility",
+        "Mutation in the CFTR chloride channel gene",
+        "Deficiency of alpha-1 antitrypsin leading to unopposed protease activity"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: BMPR2 mutations are associated with hereditary/idiopathic pulmonary arterial hypertension, not primary ciliary dyskinesia.",
+        "Correct: Kartagener syndrome is a variant of primary ciliary dyskinesia caused by mutations affecting dynein, the motor protein for ciliary movement; impaired motility causes bronchiectasis, recurrent infections, male infertility, and situs inversus from dysfunctional embryonic nodal cilia.",
+        "Incorrect: CFTR mutations cause cystic fibrosis, a different disease that causes bronchiectasis through defective chloride transport, not dynein dysfunction, and CF is not associated with situs inversus.",
+        "Incorrect: Alpha-1 antitrypsin deficiency causes panacinar emphysema, unrelated to ciliary structure or situs inversus."
+      ],
+      "overview": "Kartagener syndrome is a variant of primary ciliary dyskinesia caused by autosomal recessive mutations affecting dynein arm structure/function, impairing ciliary beating; this causes bronchiectasis and chronic sinopulmonary infections, male infertility, and situs inversus from dysfunctional nodal cilia disrupting normal embryonic left-right axis determination.",
+      "id": "2026-08-30-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 28-year-old woman presents with progressive exertional dyspnea over several months. She has no history of lung disease, connective tissue disease, or HIV. Echocardiogram shows elevated estimated pulmonary artery pressure and right ventricular hypertrophy. Right heart catheterization confirms a mean PA pressure of 45 mmHg with normal pulmonary capillary wedge pressure. Lung biopsy would most likely reveal which of the following?",
+      "options": [
+        "Hyaline membrane formation with diffuse alveolar damage",
+        "Endothelial cell proliferation forming plexiform lesions",
+        "Eosinophilic hyaline deposits in the alveolar walls",
+        "Caseating granulomas with central necrosis",
+        "Non-caseating granulomas with multinucleated giant cells"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Hyaline membranes and diffuse alveolar damage characterize ARDS, not PAH.",
+        "Correct: This presentation (young woman, no underlying lung disease, elevated PA pressure with normal wedge pressure) is classic for idiopathic pulmonary arterial hypertension (Group 1), characterized by plexiform lesions from endothelial proliferation forming multiple vascular lumens, driven by increased vasoconstrictors (endothelin) and decreased vasodilators (nitric oxide); BMPR2 mutations occur in a subset of cases.",
+        "Incorrect: This finding is not the classic pathology described for idiopathic PAH; plexiform lesions are the specific finding.",
+        "Incorrect: Caseating granulomas are characteristic of tuberculosis, not PAH.",
+        "Incorrect: Non-caseating granulomas are the hallmark of sarcoidosis, which typically shows hilar lymphadenopathy on imaging, not idiopathic PAH."
+      ],
+      "overview": "Idiopathic PAH (WHO Group 1) classically affects young women and results from high pulmonary vascular resistance from increased vasoconstrictors (endothelin) and decreased vasodilators (nitric oxide), with plexiform lesions on pathology and BMPR2 mutations in a substantial subset. Normal pulmonary capillary wedge pressure distinguishes it from PH due to left heart disease; treatments include prostacyclin analogs, endothelin receptor antagonists, PDE-5 inhibitors, and soluble guanylate cyclase stimulators.",
+      "id": "2026-08-30-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient on room air develops hypoventilation from opioid overdose, with a resulting PaCO2 of 70 mmHg. Using the alveolar gas equation (PAO2 = PIO2 - PaCO2/R), what happens to alveolar PO2, and what is the expected A-a gradient?",
+      "options": [
+        "PAO2 decreases and the A-a gradient is elevated",
+        "PAO2 remains unchanged and the A-a gradient is elevated",
+        "PAO2 increases and the A-a gradient remains normal",
+        "PAO2 decreases and the A-a gradient remains normal"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: The A-a gradient remains normal in pure hypoventilation since there's no primary lung pathology; an elevated gradient would suggest additional lung disease.",
+        "Incorrect: PAO2 does change (decreases) with hypoventilation; it's the A-a gradient that stays normal, not PAO2.",
+        "Incorrect: PAO2 decreases, not increases, as PaCO2 rises.",
+        "Correct: As PaCO2 rises with hypoventilation, PAO2 falls proportionally per the alveolar gas equation. Because alveolar and arterial oxygen fall together with otherwise normal lungs, the A-a gradient remains normal \u2014 the classic pattern for hypoventilation-induced hypoxemia."
+      ],
+      "overview": "Hypoxemia with a normal A-a gradient occurs only with high altitude (low PIO2) and hypoventilation (elevated PaCO2 reduces PAO2), neither involving primary lung pathology, and both improve with supplemental oxygen. Hypoxemia with an elevated A-a gradient signals diffusion limitation, shunt, or V/Q mismatch, reflecting actual lung disease.",
+      "id": "2026-08-30-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with chronic asthma and nasal polyposis develops acute bronchospasm and rhinorrhea after taking aspirin for a headache. What is the underlying mechanism of this reaction?",
+      "options": [
+        "Aspirin-induced complement activation causing immune complex deposition",
+        "Aspirin-induced direct mast cell degranulation independent of arachidonic acid metabolism",
+        "Aspirin-induced inhibition of cyclooxygenase, shunting arachidonic acid toward overproduction of leukotrienes",
+        "IgE-mediated type I hypersensitivity to aspirin"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: Complement-mediated immune complex disease is not the mechanism; pathophysiology centers on leukotriene overproduction.",
+        "Incorrect: The mechanism involves arachidonic acid pathway dysregulation after COX inhibition, not direct mast cell degranulation.",
+        "Correct: This describes aspirin-exacerbated respiratory disease (Samter's triad: asthma, chronic rhinosinusitis/nasal polyposis, aspirin/NSAID sensitivity); aspirin inhibits cyclooxygenase, shunting arachidonic acid toward the lipoxygenase pathway and leukotriene overproduction, causing bronchoconstriction.",
+        "Incorrect: AERD is not a classic IgE-mediated type I hypersensitivity reaction; it results from dysregulated arachidonic acid metabolism."
+      ],
+      "overview": "Aspirin-exacerbated respiratory disease (Samter's triad) features chronic asthma/rhinosinusitis with nasal polyps and acute bronchospasm after aspirin/NSAID ingestion; the mechanism involves cyclooxygenase inhibition shunting arachidonic acid toward leukotriene overproduction, treated with leukotriene receptor antagonists like montelukast or zafirlukast.",
+      "id": "2026-08-30-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following statements best describes the Haldane effect?",
+      "options": [
+        "Deoxygenated hemoglobin has a lower affinity for oxygen, promoting oxygen release in tissues",
+        "Deoxygenated hemoglobin has a higher affinity for CO2, allowing more CO2 binding in peripheral tissues",
+        "Increased CO2 and H+ decrease hemoglobin's affinity for oxygen",
+        "Carbon dioxide is transported primarily as bicarbonate rather than bound to hemoglobin"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: This describes a component of the Bohr effect, not the Haldane effect, which specifically concerns CO2-carrying capacity.",
+        "Correct: The Haldane effect describes how oxygen binding alters hemoglobin's affinity for CO2: deoxyhemoglobin in tissues binds more CO2 (greater loading), while oxygenated hemoglobin in the lungs binds less CO2 (greater unloading).",
+        "Incorrect: This describes the Bohr effect (the reciprocal phenomenon), not the Haldane effect.",
+        "Incorrect: This is a general fact about CO2 transport (bicarbonate >90%) but does not describe the Haldane effect specifically."
+      ],
+      "overview": "The Haldane effect and Bohr effect are reciprocal allosteric phenomena: the Bohr effect describes how CO2/H+ affects O2 affinity (right shift with increased CO2/H+), while the Haldane effect describes how O2 affects CO2-carrying capacity (deoxyhemoglobin carries more CO2). Together they optimize gas exchange at tissues and lungs.",
+      "id": "2026-08-30-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with COPD living at high altitude develops chronically elevated 2,3-bisphosphoglycerate (2,3-BPG) levels in red blood cells. What is the physiologic effect of this adaptation?",
+      "options": [
+        "Left shift of the oxygen-hemoglobin curve, increasing oxygen affinity",
+        "Decreased production of erythropoietin",
+        "Increased hemoglobin binding to carbon dioxide",
+        "Right shift of the oxygen-hemoglobin curve, promoting greater oxygen release to tissues"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: 2,3-BPG causes a right shift (decreased affinity), not a left shift, which would decrease oxygen release.",
+        "Incorrect: Chronic hypoxia increases erythropoietin production (driving polycythemia), a separate adaptive mechanism from 2,3-BPG.",
+        "Incorrect: 2,3-BPG's mechanism involves altering oxygen affinity, not directly increasing CO2 binding to hemoglobin.",
+        "Correct: 2,3-BPG is a negative allosteric effector produced in response to chronic hypoxia; it decreases hemoglobin's oxygen affinity, shifting the curve rightward and increasing P50, allowing greater oxygen release to tissues."
+      ],
+      "overview": "2,3-BPG is produced in RBCs (diverted from glycolysis at the cost of ATP) and acts as a negative allosteric effector of hemoglobin, decreasing oxygen affinity and shifting the dissociation curve rightward; levels rise in chronic hypoxia states (COPD, high altitude, chronic anemia) to increase oxygen delivery to tissues.",
+      "id": "2026-08-30-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "A right shift of the oxygen-hemoglobin dissociation curve, as occurs with increased CO2, decreased pH, and increased temperature, results in which of the following?",
+      "options": [
+        "Decreased hemoglobin affinity for oxygen and increased oxygen release at the tissues",
+        "No change in oxygen release, only a change in CO2 transport",
+        "Increased hemoglobin affinity for oxygen and increased P50",
+        "Increased hemoglobin affinity for oxygen and decreased P50"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: A right shift (Bohr effect) favors the taut (T) form of hemoglobin, decreasing oxygen affinity (increasing P50), promoting greater oxygen release/unloading in metabolically active tissues.",
+        "Incorrect: A right shift directly increases oxygen release at the tissues; it is not solely about CO2 transport.",
+        "Incorrect: Affinity decreases, not increases, with a right shift.",
+        "Incorrect: A right shift decreases, not increases, hemoglobin's affinity for oxygen, and P50 increases, not decreases."
+      ],
+      "overview": "The Bohr effect describes how increased CO2, decreased pH, and increased temperature \u2014 markers of increased tissue metabolism \u2014 shift the oxygen-hemoglobin curve rightward, favoring the low-affinity taut form of hemoglobin and increasing oxygen unloading to tissues; P50 increases with a right shift.",
+      "id": "2026-08-30-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient undergoes pulmonary function testing including measurement of diffusing capacity of the lung for carbon monoxide (DLCO). A markedly reduced DLCO would be expected in which of the following conditions?",
+      "options": [
+        "Guillain-Barr\u00e9 syndrome causing neuromuscular restriction",
+        "Emphysema, due to destruction of alveolar surface area",
+        "Asthma during an acute exacerbation",
+        "Obesity-related restrictive lung disease"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: Neuromuscular disease causes restriction from poor mechanics without intrinsic lung pathology, so DLCO is typically normal.",
+        "Correct: Emphysema destroys alveolar walls, decreasing surface area for gas diffusion, resulting in markedly reduced DLCO, since this diffusion-limited test reflects loss of the alveolar-capillary interface.",
+        "Incorrect: Asthma is an obstructive disease from reversible bronchoconstriction, not alveolar destruction, so DLCO is typically normal or increased, not reduced.",
+        "Incorrect: Obesity causes restriction from poor breathing mechanics (extrapulmonary), typically with a normal DLCO."
+      ],
+      "overview": "DLCO measures gas transfer via diffusion-limited CO uptake; it is reduced in conditions destroying alveolar surface area (emphysema) or increasing diffusion distance (fibrosis, edema), but normal in extrapulmonary restrictive causes (obesity, neuromuscular weakness) and in asthma, where obstruction rather than diffusion is the primary problem.",
+      "id": "2026-08-30-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 42-year-old nonsmoker presents with progressive dyspnea. Imaging shows emphysematous changes predominantly at the lung bases. Genetic testing confirms alpha-1 antitrypsin deficiency. Which pattern of emphysema is characteristic of this condition?",
+      "options": [
+        "Bullous emphysema affecting only the right lung",
+        "Centriacinar (centrilobular) emphysema affecting the upper lobes",
+        "Paraseptal emphysema affecting the pleural surface only",
+        "Panacinar emphysema affecting the lower lobes"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: AAT deficiency causes bilateral, diffuse lower lobe panacinar damage, not isolated unilateral bullous disease.",
+        "Incorrect: Centriacinar emphysema affecting the upper lobes is the smoking-related pattern (excess proteases overwhelming normal antiprotease activity), not AAT deficiency.",
+        "Incorrect: Paraseptal emphysema is not the pattern described for AAT deficiency; the classic finding is diffuse panacinar destruction.",
+        "Correct: Alpha-1 antitrypsin deficiency causes a protease-antiprotease imbalance resulting in panacinar emphysema, destroying the entire acinus, characteristically affecting the lower lobes."
+      ],
+      "overview": "Emphysema results from destruction of alveolar walls due to protease-antiprotease imbalance; smoking causes excess protease production, producing centriacinar emphysema predominantly in the upper lobes, while alpha-1 antitrypsin deficiency causes panacinar emphysema predominantly in the lower lobes. AAT deficiency patients should never smoke, as smoking accelerates lung damage.",
+      "id": "2026-08-30-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old man undergoes upper endoscopy with benzocaine topical spray for throat anesthesia. Shortly after the procedure, he develops dyspnea and appears cyanotic. Pulse oximetry reads 85% and does not improve with supplemental oxygen. Arterial blood gas shows PaO2 of 95 mmHg. Blood drawn appears chocolate-brown in color. What is the mechanism of this patient's hypoxia?",
+      "options": [
+        "Benzocaine has caused bronchospasm leading to V/Q mismatch",
+        "Benzocaine has triggered carboxyhemoglobin formation",
+        "Benzocaine has precipitated an anaphylactic reaction with laryngeal edema",
+        "Benzocaine has oxidized ferrous iron (Fe2+) in hemoglobin to ferric iron (Fe3+), which cannot bind oxygen",
+        "Benzocaine has caused diffuse alveolar damage and ARDS"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: No wheezing is described; bronchospasm would not produce chocolate-brown blood with a normal PaO2.",
+        "Incorrect: Carboxyhemoglobin results from CO exposure, not benzocaine, and produces cherry-red (not brown) blood.",
+        "Incorrect: No stridor, hives, or hemodynamic instability is described; chocolate-brown blood and oxygen-refractory hypoxia are specific to methemoglobinemia.",
+        "Correct: Local anesthetics like benzocaine are a classic cause of acquired methemoglobinemia. Oxidation of heme iron to Fe3+ prevents oxygen binding, causing functional anemia with normal PaO2 but low SaO2, chocolate-brown blood, and oxygen-refractory hypoxia; treated with methylene blue.",
+        "Incorrect: ARDS shows bilateral infiltrates and an abnormal PaO2/FiO2 ratio, not normal PaO2 with brown blood."
+      ],
+      "overview": "Methemoglobinemia results from oxidation of hemoglobin's iron from Fe2+ to Fe3+, which cannot bind oxygen, producing functional anemia with normal PaO2 but low SaO2, 'chocolate brown' blood, and oxygen-refractory cyanosis. Classic triggers include benzocaine, nitrites/nitric oxide, and dapsone; treatment is methylene blue, a reducing agent.",
+      "id": "2026-08-30-30"
     }
   ]
 }

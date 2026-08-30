@@ -1,595 +1,595 @@
 {
   "date": "2026-08-30",
-  "subject": "Psychiatry",
+  "subject": "Pulmonary",
   "questions": [
     {
       "format": "simple4",
-      "stem": "A patient started on haloperidol develops restlessness and an urge to keep moving several days after initiation, which is sometimes mistaken for worsening agitation. Which treatment is most appropriate for this extrapyramidal symptom?",
+      "stem": "Reactivation tuberculosis characteristically involves the lung apices (zone 1). Which combination of physiologic characteristics of zone 1 explains this predilection?",
       "options": [
-        "Lower the antipsychotic dose, or add a benzodiazepine or propranolol",
-        "Benztropine alone",
-        "Permanently discontinue all antipsychotic medications",
-        "Dantrolene"
+        "Highest blood flow and lowest ventilation, producing a low V/Q ratio",
+        "Lowest blood flow and relatively preserved ventilation, producing the highest V/Q ratio and oxygen tension",
+        "Lowest ventilation and lowest blood flow, producing dead space with no gas exchange",
+        "Highest blood flow and highest ventilation, producing a V/Q ratio near 1"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanations": [
-        "Correct - this presentation is akathisia, the most common EPS adverse effect, occurring within days of starting a dopamine-blocking antipsychotic; treatment is lowering the dose, benzodiazepines, or propranolol.",
-        "Incorrect - benztropine (anticholinergic) is used for acute dystonia and drug-induced parkinsonism/bradykinesia, not specifically for akathisia.",
-        "Incorrect - permanent discontinuation is not the standard first-line approach; dose reduction or adjunctive treatment is used first.",
-        "Incorrect - dantrolene is used for neuroleptic malignant syndrome, not akathisia."
+        "Incorrect: This describes zone 3 (the base), not zone 1.",
+        "Correct: Zone 1 (apex) has the lowest blood flow due to gravity but only mildly reduced ventilation, giving the highest V/Q ratio and oxygen tension. Since M. tuberculosis is an obligate aerobe, it preferentially grows here.",
+        "Incorrect: Zone 1 is not true dead space under normal conditions; it has reduced but present ventilation and perfusion.",
+        "Incorrect: A V/Q ratio near 1 with high flow and ventilation describes more the base or matched zones, not the apex."
       ],
-      "overview": "Extrapyramidal symptoms from dopamine receptor blockade include dystonia (hours to days, treated with benztropine), akathisia (restlessness, most common EPS, treated with dose reduction, benzodiazepines, or propranolol), bradykinesia/drug-induced parkinsonism (weeks, treated with benztropine), and tardive dyskinesia (months to years, often irreversible).",
+      "overview": "Gravity creates uneven ventilation and perfusion in the upright lung, divided into three zones: zone 1 (apex) has lowest blood flow and highest V/Q ratio (oxygen-rich), zone 3 (base) has highest blood flow and lowest V/Q ratio, and zone 2 has ventilation best matched to perfusion. Because M. tuberculosis is an obligate aerobe, reactivation TB classically localizes to the oxygen-rich apices.",
       "id": "2026-08-30-01"
     },
     {
       "format": "vignette5",
-      "stem": "A patient on long-term lithium therapy for bipolar disorder develops polyuria and polydipsia. Laboratory studies show a normal serum sodium and dilute urine. Administration of desmopressin does not improve urine osmolality. If lithium cannot be discontinued, which of the following medications is most appropriate to manage this complication?",
+      "stem": "A newborn fails to pass meconium within the first 48 hours of life and develops abdominal distension and vomiting. Abdominal X-ray shows air-fluid levels. Genetic testing later confirms a mutation in a gene on chromosome 7. Which of the following best describes the underlying defect responsible for this newborn's presentation?",
       "options": [
-        "Additional desmopressin",
-        "Amiloride",
-        "An NSAID",
-        "An ACE inhibitor",
-        "Hydrochlorothiazide"
+        "Deficiency of pancreatic lipase due to autoimmune destruction",
+        "Absence of the vas deferens due to abnormal mesonephric duct development",
+        "Failure of neural crest cell migration into the distal colon",
+        "Mutation in the dynein motor protein impairing ciliary function",
+        "Defective CFTR chloride channel leading to thick, dehydrated secretions"
       ],
-      "correctIndex": 1,
+      "correctIndex": 4,
       "explanations": [
-        "Incorrect - the lack of response to vasopressin/desmopressin is the defining feature of nephrogenic (as opposed to central) diabetes insipidus, so more desmopressin will not help.",
-        "Correct - lithium causes nephrogenic diabetes insipidus by impairing renal tubule response to ADH; amiloride, a potassium-sparing diuretic, blocks ENaC sodium channels on principal cells and thereby blocks lithium entry into renal cells, improving urine concentrating ability.",
-        "Incorrect - NSAIDs increase lithium levels through drug interaction and are not a treatment for nephrogenic DI.",
-        "Incorrect - ACE inhibitors increase lithium levels through drug interaction and are not indicated for nephrogenic DI.",
-        "Incorrect - thiazide diuretics actually increase serum lithium levels and are not the treatment for lithium-induced nephrogenic DI."
+        "Incorrect: CF causes pancreatic insufficiency from thick secretions obstructing ducts, not autoimmune destruction of lipase.",
+        "Incorrect: Absent vas deferens does occur in CF (causing male infertility) but is not the cause of meconium ileus, which relates to thick secretions in the GI tract.",
+        "Incorrect: Failure of neural crest migration into the colon describes Hirschsprung disease, unrelated to a chromosome 7 mutation.",
+        "Incorrect: Dynein mutations cause primary ciliary dyskinesia (Kartagener syndrome), a different disease unrelated to CFTR and chromosome 7.",
+        "Correct: This describes meconium ileus, a classic neonatal presentation of cystic fibrosis. The CFTR gene on chromosome 7 encodes an ATP-gated chloride channel; defective CFTR decreases NaCl and water secretion, producing abnormally thick, sticky secretions including meconium and causing bowel obstruction."
       ],
-      "overview": "Lithium is a common cause of nephrogenic diabetes insipidus, producing polyuria, polydipsia, and dilute urine that fails to respond to vasopressin/desmopressin (distinguishing it from central DI). Management includes discontinuing lithium if possible or using amiloride, which blocks ENaC channels and prevents lithium from entering renal principal cells. Thiazides, NSAIDs, and ACE inhibitors all increase serum lithium levels and increase toxicity risk.",
+      "overview": "Cystic fibrosis is an autosomal recessive disease caused by mutations (most commonly delta F508) in the CFTR gene on chromosome 7, encoding a chloride channel. Defective CFTR causes thick, dehydrated secretions in the lungs (recurrent Pseudomonas/Staph infections, bronchiectasis) and GI tract (meconium ileus, pancreatic insufficiency with fat-soluble vitamin malabsorption); diagnosis uses elevated sweat chloride, and newborn screening uses immunoreactive trypsinogen.",
       "id": "2026-08-30-02"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following EEG findings would be expected in a patient with delirium, in contrast to a patient with dementia?",
+      "stem": "Using the Bohr equation for physiologic dead space (Vd/Vt = [PaCO2 - PeCO2]/PaCO2), which finding indicates increased physiologic dead space?",
       "options": [
-        "Abnormal EEG activity",
-        "EEG changes only if hallucinations are present",
-        "A normal EEG, since delirium does not alter brain electrical activity",
-        "EEG findings identical to those seen in dementia"
+        "Exhaled CO2 (PeCO2) approaching arterial CO2 (PaCO2)",
+        "A decrease in both PaCO2 and PeCO2 equally",
+        "Exhaled CO2 (PeCO2) approaching zero, causing a widening gap from PaCO2",
+        "An increase in alveolar ventilation without a change in perfusion"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "explanations": [
-        "Correct - EEG is characteristically abnormal in delirium (reflecting acute, diffuse brain dysfunction), whereas it is typically normal in dementia.",
-        "Incorrect - the abnormal EEG in delirium is not contingent on the presence of hallucinations specifically.",
-        "Incorrect - delirium does produce characteristic abnormal EEG patterns; the EEG is not simply normal.",
-        "Incorrect - dementia is associated with a normal EEG, so the two conditions are distinguishable by this finding, not identical."
+        "Incorrect: PeCO2 approaching PaCO2 indicates a Vd/Vt ratio approaching zero (minimal dead space), reflecting efficient gas exchange.",
+        "Incorrect: A proportional decrease in both values does not necessarily change the ratio and doesn't describe increasing dead space physiology.",
+        "Correct: As physiologic dead space increases, less gas exchange occurs, so exhaled CO2 approaches zero, widening the gap from arterial CO2 and increasing Vd/Vt, reflecting wasted ventilation and CO2 retention.",
+        "Incorrect: Increased alveolar ventilation without a perfusion change would improve gas exchange efficiency, tending to decrease the dead space fraction, not increase it."
       ],
-      "overview": "Delirium and dementia can be distinguished clinically and electrophysiologically: delirium is acute, waxing/waning, usually reversible, and associated with an abnormal EEG, while dementia is chronic, progressive, usually irreversible, and associated with a normal EEG. Delirium is usually secondary to another cause (infection, withdrawal, metabolic derangement) rather than a primary disorder.",
+      "overview": "Physiologic dead space refers to ventilated but poorly/non-perfused lung regions, measured using the Bohr equation from tidal volume, arterial CO2, and exhaled CO2. As dead space increases, exhaled CO2 falls (approaching zero) because less gas exchange occurs, widening the gap from arterial CO2 and driving hypercapnia and increased respiratory rate.",
       "id": "2026-08-30-03"
     },
     {
       "format": "simple4",
-      "stem": "A patient has minimal somatic symptoms but is preoccupied with the fear of having an undiagnosed serious illness, repeatedly checking for signs of disease for the past 8 months. Which diagnosis is most likely?",
+      "stem": "A trauma patient develops sudden hypotension, distended neck veins, and absent breath sounds on the right chest with tracheal deviation to the left. What is the most likely underlying pathophysiologic mechanism?",
       "options": [
-        "Conversion disorder",
-        "Factitious disorder",
-        "Somatic symptom disorder",
-        "Illness anxiety disorder"
+        "Accumulation of transudative pleural fluid from elevated hydrostatic pressure",
+        "Complete obstruction of the right mainstem bronchus causing lobar collapse and mediastinal shift toward the affected side",
+        "Rupture of a subpleural bleb causing simple pneumothorax without hemodynamic compromise",
+        "Air entering the pleural space during inspiration but unable to escape, causing progressive pressure buildup that compresses the great veins and reduces venous return"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - conversion disorder involves specific voluntary motor or sensory neurologic symptoms (e.g., paralysis, blindness) with a normal workup, not health preoccupation without symptoms.",
-        "Incorrect - factitious disorder involves consciously falsified symptoms for internal/psychological gain, not genuine anxiety about an undiagnosed illness.",
-        "Incorrect - somatic symptom disorder requires the presence of significant somatic symptoms causing distress, which this patient largely lacks.",
-        "Correct - illness anxiety disorder involves preoccupation with having an undiagnosed illness with mild or no somatic symptoms, anxiety about health, and excessive health-related checking behaviors present for at least six months."
+        "Incorrect: This describes a transudative effusion, not a pneumothorax, and doesn't match the described exam findings.",
+        "Incorrect: Bronchial obstruction with lobar collapse causes tracheal deviation TOWARD the affected side, not away, and would not typically produce this obstructive shock pattern.",
+        "Incorrect: Simple/spontaneous pneumothorax typically does not cause hemodynamic compromise or tracheal deviation like tension pneumothorax.",
+        "Correct: This presentation is classic for tension pneumothorax, usually from trauma; air enters the pleural space but cannot escape, causing progressive pressure buildup that compresses the vena cava and reduces venous return, producing obstructive shock \u2014 a medical emergency requiring immediate decompression."
       ],
-      "overview": "Somatic symptom disorder involves significant somatic symptoms with persistent distress and excessive time/energy devoted to them, while illness anxiety disorder involves preoccupation with having an undiagnosed illness with minimal or no actual somatic symptoms. Both differ from factitious disorder and malingering, in which symptoms are consciously produced for internal or external gain, respectively.",
+      "overview": "Tension pneumothorax, usually from trauma, occurs when air enters the pleural space but cannot exit, causing progressive pressure buildup that compresses the great veins, reduces venous return and cardiac output, and causes hypotension, JVD, and tracheal deviation away from the affected side; it is a medical emergency treated with emergent needle decompression or chest tube placement.",
       "id": "2026-08-30-04"
     },
     {
       "format": "simple4",
-      "stem": "A child cleans his room specifically to stop his parent from yelling at him, and this behavior increases in frequency over time. This is an example of which concept?",
+      "stem": "Pulmonary function testing in a patient with idiopathic pulmonary fibrosis would most likely show which of the following spirometry patterns?",
       "options": [
-        "Negative punishment",
-        "Positive punishment",
-        "Positive reinforcement",
-        "Negative reinforcement"
+        "Increased FEV1, increased FVC, and normal FEV1/FVC ratio",
+        "Normal FEV1, reduced FVC, and increased FEV1/FVC ratio",
+        "Reduced FEV1, normal FVC, and reduced FEV1/FVC ratio",
+        "Reduced FEV1, reduced FVC, and reduced or normal FEV1/FVC ratio"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - negative punishment involves removing a desired stimulus to decrease behavior frequency, not increase it.",
-        "Incorrect - positive punishment involves adding an aversive stimulus to decrease behavior frequency, the opposite of what is described (behavior is increasing).",
-        "Incorrect - positive reinforcement involves adding a rewarding stimulus after a behavior to increase its frequency, not removing an aversive one.",
-        "Correct - negative reinforcement involves a behavior leading to removal of an aversive stimulus (the parent's yelling), which increases the frequency of that behavior; this is distinct from punishment, which decreases behavior."
+        "Incorrect: Restrictive disease reduces, not increases, both FEV1 and FVC.",
+        "Incorrect: In restrictive disease FEV1 is also reduced, not normal, because airflow is diminished proportionally with volumes.",
+        "Incorrect: A reduced FEV1/FVC ratio is the hallmark of obstructive disease, not restrictive disease.",
+        "Correct: Restrictive lung disease reduces both FEV1 and FVC roughly proportionally, so the FEV1/FVC ratio remains normal or increased (not reduced, the obstructive hallmark)."
       ],
-      "overview": "Operant conditioning links voluntary behavior to reward or punishment. Reinforcement increases behavior frequency (positive reinforcement adds a reward; negative reinforcement removes an aversive stimulus), while punishment decreases behavior frequency (positive punishment adds an aversive stimulus; negative punishment removes a desired stimulus). Negative reinforcement is often confused with punishment but actually increases behavior.",
+      "overview": "Restrictive lung diseases reduce lung volumes and cause proportional reductions in FEV1 and FVC, so the FEV1/FVC ratio remains normal (>0.70) \u2014 the key distinguishing feature from obstructive disease, where FEV1 falls more than FVC. Residual volume, FRC, and TLC are all decreased in restriction (increased in obstruction).",
       "id": "2026-08-30-05"
     },
     {
       "format": "vignette5",
-      "stem": "An 8-year-old boy is brought to his pediatrician because his teacher reports that he cannot stay seated, blurts out answers, and is easily distracted during class. His parents note similar behavior at home, present for the past 14 months. He has normal intelligence on testing but is falling behind academically. After evaluation he is diagnosed with ADHD and started on methylphenidate. What is the mechanism of action of this medication?",
+      "stem": "A 34-year-old man is brought to the ED after being found unconscious in his garage with the car engine running. He is confused with a headache. Vital signs: BP 110/70, HR 110, RR 18. Pulse oximetry reads 98% on room air. His lips appear cherry red. Arterial blood gas shows PaO2 95 mmHg. What is the most likely explanation for the discrepancy between the pulse oximetry reading and the patient's clinical status?",
       "options": [
-        "Irreversibly inhibits monoamine oxidase, preventing catecholamine breakdown",
-        "Selectively inhibits norepinephrine reuptake with no direct effect on dopamine",
-        "Increases CNS dopamine and norepinephrine activity in the synapse",
-        "Blocks postsynaptic D2 dopamine receptors",
-        "Acts as an alpha-2A agonist in the prefrontal cortex"
+        "Diffusion limitation from alveolar edema is impairing oxygen transfer",
+        "Methemoglobin formation from oxidized iron is causing functional anemia",
+        "Carbon monoxide binds hemoglobin with much greater affinity than oxygen, forming carboxyhemoglobin that pulse oximetry cannot distinguish from oxyhemoglobin",
+        "A right-to-left intracardiac shunt is bypassing the lungs",
+        "The patient has a right-shifted oxygen dissociation curve due to increased 2,3-BPG"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - MAO inhibitors block breakdown of monoamines; this is not the mechanism of stimulants like methylphenidate.",
-        "Incorrect - this describes atomoxetine, a non-stimulant ADHD treatment, not methylphenidate.",
-        "Correct - methylphenidate (like amphetamine) increases CNS dopamine and norepinephrine activity and synaptic levels, improving ADHD symptoms.",
-        "Incorrect - D2 receptor blockade is the mechanism of antipsychotics, not stimulants.",
-        "Incorrect - this describes guanfacine, an alpha-2 agonist used in ADHD, not methylphenidate."
+        "Incorrect: Nothing suggests alveolar edema; PAO2/PaO2 are typically normal in CO poisoning since the problem is O2 carrying capacity, not diffusion.",
+        "Incorrect: Methemoglobinemia involves oxidized (Fe3+) iron, typically from drugs like benzocaine/nitrites, not car exhaust. It presents with 'chocolate brown' blood, not cherry-red lips.",
+        "Correct: CO binds iron 240x the affinity of O2, forming carboxyhemoglobin, blocking O2 binding sites and creating a functional anemia. Standard pulse oximetry cannot differentiate carboxyhemoglobin from oxyhemoglobin, giving a falsely near-normal reading despite reduced O2 content. Cherry-red lips are classic for CO poisoning.",
+        "Incorrect: No evidence of intracardiac shunt; the exposure history (garage, running engine) supports CO poisoning.",
+        "Incorrect: CO actually causes a LEFT shift of the dissociation curve, increasing affinity for remaining O2 and worsening tissue delivery, not a right shift."
       ],
-      "overview": "ADHD presents with inattention, hyperactivity, and impulsivity across multiple settings for at least 6 months, with normal intelligence. First-line pharmacotherapy includes stimulants (methylphenidate, amphetamines), which increase synaptic dopamine and norepinephrine. Non-stimulant alternatives include atomoxetine (selective NE reuptake inhibitor) and alpha-2 agonists (guanfacine, clonidine), which have less abuse potential.",
+      "overview": "CO poisoning causes headache, malaise, cherry-red lips, and a normal PaO2 with normal/near-normal pulse oximetry despite significant hypoxia, because standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin. Diagnosis requires co-oximetry measuring carboxyhemoglobin level; treatment is 100% oxygen.",
       "id": "2026-08-30-06"
     },
     {
       "format": "simple4",
-      "stem": "The mnemonic 'DIG FAST' (Distractibility, Irresponsibility, Grandiosity, Flight of ideas, Agitation, less Sleep, Talkativeness) is used to remember diagnostic criteria for which condition?",
+      "stem": "A 32-year-old woman with ptosis, diplopia, and fatigable muscle weakness is found to have an anterior mediastinal mass on CT chest. Which of the following is the most likely diagnosis of the mass?",
       "options": [
-        "Generalized anxiety disorder",
-        "Major depressive episode",
-        "Manic episode",
-        "Schizophrenia"
+        "Bronchogenic cyst",
+        "Thymoma",
+        "Neurogenic tumor such as schwannoma",
+        "Esophageal leiomyoma"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - GAD is not associated with the DIG FAST mnemonic in the notes.",
-        "Incorrect - major depressive episode criteria are recalled with the mnemonic SIG E CAPS, not DIG FAST.",
-        "Correct - DIG FAST is the mnemonic for manic episode diagnostic criteria, requiring symptoms present most of the day for at least one week.",
-        "Incorrect - schizophrenia diagnosis is based on presence of psychotic/negative symptoms over specified durations, not the DIG FAST mnemonic."
+        "Incorrect: Bronchogenic cysts typically arise in the middle mediastinum and are not associated with myasthenia gravis symptoms.",
+        "Correct: Thymoma is a classic anterior mediastinal mass strongly associated with myasthenia gravis, which presents with fatigable weakness, ptosis, and diplopia; the anterior mediastinum contains the thymus.",
+        "Incorrect: Neurogenic tumors like schwannomas are classically found in the posterior mediastinum, not associated with myasthenia gravis.",
+        "Incorrect: Esophageal lesions are found in the posterior mediastinum, unrelated to myasthenia gravis."
       ],
-      "overview": "A manic episode is diagnosed using the DIG FAST mnemonic (distractibility, irresponsibility, grandiosity, flight of ideas, agitation, decreased need for sleep, talkativeness/pressured speech), with symptoms present most of the day for at least one week. Bipolar I is defined by the presence of a manic episode, while bipolar II involves hypomania and depression without full mania.",
+      "overview": "The mediastinum is divided into anterior, middle, and posterior compartments with characteristic masses: anterior includes thymoma (associated with myasthenia gravis), teratoma/germ cell tumors, and thyroid masses; middle mediastinal masses are typically lymphadenopathy; posterior masses are neurogenic tumors arising from nerve/ganglion tissue.",
       "id": "2026-08-30-07"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following is a recognized adverse effect of electroconvulsive therapy (ECT)?",
+      "stem": "In contrast to the systemic circulation, how does the pulmonary circulation respond to a decrease in local alveolar oxygen tension?",
       "options": [
-        "Retrograde and anterograde amnesia",
-        "Tardive dyskinesia",
-        "Agranulocytosis",
-        "Permanent psychosis"
+        "Vasodilation, to increase blood flow to hypoxic areas",
+        "Vasoconstriction only in the presence of concurrent hypercapnia",
+        "No change in vascular tone, since pulmonary vessels lack smooth muscle",
+        "Vasoconstriction, shunting blood away from poorly ventilated areas"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanations": [
-        "Correct - ECT may cause amnesia, both retrograde (for memories before the procedure) and anterograde (for the weeks following the procedure).",
-        "Incorrect - tardive dyskinesia is an extrapyramidal side effect of antipsychotic medications, not ECT.",
-        "Incorrect - agranulocytosis is a known adverse effect of clozapine, not ECT.",
-        "Incorrect - ECT is used to treat refractory depression and is not known to cause permanent psychosis."
+        "Incorrect: This describes the systemic circulation response, the opposite of what occurs in the pulmonary circulation.",
+        "Incorrect: Hypoxic vasoconstriction occurs in response to low oxygen alone; hypercapnia is not a required cofactor.",
+        "Incorrect: Pulmonary arteries contain smooth muscle and actively vasoconstrict in response to hypoxia; they are not passive vessels.",
+        "Correct: Unlike systemic vessels, pulmonary vessels vasoconstrict in response to low alveolar oxygen ('hypoxic vasoconstriction'), redirecting blood flow toward better-ventilated regions and optimizing V/Q matching; this is also critical for keeping pulmonary vascular resistance high in fetal circulation."
       ],
-      "overview": "Electroconvulsive therapy is performed under general anesthesia and involves inducing a seizure via electrical stimulation; it is used for refractory depression and can be used safely in pregnancy. Its main adverse effect is amnesia, both retrograde (before the procedure) and anterograde (for weeks afterward).",
+      "overview": "The pulmonary circulation is a low-pressure, high-compliance system that, uniquely, vasoconstricts in response to local alveolar hypoxia, redirecting blood flow toward well-ventilated regions. This mechanism is essential in fetal life and becomes pathologic when generalized, as in COPD or high altitude, where diffuse hypoxia causes pulmonary hypertension.",
       "id": "2026-08-30-08"
     },
     {
       "format": "simple4",
-      "stem": "Which skeletal finding on radiographic survey is most concerning for physical child abuse?",
+      "stem": "According to the Law of Laplace (collapsing pressure = 2 x surface tension / radius), why are smaller alveoli more prone to collapse than larger alveoli at the same surface tension?",
       "options": [
-        "An isolated skull fracture in a toddler after a witnessed fall",
-        "A single nondisplaced fracture with a clear accidental history",
-        "A greenstick fracture of the forearm from a playground accident",
-        "Multiple fractures in different stages of healing"
+        "Smaller alveoli have less surfactant production capacity per unit volume",
+        "Smaller radius produces a higher collapsing pressure for a given surface tension",
+        "Smaller alveoli have a lower V/Q ratio, predisposing to atelectasis",
+        "Smaller alveoli have thinner walls, increasing susceptibility to rupture"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - an isolated skull fracture with a clear, witnessed accidental mechanism is not the classic abuse pattern described, which emphasizes multiple fractures at different healing stages.",
-        "Incorrect - a single fracture with a clear, consistent accidental history is not a concerning finding for abuse.",
-        "Incorrect - a greenstick fracture from a clear accidental mechanism is a common, non-suspicious pediatric injury.",
-        "Correct - multiple fractures in different stages of healing, identified on skeletal survey, are a classic finding of physical child abuse, along with rib fractures and long bone fractures in infants."
+        "Incorrect: Surfactant is produced by type II pneumocytes; the equation does not describe differential production capacity based on alveolar size.",
+        "Correct: Per the Law of Laplace, collapsing pressure is inversely proportional to radius, so smaller alveoli generate higher collapsing pressure, making them more prone to collapse; surfactant helps counteract this and stabilize alveoli of different sizes.",
+        "Incorrect: V/Q ratio relates to gravity-dependent ventilation-perfusion matching by lung zone, not to the mechanical collapsing forces described by Laplace's law.",
+        "Incorrect: Wall thickness/rupture susceptibility is not the mechanism described by the Law of Laplace."
       ],
-      "overview": "Child physical abuse most commonly affects children under 1 year of age, often perpetrated by a close family member. Suspicious injury patterns include changing or inconsistent caregiver histories, multiple bruises in unusual locations (buttocks, trunk, ears, neck), and skeletal surveys showing multiple fractures in different healing stages, rib fractures, or long bone fractures in infants.",
+      "overview": "Surfactant, produced by type II pneumocytes, reduces alveolar surface tension and thus collapsing pressure per the Law of Laplace; without adequate surfactant, small alveoli generate disproportionately high collapsing pressure and are prone to atelectasis, as in neonatal respiratory distress syndrome.",
       "id": "2026-08-30-09"
     },
     {
       "format": "vignette5",
-      "stem": "A patient is found unresponsive after intentionally ingesting an unknown quantity of amitriptyline tablets. On arrival she is hypotensive with dry, flushed skin, dilated pupils, and urinary retention. ECG shows a markedly widened QRS complex. Which of the following is the most appropriate treatment to address the cardiac toxicity?",
+      "stem": "A 35-year-old African American woman presents with dry cough and dyspnea. She also reports tender red nodules on both shins and blurred vision. Chest X-ray shows bilateral hilar lymphadenopathy. Laboratory studies reveal a serum calcium of 11.2 mg/dL (elevated) and elevated ACE level. Which of the following best explains her hypercalcemia?",
       "options": [
-        "Flumazenil",
-        "Beta blocker",
-        "Physostigmine",
-        "Naloxone",
-        "Sodium bicarbonate"
+        "Bone metastases from an undiagnosed malignancy",
+        "Vitamin D toxicity from excessive supplementation",
+        "Primary hyperparathyroidism from a parathyroid adenoma",
+        "Increased 1-alpha-hydroxylase activity in activated macrophages leading to elevated calcitriol",
+        "Ectopic PTHrP secretion by granuloma-associated lymphocytes"
       ],
-      "correctIndex": 4,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect - flumazenil reverses benzodiazepine toxicity and can precipitate seizures in TCA overdose, which already carries seizure risk.",
-        "Incorrect - beta blockers are not used to treat TCA cardiotoxicity and could worsen hypotension in this hemodynamically unstable patient.",
-        "Incorrect - physostigmine is not indicated for TCA overdose and can worsen cardiac conduction abnormalities.",
-        "Incorrect - naloxone reverses opioid toxicity, not TCA cardiotoxicity.",
-        "Correct - TCA overdose causes cardiac sodium channel blockade with QRS widening; sodium bicarbonate provides extra sodium to overcome this blockade and raises pH to favor the inactive form of the drug, treating the arrhythmia risk."
+        "Incorrect: No evidence of malignancy is given; the constellation of erythema nodosum, uveitis, hilar adenopathy, and elevated ACE is specific for sarcoidosis.",
+        "Incorrect: No history of excess vitamin D supplementation is provided; the mechanism in sarcoidosis is endogenous calcitriol overproduction via macrophage 1-alpha-hydroxylase.",
+        "Incorrect: Primary hyperparathyroidism is not associated with granulomatous findings like erythema nodosum and hilar adenopathy.",
+        "Correct: This is a classic presentation of sarcoidosis (bilateral hilar adenopathy, erythema nodosum, uveitis, elevated ACE). Hypercalcemia results from increased 1-alpha-hydroxylase activity in activated alveolar macrophages within granulomas, increasing conversion to active vitamin D3 (calcitriol) and intestinal calcium absorption.",
+        "Incorrect: PTHrP-mediated hypercalcemia is classic for squamous cell lung carcinoma, not sarcoidosis."
       ],
-      "overview": "TCA overdose is potentially fatal, causing anticholinergic toxicity (hyperthermia, flushing, dilated pupils, ileus, urinary retention), alpha-blockade hypotension, and seizures via GABA antagonism. The most prominent and dangerous manifestation is cardiac sodium channel blockade causing QRS widening and arrhythmias, treated with sodium bicarbonate.",
+      "overview": "Sarcoidosis is an immune-mediated multisystem disease with widespread non-caseating granulomas, classically causing bilateral hilar lymphadenopathy, erythema nodosum, uveitis, and hypercalcemia from macrophage-derived 1-alpha-hydroxylase increasing calcitriol production. It is driven by TH1 CD4+ T cells secreting IL-2 and interferon-gamma, and treatment is corticosteroids or other immunosuppressants.",
       "id": "2026-08-30-10"
     },
     {
       "format": "simple4",
-      "stem": "A patient on antipsychotic therapy develops fever, muscle rigidity, altered mental status, and an elevated creatine kinase 8 days after starting the medication. Which treatments are indicated for this condition?",
+      "stem": "A pathology specimen from a patient with chronic bronchitis shows hypertrophy of the submucosal mucous glands. Which histologic measurement is used to quantify this finding, and what value is considered diagnostic?",
       "options": [
-        "Dantrolene and bromocriptine",
-        "Cyproheptadine",
-        "Naloxone and flumazenil",
-        "Sodium bicarbonate"
+        "Reid index greater than 0.4 (ratio of submucosal gland layer thickness to total airway wall thickness)",
+        "Reid index less than 0.4",
+        "FEV1/FVC ratio less than 0.7",
+        "DLCO less than 40% predicted"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - this is neuroleptic malignant syndrome (fever, rigidity, encephalopathy, elevated CK, typically 7-10 days after starting a neuroleptic), treated with dantrolene (muscle relaxant) and bromocriptine (dopamine agonist), similar to treatment for malignant hyperthermia.",
-        "Incorrect - cyproheptadine is the treatment for serotonin syndrome, not neuroleptic malignant syndrome.",
-        "Incorrect - naloxone and flumazenil are antidotes for opioid and benzodiazepine overdose, respectively, not NMS.",
-        "Incorrect - sodium bicarbonate is used for TCA cardiotoxicity, not NMS."
+        "Correct: The Reid index measures submucosal gland layer thickness relative to total airway wall thickness; a value greater than 0.4 (normal <0.4) indicates the mucous gland hypertrophy of chronic bronchitis.",
+        "Incorrect: A Reid index less than 0.4 is normal, not diagnostic; the diagnostic threshold is greater than 0.4.",
+        "Incorrect: FEV1/FVC <0.7 indicates an obstructive spirometry pattern, but is a functional measure, not the histologic Reid index used to quantify gland hypertrophy.",
+        "Incorrect: DLCO is characteristically reduced in emphysema (loss of alveolar-capillary surface area), not used to quantify mucous gland hypertrophy in chronic bronchitis."
       ],
-      "overview": "Neuroleptic malignant syndrome is a rare, dangerous reaction to antipsychotics occurring roughly 7-10 days after starting treatment, presenting with fever, rigid muscles, encephalopathy, and elevated creatine kinase (with risk of rhabdomyolysis-induced renal failure). It is treated with dantrolene and bromocriptine, analogous to treatment for malignant hyperthermia.",
+      "overview": "Chronic bronchitis is defined clinically as a productive cough for at least 3 months over two consecutive years, strongly associated with smoking. Pathologically it features submucosal mucous gland hypertrophy quantified by the Reid index (diagnostic if >0.4), along with epithelial metaplasia from ciliated columnar to stratified squamous and mucous plugging.",
       "id": "2026-08-30-11"
     },
     {
       "format": "simple4",
-      "stem": "A man who has strong unconscious cravings for alcohol becomes a vocal, passionate advocate for abstinence and temperance. This best illustrates which ego defense mechanism?",
+      "stem": "A patient with community-acquired pneumonia develops a pleural effusion. Thoracentesis reveals a pleural fluid protein/serum protein ratio of 0.6. According to Light's criteria, how should this effusion be classified?",
       "options": [
-        "Sublimation",
-        "Projection",
-        "Rationalization",
-        "Reaction formation"
+        "Exudative, since the pleural protein/serum protein ratio exceeds 0.5",
+        "Indeterminate, because Light's criteria requires pleural fluid cell count, not protein ratio",
+        "Transudative, because pneumonia only causes transudative effusions",
+        "Transudative, since only one criterion needs to be met and this ratio is below threshold"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - sublimation channels a negative emotion into a socially acceptable, constructive activity (e.g., an aggressive person becoming a boxer), not adopting the opposite stance to a craving.",
-        "Incorrect - projection involves attributing one's own unacceptable feelings to someone else, not expressing the opposite of one's own urge.",
-        "Incorrect - rationalization involves distorting events so the outcome seems positive, not adopting an opposing behavior to an unwanted urge.",
-        "Correct - reaction formation is displaying the opposite behavior to an unwanted feeling; the classic example given is a man who craves alcohol preaching abstinence."
+        "Correct: Light's criteria classify an effusion as exudative if pleural/serum protein > 0.5, pleural/serum LDH > 0.6, or pleural LDH > 2/3 upper limit of normal serum LDH. A ratio of 0.6 exceeds the 0.5 threshold, consistent with increased capillary permeability from pneumonia.",
+        "Incorrect: Light's criteria are based on pleural fluid protein and LDH relative to serum values, not cell counts.",
+        "Incorrect: Pneumonia is a classic cause of exudative effusions from increased capillary permeability, not transudative effusions.",
+        "Incorrect: A ratio of 0.6 is above the 0.5 threshold, and meeting even one Light's criterion classifies the effusion as exudative."
       ],
-      "overview": "Ego defense mechanisms are mostly unconscious adjustments that manage conflict between the id and superego to minimize anxiety. Reaction formation specifically involves displaying behavior that is the opposite of an unwanted or unacceptable feeling, such as a person craving alcohol who becomes an outspoken advocate for abstinence.",
+      "overview": "Pleural effusions are classified as transudative (increased hydrostatic pressure or decreased oncotic pressure, e.g., heart failure) or exudative (increased capillary permeability, e.g., pneumonia, malignancy); Light's criteria distinguish exudates, which generally require drainage, from transudates, typically managed by treating the underlying cause.",
       "id": "2026-08-30-12"
     },
     {
       "format": "vignette5",
-      "stem": "A 24-year-old woman has a long-standing pattern of intense, unstable relationships. She describes her boyfriend as 'the most amazing person in the world' one week and 'a monster who doesn't care about me at all' the next. She has a history of cutting her forearms when she fears he is losing interest in her, along with impulsive spending sprees. She reports an intense fear that people she cares about will abandon her. Which of the following personality disorders is most consistent with this presentation?",
+      "stem": "A 66-year-old man with a 50-pack-year smoking history presents with cough, weight loss, and confusion. A central lung mass is identified on CT. Laboratory studies show serum sodium of 122 mEq/L with inappropriately concentrated urine and normal thyroid and adrenal function. Biopsy of the mass shows sheets of poorly differentiated small, round blue cells that stain positive for chromogranin A and synaptophysin. Which of the following best explains this patient's hyponatremia?",
       "options": [
-        "Histrionic personality disorder",
-        "Dependent personality disorder",
-        "Narcissistic personality disorder",
-        "Borderline personality disorder",
-        "Antisocial personality disorder"
+        "Ectopic secretion of antidiuretic hormone by neuroendocrine tumor cells causing SIADH",
+        "Paraneoplastic antibodies against presynaptic calcium channels",
+        "Ectopic secretion of ACTH causing Cushing syndrome",
+        "Ectopic secretion of parathyroid hormone-related peptide by the tumor",
+        "Direct tumor invasion of the adrenal glands causing adrenal insufficiency"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - histrionic personality disorder centers on wanting to be the center of attention with sexually provocative behavior and dramatic expression, not the abandonment fears and splitting described here.",
-        "Incorrect - dependent personality disorder involves clinginess and difficulty making independent decisions, but not the extreme idealization/devaluation (splitting) and self-harm seen here.",
-        "Incorrect - narcissistic personality disorder features an inflated sense of self and lack of empathy, not fear of abandonment or self-mutilation.",
-        "Correct - borderline personality disorder features unstable relationships with splitting (viewing others as all good or all bad), intense fear of abandonment, impulsivity (spending sprees, reckless behavior), and self-mutilation/suicidal gestures often tied to fear of abandonment; more common in women.",
-        "Incorrect - antisocial personality disorder involves disregard for others' rights and lawbreaking behavior, more common in men, not the abandonment-driven relationship instability described."
+        "Correct: The histology (small cells positive for chromogranin A and synaptophysin, indicating neuroendocrine origin) and heavy smoking history are classic for small cell lung cancer, well known to cause paraneoplastic SIADH via ectopic ADH secretion, producing hyponatremia and confusion.",
+        "Incorrect: This describes Lambert-Eaton myasthenic syndrome, another small cell paraneoplastic syndrome, but it causes proximal muscle weakness, not hyponatremia.",
+        "Incorrect: While small cell carcinoma can cause ectopic ACTH/Cushing syndrome, this patient's labs (hyponatremia with concentrated urine, normal adrenal function) fit SIADH, not Cushing syndrome.",
+        "Incorrect: PTHrP-mediated hypercalcemia is a paraneoplastic syndrome of squamous cell carcinoma, not small cell carcinoma, and would cause hypercalcemia, not hyponatremia.",
+        "Incorrect: Labs show normal adrenal function, arguing against adrenal insufficiency; the mechanism is inappropriate ADH secretion, not adrenal invasion."
       ],
-      "overview": "Borderline personality disorder, more common in women, is characterized by unstable relationships, splitting (black-and-white thinking about people), intense fear of abandonment, impulsivity, and self-mutilating or suicidal behavior often triggered by perceived abandonment. Dialectical behavior therapy, which includes mindfulness, distress tolerance, and emotion regulation, is the gold-standard treatment.",
+      "overview": "Small cell lung cancer is a highly aggressive, centrally located neuroendocrine tumor (Kulchitsky cell origin, positive for chromogranin A/synaptophysin/neuron-specific enolase) strongly associated with smoking. It is well known for paraneoplastic syndromes including SIADH, ectopic ACTH (Cushing syndrome), and Lambert-Eaton myasthenic syndrome, and is generally not amenable to surgical resection.",
       "id": "2026-08-30-13"
     },
     {
       "format": "vignette5",
-      "stem": "A 22-year-old man is brought in by his family for evaluation. For the past 8 months, he has had continuous symptoms including hearing voices that comment on his actions, a fixed belief that his neighbors are spying on him, disorganized speech, flat affect, and progressive social withdrawal with poor hygiene. Active psychotic symptoms (hallucinations and delusions) have been present continuously for the past 5 months. Which of the following is the most likely diagnosis?",
+      "stem": "A male infant is born at 32 weeks gestation via emergency cesarean section to a mother with poorly controlled gestational diabetes. Shortly after birth, the infant develops tachypnea, grunting, and nasal flaring. Chest X-ray shows diffuse ground-glass opacities. Which of the following best explains this infant's respiratory distress?",
       "options": [
-        "Schizoaffective disorder",
-        "Brief psychotic disorder",
-        "Delusional disorder",
-        "Schizophrenia",
-        "Schizophreniform disorder"
+        "Tracheoesophageal fistula causing recurrent aspiration pneumonia",
+        "A congenital diaphragmatic hernia causing pulmonary hypoplasia",
+        "Bronchopulmonary dysplasia from prolonged oxygen therapy",
+        "Deficiency of surfactant leading to increased alveolar surface tension and diffuse atelectasis",
+        "Meconium aspiration causing airway obstruction"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - schizoaffective disorder requires episodes of psychosis that occur both with and without concurrent mood (manic/depressive) episodes; no mood symptoms are described here.",
-        "Incorrect - brief psychotic disorder involves sudden-onset psychotic symptoms with full remission within one month, often following a stressor; this patient's symptoms have persisted for months.",
-        "Incorrect - delusional disorder involves one or more delusions for a month or longer without hallucinations, disorganized thought, or negative symptoms; this patient has hallucinations, disorganized speech, and negative symptoms in addition to delusions.",
-        "Correct - schizophrenia requires at least one month of active symptoms (delusions, hallucinations, disorganized speech, disorganized/catatonic behavior, or negative symptoms) with continuous signs of the disturbance persisting for at least 6 months; this patient has had continuous symptoms for 8 months.",
-        "Incorrect - schizophreniform disorder meets the same symptom criteria as schizophrenia but has a total duration of less than 6 months; this patient's symptoms have lasted 8 months."
+        "Incorrect: TEF presents with drooling, choking with feeds, and inability to pass an NG tube, not the ground-glass pattern described.",
+        "Incorrect: Congenital diaphragmatic hernia shows bowel loops in the thorax and mediastinal shift, not diffuse ground-glass opacities, and isn't linked to the described risk factors.",
+        "Incorrect: Bronchopulmonary dysplasia is a later complication of prolonged oxygen/ventilator therapy, not an immediate presentation at birth.",
+        "Correct: Prematurity, maternal diabetes (hyperinsulinemia decreases surfactant production), and cesarean delivery (reduced fetal cortisol/stress response) are classic risk factors for neonatal RDS. Surfactant deficiency increases alveolar surface tension (Law of Laplace), causing collapse, decreased compliance, and ground-glass opacities.",
+        "Incorrect: Meconium aspiration typically occurs in term/post-term infants with meconium-stained fluid, not preterm infants, and causes patchy obstruction rather than diffuse ground-glass opacities."
       ],
-      "overview": "Schizophrenia is diagnosed when at least two of delusions, hallucinations, disorganized speech, disorganized/catatonic behavior, or negative symptoms are present for at least one month, with continuous signs of illness for at least 6 months. Shorter durations meeting the same symptom criteria are classified as schizophreniform disorder (<6 months) or brief psychotic disorder (<1 month, often stress-related).",
+      "overview": "Neonatal RDS results from surfactant deficiency (type II pneumocytes mature around 35 weeks), increasing alveolar surface tension and causing collapse per the Law of Laplace. Risk factors include prematurity, maternal diabetes, and cesarean delivery; prevention uses antenatal maternal glucocorticoids, treatment is exogenous surfactant, and fetal lung maturity is assessed via the amniotic fluid lecithin/sphingomyelin ratio.",
       "id": "2026-08-30-14"
     },
     {
       "format": "simple4",
-      "stem": "A patient with bulimia nervosa who purges by self-induced vomiting develops metabolic alkalosis. What would be the expected urinary chloride concentration?",
+      "stem": "Fetal hemoglobin (HbF, alpha2gamma2) has a left-shifted oxygen dissociation curve compared to adult hemoglobin. What is the primary molecular explanation for this higher oxygen affinity?",
       "options": [
-        "High (>20 mEq/L)",
-        "Cannot be assessed in vomiting-induced alkalosis",
-        "Normal (20-40 mEq/L)",
-        "Low (<20 mEq/L)"
+        "Gamma chains bind 2,3-BPG poorly compared to beta chains, resulting in less inhibition of oxygen binding",
+        "HbF is more heavily glycosylated than adult hemoglobin, increasing oxygen affinity",
+        "HbF lacks heme groups, reducing steric interference with oxygen binding",
+        "HbF has four alpha subunits instead of alpha-beta pairs"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - a high urinary chloride is seen in many other causes of metabolic alkalosis, not vomiting.",
-        "Incorrect - urinary chloride is a useful and classically low finding in vomiting-induced metabolic alkalosis, so it can be assessed and is diagnostically helpful.",
-        "Incorrect - a normal urinary chloride would not be expected; vomiting classically produces a low urinary chloride.",
-        "Correct - vomiting causes loss of chloride in gastric secretions, resulting in a low urinary chloride (<20), a classic finding in a young woman with unexplained metabolic alkalosis from purging."
+        "Correct: HbF's gamma chains bind 2,3-BPG much less avidly than beta chains of adult hemoglobin. Since 2,3-BPG normally decreases oxygen affinity, reduced binding to HbF results in higher affinity and a left-shifted curve, necessary given the low fetal PaO2 (~40 mmHg).",
+        "Incorrect: Glycosylation is not the mechanism described for HbF's increased oxygen affinity.",
+        "Incorrect: HbF has heme groups just like adult hemoglobin; the affinity difference is due to 2,3-BPG binding differences, not absence of heme.",
+        "Incorrect: HbF is composed of two alpha and two gamma chains, not four alpha chains."
       ],
-      "overview": "Purging behaviors in bulimia nervosa (self-induced vomiting) cause a contraction (hypochloremic, hypokalemic) metabolic alkalosis with a low urinary chloride (<20), reflecting chloride loss in gastric secretions. Other complications of purging include parotid gland hypertrophy, dental enamel erosion, and Russell's sign (knuckle scarring).",
+      "overview": "Fetal hemoglobin (HbF, alpha2gamma2) predominates from 8 weeks gestation to several months after birth and has a left-shifted oxygen dissociation curve because its gamma chains bind 2,3-BPG poorly compared to beta chains; this is essential because fetal PaO2 is only ~40 mmHg, requiring higher affinity to load oxygen from maternal blood.",
       "id": "2026-08-30-15"
     },
     {
       "format": "vignette5",
-      "stem": "A patient with a long history of heavy daily alcohol use is hospitalized for an unrelated surgery. Approximately 80 hours after his last drink, he becomes markedly confused and agitated, with fever, drenching sweats, tachycardia, and hypertension. Which of the following is the most likely diagnosis?",
+      "stem": "A 60-year-old man with a history of latent tuberculosis infection, now on a TNF-alpha inhibitor for rheumatoid arthritis, presents with several weeks of cough, hemoptysis, night sweats, and 15-lb weight loss. Chest X-ray shows a cavitary lesion in the right upper lobe. Which of the following best explains the anatomic distribution of this lesion?",
       "options": [
-        "Alcoholic hallucinosis",
-        "Alcohol withdrawal seizures",
-        "Wernicke encephalopathy",
-        "Uncomplicated alcohol withdrawal",
-        "Delirium tremens"
+        "Reactivation TB preferentially involves the upper lobes because of decreased blood flow allowing immune evasion regardless of oxygenation",
+        "Reactivation TB preferentially involves the lower lobes, and this presentation is atypical",
+        "Reactivation TB has no lobar predilection and this distribution is coincidental",
+        "Reactivation TB preferentially involves the upper lobes due to greater lymphatic drainage",
+        "Reactivation TB preferentially involves the upper lobes due to their higher oxygen tension, favoring this obligate aerobe"
       ],
       "correctIndex": 4,
       "explanations": [
-        "Incorrect - alcoholic hallucinosis occurs 12-48 hours after the last drink, typically with visual hallucinations but without the profound delirium and autonomic instability of DTs, and this patient's timing (80 hours) fits DTs better.",
-        "Incorrect - alcohol withdrawal seizures occur 6-48 hours after the last drink as generalized tonic-clonic seizures, not the delirium picture described.",
-        "Incorrect - Wernicke encephalopathy is due to thiamine deficiency, presenting classically with confusion, ataxia, and ophthalmoplegia, and is not specifically tied to this withdrawal timeline or fever/autonomic hyperactivity.",
-        "Incorrect - uncomplicated withdrawal occurs 6-24 hours after the last drink with tremor, anxiety, GI upset, and intact mental status, not the delirium and severe autonomic instability described here.",
-        "Correct - delirium tremens occurs 72-96 hours after the last drink and is the most severe withdrawal manifestation, featuring delirium with markedly altered mental status, agitation, fever, drenching sweats, and autonomic hyperactivity (tachycardia, hypertension), with significant mortality risk."
+        "Incorrect: While the apex has lower blood flow, the key reason TB favors this region is higher oxygen content (high V/Q), not immune evasion from reduced perfusion.",
+        "Incorrect: Reactivation TB classically favors the upper lobes, not lower lobes; this presentation is the classic pattern.",
+        "Incorrect: There is a well-established lobar predilection (upper lobes) for reactivation TB related to regional oxygen tension.",
+        "Incorrect: The predilection is explained by oxygen tension favoring this aerobic organism, not lymphatic drainage patterns.",
+        "Correct: M. tuberculosis is an obligate aerobe that prefers the upper lobes/apices, which have higher oxygen tension. Reactivation TB classically shows upper lobe cavitary lesions with caseous and liquefactive necrosis and hemoptysis from vascular erosion. TNF-alpha inhibitors are a well-known risk factor for reactivation of latent TB."
       ],
-      "overview": "Alcohol withdrawal follows a predictable timeline: uncomplicated withdrawal (6-24 hours), withdrawal seizures (6-48 hours), alcoholic hallucinosis (12-48 hours), and delirium tremens (72-96 hours), the most severe stage with up to 20% mortality in some studies. DTs features delirium, agitation, fever, and autonomic hyperactivity, and is treated with benzodiazepines, often using a symptom-triggered protocol like the CIWA scale.",
+      "overview": "Reactivation TB occurs when immune suppression (HIV, TNF-alpha inhibitors, transplant) allows dormant M. tuberculosis to reactivate, classically causing upper lobe cavitary lesions with caseous/liquefactive necrosis, hemoptysis, fever, night sweats, and weight loss. This obligate aerobe preferentially localizes to the oxygen-rich apices (zone 1, high V/Q), in contrast to primary TB which favors the Ghon focus in the mid-to-lower lung with ipsilateral lymph node involvement.",
       "id": "2026-08-30-16"
     },
     {
       "format": "simple4",
-      "stem": "Which childhood disorder features aggression toward people and animals, destruction of property, and lying or stealing, and is considered the childhood precursor to antisocial personality disorder?",
+      "stem": "During venous blood transport of CO2, which ion moves into red blood cells to maintain electrical neutrality as bicarbonate exits into the plasma?",
       "options": [
-        "Separation anxiety disorder",
-        "Disruptive mood dysregulation disorder",
-        "Conduct disorder",
-        "Oppositional defiant disorder"
+        "Hydrogen",
+        "Chloride",
+        "Sodium",
+        "Potassium"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - separation anxiety disorder involves distress related to separation from attachment figures, unrelated to aggression or property destruction.",
-        "Incorrect - DMDD is a mood disorder featuring frequent temper outbursts and irritability, not the rights-violating behaviors described.",
-        "Correct - conduct disorder is a childhood behavioral disorder involving a repeated pattern of violating others' rights, including aggression to people/animals, property destruction, and lying or stealing; its adult counterpart is antisocial personality disorder.",
-        "Incorrect - ODD involves anger, irritability, argumentativeness, and defiance toward authority figures, but not the aggression to people/animals or property destruction that defines conduct disorder."
+        "Incorrect: Hydrogen ions remain inside red blood cells, buffered by deoxyhemoglobin; they do not move to compensate for bicarbonate efflux.",
+        "Correct: As bicarbonate generated by carbonic anhydrase leaves red blood cells for the plasma, chloride ions enter to maintain electrical neutrality \u2014 the 'chloride shift' \u2014 resulting in high chloride content in venous red blood cells.",
+        "Incorrect: Sodium is not involved in this exchange mechanism.",
+        "Incorrect: Potassium is not the ion exchanged for bicarbonate in this process."
       ],
-      "overview": "Conduct disorder is a childhood behavioral disorder marked by a repeated pattern of violating the rights of others: aggression to people and animals, destruction of property, lying or stealing, and serious rule violations. It is considered the childhood precursor to antisocial personality disorder in adulthood.",
+      "overview": "Bicarbonate is the major form of CO2 transport in blood (>90%), generated in RBCs by carbonic anhydrase; as HCO3- exits RBCs into plasma, chloride ions enter to preserve electrical neutrality (the 'chloride shift'), while H+ produced in the reaction is buffered by deoxyhemoglobin to prevent a dangerous fall in intracellular pH.",
       "id": "2026-08-30-17"
     },
     {
       "format": "vignette5",
-      "stem": "A 30-year-old man was involved in a serious motor vehicle accident 3 weeks ago. Since then, he has had recurrent nightmares and flashbacks of the crash, avoids driving, and is markedly hypervigilant. He also describes episodes of feeling 'in a daze,' as if time were moving slowly, and cannot recall parts of the accident itself. Which of the following is the most likely diagnosis?",
+      "stem": "A 55-year-old woman who underwent hip replacement surgery 5 days ago develops sudden-onset pleuritic chest pain and dyspnea. Heart rate is 118/min, respiratory rate is 24/min, and oxygen saturation is 89% on room air. EKG shows sinus tachycardia with an S wave in lead I, Q wave in lead III, and inverted T wave in lead III. Which of the following best describes the expected hemodynamic changes in this patient?",
       "options": [
-        "Adjustment disorder",
-        "Acute stress disorder",
-        "Generalized anxiety disorder",
-        "Panic disorder",
-        "Posttraumatic stress disorder"
+        "Increased cardiac output and decreased systemic vascular resistance",
+        "Decreased left ventricular preload, increased pulmonary artery pressure, and increased systemic vascular resistance",
+        "Normal pulmonary artery pressure with isolated left ventricular systolic dysfunction",
+        "Decreased pulmonary vascular resistance due to recruitment of previously unperfused vessels",
+        "Increased left ventricular preload and decreased pulmonary artery pressure"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - adjustment disorder is a nonspecific stress response and is not the best fit for this trauma-and-dissociation picture.",
-        "Correct - acute stress disorder occurs after trauma exposure with intrusive memories, dissociative symptoms (altered sense of reality, dissociative amnesia), and lasts less than one month; this patient's symptoms have been present for only 3 weeks.",
-        "Incorrect - GAD involves chronic worry about multiple domains lasting more than 6 months, not a discrete trauma-related dissociative presentation.",
-        "Incorrect - panic disorder involves recurrent unexpected panic attacks, not the trauma re-experiencing and dissociative symptoms described here.",
-        "Incorrect - PTSD requires symptoms to last more than 1 month; this patient's symptoms have only been present for 3 weeks."
+        "Incorrect: Cardiac output falls due to decreased LV preload, and SVR increases (SNS activation) rather than decreasing.",
+        "Correct: PE increases pulmonary vascular resistance, raising PA pressure and RV afterload and reducing flow into the left heart, decreasing LV preload. The resulting drop in cardiac output triggers sympathetic activation, increasing heart rate and SVR ('obstructive shock').",
+        "Incorrect: PA pressure is elevated due to increased pulmonary vascular resistance; the primary physiology is RV strain, not isolated LV dysfunction.",
+        "Incorrect: PE increases pulmonary vascular resistance by obstructing vessels, not decreasing it.",
+        "Incorrect: PE decreases LV preload due to obstructed flow through pulmonary vessels, and PA pressure rises rather than falls."
       ],
-      "overview": "Acute stress disorder occurs after exposure to trauma and features intrusive memories, distressing dreams, and dissociative symptoms (altered sense of reality, time distortion, dissociative amnesia), lasting less than one month and treated with CBT alone (no medications). If symptoms persist beyond one month, the diagnosis becomes PTSD, treated with CBT, SSRIs, and prazosin for nightmares.",
+      "overview": "PE most often arises from DVT embolizing to the pulmonary arteries, causing V/Q mismatch and hypoxemia, hyperventilation-induced hypocapnia, increased pulmonary vascular resistance leading to RV strain (S1Q3T3 pattern), and decreased LV preload/cardiac output with compensatory sympathetic activation. CT angiogram is the preferred diagnostic test; treatment is anticoagulation, or thrombolysis/embolectomy if shock is present.",
       "id": "2026-08-30-18"
     },
     {
       "format": "simple4",
-      "stem": "What feature distinguishes depersonalization/derealization disorder from a psychotic disorder?",
+      "stem": "A patient with idiopathic pulmonary fibrosis has hypoxemia that improves with supplemental oxygen and demonstrates an elevated A-a gradient. What is the primary mechanism of hypoxemia in this condition?",
       "options": [
-        "Presence of auditory hallucinations",
-        "Presence of fixed delusions",
-        "Disorganized speech patterns",
-        "Intact reality testing"
+        "Right-to-left shunting through unventilated alveoli",
+        "Hypoventilation from reduced respiratory drive",
+        "Low inspired oxygen at high altitude",
+        "Increased alveolar-capillary membrane thickness impairing oxygen diffusion"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - auditory hallucinations are a feature of psychotic disorders, not depersonalization/derealization disorder, which involves subjective detachment without hallucinations.",
-        "Incorrect - fixed delusions are a feature of psychosis; patients with DDD do not hold false fixed beliefs about their detachment being real.",
-        "Incorrect - disorganized speech is a feature of psychotic disorders such as schizophrenia, not depersonalization/derealization disorder.",
-        "Correct - in depersonalization/derealization disorder, the patient retains intact reality testing and is aware that the feelings of detachment or unreality are not literally true, distinguishing it from psychosis."
+        "Incorrect: Shunt (V/Q = 0) characteristically shows poor response to supplemental oxygen, unlike diffusion limitation.",
+        "Incorrect: Hypoventilation causes hypoxemia with a normal A-a gradient, not an elevated one.",
+        "Incorrect: This describes the mechanism at high altitude, which also produces a normal A-a gradient, not the diffusion limitation seen in fibrosis.",
+        "Correct: Pulmonary fibrosis increases the diffusion distance between alveolar air and capillary blood, impairing oxygen diffusion per Fick's law. This causes hypoxemia with an elevated A-a gradient that typically improves with supplemental oxygen."
       ],
-      "overview": "Depersonalization/derealization disorder involves feeling detached from oneself (depersonalization) or one's surroundings (derealization), often triggered by trauma, but the patient maintains intact reality testing throughout, distinguishing it from psychosis where reality testing is impaired.",
+      "overview": "Diffusion limitation occurs when increased alveolar membrane thickness (fibrosis, edema) or decreased surface area (emphysema) impairs oxygen transfer; it produces hypoxemia with an elevated A-a gradient that improves with supplemental oxygen (unlike shunt), and is assessed clinically using DLCO, which is reduced in these conditions.",
       "id": "2026-08-30-19"
     },
     {
       "format": "vignette5",
-      "stem": "A 35-year-old engineer is described by his wife as extremely rigid: he keeps highly detailed to-do lists, insists on strict schedules for the household, and becomes visibly upset when routines are disrupted. He believes his meticulous organization is essential to his success and does not see any problem with his behavior, even though it has caused significant strain in his marriage. He denies any intrusive, unwanted thoughts and does not perform repetitive behaviors specifically to relieve anxiety from such thoughts. Which of the following is the most likely diagnosis?",
+      "stem": "A 45-year-old man with sepsis from a urinary source develops acute hypoxemic respiratory failure requiring intubation 3 days into his hospital course. Chest X-ray shows new bilateral pulmonary infiltrates. PaO2/FiO2 ratio is 180. Echocardiogram shows normal left ventricular function, and BNP is within normal limits. What is the most likely underlying mechanism of this patient's respiratory failure?",
       "options": [
-        "Autism spectrum disorder",
-        "Obsessive-compulsive personality disorder",
-        "Generalized anxiety disorder",
-        "Obsessive-compulsive disorder",
-        "Schizotypal personality disorder"
+        "Surfactant deficiency from a genetic CFTR mutation",
+        "Cardiogenic pulmonary edema from acute left ventricular failure",
+        "Pulmonary embolism causing V/Q mismatch",
+        "Diffuse alveolar damage from neutrophil-mediated capillary and epithelial injury with non-cardiogenic pulmonary edema",
+        "Upper airway obstruction from epiglottitis"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect - autism spectrum disorder involves core deficits in social communication/interaction and repetitive behaviors from early development, not an adult-onset personality pattern of perfectionism.",
-        "Correct - OCPD is characterized by preoccupation with order and control that is egosyntonic (behaviors are seen as helping achieve the person's goals), and the patient is often unaware it is problematic, unlike OCD.",
-        "Incorrect - GAD involves chronic anxiety and worry about many events, not a fixed, egosyntonic personality pattern of rigidity and control.",
-        "Incorrect - OCD involves egodystonic, intrusive, unwanted obsessions with compulsions performed specifically to relieve the resulting distress; this patient lacks obsessions and views his behavior as goal-directed and beneficial.",
-        "Incorrect - schizotypal personality disorder involves odd beliefs, magical thinking, and social/interpersonal deficits, not rigid perfectionism and control."
+        "Incorrect: CFTR mutations cause cystic fibrosis, unrelated to this acute presentation triggered by sepsis.",
+        "Incorrect: Normal BNP and normal LV function on echo argue against cardiogenic pulmonary edema, which is specifically excluded in ARDS diagnostic criteria.",
+        "Incorrect: PE would not typically cause bilateral diffuse infiltrates on CXR; it usually causes a normal chest X-ray.",
+        "Correct: This is ARDS, triggered by sepsis. Pro-inflammatory cytokines recruit neutrophils that release reactive oxygen species/proteases, damaging capillary endothelium and alveolar epithelium, causing protein-rich fluid leakage, hyaline membranes, decreased compliance, and shunting. Diagnostic criteria include bilateral infiltrates, PaO2/FiO2 <300, and exclusion of a cardiogenic cause.",
+        "Incorrect: Epiglottitis causes upper airway obstruction with stridor, not bilateral infiltrates and hypoxemic respiratory failure from sepsis."
       ],
-      "overview": "OCD involves egodystonic, intrusive obsessions paired with compulsions performed to relieve the resulting anxiety, treated with exposure and response prevention CBT and SSRIs/clomipramine. OCPD, in contrast, involves egosyntonic preoccupation with order, control, and perfectionism that the patient views as beneficial rather than distressing, and does not involve true obsessions or compulsions.",
+      "overview": "ARDS is triggered by conditions like sepsis, aspiration, trauma, or pancreatitis, causing neutrophil-mediated diffuse alveolar damage, non-cardiogenic pulmonary edema, hyaline membrane formation, and shunting. Diagnosis requires bilateral infiltrates, PaO2/FiO2 <300 within one week of an inciting event, and exclusion of cardiogenic edema; treatment centers on lung-protective mechanical ventilation with low tidal volumes.",
       "id": "2026-08-30-20"
     },
     {
       "format": "simple4",
-      "stem": "A patient presents with chest pain after cocaine use. Which medication should be avoided due to risk of worsening hypertension and coronary vasoconstriction from unopposed alpha activity?",
+      "stem": "A child with recurrent sinopulmonary infections, bronchiectasis, and situs inversus is diagnosed with Kartagener syndrome. Which of the following best describes the underlying molecular defect?",
       "options": [
-        "Nitroglycerin",
-        "Benzodiazepines",
-        "Beta blockers",
-        "Aspirin"
+        "Mutation in the BMPR2 gene affecting smooth muscle proliferation",
+        "Mutation affecting dynein arm structure or formation, impairing ciliary motility",
+        "Mutation in the CFTR chloride channel gene",
+        "Deficiency of alpha-1 antitrypsin leading to unopposed protease activity"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - nitroglycerin is not identified as a contraindicated agent in cocaine chest pain in the notes; beta blockers are specifically the drug class to avoid.",
-        "Incorrect - benzodiazepines are an appropriate treatment for cocaine chest pain, as they are sedating and diminish cocaine-related sympathetic stimulation.",
-        "Correct - beta blockers should be avoided in cocaine-associated chest pain because blocking beta receptors leaves alpha-mediated vasoconstriction unopposed, worsening hypertension and chest pain.",
-        "Incorrect - aspirin is an appropriate treatment for cocaine-associated chest pain given the risk of thrombosis and myocardial infarction."
+        "Incorrect: BMPR2 mutations are associated with hereditary/idiopathic pulmonary arterial hypertension, not primary ciliary dyskinesia.",
+        "Correct: Kartagener syndrome is a variant of primary ciliary dyskinesia caused by mutations affecting dynein, the motor protein for ciliary movement; impaired motility causes bronchiectasis, recurrent infections, male infertility, and situs inversus from dysfunctional embryonic nodal cilia.",
+        "Incorrect: CFTR mutations cause cystic fibrosis, a different disease that causes bronchiectasis through defective chloride transport, not dynein dysfunction, and CF is not associated with situs inversus.",
+        "Incorrect: Alpha-1 antitrypsin deficiency causes panacinar emphysema, unrelated to ciliary structure or situs inversus."
       ],
-      "overview": "Cocaine causes sympathetic activation via inhibition of monoamine reuptake, leading to increased myocardial oxygen demand and coronary vasoconstriction, which together can cause angina or myocardial infarction. Treatment includes benzodiazepines and aspirin, while beta blockers are avoided because they leave alpha-adrenergic vasoconstriction unopposed, worsening hypertension and chest pain.",
+      "overview": "Kartagener syndrome is a variant of primary ciliary dyskinesia caused by autosomal recessive mutations affecting dynein arm structure/function, impairing ciliary beating; this causes bronchiectasis and chronic sinopulmonary infections, male infertility, and situs inversus from dysfunctional nodal cilia disrupting normal embryonic left-right axis determination.",
       "id": "2026-08-30-21"
     },
     {
       "format": "vignette5",
-      "stem": "A patient with treatment-resistant depression on phenelzine is started on tramadol for pain control after minor surgery. Within a day, she develops agitation, disorientation, diaphoresis, tachycardia, hyperthermia, tremor, clonus, and hyperreflexia bilaterally. Which of the following is the most appropriate treatment?",
+      "stem": "A 28-year-old woman presents with progressive exertional dyspnea over several months. She has no history of lung disease, connective tissue disease, or HIV. Echocardiogram shows elevated estimated pulmonary artery pressure and right ventricular hypertrophy. Right heart catheterization confirms a mean PA pressure of 45 mmHg with normal pulmonary capillary wedge pressure. Lung biopsy would most likely reveal which of the following?",
       "options": [
-        "Bromocriptine",
-        "Dantrolene",
-        "Flumazenil",
-        "Naloxone",
-        "Cyproheptadine"
+        "Hyaline membrane formation with diffuse alveolar damage",
+        "Endothelial cell proliferation forming plexiform lesions",
+        "Eosinophilic hyaline deposits in the alveolar walls",
+        "Caseating granulomas with central necrosis",
+        "Non-caseating granulomas with multinucleated giant cells"
       ],
-      "correctIndex": 4,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - bromocriptine (a dopamine agonist) is used for neuroleptic malignant syndrome, which is caused by dopamine blockade, not serotonin excess.",
-        "Incorrect - dantrolene is used for neuroleptic malignant syndrome and malignant hyperthermia, not serotonin syndrome.",
-        "Incorrect - flumazenil is a benzodiazepine receptor antagonist used for benzodiazepine overdose, not serotonin syndrome.",
-        "Incorrect - naloxone is an opioid antagonist used for opioid overdose, not serotonin syndrome.",
-        "Correct - this presentation (mental status changes, autonomic hyperactivity, neuromuscular hyperactivity) is serotonin syndrome, precipitated by combining an MAO inhibitor (phenelzine) with a serotonergic drug (tramadol, which inhibits serotonin reuptake); cyproheptadine, a 5-HT antagonist, is the treatment."
+        "Incorrect: Hyaline membranes and diffuse alveolar damage characterize ARDS, not PAH.",
+        "Correct: This presentation (young woman, no underlying lung disease, elevated PA pressure with normal wedge pressure) is classic for idiopathic pulmonary arterial hypertension (Group 1), characterized by plexiform lesions from endothelial proliferation forming multiple vascular lumens, driven by increased vasoconstrictors (endothelin) and decreased vasodilators (nitric oxide); BMPR2 mutations occur in a subset of cases.",
+        "Incorrect: This finding is not the classic pathology described for idiopathic PAH; plexiform lesions are the specific finding.",
+        "Incorrect: Caseating granulomas are characteristic of tuberculosis, not PAH.",
+        "Incorrect: Non-caseating granulomas are the hallmark of sarcoidosis, which typically shows hilar lymphadenopathy on imaging, not idiopathic PAH."
       ],
-      "overview": "Serotonin syndrome presents with a triad of mental status changes (agitation, disorientation), autonomic hyperactivity (diaphoresis, tachycardia, hyperthermia), and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski). It is classically caused by combining an MAOI with another serotonergic agent (SSRIs, tramadol, meperidine, triptans, MDMA, linezolid, dextromethorphan, St. John's wort), and is treated with the serotonin antagonist cyproheptadine.",
+      "overview": "Idiopathic PAH (WHO Group 1) classically affects young women and results from high pulmonary vascular resistance from increased vasoconstrictors (endothelin) and decreased vasodilators (nitric oxide), with plexiform lesions on pathology and BMPR2 mutations in a substantial subset. Normal pulmonary capillary wedge pressure distinguishes it from PH due to left heart disease; treatments include prostacyclin analogs, endothelin receptor antagonists, PDE-5 inhibitors, and soluble guanylate cyclase stimulators.",
       "id": "2026-08-30-22"
     },
     {
       "format": "simple4",
-      "stem": "Dissociative identity disorder is most strongly associated with a history of which of the following?",
+      "stem": "A patient on room air develops hypoventilation from opioid overdose, with a resulting PaCO2 of 70 mmHg. Using the alveolar gas equation (PAO2 = PIO2 - PaCO2/R), what happens to alveolar PO2, and what is the expected A-a gradient?",
       "options": [
-        "Family history of schizophrenia",
-        "Traumatic brain injury in adulthood",
-        "Perinatal hypoxia",
-        "Childhood sexual abuse"
+        "PAO2 decreases and the A-a gradient is elevated",
+        "PAO2 remains unchanged and the A-a gradient is elevated",
+        "PAO2 increases and the A-a gradient remains normal",
+        "PAO2 decreases and the A-a gradient remains normal"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - family history of schizophrenia is not the association described; DID is linked to childhood trauma, not a schizophrenia family history.",
-        "Incorrect - DID is associated with early childhood trauma, not adult-onset traumatic brain injury.",
-        "Incorrect - perinatal hypoxia is not identified as a risk factor for dissociative identity disorder in the notes.",
-        "Correct - dissociative identity disorder is associated with childhood trauma/abuse, especially sexual abuse often occurring before age 6, and is more common in women."
+        "Incorrect: The A-a gradient remains normal in pure hypoventilation since there's no primary lung pathology; an elevated gradient would suggest additional lung disease.",
+        "Incorrect: PAO2 does change (decreases) with hypoventilation; it's the A-a gradient that stays normal, not PAO2.",
+        "Incorrect: PAO2 decreases, not increases, as PaCO2 rises.",
+        "Correct: As PaCO2 rises with hypoventilation, PAO2 falls proportionally per the alveolar gas equation. Because alveolar and arterial oxygen fall together with otherwise normal lungs, the A-a gradient remains normal \u2014 the classic pattern for hypoventilation-induced hypoxemia."
       ],
-      "overview": "Dissociative identity disorder (multiple personality disorder) is more common in women and strongly associated with childhood trauma, especially sexual abuse often occurring before age 6. It features two or more distinct personality states with gaps in memory, and has high rates of comorbid PTSD, depression, substance abuse, and borderline/avoidant personality disorders.",
+      "overview": "Hypoxemia with a normal A-a gradient occurs only with high altitude (low PIO2) and hypoventilation (elevated PaCO2 reduces PAO2), neither involving primary lung pathology, and both improve with supplemental oxygen. Hypoxemia with an elevated A-a gradient signals diffusion limitation, shunt, or V/Q mismatch, reflecting actual lung disease.",
       "id": "2026-08-30-23"
     },
     {
       "format": "simple4",
-      "stem": "Bupropion is relatively contraindicated in patients with a seizure history because of which property?",
+      "stem": "A patient with chronic asthma and nasal polyposis develops acute bronchospasm and rhinorrhea after taking aspirin for a headache. What is the underlying mechanism of this reaction?",
       "options": [
-        "It causes significant hyperprolactinemia",
-        "It frequently triggers serotonin syndrome",
-        "It commonly causes profound QT prolongation",
-        "Its stimulant-like effects lower the seizure threshold"
+        "Aspirin-induced complement activation causing immune complex deposition",
+        "Aspirin-induced direct mast cell degranulation independent of arachidonic acid metabolism",
+        "Aspirin-induced inhibition of cyclooxygenase, shunting arachidonic acid toward overproduction of leukotrienes",
+        "IgE-mediated type I hypersensitivity to aspirin"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanations": [
-        "Incorrect - hyperprolactinemia is associated with dopamine-blocking antipsychotics, not bupropion, which actually increases dopamine and norepinephrine activity.",
-        "Incorrect - bupropion has no effect on serotonin and is not associated with serotonin syndrome.",
-        "Incorrect - QT prolongation is not identified as a characteristic effect of bupropion in the notes.",
-        "Correct - bupropion's toxicity is related to its stimulant effects, including anxiety, insomnia, and seizures, making it relatively contraindicated in patients with a seizure history."
+        "Incorrect: Complement-mediated immune complex disease is not the mechanism; pathophysiology centers on leukotriene overproduction.",
+        "Incorrect: The mechanism involves arachidonic acid pathway dysregulation after COX inhibition, not direct mast cell degranulation.",
+        "Correct: This describes aspirin-exacerbated respiratory disease (Samter's triad: asthma, chronic rhinosinusitis/nasal polyposis, aspirin/NSAID sensitivity); aspirin inhibits cyclooxygenase, shunting arachidonic acid toward the lipoxygenase pathway and leukotriene overproduction, causing bronchoconstriction.",
+        "Incorrect: AERD is not a classic IgE-mediated type I hypersensitivity reaction; it results from dysregulated arachidonic acid metabolism."
       ],
-      "overview": "Bupropion blocks reuptake of norepinephrine and dopamine and increases presynaptic catecholamine release, with no effect on serotonin; it is used for depression, smoking cessation, and can improve SSRI-induced sexual dysfunction. Its stimulant-like toxicity profile includes anxiety, insomnia, and seizures, making it relatively contraindicated in patients with a seizure history.",
+      "overview": "Aspirin-exacerbated respiratory disease (Samter's triad) features chronic asthma/rhinosinusitis with nasal polyps and acute bronchospasm after aspirin/NSAID ingestion; the mechanism involves cyclooxygenase inhibition shunting arachidonic acid toward leukotriene overproduction, treated with leukotriene receptor antagonists like montelukast or zafirlukast.",
       "id": "2026-08-30-24"
     },
     {
       "format": "simple4",
-      "stem": "Which gene mutation is responsible for Rett syndrome?",
+      "stem": "Which of the following statements best describes the Haldane effect?",
       "options": [
-        "FMR1",
-        "MECP2",
-        "SMN1",
-        "APOE"
+        "Deoxygenated hemoglobin has a lower affinity for oxygen, promoting oxygen release in tissues",
+        "Deoxygenated hemoglobin has a higher affinity for CO2, allowing more CO2 binding in peripheral tissues",
+        "Increased CO2 and H+ decrease hemoglobin's affinity for oxygen",
+        "Carbon dioxide is transported primarily as bicarbonate rather than bound to hemoglobin"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - FMR1 mutations cause Fragile X syndrome, which is associated with autism spectrum disorder, not Rett syndrome.",
-        "Correct - Rett syndrome is caused by MECP2 gene mutations on the X chromosome, usually sporadic, causing regression of motor/cognitive/language skills after initially normal development in females (lethal in males).",
-        "Incorrect - SMN1 is not the gene implicated in Rett syndrome per the notes.",
-        "Incorrect - APOE is not the gene implicated in Rett syndrome per the notes."
+        "Incorrect: This describes a component of the Bohr effect, not the Haldane effect, which specifically concerns CO2-carrying capacity.",
+        "Correct: The Haldane effect describes how oxygen binding alters hemoglobin's affinity for CO2: deoxyhemoglobin in tissues binds more CO2 (greater loading), while oxygenated hemoglobin in the lungs binds less CO2 (greater unloading).",
+        "Incorrect: This describes the Bohr effect (the reciprocal phenomenon), not the Haldane effect.",
+        "Incorrect: This is a general fact about CO2 transport (bicarbonate >90%) but does not describe the Haldane effect specifically."
       ],
-      "overview": "Rett syndrome is an X-linked neurodevelopmental disorder of females caused by MECP2 gene mutations, with initially normal development followed by regression of motor, cognitive, and speech abilities, deceleration of head growth, and stereotyped hand movements around 1-2 years of age. It is nearly always sporadic and is lethal in males, who have only one (abnormal) X chromosome.",
+      "overview": "The Haldane effect and Bohr effect are reciprocal allosteric phenomena: the Bohr effect describes how CO2/H+ affects O2 affinity (right shift with increased CO2/H+), while the Haldane effect describes how O2 affects CO2-carrying capacity (deoxyhemoglobin carries more CO2). Together they optimize gas exchange at tissues and lungs.",
       "id": "2026-08-30-25"
     },
     {
       "format": "simple4",
-      "stem": "A severely malnourished patient with anorexia nervosa begins nutritional rehabilitation. Which electrolyte abnormality is the hallmark of refeeding syndrome and can lead to cardiac and respiratory failure?",
+      "stem": "A patient with COPD living at high altitude develops chronically elevated 2,3-bisphosphoglycerate (2,3-BPG) levels in red blood cells. What is the physiologic effect of this adaptation?",
       "options": [
-        "Hypophosphatemia",
-        "Hypomagnesemia",
-        "Hypocalcemia",
-        "Hypokalemia"
+        "Left shift of the oxygen-hemoglobin curve, increasing oxygen affinity",
+        "Decreased production of erythropoietin",
+        "Increased hemoglobin binding to carbon dioxide",
+        "Right shift of the oxygen-hemoglobin curve, promoting greater oxygen release to tissues"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "explanations": [
-        "Correct - refeeding syndrome's hallmark is hypophosphatemia: glucose intake triggers insulin release, driving phosphate into cells and depleting ATP, which can cause cardiac and respiratory failure; prevention is via slow, gentle refeeding.",
-        "Incorrect - hypomagnesemia is not identified as the hallmark electrolyte abnormality of refeeding syndrome in the notes.",
-        "Incorrect - hypocalcemia is not identified as the hallmark electrolyte abnormality of refeeding syndrome in the notes.",
-        "Incorrect - hypokalemia is associated with purging in bulimia/anorexia, not identified as the hallmark abnormality of refeeding syndrome."
+        "Incorrect: 2,3-BPG causes a right shift (decreased affinity), not a left shift, which would decrease oxygen release.",
+        "Incorrect: Chronic hypoxia increases erythropoietin production (driving polycythemia), a separate adaptive mechanism from 2,3-BPG.",
+        "Incorrect: 2,3-BPG's mechanism involves altering oxygen affinity, not directly increasing CO2 binding to hemoglobin.",
+        "Correct: 2,3-BPG is a negative allosteric effector produced in response to chronic hypoxia; it decreases hemoglobin's oxygen affinity, shifting the curve rightward and increasing P50, allowing greater oxygen release to tissues."
       ],
-      "overview": "Refeeding syndrome occurs when a severely malnourished patient begins nutritional rehabilitation: glucose intake raises insulin, driving phosphate into cells and causing hypophosphatemia, the hallmark abnormality, with resulting ATP depletion leading to cardiac and respiratory failure. Prevention relies on slow, gradual increases in calorie intake.",
+      "overview": "2,3-BPG is produced in RBCs (diverted from glycolysis at the cost of ATP) and acts as a negative allosteric effector of hemoglobin, decreasing oxygen affinity and shifting the dissociation curve rightward; levels rise in chronic hypoxia states (COPD, high altitude, chronic anemia) to increase oxygen delivery to tissues.",
       "id": "2026-08-30-26"
     },
     {
       "format": "simple4",
-      "stem": "A patient with chronic alcohol use disorder demonstrates confabulation, apathy, and anterograde amnesia greater than retrograde amnesia. Which condition is this most consistent with?",
+      "stem": "A right shift of the oxygen-hemoglobin dissociation curve, as occurs with increased CO2, decreased pH, and increased temperature, results in which of the following?",
       "options": [
-        "Wernicke encephalopathy",
-        "Dissociative amnesia",
-        "Delirium tremens",
-        "Korsakoff syndrome"
+        "Decreased hemoglobin affinity for oxygen and increased oxygen release at the tissues",
+        "No change in oxygen release, only a change in CO2 transport",
+        "Increased hemoglobin affinity for oxygen and increased P50",
+        "Increased hemoglobin affinity for oxygen and decreased P50"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - Wernicke encephalopathy is the acute encephalopathy phase (classically confusion, ataxia, ophthalmoplegia), not the chronic confabulatory amnestic state described.",
-        "Incorrect - dissociative amnesia is a stress-related, non-CNS-injury cause of amnesia, not associated with confabulation or chronic thiamine deficiency.",
-        "Incorrect - delirium tremens is an acute alcohol withdrawal syndrome with fever and autonomic hyperactivity, not a chronic amnestic disorder with confabulation.",
-        "Correct - Korsakoff syndrome, the permanent neurologic condition following Wernicke encephalopathy in thiamine-deficient alcoholics, features confabulation, apathy, personality changes, and amnesia that is anterograde greater than retrograde."
+        "Correct: A right shift (Bohr effect) favors the taut (T) form of hemoglobin, decreasing oxygen affinity (increasing P50), promoting greater oxygen release/unloading in metabolically active tissues.",
+        "Incorrect: A right shift directly increases oxygen release at the tissues; it is not solely about CO2 transport.",
+        "Incorrect: Affinity decreases, not increases, with a right shift.",
+        "Incorrect: A right shift decreases, not increases, hemoglobin's affinity for oxygen, and P50 increases, not decreases."
       ],
-      "overview": "Wernicke-Korsakoff syndrome results from thiamine (B1) deficiency, classically in alcoholism, with atrophy of the mammillary bodies. Wernicke encephalopathy is the acute, reversible phase, while Korsakoff syndrome is the resulting permanent condition featuring confabulation, apathy, personality changes, and amnesia that is disproportionately anterograde.",
+      "overview": "The Bohr effect describes how increased CO2, decreased pH, and increased temperature \u2014 markers of increased tissue metabolism \u2014 shift the oxygen-hemoglobin curve rightward, favoring the low-affinity taut form of hemoglobin and increasing oxygen unloading to tissues; P50 increases with a right shift.",
       "id": "2026-08-30-27"
     },
     {
       "format": "simple4",
-      "stem": "What is the core distinguishing clinical feature of atypical depression?",
+      "stem": "A patient undergoes pulmonary function testing including measurement of diffusing capacity of the lung for carbon monoxide (DLCO). A markedly reduced DLCO would be expected in which of the following conditions?",
       "options": [
-        "Significant weight loss and appetite loss",
-        "Early morning awakening (terminal insomnia)",
-        "Psychomotor retardation with slowed speech",
-        "Mood reactivity to positive events"
+        "Guillain-Barr\u00e9 syndrome causing neuromuscular restriction",
+        "Emphysema, due to destruction of alveolar surface area",
+        "Asthma during an acute exacerbation",
+        "Obesity-related restrictive lung disease"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "explanations": [
-        "Incorrect - atypical depression is associated with increased appetite and weight gain, not weight loss.",
-        "Incorrect - terminal insomnia (early awakening) is a sleep disturbance seen in typical major depressive disorder, whereas atypical depression is associated with hypersomnia (increased sleep), not early awakening.",
-        "Incorrect - psychomotor retardation is a general depressive symptom, not the defining feature of atypical depression, which is mood reactivity.",
-        "Correct - mood reactivity, the ability to feel genuinely better in response to positive events, is the core unique feature of atypical depression, along with hypersomnia, increased appetite/weight gain, leaden limb sensations, and rejection sensitivity."
+        "Incorrect: Neuromuscular disease causes restriction from poor mechanics without intrinsic lung pathology, so DLCO is typically normal.",
+        "Correct: Emphysema destroys alveolar walls, decreasing surface area for gas diffusion, resulting in markedly reduced DLCO, since this diffusion-limited test reflects loss of the alveolar-capillary interface.",
+        "Incorrect: Asthma is an obstructive disease from reversible bronchoconstriction, not alveolar destruction, so DLCO is typically normal or increased, not reduced.",
+        "Incorrect: Obesity causes restriction from poor breathing mechanics (extrapulmonary), typically with a normal DLCO."
       ],
-      "overview": "Atypical depression is a subtype of major depressive disorder defined by mood reactivity (the ability to feel better in response to positive events), along with hypersomnia, increased appetite/weight gain, leaden limb heaviness, and interpersonal rejection sensitivity. It is a common subtype and is usually treated with SSRIs, though older studies noted increased response to MAO inhibitors.",
+      "overview": "DLCO measures gas transfer via diffusion-limited CO uptake; it is reduced in conditions destroying alveolar surface area (emphysema) or increasing diffusion distance (fibrosis, edema), but normal in extrapulmonary restrictive causes (obesity, neuromuscular weakness) and in asthma, where obstruction rather than diffusion is the primary problem.",
       "id": "2026-08-30-28"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following is a classic symptom of opioid withdrawal?",
+      "stem": "A 42-year-old nonsmoker presents with progressive dyspnea. Imaging shows emphysematous changes predominantly at the lung bases. Genetic testing confirms alpha-1 antitrypsin deficiency. Which pattern of emphysema is characteristic of this condition?",
       "options": [
-        "Respiratory depression",
-        "Piloerection, rhinorrhea, and lacrimation",
-        "Euphoria and sedation",
-        "Miosis and constipation"
+        "Bullous emphysema affecting only the right lung",
+        "Centriacinar (centrilobular) emphysema affecting the upper lobes",
+        "Paraseptal emphysema affecting the pleural surface only",
+        "Panacinar emphysema affecting the lower lobes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect - respiratory depression is a feature of opioid intoxication/overdose, not withdrawal.",
-        "Correct - opioid withdrawal, beginning 6-12 hours after the last dose, features restlessness, yawning, rhinorrhea, lacrimation, piloerection, nausea/vomiting, abdominal cramps, and diarrhea.",
-        "Incorrect - euphoria and sedation are effects of opioid intoxication, the opposite of the withdrawal state.",
-        "Incorrect - miosis and constipation are effects of opioid intoxication/use, not withdrawal, and patients do not develop tolerance to these effects."
+        "Incorrect: AAT deficiency causes bilateral, diffuse lower lobe panacinar damage, not isolated unilateral bullous disease.",
+        "Incorrect: Centriacinar emphysema affecting the upper lobes is the smoking-related pattern (excess proteases overwhelming normal antiprotease activity), not AAT deficiency.",
+        "Incorrect: Paraseptal emphysema is not the pattern described for AAT deficiency; the classic finding is diffuse panacinar destruction.",
+        "Correct: Alpha-1 antitrypsin deficiency causes a protease-antiprotease imbalance resulting in panacinar emphysema, destroying the entire acinus, characteristically affecting the lower lobes."
       ],
-      "overview": "Opioid withdrawal typically begins 6-12 hours after the last dose in dependent individuals and reverses the CNS, eye, skin, and GI effects of opioids: restlessness, yawning, rhinorrhea, lacrimation, piloerection, and GI symptoms including nausea, vomiting, cramps, and diarrhea. It is generally not life-threatening, unlike alcohol or barbiturate withdrawal.",
+      "overview": "Emphysema results from destruction of alveolar walls due to protease-antiprotease imbalance; smoking causes excess protease production, producing centriacinar emphysema predominantly in the upper lobes, while alpha-1 antitrypsin deficiency causes panacinar emphysema predominantly in the lower lobes. AAT deficiency patients should never smoke, as smoking accelerates lung damage.",
       "id": "2026-08-30-29"
     },
     {
       "format": "vignette5",
-      "stem": "A 26-year-old woman has had several episodes over the past 2 months of sudden intense fear with palpitations, chest tightness, and a feeling of impending doom that resolve within 20 minutes. She has become increasingly reluctant to leave her apartment, stating she is afraid of having one of these episodes somewhere she cannot easily escape or get help. She denies any fear of being judged or embarrassed by others and has no specific object or situation that triggers her fear. Which of the following best describes her avoidance behavior?",
+      "stem": "A 68-year-old man undergoes upper endoscopy with benzocaine topical spray for throat anesthesia. Shortly after the procedure, he develops dyspnea and appears cyanotic. Pulse oximetry reads 85% and does not improve with supplemental oxygen. Arterial blood gas shows PaO2 of 95 mmHg. Blood drawn appears chocolate-brown in color. What is the mechanism of this patient's hypoxia?",
       "options": [
-        "Social anxiety disorder",
-        "Specific phobia",
-        "Separation anxiety disorder",
-        "Agoraphobia",
-        "Generalized anxiety disorder"
+        "Benzocaine has caused bronchospasm leading to V/Q mismatch",
+        "Benzocaine has triggered carboxyhemoglobin formation",
+        "Benzocaine has precipitated an anaphylactic reaction with laryngeal edema",
+        "Benzocaine has oxidized ferrous iron (Fe2+) in hemoglobin to ferric iron (Fe3+), which cannot bind oxygen",
+        "Benzocaine has caused diffuse alveolar damage and ARDS"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - social anxiety disorder involves fear of embarrassment or judgment in social settings, which this patient explicitly denies.",
-        "Incorrect - specific phobia involves fear of a specific object or situation, not a generalized fear of being unable to escape or get help.",
-        "Incorrect - separation anxiety disorder involves distress related to separation from attachment figures, not fear of being unable to escape a public setting.",
-        "Correct - agoraphobia is fear of leaving a safe place due to fear of being unable to escape or get help if symptoms (such as a panic attack) occur, without fear of scrutiny or embarrassment; it commonly co-occurs with panic disorder.",
-        "Incorrect - GAD involves chronic worry about many different events/activities, not situational avoidance tied to fear of panic attacks."
+        "Incorrect: No wheezing is described; bronchospasm would not produce chocolate-brown blood with a normal PaO2.",
+        "Incorrect: Carboxyhemoglobin results from CO exposure, not benzocaine, and produces cherry-red (not brown) blood.",
+        "Incorrect: No stridor, hives, or hemodynamic instability is described; chocolate-brown blood and oxygen-refractory hypoxia are specific to methemoglobinemia.",
+        "Correct: Local anesthetics like benzocaine are a classic cause of acquired methemoglobinemia. Oxidation of heme iron to Fe3+ prevents oxygen binding, causing functional anemia with normal PaO2 but low SaO2, chocolate-brown blood, and oxygen-refractory hypoxia; treated with methylene blue.",
+        "Incorrect: ARDS shows bilateral infiltrates and an abnormal PaO2/FiO2 ratio, not normal PaO2 with brown blood."
       ],
-      "overview": "Agoraphobia is fear of leaving a safe place (e.g., home) due to fear of needing to flee a situation with no help available, distinct from social anxiety disorder's fear of scrutiny/embarrassment. It frequently co-occurs with panic disorder, as patients fear having a panic attack in public. Treatment includes SSRIs, benzodiazepines for infrequent exposure, and exposure-based behavioral therapy.",
+      "overview": "Methemoglobinemia results from oxidation of hemoglobin's iron from Fe2+ to Fe3+, which cannot bind oxygen, producing functional anemia with normal PaO2 but low SaO2, 'chocolate brown' blood, and oxygen-refractory cyanosis. Classic triggers include benzocaine, nitrites/nitric oxide, and dapsone; treatment is methylene blue, a reducing agent.",
       "id": "2026-08-30-30"
     }
   ]
