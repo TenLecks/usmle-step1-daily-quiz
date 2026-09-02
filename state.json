@@ -1,10 +1,7 @@
 {
-  "cycle_index": 14,
-  "cycle_number": 1,
-  "tail_order": [
-    "Reproductive",
-    "Renal"
-  ],
+  "cycle_index": 0,
+  "cycle_number": 2,
+  "tail_order": null,
   "history": {
     "Cardiology": [
       "Quinidine and procainamide, Class IA antiarrhythmics, exert their primary effect by blocking which c",
@@ -453,6 +450,38 @@
       "A 4-year-old girl presents with abdominal pain and a palpable pelvic mass. Ultrasound shows a large,",
       "Which cell type and secreted factor are responsible for regression of the paramesonephric (M\u00fcllerian",
       "A 24-year-old woman at 10 weeks' gestation by last menstrual period presents with hyperemesis gravid"
+    ],
+    "Renal": [
+      "Loop diuretics such as furosemide exert their diuretic effect by inhibiting which transporter, and w",
+      "What is the normal range for the serum anion gap?",
+      "A 29-year-old man is brought to the emergency department after ingesting antifreeze in a suicide att",
+      "Struvite (ammonium-magnesium-phosphate) kidney stones form as a direct consequence of which process?",
+      "Which drug is a classic cause of nephrogenic diabetes insipidus?",
+      "Kimmelstiel-Wilson nodules, seen on renal biopsy in advanced diabetic nephropathy, represent which p",
+      "A 22-year-old woman with type 1 diabetes is brought to the emergency department with confusion, Kuss",
+      "The autoantibodies implicated in primary membranous nephropathy target which podocyte antigen?",
+      "A 24-year-old previously healthy man presents with hemoptysis and hematuria. Urinalysis shows dysmor",
+      "How does the timing of hematuria after an upper respiratory infection help distinguish IgA nephropat",
+      "A 4-year-old boy presents with periorbital and lower extremity edema one week after an upper respira",
+      "Antidiuretic hormone (ADH) increases water permeability of the collecting duct principal cells prima",
+      "What is the primary purpose of Winter's formula in acid-base analysis?",
+      "Which of the following is a classic secondary cause of focal segmental glomerulosclerosis (FSGS)?",
+      "Which EKG finding is classically associated with hypokalemia?",
+      "Calcium oxalate kidney stones classically produce which crystal shape on urine microscopy?",
+      "In the water deprivation/desmopressin test for diabetes insipidus, how does central DI differ from n",
+      "What is typically the earliest EKG change seen in hyperkalemia?",
+      "Electron microscopy in post-streptococcal glomerulonephritis classically shows which finding?",
+      "Aldosterone's action on principal cells of the collecting duct produces which combination of effects",
+      "A 40-year-old man presents to the emergency department with a 3-day history of severe watery diarrhe",
+      "Cystinuria is caused by defective renal tubular reabsorption of which group of amino acids (remember",
+      "A 65-year-old man with a 40-pack-year smoking history and newly diagnosed small cell lung cancer pre",
+      "MPGN type II (dense deposit disease) is characterized by which complement finding on immunofluoresce",
+      "Unlike loop diuretics, thiazide diuretics tend to have what effect on serum calcium?",
+      "A 6-year-old boy presents with polyuria, polydipsia, and muscle weakness. Blood pressure is normal. ",
+      "A 62-year-old man with a 35-pack-year smoking history presents with gross hematuria, a palpable flan",
+      "In a patient with acute kidney injury, a fractional excretion of sodium (FeNa) below 1% is most cons",
+      "A 34-year-old man is brought to the emergency department after being found with an empty bottle of w",
+      "A 38-year-old woman with a history of Sj\u00f6gren's syndrome and recurrent bilateral kidney stones prese"
     ]
   }
 }
