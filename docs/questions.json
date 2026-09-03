@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-02",
-  "subject": "Renal",
+  "date": "2026-09-03",
+  "subject": "Cardiology",
   "questions": [
     {
       "format": "simple4",
-      "stem": "Loop diuretics such as furosemide exert their diuretic effect by inhibiting which transporter, and where?",
+      "stem": "Which of the following ECG changes is most characteristic of early hyperkalemia?",
       "options": [
-        "The Na+-Cl- cotransporter in the distal convoluted tubule",
-        "Carbonic anhydrase in the proximal tubule",
-        "The epithelial sodium channel (ENaC) in the collecting duct",
-        "The Na+-K+-2Cl- cotransporter in the thick ascending limb"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 this describes the mechanism of thiazide diuretics, which act at the distal convoluted tubule and are weaker diuretics than loop diuretics.",
-        "Incorrect \u2014 carbonic anhydrase inhibition (e.g., acetazolamide) occurs in the proximal tubule and is a much weaker diuretic mechanism than loop diuretics.",
-        "Incorrect \u2014 ENaC blockade in the collecting duct describes the mechanism of potassium-sparing diuretics like amiloride and triamterene, not loop diuretics.",
-        "Correct \u2014 loop diuretics inhibit the Na+-K+-2Cl- cotransporter (NKCC2) in the thick ascending limb of the loop of Henle, disrupting the medullary concentrating gradient and producing a powerful diuretic effect, along with hypokalemia, hypocalcemia, and hypomagnesemia due to loss of the lumen-positive potential that normally drives paracellular Ca2+/Mg2+ reabsorption."
-      ],
-      "overview": "Loop diuretics (furosemide, bumetanide, torsemide, ethacrynic acid) inhibit the Na+-K+-2Cl- cotransporter in the thick ascending limb, disrupting the medullary concentrating gradient and producing powerful diuresis. Adverse effects include hypokalemia, metabolic (contraction) alkalosis, hypocalcemia, hypomagnesemia, ototoxicity, and gout.",
-      "id": "2026-09-02-01"
-    },
-    {
-      "format": "simple4",
-      "stem": "What is the normal range for the serum anion gap?",
-      "options": [
-        "8-12 mEq/L",
-        "0-4 mEq/L",
-        "15-20 mEq/L",
-        "20-25 mEq/L"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 the normal anion gap, calculated as Na+ - (Cl- + HCO3-), reflects unmeasured anions such as albumin, phosphate, and sulfate, and normally ranges from 8 to 12 mEq/L.",
-        "Incorrect \u2014 this range is too low to represent the normal contribution of unmeasured anions like albumin.",
-        "Incorrect \u2014 this range is elevated and would suggest an anion gap metabolic acidosis (e.g., from ketoacids, lactate, toxins, or uremia), not a normal value.",
-        "Incorrect \u2014 this range represents a markedly elevated anion gap, consistent with severe anion gap acidosis, not the normal reference range."
-      ],
-      "overview": "The anion gap (Na+ minus the sum of Cl- and HCO3-) estimates unmeasured anions in the plasma, primarily albumin, and normally ranges from 8 to 12 mEq/L. An elevated anion gap points toward accumulation of an acid such as ketoacids, lactate, uremic toxins, or ingested toxins (the GOLDMARK causes), while a normal anion gap with acidosis suggests bicarbonate loss or chloride retention (hyperchloremic metabolic acidosis).",
-      "id": "2026-09-02-02"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 29-year-old man is brought to the emergency department after ingesting antifreeze in a suicide attempt. He is lethargic. Labs reveal an anion gap metabolic acidosis and acute kidney injury with oliguria. Urinalysis shows envelope-shaped crystals. What toxic metabolite is primarily responsible for his renal injury?",
-      "options": [
-        "Glycolate and oxalate",
-        "Formic acid",
-        "Acetone",
-        "Salicylate",
-        "Lactate"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 ethylene glycol (found in antifreeze) is metabolized by alcohol dehydrogenase to glycolate (directly toxic to renal tubular cells) and oxalate (which precipitates as calcium oxalate crystals, causing envelope-shaped crystalluria and further tubular injury), explaining the acute kidney injury and flank pain seen in ethylene glycol poisoning.",
-        "Incorrect \u2014 formic acid is the toxic metabolite of methanol, which causes CNS and retinal (visual) toxicity rather than the renal failure and oxalate crystalluria described here.",
-        "Incorrect \u2014 acetone is a metabolite of isopropyl alcohol, which causes ketosis without a significant anion gap metabolic acidosis, unlike this patient's presentation.",
-        "Incorrect \u2014 salicylate itself causes a mixed respiratory alkalosis/anion gap metabolic acidosis but is not associated with antifreeze ingestion or oxalate crystalluria.",
-        "Incorrect \u2014 lactate accumulates in states of tissue hypoperfusion or certain toxin exposures (e.g., isoniazid, iron), but it is not the toxin specifically implicated in antifreeze/ethylene glycol nephrotoxicity."
-      ],
-      "overview": "Ethylene glycol (antifreeze) is metabolized by alcohol dehydrogenase to glycolate and oxalate, causing an anion gap metabolic acidosis, direct renal tubular toxicity from glycolate, and calcium oxalate crystal precipitation (classically envelope- or dumbbell-shaped) leading to acute kidney injury. Treatment includes fomepizole (a competitive alcohol dehydrogenase inhibitor) and hemodialysis to remove the parent compound and toxic metabolites.",
-      "id": "2026-09-02-03"
-    },
-    {
-      "format": "simple4",
-      "stem": "Struvite (ammonium-magnesium-phosphate) kidney stones form as a direct consequence of which process?",
-      "options": [
-        "Infection with urease-positive bacteria such as Proteus",
-        "Idiopathic hypercalciuria",
-        "Chronic hyperuricemia",
-        "An inherited defect in renal cystine reabsorption"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 struvite stones form as a consequence of urinary tract infection with urease-positive organisms (Proteus, Klebsiella, Staph saprophyticus), which hydrolyze urea to ammonia, alkalinizing the urine and promoting precipitation of ammonium-magnesium-phosphate crystals; these stones can form large 'staghorn' calculi.",
-        "Incorrect \u2014 hypercalciuria is the classic risk factor for calcium oxalate/phosphate stones, not struvite stones, which are specifically linked to urease-producing bacterial infection.",
-        "Incorrect \u2014 hyperuricemia leads to uric acid stones, which form in acidic urine and are distinct from the infection-driven, alkaline-urine mechanism of struvite stones.",
-        "Incorrect \u2014 an inherited cystine transport defect (cystinuria) causes cystine stones, an entirely separate mechanism from the infection-driven struvite stone process."
-      ],
-      "overview": "Struvite stones form when urease-producing bacteria (Proteus, Klebsiella, Staph saprophyticus) hydrolyze urea into ammonia, alkalinizing the urine and precipitating ammonium-magnesium-phosphate crystals with a characteristic 'coffin-lid' shape. These stones are associated with recurrent UTIs, can form large staghorn calculi filling the renal pelvis and calyces, and typically require surgical removal plus antibiotics since they act as a bacterial reservoir.",
-      "id": "2026-09-02-04"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which drug is a classic cause of nephrogenic diabetes insipidus?",
-      "options": [
-        "Lisinopril",
-        "Lithium",
-        "Furosemide",
-        "Spironolactone"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 lisinopril is an ACE inhibitor used for hypertension and does not impair renal ADH responsiveness.",
-        "Correct \u2014 lithium is a classic cause of nephrogenic diabetes insipidus, impairing the kidney's response to ADH by downregulating aquaporin-2 channels in the collecting duct, leading to polyuria and polydipsia.",
-        "Incorrect \u2014 furosemide is a loop diuretic that can cause volume depletion and electrolyte disturbances, but it is not a classic cause of nephrogenic DI.",
-        "Incorrect \u2014 spironolactone is a potassium-sparing diuretic/aldosterone antagonist, not a recognized cause of nephrogenic diabetes insipidus."
-      ],
-      "overview": "Nephrogenic diabetes insipidus results from renal resistance to ADH, causing polyuria with dilute urine despite adequate or elevated ADH levels. Classic causes include lithium and amphotericin B (both downregulate aquaporin-2 channels), as well as hypercalcemia and severe hypokalemia; treatment involves addressing the underlying cause, sodium/water restriction, and paradoxically, thiazide diuretics or indomethacin.",
-      "id": "2026-09-02-05"
-    },
-    {
-      "format": "simple4",
-      "stem": "Kimmelstiel-Wilson nodules, seen on renal biopsy in advanced diabetic nephropathy, represent which pathologic process?",
-      "options": [
-        "Subepithelial immune complex deposition",
-        "Nodular mesangial expansion/glomerulosclerosis",
-        "Amyloid deposition with apple-green birefringence",
-        "Crescent formation from GBM rupture"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 subepithelial immune complex deposition describes membranous nephropathy or post-streptococcal GN pathology, not the mesangial process seen in diabetic nephropathy.",
-        "Correct \u2014 Kimmelstiel-Wilson nodules are pink, nodular areas of mesangial expansion and glomerulosclerosis caused by advanced glycosylation end products (AGEs) from chronic hyperglycemia, representing a late-stage finding in diabetic nephropathy.",
-        "Incorrect \u2014 apple-green birefringence with Congo red staining is characteristic of amyloidosis, a separate cause of nephrotic syndrome that can be distinguished histologically from diabetic Kimmelstiel-Wilson nodules.",
-        "Incorrect \u2014 crescent formation is the hallmark of rapidly progressive glomerulonephritis (RPGN), a distinct and more acute/severe process from the chronic, slowly progressive changes of diabetic nephropathy."
-      ],
-      "overview": "Diabetic nephropathy is the most common cause of end-stage renal disease in the US, progressing from early hyperfiltration through microalbuminuria to overt nephropathy with nodular glomerulosclerosis (Kimmelstiel-Wilson nodules) caused by non-enzymatic glycosylation and advanced glycosylation end products (AGEs), and finally to chronic kidney disease/ESRD.",
-      "id": "2026-09-02-06"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 22-year-old woman with type 1 diabetes is brought to the emergency department with confusion, Kussmaul respirations, and fruity breath odor. Labs show glucose 480 mg/dL, pH 7.10, HCO3- 8 mEq/L, and serum potassium 6.2 mEq/L. Despite the hyperkalemia, her total body potassium is markedly depleted. What is the best explanation for the elevated serum potassium in this setting?",
-      "options": [
-        "She has underlying chronic kidney disease impairing potassium excretion",
-        "She is taking a potassium-sparing diuretic",
-        "Rhabdomyolysis is releasing intracellular potassium",
-        "Insulin deficiency and acidosis promote a transcellular shift of potassium out of cells",
-        "Increased aldosterone secretion promotes renal potassium retention"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 there is no history or lab evidence of chronic kidney disease provided in this vignette; the mechanism of hyperkalemia in DKA is a transcellular shift, not impaired excretion.",
-        "Incorrect \u2014 there is no mention of diuretic use, and potassium-sparing diuretics are not part of the classic DKA presentation.",
-        "Incorrect \u2014 there is no indication of rhabdomyolysis (e.g., elevated CK, myalgias) in this vignette; the hyperkalemia here is explained by the well-described insulin deficiency/acidosis shift mechanism of DKA.",
-        "Correct \u2014 in DKA, insulin deficiency removes the stimulus for Na+/K+-ATPase activity (which normally drives K+ into cells), and the severe acidosis causes H+ to shift into cells in exchange for K+ moving out, both raising serum potassium acutely even though osmotic diuresis from hyperglycemia has caused substantial total body potassium losses.",
-        "Incorrect \u2014 aldosterone promotes potassium excretion (lowering serum K+), so increased aldosterone would not explain hyperkalemia; furthermore, DKA is not classically associated with hyperaldosteronism."
-      ],
-      "overview": "In diabetic ketoacidosis, insulin deficiency and severe metabolic acidosis cause a transcellular shift of potassium from the intracellular to extracellular space, resulting in a normal or elevated serum potassium despite significant total body potassium depletion from osmotic diuresis and vomiting. This is why insulin therapy in DKA management can precipitously drop serum potassium, requiring careful monitoring and repletion.",
-      "id": "2026-09-02-07"
-    },
-    {
-      "format": "simple4",
-      "stem": "The autoantibodies implicated in primary membranous nephropathy target which podocyte antigen?",
-      "options": [
-        "C3 convertase",
-        "Type IV collagen alpha-3 chain",
-        "Phospholipase A2 receptor (PLA2R)",
-        "Double-stranded DNA"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect \u2014 C3 nephritic factor stabilizes C3 convertase in complement-mediated MPGN (dense deposit disease), not membranous nephropathy.",
-        "Incorrect \u2014 antibodies against the alpha-3 chain of type IV collagen cause anti-GBM (Goodpasture) disease, a nephritic disease with linear immunofluorescence, not membranous nephropathy.",
-        "Correct \u2014 primary (idiopathic) membranous nephropathy is associated with autoantibodies against the phospholipase A2 receptor (PLA2R) expressed on podocytes, leading to subepithelial immune complex deposition and the characteristic 'spike and dome' appearance on electron microscopy.",
-        "Incorrect \u2014 anti-dsDNA antibodies are associated with SLE and lupus nephritis, not primary membranous nephropathy."
-      ],
-      "overview": "Membranous nephropathy is an immune-complex nephrotic disease caused primarily by autoantibodies against the PLA2R antigen on podocytes, leading to subepithelial deposits with a 'spike and dome' pattern on electron microscopy and granular IgG/C3 on immunofluorescence. Secondary causes include SLE, solid tumors, hepatitis B/C, and certain drugs (penicillamine, gold, NSAIDs).",
-      "id": "2026-09-02-08"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 24-year-old previously healthy man presents with hemoptysis and hematuria. Urinalysis shows dysmorphic red blood cells and red cell casts. Serum creatinine is elevated. Renal biopsy shows crescent formation on light microscopy and linear IgG deposition along the glomerular basement membrane on immunofluorescence. What is the target of the pathogenic antibody in this condition?",
-      "options": [
-        "Phospholipase A2 receptor on podocytes",
-        "Neutrophil cytoplasmic antigens (myeloperoxidase/proteinase-3)",
-        "Streptococcal M protein",
-        "Alpha-3 chain of type IV collagen",
-        "Double-stranded DNA"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 PLA2R is the target antigen in membranous nephropathy, a nephrotic (not nephritic/crescentic) disease that would show subepithelial granular deposits, not linear IF or hemoptysis.",
-        "Incorrect \u2014 ANCA (against MPO/PR3) causes pauci-immune RPGN (type III) with negative immunofluorescence, not linear IgG deposition.",
-        "Incorrect \u2014 streptococcal antigens are implicated in post-streptococcal GN, which shows granular IF with subepithelial 'humps,' not linear IgG, and is not associated with hemoptysis.",
-        "Correct \u2014 this is Goodpasture syndrome (anti-GBM disease), a type of rapidly progressive glomerulonephritis (RPGN type I) caused by antibodies against the alpha-3 chain of type IV collagen, found in both the glomerular and alveolar basement membranes, explaining the combination of hemoptysis and nephritic syndrome; linear IgG on immunofluorescence is the classic biopsy finding.",
-        "Incorrect \u2014 anti-dsDNA antibodies are seen in lupus nephritis, which shows granular 'full house' immunofluorescence (IgG, IgA, IgM, C3, C1q), not linear IgG, and does not typically cause hemoptysis."
-      ],
-      "overview": "Goodpasture syndrome (anti-GBM disease) is a type II hypersensitivity reaction in which autoantibodies target the alpha-3 chain of type IV collagen shared by the glomerular and alveolar basement membranes, producing the classic combination of pulmonary hemorrhage (hemoptysis) and rapidly progressive glomerulonephritis. Renal biopsy characteristically shows crescents on light microscopy and linear IgG deposition on immunofluorescence, distinguishing it from immune-complex (granular IF) and pauci-immune ANCA-associated (negative IF) causes of RPGN.",
-      "id": "2026-09-02-09"
-    },
-    {
-      "format": "simple4",
-      "stem": "How does the timing of hematuria after an upper respiratory infection help distinguish IgA nephropathy from post-streptococcal glomerulonephritis?",
-      "options": [
-        "Both conditions have identical timing of onset",
-        "IgA nephropathy has a 1-3 week latent period, while PSGN occurs within 1-2 days",
-        "Neither condition has a temporal relationship to infection",
-        "IgA nephropathy causes hematuria within 1-2 days of infection, while PSGN has a latent period of 1-3 weeks"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 the differing latency period is a key distinguishing clinical clue between these two conditions on board exams.",
-        "Incorrect \u2014 this reverses the actual timing; IgA nephropathy has the rapid (1-2 day) onset, and PSGN has the delayed (1-3 week) latent period.",
-        "Incorrect \u2014 both conditions have well-described temporal relationships to preceding infections, which is a classic testable distinction.",
-        "Correct \u2014 IgA nephropathy (Berger disease) classically presents with gross hematuria occurring within 1-2 days of a mucosal (respiratory or GI) infection, reflecting an abnormal mucosal IgA immune response, whereas post-streptococcal GN has a latent period of 1-3 weeks as antibodies form and immune complexes deposit in the glomeruli."
-      ],
-      "overview": "IgA nephropathy (Berger disease) is caused by abnormal mucosal IgA production forming immune complexes that deposit in the mesangium, causing recurrent gross hematuria typically within 1-2 days of a mucosal infection, in contrast to the 1-3 week latent period of post-streptococcal glomerulonephritis. IgA nephropathy shows mesangial IgA deposits on immunofluorescence and can recur over a patient's lifetime, sometimes progressing to chronic kidney disease.",
-      "id": "2026-09-02-10"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 4-year-old boy presents with periorbital and lower extremity edema one week after an upper respiratory infection. Urinalysis shows 4+ protein without red blood cells. 24-hour urine protein is 4.2 g/day. Serum albumin is low and cholesterol is elevated. Renal biopsy shows normal light microscopy and negative immunofluorescence. What would electron microscopy most likely show?",
-      "options": [
-        "Mesangial expansion with Kimmelstiel-Wilson nodules",
-        "Linear deposition of IgG along the basement membrane",
-        "Subepithelial electron-dense deposits with spike and dome appearance",
-        "Diffuse effacement of podocyte foot processes",
-        "Subendothelial immune complex deposits with tram-track appearance"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 Kimmelstiel-Wilson nodules are seen in diabetic nephropathy, which requires a history of long-standing diabetes and would not present acutely following a URI in a young child.",
-        "Incorrect \u2014 linear IgG deposition is characteristic of anti-GBM (Goodpasture) disease, which causes a nephritic/RPGN picture with hematuria, not isolated nephrotic syndrome.",
-        "Incorrect \u2014 subepithelial deposits with a 'spike and dome' appearance are characteristic of membranous nephropathy, which is more common in adults and shows granular IgG/C3 on immunofluorescence, not negative IF.",
-        "Correct \u2014 this is a classic presentation of minimal change disease (most common cause of nephrotic syndrome in children, often triggered by a preceding viral URI), which shows normal light microscopy, negative/minimal immunofluorescence, and diffuse podocyte foot process effacement on electron microscopy, representing loss of the GBM charge barrier.",
-        "Incorrect \u2014 subendothelial deposits with tram-track appearance describe MPGN, which typically presents with nephritic features (hematuria, red cell casts) and hypocomplementemia, not isolated nephrotic syndrome with negative IF."
-      ],
-      "overview": "Minimal change disease is the most common cause of nephrotic syndrome in children, often idiopathic or triggered by a recent viral infection, allergic reaction, or immunization. It is caused by podocyte injury with loss of the glomerular basement membrane's negative charge barrier, producing selective proteinuria (albumin only). Light microscopy and immunofluorescence are normal/negative; only electron microscopy reveals diffuse foot process effacement, and the disease is notable for its excellent response to steroids.",
-      "id": "2026-09-02-11"
-    },
-    {
-      "format": "simple4",
-      "stem": "Antidiuretic hormone (ADH) increases water permeability of the collecting duct principal cells primarily through which mechanism?",
-      "options": [
-        "Insertion of aquaporin-2 channels into the apical membrane",
-        "Activation of the epithelial sodium channel (ENaC)",
-        "Upregulation of the Na+-K+-2Cl- cotransporter",
-        "Insertion of aquaporin-1 channels into the basolateral membrane"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 ADH binds V2 receptors on the basolateral membrane of collecting duct principal cells, triggering a cAMP-mediated signaling cascade that causes vesicles containing aquaporin-2 channels to fuse with the apical membrane, increasing water permeability and allowing water reabsorption along the medullary osmotic gradient.",
-        "Incorrect \u2014 ENaC activation is primarily regulated by aldosterone (mediating sodium, not water, transport), not by ADH.",
-        "Incorrect \u2014 the Na+-K+-2Cl- cotransporter is located in the thick ascending limb and is not regulated by ADH; it establishes the medullary concentration gradient rather than mediating water reabsorption directly.",
-        "Incorrect \u2014 aquaporin-1 channels are constitutively present in the proximal tubule and descending limb and are not regulated by ADH; ADH-regulated aquaporin-2 is inserted into the apical (not basolateral) membrane of principal cells."
-      ],
-      "overview": "ADH (vasopressin) acts on V2 receptors on the basolateral membrane of collecting duct principal cells, activating a cAMP second messenger pathway that causes aquaporin-2 water channels to be inserted into the apical membrane, increasing water reabsorption. This response allows the kidney to produce concentrated urine in states of hyperosmolality or volume depletion, while lack of ADH (or renal resistance to it) causes diabetes insipidus with dilute urine.",
-      "id": "2026-09-02-12"
-    },
-    {
-      "format": "simple4",
-      "stem": "What is the primary purpose of Winter's formula in acid-base analysis?",
-      "options": [
-        "To calculate the expected respiratory compensation (pCO2) for a primary metabolic acidosis",
-        "To calculate the fractional excretion of sodium",
-        "To calculate the anion gap",
-        "To calculate the expected metabolic compensation (HCO3-) for a primary respiratory acidosis"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 Winter's formula (pCO2 = 1.5 \u00d7 HCO3- + 8 \u00b1 2) predicts the expected respiratory compensation for a primary metabolic acidosis; if the measured pCO2 deviates from this predicted range, a second (respiratory) acid-base disorder is present.",
-        "Incorrect \u2014 fractional excretion of sodium (FeNa) is calculated using plasma and urine creatinine and sodium concentrations, unrelated to Winter's formula.",
-        "Incorrect \u2014 the anion gap is calculated as Na+ - (Cl- + HCO3-), a separate calculation from Winter's formula.",
-        "Incorrect \u2014 this describes the acute/chronic respiratory acidosis compensation formulas, which are distinct from Winter's formula and used for a different primary disorder."
-      ],
-      "overview": "Winter's formula (pCO2 = 1.5 \u00d7 [HCO3-] + 8 \u00b1 2) is used to determine whether the respiratory compensation for a primary metabolic acidosis is appropriate. A measured pCO2 higher than predicted suggests a concomitant respiratory acidosis, while a lower than predicted pCO2 suggests a concomitant respiratory alkalosis.",
-      "id": "2026-09-02-13"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which of the following is a classic secondary cause of focal segmental glomerulosclerosis (FSGS)?",
-      "options": [
-        "Hepatitis B infection",
-        "HIV infection",
-        "Streptococcal pharyngitis",
-        "Systemic lupus erythematosus"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 hepatitis B is classically associated with membranous nephropathy (and MPGN with hepatitis C), not FSGS.",
-        "Correct \u2014 HIV-associated nephropathy is a well-known secondary cause of FSGS, along with other causes such as sickle cell disease, severe obesity, heroin use, and loss of nephron mass; FSGS is characterized by podocyte injury with focal, segmental glomerulosclerosis and foot process effacement.",
-        "Incorrect \u2014 streptococcal pharyngitis is associated with post-streptococcal glomerulonephritis, a nephritic disease, not FSGS.",
-        "Incorrect \u2014 SLE causes lupus nephritis (various classes, most classically diffuse proliferative GN), not FSGS as its classic association."
-      ],
-      "overview": "FSGS is a podocyte disorder causing nephrotic syndrome, either idiopathic or secondary to conditions like HIV infection, sickle cell disease, severe obesity, heroin use, or reduced nephron mass. Biopsy shows focal and segmental sclerosis with hyalinosis on light microscopy and podocyte foot process effacement on electron microscopy, with a generally poor prognosis and progression to chronic kidney disease in a significant proportion of patients.",
-      "id": "2026-09-02-14"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which EKG finding is classically associated with hypokalemia?",
-      "options": [
-        "Widened QRS complex",
-        "Shortened QT interval",
-        "U waves",
+        "Prolonged QT interval",
+        "Flattened T waves and U waves",
+        "Delta wave",
         "Peaked T waves"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect \u2014 QRS widening is a finding of more advanced hyperkalemia, not a classic feature of hypokalemia.",
-        "Incorrect \u2014 hypokalemia is associated with a prolonged, not shortened, QT interval and increased arrhythmia risk.",
-        "Correct \u2014 hypokalemia classically produces flattened T waves and prominent U waves on EKG, along with an increased risk of arrhythmias such as PACs, PVCs, and AV block.",
-        "Incorrect \u2014 peaked T waves are a hallmark of hyperkalemia, not hypokalemia, which instead causes flattened T waves."
+        "Hyperkalemia does not classically cause QT prolongation; that finding is more associated with hypocalcemia or certain antiarrhythmic drugs.",
+        "Flattened T waves with prominent U waves are characteristic of hypokalemia, not hyperkalemia.",
+        "A delta wave is seen in WPW syndrome due to pre-excitation and is unrelated to potassium levels.",
+        "Correct: peaked T waves are a classic early ECG finding in hyperkalemia, reflecting altered myocyte repolarization from elevated extracellular potassium."
       ],
-      "overview": "Hypokalemia causes muscle weakness and cardiac arrhythmias, with characteristic EKG findings of flattened T waves and U waves, in contrast to the peaked T waves seen in hyperkalemia. Common causes include diuretics, GI losses (vomiting, diarrhea), insulin/beta-agonist therapy, and hypomagnesemia (which prevents correction of hypokalemia until magnesium is repleted).",
-      "id": "2026-09-02-15"
+      "overview": "Potassium abnormalities produce characteristic T wave changes: hyperkalemia causes peaked T waves (and can progress to QRS widening and a sine-wave pattern with severe elevation), while hypokalemia causes flattened T waves with prominent U waves. These findings are important because severe electrolyte derangements can precipitate life-threatening arrhythmias.",
+      "id": "2026-09-03-01"
     },
     {
-      "format": "simple4",
-      "stem": "Calcium oxalate kidney stones classically produce which crystal shape on urine microscopy?",
+      "format": "vignette5",
+      "stem": "A 55-year-old man with a history of mediastinal radiation therapy for Hodgkin lymphoma 15 years ago presents with progressive dyspnea, lower extremity edema, and abdominal distension. Exam reveals jugular venous distension that increases with inspiration and an early diastolic sound following S2. Which of the following is the most likely diagnosis?",
       "options": [
-        "Rhomboid or rosette-shaped crystals",
-        "Hexagonal crystals",
-        "Coffin-lid shaped crystals",
-        "Envelope- or dumbbell-shaped crystals"
+        "Acute pericarditis",
+        "Dilated cardiomyopathy",
+        "Cardiac tamponade",
+        "Constrictive pericarditis",
+        "Restrictive cardiomyopathy"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect \u2014 rhomboid or rosette-shaped crystals are characteristic of uric acid stones, which form in settings of high uric acid excretion or acidic urine.",
-        "Incorrect \u2014 hexagonal crystals are characteristic of cystine stones, seen in the inherited disorder cystinuria.",
-        "Incorrect \u2014 coffin-lid shaped crystals are characteristic of struvite (ammonium-magnesium-phosphate) stones, which form in the setting of urease-positive bacterial infections.",
-        "Correct \u2014 calcium oxalate stones classically form envelope-shaped crystals (calcium oxalate dihydrate) or dumbbell-shaped crystals (calcium oxalate monohydrate) on urine microscopy, and are the most common type of kidney stone, radiopaque on imaging."
+        "Acute pericarditis presents with pleuritic chest pain and diffuse ST elevations, not chronic right heart failure signs with Kussmaul's sign.",
+        "Dilated cardiomyopathy would show an S3, cardiomegaly, and reduced systolic function rather than Kussmaul's sign and a knock.",
+        "Tamponade classically produces pulsus paradoxus, not Kussmaul's sign, and is not associated with prior mediastinal radiation as a chronic scarring process.",
+        "Correct: prior mediastinal radiation is a classic cause of constrictive pericarditis; Kussmaul's sign (JVP rising with inspiration) and a pericardial knock (early diastolic sound after S2) are characteristic findings.",
+        "Restrictive cardiomyopathy can also show Kussmaul's sign, but the pericardial knock plus prior mediastinal radiation (a classic cause of pericardial scarring) point specifically to constrictive pericarditis."
       ],
-      "overview": "Calcium oxalate stones are the most common type of kidney stone, forming envelope- or dumbbell-shaped crystals and appearing radiopaque on imaging. Risk factors include hypercalciuria (idiopathic, hypercalcemia, hyperparathyroidism), hyperoxaluria (fat malabsorption states, vitamin C excess), hypocitraturia, and low urine volume, and treatment includes hydration, low-sodium diet, thiazide diuretics, and citrate supplementation.",
-      "id": "2026-09-02-16"
+      "overview": "Constrictive pericarditis results from a fibrotic, calcified, non-compliant pericardium, often caused by prior pericarditis, cardiac surgery, tuberculosis, or mediastinal radiation. It presents with prominent right heart failure signs, Kussmaul's sign (a paradoxical rise in JVP with inspiration), and a pericardial knock, distinguishing it from tamponade, which classically shows pulsus paradoxus rather than Kussmaul's sign.",
+      "id": "2026-09-03-02"
     },
     {
       "format": "simple4",
-      "stem": "In the water deprivation/desmopressin test for diabetes insipidus, how does central DI differ from nephrogenic DI in response to desmopressin administration?",
+      "stem": "Thoracic aortic aneurysms of the ascending aorta are most classically associated with which underlying process, distinguishing them from abdominal aortic aneurysms?",
       "options": [
-        "Nephrogenic DI shows urine concentration with desmopressin; central DI does not",
-        "Neither type responds to desmopressin",
-        "Both types show equal urine concentration with desmopressin",
-        "Central DI shows urine concentration with desmopressin; nephrogenic DI does not concentrate urine"
+        "Cystic medial necrosis",
+        "Atherosclerosis of the infrarenal aorta",
+        "Chronic venous stasis",
+        "Rheumatic valvulitis"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect \u2014 this reverses the correct relationship; nephrogenic DI is defined by lack of renal response to ADH/desmopressin, while central DI responds because the renal receptors are intact.",
-        "Incorrect \u2014 central DI does respond to desmopressin with urine concentration, which is the basis of the diagnostic test.",
-        "Incorrect \u2014 the differential response to desmopressin is precisely what allows clinicians to distinguish between the two forms of DI.",
-        "Correct \u2014 desmopressin is an ADH analog; in central DI, the kidneys are functionally normal but lack endogenous ADH, so exogenous desmopressin activates renal V2 receptors and concentrates the urine, while in nephrogenic DI the kidneys are unresponsive to ADH regardless of source, so urine remains dilute despite desmopressin administration."
+        "Correct: ascending thoracic aortic aneurysms are classically associated with cystic medial necrosis (degeneration of the medial layer), accelerated by hypertension, bicuspid aortic valve, or Marfan syndrome.",
+        "Atherosclerosis of the infrarenal aorta is the classic association with abdominal aortic aneurysms, not ascending thoracic aneurysms.",
+        "Venous stasis is unrelated to arterial aneurysm formation.",
+        "Rheumatic valvulitis affects heart valves and is not the classic mechanism behind thoracic aortic aneurysm formation."
       ],
-      "overview": "The water deprivation/desmopressin test distinguishes causes of polyuria: primary polydipsia concentrates urine with water deprivation alone (since ADH is intact but suppressed), central DI fails to concentrate with water deprivation but does concentrate after desmopressin (since the kidney is ADH-responsive), and nephrogenic DI fails to concentrate urine even after desmopressin because the kidney cannot respond to ADH.",
-      "id": "2026-09-02-17"
+      "overview": "Thoracic aortic aneurysms, especially of the ascending aorta, are associated with cystic medial necrosis, a degenerative process accelerated by hypertension, bicuspid aortic valve, and connective tissue disorders like Marfan syndrome. In contrast, abdominal aortic aneurysms are classically linked to atherosclerosis, most commonly affecting the infrarenal aorta, and share risk factors such as smoking, older age, and male sex.",
+      "id": "2026-09-03-03"
     },
     {
       "format": "simple4",
-      "stem": "What is typically the earliest EKG change seen in hyperkalemia?",
+      "stem": "Sustained pressure applied to the abdomen causing a significant rise in jugular venous pressure (hepatojugular reflux) is a sign of which condition?",
       "options": [
-        "Sine wave pattern",
-        "Flattened T waves",
-        "Peaked T waves",
-        "Widened QRS complex"
+        "Aortic stenosis",
+        "Mitral valve prolapse",
+        "Right heart failure",
+        "Hypertrophic cardiomyopathy"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect \u2014 a sine wave pattern indicates severe, advanced hyperkalemia with high risk of imminent cardiac arrest, not the earliest finding.",
-        "Incorrect \u2014 flattened T waves are seen in hypokalemia, not hyperkalemia; hyperkalemia produces peaked, not flattened, T waves.",
-        "Correct \u2014 peaked ('tent-shaped') T waves are the earliest EKG manifestation of hyperkalemia, reflecting shortened repolarization; as hyperkalemia worsens, QRS widening and eventually a sine wave pattern develop, indicating high risk for ventricular arrhythmia or asystole.",
-        "Incorrect \u2014 QRS widening is a later, more advanced finding in hyperkalemia, occurring after peaked T waves as potassium levels rise further."
+        "Aortic stenosis is a left-sided valve lesion causing left ventricular pressure overload, not classically assessed via hepatojugular reflux.",
+        "Mitral valve prolapse causes a systolic click and possible regurgitation, not right heart failure signs like hepatojugular reflux.",
+        "Correct: in a failing right ventricle that cannot accommodate the increased venous return from abdominal compression, jugular venous pressure rises more than the normal 1-3 cm, indicating hepatojugular reflux.",
+        "HCM causes left ventricular outflow obstruction, not primarily right heart failure signs."
       ],
-      "overview": "Hyperkalemia produces a progressive sequence of EKG changes as serum potassium rises: peaked T waves appear earliest, followed by PR prolongation, QRS widening, and ultimately a sine wave pattern that precedes ventricular fibrillation or asystole. Because the potassium level at which these changes occur varies between individuals, EKG is the key test used to identify patients at high risk regardless of the absolute potassium value.",
-      "id": "2026-09-02-18"
+      "overview": "Hepatojugular reflux is elicited by applying sustained pressure to the abdomen; normally this raises JVP transiently by only 1-3 cm, but in right ventricular failure the noncompliant, overloaded right heart cannot accommodate the increased venous return, causing a sustained, exaggerated rise in JVP \u2014 a useful bedside sign of right heart failure.",
+      "id": "2026-09-03-04"
     },
     {
       "format": "simple4",
-      "stem": "Electron microscopy in post-streptococcal glomerulonephritis classically shows which finding?",
+      "stem": "The accessory pathway responsible for pre-excitation in Wolff-Parkinson-White syndrome is known by which name?",
       "options": [
-        "Linear basement membrane staining",
-        "Subepithelial \"humps\"",
-        "Subendothelial deposits",
-        "Diffuse podocyte foot process effacement without deposits"
+        "Bundle of Kent",
+        "Bachmann's bundle",
+        "James fiber",
+        "Bundle of His"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: the Bundle of Kent is the accessory atrioventricular pathway in WPW that bypasses the AV node, causing early ventricular depolarization (pre-excitation) seen as a delta wave and short PR interval.",
+        "Bachmann's bundle is involved in normal interatrial conduction, not in WPW.",
+        "James fibers are associated with a different pre-excitation pattern, not the classic WPW accessory pathway discussed here.",
+        "The Bundle of His is part of the normal cardiac conduction system, not an accessory pathway."
+      ],
+      "overview": "WPW syndrome results from an accessory atrioventricular pathway called the Bundle of Kent, which conducts impulses from the atria to the ventricles while bypassing the normal AV nodal delay. This causes pre-excitation, manifesting on ECG as a short PR interval and a delta wave, and predisposes to AV reentrant tachycardias.",
+      "id": "2026-09-03-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "Ranolazine reduces myocardial oxygen demand and angina symptoms primarily by inhibiting which current?",
+      "options": [
+        "Delayed rectifier potassium current",
+        "Funny current (If)",
+        "Late sodium current",
+        "L-type calcium current"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Delayed rectifier potassium channel blockade is the mechanism of Class III antiarrhythmics; it is not ranolazine's primary anti-anginal mechanism.",
+        "The funny current is blocked by ivabradine to reduce heart rate, not by ranolazine.",
+        "Correct: ranolazine inhibits the late sodium current, reducing intracellular calcium overload and myocardial wall tension, thereby lowering oxygen demand.",
+        "L-type calcium channel blockade is the mechanism of calcium channel blockers (verapamil, diltiazem, nifedipine), not ranolazine."
+      ],
+      "overview": "Ranolazine is an anti-anginal drug that inhibits the late sodium current in cardiac myocytes, reducing intracellular calcium overload (via reduced reverse Na/Ca exchange), which lowers wall tension and myocardial oxygen demand without significantly affecting heart rate or blood pressure. Notable side effects include constipation, dizziness, and QT prolongation.",
+      "id": "2026-09-03-06"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old pregnant woman at 28 weeks gestation presents with progressive dyspnea on exertion. She recalls a childhood history of joint pains and fevers without a formal diagnosis. Auscultation reveals an opening snap followed by a low-pitched diastolic rumbling murmur best heard at the apex. Which of the following is the most likely underlying etiology?",
+      "options": [
+        "Congenital cleft mitral valve",
+        "Carcinoid syndrome",
+        "Myxomatous degeneration",
+        "Rheumatic heart disease",
+        "Bicuspid aortic valve"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Cleft mitral valve is a congenital defect associated with endocardial cushion defects (e.g., Down syndrome), not typically presenting this way in an adult with a rheumatic-type history.",
+        "Carcinoid heart disease predominantly affects right-sided valves (tricuspid/pulmonic), not the mitral valve.",
+        "Myxomatous degeneration causes mitral valve prolapse and regurgitation with a systolic click, not stenosis with an opening snap.",
+        "Correct: the childhood history of joint pains and fever suggests prior (possibly unrecognized) rheumatic fever, the most common cause of mitral stenosis, which presents with an opening snap and a diastolic rumble.",
+        "Bicuspid aortic valve affects the aortic valve, not the mitral valve, and does not explain this presentation."
+      ],
+      "overview": "Mitral stenosis is most commonly caused by rheumatic heart disease and often presents years after acute rheumatic fever, which many patients do not recall having. It classically causes a diastolic rumbling murmur preceded by an opening snap, with elevated left atrial pressure leading to dyspnea and pulmonary congestion; symptoms often worsen during pregnancy due to increased blood volume and heart rate.",
+      "id": "2026-09-03-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "The AV node is most commonly supplied by which coronary artery?",
+      "options": [
+        "Left main coronary artery",
+        "Right coronary artery",
+        "Left circumflex artery",
+        "Left anterior descending artery"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect \u2014 linear staining is seen in anti-GBM disease (Goodpasture syndrome), which is immunologically distinct from the granular immune complex pattern of post-streptococcal GN.",
-        "Correct \u2014 post-streptococcal (post-infectious) glomerulonephritis shows subepithelial 'humps' of immune complexes on electron microscopy, along with granular IgG and C3 on immunofluorescence and hypercellular, enlarged glomeruli on light microscopy.",
-        "Incorrect \u2014 subendothelial deposits are characteristic of lupus nephritis (diffuse proliferative GN) and immune complex-mediated MPGN, not post-streptococcal GN.",
-        "Incorrect \u2014 isolated podocyte foot process effacement without deposits is characteristic of minimal change disease, a nephrotic (not nephritic) disease unrelated to streptococcal infection."
+        "The left main coronary artery gives rise to the LAD and LCX but does not directly supply the AV node.",
+        "Correct: the AV node (like the SA node) is usually supplied by the right coronary artery, which is why inferior MIs (RCA territory) commonly cause bradycardia and AV block.",
+        "The LCX supplies the lateral wall and, in left-dominant circulation, the PDA, but it is not the usual AV node supply.",
+        "The LAD supplies the anterior wall, anterior septum, and apex, not typically the AV node."
       ],
-      "overview": "Post-streptococcal glomerulonephritis is an immune complex-mediated nephritic syndrome occurring 2-3 weeks after group A streptococcal pharyngitis or skin infection in children. It presents with hypercellular glomeruli, granular IgG/C3 immunofluorescence, subepithelial 'humps' on electron microscopy, and hypocomplementemia, and typically resolves spontaneously with an excellent prognosis in children.",
-      "id": "2026-09-02-19"
+      "overview": "The SA and AV nodes are usually supplied by the right coronary artery, explaining why inferior wall MIs (RCA territory) commonly cause sinus bradycardia and AV nodal block due to ischemia and increased vagal tone. AV node disease from RCA ischemia is generally more benign and often improves with reperfusion, unlike His-Purkinje system disease.",
+      "id": "2026-09-03-08"
     },
     {
       "format": "simple4",
-      "stem": "Aldosterone's action on principal cells of the collecting duct produces which combination of effects?",
+      "stem": "Chronic severe aortic regurgitation classically produces which of the following blood pressure findings?",
       "options": [
-        "Increased water reabsorption via aquaporin-2 insertion",
-        "Decreased Na+ reabsorption and decreased K+ secretion",
-        "Increased H+ secretion via H+-ATPase in intercalated cells only",
-        "Increased Na+ reabsorption via ENaC and increased K+ secretion via ROMK"
+        "Widened pulse pressure with low diastolic pressure",
+        "Isolated systolic hypertension with normal diastolic pressure",
+        "Narrow pulse pressure with elevated diastolic pressure",
+        "Equally elevated systolic and diastolic pressures"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect \u2014 aquaporin-2 insertion is mediated by ADH (vasopressin) acting on V2 receptors, not by aldosterone, which acts through a distinct intracellular steroid receptor mechanism affecting ENaC and Na+/K+-ATPase.",
-        "Incorrect \u2014 this is the opposite of aldosterone's actual effect; aldosterone increases, not decreases, both sodium reabsorption and potassium secretion.",
-        "Incorrect \u2014 while aldosterone does stimulate H+ secretion in intercalated cells (raising serum bicarbonate), the question asks about principal cell effects specifically, and this option omits the key ENaC/ROMK principal cell actions.",
-        "Correct \u2014 aldosterone acts on principal cells by upregulating ENaC channels (increasing Na+/water reabsorption and expanding circulating volume) and creating a more negative luminal charge that drives potassium secretion through ROMK channels, lowering serum potassium."
+        "Correct: blood regurgitating back into the LV during diastole lowers diastolic pressure, while increased stroke volume raises systolic pressure, producing a widened pulse pressure and findings such as water-hammer pulses.",
+        "Isolated systolic hypertension with normal diastolic pressure is more typical of decreased arterial compliance (e.g., in the elderly), not AR.",
+        "Narrow pulse pressure is seen in low cardiac output states (e.g., heart failure), not aortic regurgitation.",
+        "AR does not cause equally elevated systolic and diastolic pressures; diastolic pressure characteristically falls."
       ],
-      "overview": "Aldosterone is a mineralocorticoid steroid hormone that acts on collecting duct principal cells to increase ENaC-mediated sodium (and secondarily water) reabsorption and ROMK-mediated potassium secretion, and on alpha-intercalated cells to increase H+-ATPase-mediated acid secretion. Its net effects are volume expansion, hypokalemia, and metabolic alkalosis, and its release is stimulated by angiotensin II and hyperkalemia.",
-      "id": "2026-09-02-20"
+      "overview": "Chronic aortic regurgitation increases left ventricular preload and stroke volume (via the Frank-Starling mechanism) while diastolic blood pressure falls because blood leaks back across the incompetent aortic valve. This combination produces a widened pulse pressure and characteristic peripheral signs such as water-hammer pulses and head bobbing.",
+      "id": "2026-09-03-09"
     },
     {
       "format": "vignette5",
-      "stem": "A 40-year-old man presents to the emergency department with a 3-day history of severe watery diarrhea. Several coworkers have had similar symptoms. Vital signs are stable. Arterial blood gas: pH 7.30, PaCO2 33 mmHg. Serum electrolytes: Na+ 134 mEq/L, K+ 2.9 mEq/L, Cl- 108 mEq/L, HCO3- 16 mEq/L. What is the acid-base disorder?",
+      "stem": "A 45-year-old woman with a known history of mitral valve prolapse undergoes a tooth extraction without antibiotic prophylaxis. Three weeks later she develops low-grade fevers, malaise, and a new murmur. Blood cultures grow catalase-negative, alpha-hemolytic gram-positive cocci. Which of the following organisms is most likely responsible?",
       "options": [
-        "Non-anion gap metabolic acidosis with appropriate respiratory compensation",
-        "Anion gap metabolic acidosis with respiratory compensation",
-        "Primary metabolic alkalosis",
-        "Metabolic acidosis with a concomitant respiratory acidosis",
-        "Primary respiratory acidosis with metabolic compensation"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 pH<7.37 and HCO3- low confirm metabolic acidosis; anion gap = 134-(108+16) = 10, which is normal, consistent with GI bicarbonate loss from diarrhea; Winter's formula predicts pCO2 = 1.5(16)+8 = 32\u00b12, and the actual pCO2 of 33 falls within this range, confirming appropriate respiratory compensation without a second disorder.",
-        "Incorrect \u2014 the anion gap is 10, within the normal range (8-12), ruling out an anion gap process; diarrhea classically causes a hyperchloremic, non-anion gap metabolic acidosis from GI bicarbonate loss.",
-        "Incorrect \u2014 the pH is 7.30, indicating acidemia, not alkalemia, and the bicarbonate is low (16), the opposite of what would be seen in metabolic alkalosis.",
-        "Incorrect \u2014 the measured pCO2 of 33 matches the Winter's formula prediction of 32\u00b12 for appropriate respiratory compensation, so there is no evidence of a superimposed respiratory acidosis (which would show a pCO2 higher than expected).",
-        "Incorrect \u2014 the pCO2 is low (33), not elevated, so there is no primary respiratory acidosis; respiratory acidosis would show hypoventilation with an elevated pCO2."
-      ],
-      "overview": "Non-anion gap metabolic acidosis occurs from loss of bicarbonate (e.g., diarrhea, RTA) or chloride gain, and is characterized by hyperchloremia with a normal anion gap. Winter's formula (pCO2 = 1.5\u00d7HCO3 + 8 \u00b1 2) predicts the expected respiratory compensation for a primary metabolic acidosis; a measured pCO2 outside this range indicates a second, superimposed acid-base disorder.",
-      "id": "2026-09-02-21"
-    },
-    {
-      "format": "simple4",
-      "stem": "Cystinuria is caused by defective renal tubular reabsorption of which group of amino acids (remembered by the mnemonic COLA)?",
-      "options": [
-        "Cystine, ornithine, lysine, and arginine",
-        "Tryptophan only",
-        "Cystine, glycine, alanine, and leucine",
-        "Glutamine and glutamate"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 cystinuria is an autosomal recessive proximal tubule defect causing impaired reabsorption of cystine, ornithine, lysine, and arginine (COLA), with cystine being poorly soluble in urine and precipitating to form recurrent cystine kidney stones, identified by hexagonal crystals and a positive cyanide-nitroprusside test.",
-        "Incorrect \u2014 isolated tryptophan transport defect describes Hartnup disease, a distinct disorder causing niacin deficiency and pellagra-like symptoms, not cystinuria.",
-        "Incorrect \u2014 glycine, alanine, and leucine are not part of the specific amino acid group affected in cystinuria; the defect specifically involves the COLA group.",
-        "Incorrect \u2014 glutamine and glutamate are not the amino acids affected in cystinuria; this option does not correspond to any of the classic renal amino acid transport disorders described."
-      ],
-      "overview": "Cystinuria is an autosomal recessive defect in proximal tubular reabsorption of cystine, ornithine, lysine, and arginine (COLA), leading to poorly soluble cystine precipitating into recurrent hexagonal kidney stones, often presenting in children. Diagnosis is confirmed with the cyanide-nitroprusside test, and treatment requires lifelong hydration, urinary alkalinization, and chelating agents (penicillamine or tiopronin) to increase cystine solubility.",
-      "id": "2026-09-02-22"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 65-year-old man with a 40-pack-year smoking history and newly diagnosed small cell lung cancer presents with confusion. Serum sodium is 118 mEq/L. Serum osmolality is 250 mOsm/kg. Urine osmolality is 450 mOsm/kg. Urine sodium is 55 mEq/L. He has no edema, ascites, or signs of hypovolemia, and thyroid and adrenal function are normal. What is the most likely diagnosis?",
-      "options": [
-        "Primary polydipsia",
-        "Heart failure-associated hyponatremia",
-        "Diuretic-induced hyponatremia",
-        "Central diabetes insipidus",
-        "SIADH"
-      ],
-      "correctIndex": 4,
-      "explanations": [
-        "Incorrect \u2014 primary polydipsia causes hyponatremia with an appropriately dilute urine (urine osmolality <100 mOsm/kg) because ADH is appropriately suppressed, unlike this patient's concentrated urine.",
-        "Incorrect \u2014 heart failure would present with clinical evidence of volume overload (edema, elevated JVP), which is explicitly absent here, and this patient's presentation is described as euvolemic.",
-        "Incorrect \u2014 while diuretics can cause hyponatremia, there is no history of diuretic use given, and small cell lung cancer is a specific, well-known paraneoplastic trigger for ectopic ADH secretion.",
-        "Incorrect \u2014 diabetes insipidus causes hypernatremia (not hyponatremia) due to inappropriately dilute urine from lack of ADH effect, the opposite of this patient's concentrated urine.",
-        "Correct \u2014 hyponatremia with low serum osmolality, inappropriately concentrated urine (urine osmolality >100 mOsm/kg), elevated urine sodium (>30 mEq/L), euvolemia, and normal renal/thyroid/adrenal function in the setting of small cell lung cancer (a classic paraneoplastic cause) all meet the diagnostic criteria for SIADH."
-      ],
-      "overview": "SIADH is a euvolemic hyponatremia caused by inappropriate ADH release, most classically from small cell lung cancer (paraneoplastic), CNS disorders, or certain drugs. Diagnostic criteria include low serum osmolality, inappropriately concentrated urine (>100 mOsm/kg), elevated urine sodium (>30 mEq/L), and normal volume status with normal renal, thyroid, and adrenal function; management includes fluid restriction, salt tablets, and in severe cases, vaptans or hypertonic saline.",
-      "id": "2026-09-02-23"
-    },
-    {
-      "format": "simple4",
-      "stem": "MPGN type II (dense deposit disease) is characterized by which complement finding on immunofluorescence and serum testing?",
-      "options": [
-        "Deposition of C3 only, with low serum C3 but normal C4",
-        "Negative immunofluorescence with normal complement levels",
-        "Linear IgG deposition with normal complement levels",
-        "Deposition of both IgG and C3, with low serum C3 and C4"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 MPGN type II (dense deposit disease) is complement-mediated, driven by C3 nephritic factor stabilizing the alternative pathway C3 convertase; immunofluorescence shows C3-only deposits (no immunoglobulin), and serum complement studies show isolated low C3 with normal C4 (since the classical pathway is not involved).",
-        "Incorrect \u2014 MPGN II shows positive (not negative) immunofluorescence for C3, and complement levels are abnormal (low C3), not normal; negative IF with normal complement would suggest a pauci-immune process instead.",
-        "Incorrect \u2014 linear IgG deposition is characteristic of anti-GBM disease, not MPGN, and MPGN II does not show linear IgG.",
-        "Incorrect \u2014 this describes immune complex-mediated MPGN (formerly type I), which involves both IgG and C3 deposition with activation of the classical complement pathway, lowering both C3 and C4, and is classically associated with hepatitis C."
-      ],
-      "overview": "MPGN is a pattern of glomerular injury with hypercellularity, thickened capillary walls, and a 'tram-track' appearance on light microscopy. It is subdivided by immunofluorescence into immune complex-mediated MPGN (IgG and C3 positive, low C3 and C4, associated with hepatitis C) and complement-mediated MPGN/dense deposit disease (C3 only, low C3 with normal C4, driven by C3 nephritic factor, mostly affecting children).",
-      "id": "2026-09-02-24"
-    },
-    {
-      "format": "simple4",
-      "stem": "Unlike loop diuretics, thiazide diuretics tend to have what effect on serum calcium?",
-      "options": [
-        "They decrease serum calcium (hypocalcemia) by blocking distal tubule calcium reabsorption",
-        "They cause hypercalciuria without affecting serum calcium",
-        "They increase serum calcium (hypercalcemia) by enhancing distal tubule calcium reabsorption",
-        "They have no effect on calcium handling"
+        "Coxiella burnetii",
+        "Enterococcus",
+        "Viridans streptococci",
+        "Staphylococcus aureus",
+        "Staphylococcus epidermidis"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect \u2014 this is the opposite of the actual effect; thiazides increase (not decrease) calcium reabsorption and can cause hypercalcemia, not hypocalcemia.",
-        "Incorrect \u2014 thiazides cause hypocalciuria (decreased urinary calcium), the opposite of hypercalciuria, as calcium reabsorption is enhanced.",
-        "Correct \u2014 thiazide diuretics block sodium entry into distal convoluted tubule cells, which paradoxically increases activity of the basolateral Na+/Ca2+ exchanger, enhancing calcium reabsorption; this lowers urinary calcium excretion and can raise serum calcium, an effect used therapeutically to prevent calcium kidney stones.",
-        "Incorrect \u2014 thiazides have a well-documented and clinically important effect on calcium handling, distinguishing them from loop diuretics."
+        "Coxiella burnetii causes culture-negative endocarditis and would not grow on standard blood culture.",
+        "Enterococcus is associated with GI/GU manipulation in older men, not dental procedures.",
+        "Correct: viridans streptococci are low-virulence mouth flora that adhere to damaged endothelium (via dextran binding fibrin) and classically cause subacute endocarditis on a previously abnormal valve such as one with mitral valve prolapse, following dental procedures.",
+        "Staphylococcus aureus causes acute, severe endocarditis, often on previously normal valves, not a gradual subacute course after dental work.",
+        "Staphylococcus epidermidis typically causes prosthetic valve endocarditis, not native valve disease."
       ],
-      "overview": "Thiazide diuretics inhibit the Na+-Cl- cotransporter in the distal convoluted tubule, which secondarily enhances calcium reabsorption via the Na+/Ca2+ exchanger, leading to hypocalciuria and a tendency toward hypercalcemia. This is the opposite of loop diuretics, which cause hypercalciuria and hypocalcemia, making thiazides useful for preventing recurrent calcium kidney stones and loop diuretics useful in treating hypercalcemia.",
-      "id": "2026-09-02-25"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 6-year-old boy presents with polyuria, polydipsia, and muscle weakness. Blood pressure is normal. Labs show K+ 2.8 mEq/L, Cl- 90 mEq/L, HCO3- 32 mEq/L. Serum calcium is normal, and 24-hour urine shows markedly elevated calcium excretion. Plasma renin activity and aldosterone are both elevated. Renal ultrasound shows nephrocalcinosis. What is the most likely underlying defect?",
-      "options": [
-        "Loss-of-function mutation in the aldosterone receptor",
-        "Autoantibodies against the glomerular basement membrane",
-        "Gain-of-function mutation in the epithelial sodium channel (ENaC)",
-        "Loss-of-function mutation in the Na+-K+-2Cl- cotransporter (NKCC2) of the thick ascending limb",
-        "Loss-of-function mutation in the Na+-Cl- cotransporter of the distal convoluted tubule"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 loss of aldosterone receptor function would impair sodium reabsorption and potassium/acid excretion, producing hyperkalemia and acidosis, not the hypokalemic alkalosis seen here.",
-        "Incorrect \u2014 anti-GBM antibodies cause Goodpasture syndrome, a nephritic disease with hematuria and renal failure, not a tubulopathy causing electrolyte wasting.",
-        "Incorrect \u2014 a gain-of-function ENaC mutation causes Liddle syndrome, which presents with hypertension and hypokalemic metabolic alkalosis but with LOW renin and aldosterone (due to volume expansion), the opposite of this patient's elevated renin/aldosterone.",
-        "Correct \u2014 Bartter syndrome results from a defect in the Na+-K+-2Cl- cotransporter (or associated channels) in the thick ascending limb, mimicking chronic loop diuretic use; this produces volume depletion with secondary hyperreninemic hyperaldosteronism, hypokalemic metabolic alkalosis, and hypercalciuria (leading to nephrocalcinosis), typically presenting in childhood with normal or low blood pressure.",
-        "Incorrect \u2014 a defect in the distal convoluted tubule Na-Cl cotransporter causes Gitelman syndrome, which presents with hypocalciuria (not hypercalciuria) and hypomagnesemia, and usually presents later (adolescence) with a milder phenotype."
-      ],
-      "overview": "Bartter syndrome is an inherited defect in the thick ascending limb's NKCC2 (or related) channel that phenocopies chronic loop diuretic use, causing volume depletion, secondary hyperreninemic hyperaldosteronism, hypokalemic metabolic alkalosis, and hypercalciuria with nephrocalcinosis. It is distinguished from Gitelman syndrome (distal convoluted tubule defect) by the presence of hypercalciuria rather than hypocalciuria and typically presents earlier and more severely in childhood.",
-      "id": "2026-09-02-26"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 62-year-old man with a 35-pack-year smoking history presents with gross hematuria, a palpable flank mass, and unintentional weight loss. Labs show hemoglobin 18.5 g/dL and serum calcium 12.1 mg/dL. CT scan shows a solid, enhancing right renal mass. What is the most likely mechanism underlying both of his laboratory abnormalities?",
-      "options": [
-        "Chronic kidney disease from tumor obstruction",
-        "Tumor-related iron deficiency with compensatory marrow hyperplasia",
-        "Tumor production of erythropoietin and PTH-related protein",
-        "Tumor invasion of the renal vein causing venous congestion",
-        "Paraneoplastic ACTH secretion"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect \u2014 chronic kidney disease would not explain elevated hemoglobin (CKD typically causes anemia from decreased EPO) or account for both abnormalities via a single paraneoplastic mechanism.",
-        "Incorrect \u2014 this patient has an elevated (not low) hemoglobin, ruling out iron deficiency anemia; RCC more commonly causes anemia from impaired EPO production in other cases, but here the hemoglobin is elevated due to ectopic EPO.",
-        "Correct \u2014 renal cell carcinoma classically produces paraneoplastic ectopic erythropoietin (causing polycythemia/elevated hemoglobin) and PTH-related protein, PTHrP (causing hypercalcemia by increasing bone calcium resorption), both of which are seen in this patient.",
-        "Incorrect \u2014 renal vein invasion can cause thrombosis and varicocele but does not explain elevated hemoglobin or hypercalcemia; it is a distinct complication from the paraneoplastic hormone production described.",
-        "Incorrect \u2014 ectopic ACTH secretion by RCC causes Cushing syndrome (weight gain, hypertension, hyperglycemia), not polycythemia or hypercalcemia specifically."
-      ],
-      "overview": "Renal cell carcinoma, the most common renal malignancy in adults (linked to smoking, obesity, and von Hippel-Lindau syndrome), classically arises from proximal tubule cells and is associated with paraneoplastic syndromes including ectopic erythropoietin production (polycythemia), PTHrP secretion (hypercalcemia), renin secretion (hypertension), and ACTH secretion (Cushing syndrome). It has a propensity to invade the renal vein and IVC and spread hematogenously to lung and bone.",
-      "id": "2026-09-02-27"
+      "overview": "Viridans streptococci are low-virulence, mouth-flora organisms that adhere to damaged cardiac endothelium and classically cause subacute bacterial endocarditis following dental procedures, especially in patients with a predisposing valve abnormality such as mitral valve prolapse. This contrasts with Staphylococcus aureus, which causes acute, fulminant endocarditis often on structurally normal valves.",
+      "id": "2026-09-03-10"
     },
     {
       "format": "simple4",
-      "stem": "In a patient with acute kidney injury, a fractional excretion of sodium (FeNa) below 1% is most consistent with which cause?",
+      "stem": "A third heart sound (S3) may be a normal physiologic finding in which of the following patient populations?",
       "options": [
-        "Prerenal azotemia",
-        "Postrenal obstruction with established tubular damage",
-        "Chronic kidney disease",
-        "Intrinsic renal failure (acute tubular necrosis)"
+        "Young healthy adults and pregnant women",
+        "Elderly patients with long-standing hypertension",
+        "Patients with severe aortic stenosis",
+        "Patients with hypertrophic cardiomyopathy"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct \u2014 FeNa <1% indicates that the tubules are still able to avidly reabsorb sodium, reflecting intact tubular function in the setting of decreased renal perfusion (prerenal azotemia); this is accompanied by low urine sodium (<20 mEq/L) and high urine osmolality (>550 mOsm/kg).",
-        "Incorrect \u2014 established postrenal obstruction with tubular damage produces variable FeNa depending on the degree of tubular injury, but is usually >2% once tubular damage occurs, not <1%.",
-        "Incorrect \u2014 FeNa is primarily used to distinguish prerenal from intrinsic causes of acute kidney injury, not to diagnose chronic kidney disease.",
-        "Incorrect \u2014 intrinsic renal failure (e.g., acute tubular necrosis) causes tubular dysfunction with impaired sodium reabsorption, producing a FeNa >2%, the opposite of this scenario."
+        "Correct: in young, healthy individuals and pregnant women, vigorous left ventricular relaxation causes rapid early filling and a physiologic S3, without underlying heart disease.",
+        "Elderly patients with hypertension are more likely to develop S4 due to a stiff ventricle, and a new S3 in this population would suggest heart failure, not a normal finding.",
+        "Severe aortic stenosis leads to concentric hypertrophy and S4, not physiologic S3.",
+        "HCM is associated with S4 due to a stiff, hypertrophied ventricle, not physiologic S3."
       ],
-      "overview": "Fractional excretion of sodium (FeNa) helps distinguish prerenal azotemia from intrinsic renal failure in acute kidney injury: FeNa <1% (with low urine Na and high urine osmolality) suggests prerenal disease where tubular sodium reabsorption is intact, while FeNa >2% (with high urine Na and low urine osmolality) suggests intrinsic renal damage such as acute tubular necrosis where tubular function is impaired.",
-      "id": "2026-09-02-28"
+      "overview": "S3 is a low-pitched sound occurring in early diastole during rapid ventricular filling, most commonly a pathologic sign of heart failure with elevated left atrial pressure. However, it can be a normal physiologic finding in young patients (under 30) and pregnant women, in whom vigorous ventricular relaxation rapidly lowers pressure and causes rapid filling.",
+      "id": "2026-09-03-11"
     },
     {
       "format": "vignette5",
-      "stem": "A 34-year-old man is brought to the emergency department after being found with an empty bottle of windshield wiper fluid. He is confused with markedly decreased visual acuity. Labs show an anion gap metabolic acidosis with an osmolar gap. Which of the following best describes the underlying toxin and its toxic metabolite?",
+      "stem": "A 60-year-old man presents with acute chest pain. ECG shows ST elevations in leads II, III, and aVF. After successful reperfusion, he becomes acutely hypotensive with clear lung fields and jugular venous distension. Which of the following medications should be avoided in this patient?",
       "options": [
-        "Ethylene glycol, metabolized to glycolate and oxalate",
-        "Isopropyl alcohol, metabolized to acetone",
-        "Ethanol, metabolized to acetaldehyde",
-        "Methanol, metabolized to formic acid",
-        "Aspirin, metabolized to salicylate"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 ethylene glycol causes CNS depression, acute renal failure, and calcium oxalate crystalluria/flank pain, not visual loss; windshield wiper fluid classically contains methanol.",
-        "Incorrect \u2014 isopropyl alcohol causes ketosis (acetone) and CNS depression but does NOT cause an anion gap metabolic acidosis or visual loss.",
-        "Incorrect \u2014 ethanol causes CNS depression but is not the toxin associated with windshield wiper fluid or with visual loss.",
-        "Correct \u2014 methanol (found in windshield wiper fluid, antifreeze, industrial cleaners) is metabolized by alcohol dehydrogenase to formaldehyde and then formic acid, which is toxic to the retina and causes visual loss/blindness along with an anion gap metabolic acidosis.",
-        "Incorrect \u2014 aspirin overdose causes a mixed respiratory alkalosis and anion gap metabolic acidosis but is not found in windshield wiper fluid and does not classically cause visual loss."
-      ],
-      "overview": "Toxic alcohol ingestions (methanol, ethylene glycol) cause anion gap metabolic acidosis with an elevated osmolar gap. Methanol is metabolized via alcohol dehydrogenase to formic acid, which is specifically toxic to the retina causing visual loss, while ethylene glycol is metabolized to glycolate and oxalate, which are toxic to renal tubules and form calcium oxalate crystals. Treatment for both involves fomepizole (or ethanol) and dialysis.",
-      "id": "2026-09-02-29"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 38-year-old woman with a history of Sj\u00f6gren's syndrome and recurrent bilateral kidney stones presents for routine labs. Serum bicarbonate is 9 mEq/L. Urine pH is 6.2. Urine anion gap is positive. After an ammonium chloride challenge, urine pH remains above 5.3. What is the most likely diagnosis?",
-      "options": [
-        "Proximal (type II) renal tubular acidosis",
-        "Type IV renal tubular acidosis",
-        "Distal (type I) renal tubular acidosis",
-        "Non-anion gap metabolic acidosis from diarrhea",
-        "Chronic respiratory acidosis with renal compensation"
+        "Aspirin",
+        "Clopidogrel",
+        "Nitroglycerin",
+        "Heparin",
+        "Metoprolol"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect \u2014 proximal RTA causes milder acidosis (HCO3 typically 12-20), and the urine pH is appropriately acidic (<5.5) once a new steady state is reached, since distal acidification is intact; it does not typically cause kidney stones.",
-        "Incorrect \u2014 type IV RTA is characterized by hyperkalemia (not mentioned here) and only mild acidosis (HCO3 usually >17), with a low urine pH (<5.3), not an alkaline urine pH.",
-        "Correct \u2014 very low serum bicarbonate (<10), inappropriately alkaline urine (pH >5.5) that fails to acidify after an acid challenge, a positive urine anion gap (indicating impaired ammonium excretion), recurrent kidney stones, and an autoimmune association (Sj\u00f6gren's syndrome) are all classic for distal (type I) RTA due to alpha-intercalated cell dysfunction.",
-        "Incorrect \u2014 diarrhea causes a non-anion gap metabolic acidosis with a negative urine anion gap (intact distal acidification), and there is no history of GI losses here.",
-        "Incorrect \u2014 chronic respiratory acidosis would present with an elevated pCO2 and compensatory rise in bicarbonate, not a markedly low bicarbonate with alkaline urine."
+        "Aspirin is standard therapy for STEMI regardless of right ventricular involvement.",
+        "Clopidogrel is standard antiplatelet therapy for STEMI and is not contraindicated here.",
+        "Correct: right ventricular infarction depends heavily on adequate preload to maintain cardiac output; nitrates reduce preload and can precipitate severe, refractory hypotension.",
+        "Heparin is standard therapy for STEMI and is not contraindicated by RV infarction.",
+        "Beta blockers require caution with bradycardia or AV block from inferior MI, but they are not the classic absolute avoidance like nitrates in RV infarction."
       ],
-      "overview": "Distal (type I) RTA results from impaired alpha-intercalated cell H+ secretion, causing severe non-anion gap metabolic acidosis with inappropriately alkaline urine (pH >5.5) that fails to acidify with an ammonium chloride challenge. It is associated with autoimmune diseases (Sj\u00f6gren's, RA), nephrocalcinosis, and calcium phosphate kidney stones, and the urine anion gap is positive because ammonium excretion is impaired.",
-      "id": "2026-09-02-30"
+      "overview": "Inferior STEMI (ST elevations in II, III, aVF) is usually due to RCA occlusion, and the RCA's acute marginal branch supplies the right ventricle, so RV infarction is a recognized complication. RV infarction causes hypotension with clear lungs and elevated JVP due to loss of RV contractility and reduced left ventricular preload. Because these patients are highly preload-dependent, nitrates and other preload-reducing agents must be avoided, as they can cause profound hypotension.",
+      "id": "2026-09-03-12"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following is the antidote of choice for severe beta blocker overdose causing bradycardia and hypotension?",
+      "options": [
+        "Calcium gluconate",
+        "Naloxone",
+        "Atropine",
+        "Glucagon"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Calcium gluconate is used primarily for calcium channel blocker overdose (and hyperkalemia), not as the primary antidote for beta blocker overdose.",
+        "Naloxone reverses opioid overdose and has no role in beta blocker toxicity.",
+        "Atropine can be tried for bradycardia but is often insufficient in beta blocker overdose since it does not address the underlying cAMP deficiency.",
+        "Correct: glucagon activates adenylate cyclase through a receptor independent of the beta receptor, increasing intracellular cAMP and calcium, restoring cardiac contractility and heart rate despite beta receptor blockade."
+      ],
+      "overview": "Beta blocker overdose can cause severe bradycardia, AV block, hypotension, and cardiogenic shock due to depressed myocardial contractility. Glucagon is the antidote of choice because it raises intracellular cAMP via a receptor distinct from the beta-adrenergic receptor, bypassing the blockade and restoring heart rate and contractility.",
+      "id": "2026-09-03-13"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman presents with acute chest pain and dyspnea shortly after learning of her husband's sudden death. ECG shows anterior ST elevations, and troponin is markedly elevated. Coronary angiography reveals no significant coronary artery disease, but ventriculography shows apical ballooning with hyperdynamic basal contraction. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute myocarditis",
+        "Dressler's syndrome",
+        "Takotsubo (stress-induced) cardiomyopathy",
+        "Anterior STEMI due to LAD occlusion",
+        "Vasospastic (Prinzmetal) angina"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Myocarditis often follows a viral illness with diffuse myocardial inflammation, not this classic apical ballooning pattern triggered by emotional stress.",
+        "Dressler's syndrome is a pericarditis occurring weeks after a myocardial infarction, not an acute presentation with apical ballooning after emotional stress.",
+        "Correct: Takotsubo cardiomyopathy is a stress-induced cardiomyopathy triggered by severe emotional distress, mimicking anterior MI with ST elevations and elevated biomarkers, but with apical ballooning and no significant coronary disease; it usually resolves within 4-6 weeks.",
+        "STEMI would show a culprit coronary lesion on angiography; this patient has normal coronary arteries.",
+        "Prinzmetal angina causes transient ST elevation from vasospasm but would not typically produce a fixed apical ballooning pattern on ventriculography."
+      ],
+      "overview": "Takotsubo (stress-induced/apical ballooning) cardiomyopathy is triggered by severe emotional distress and mimics an anterior MI, with markedly reduced LVEF, elevated cardiac biomarkers, and ECG changes, but coronary angiography shows no significant atherosclerotic disease. The hallmark finding is apical ballooning with basal hypercontractility, and most patients recover within 4 to 6 weeks.",
+      "id": "2026-09-03-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Lidocaine is particularly effective in treating arrhythmias occurring in ischemic myocardium because it preferentially binds to sodium channels in which state?",
+      "options": [
+        "It binds equally regardless of channel state",
+        "Hyperpolarized state",
+        "Resting state",
+        "Depolarized (open/inactivated) state"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "This contradicts the state-dependent (use-dependent) blockade central to Class I drug pharmacology.",
+        "A distinct \"hyperpolarized state\" target is not a recognized concept for Class I drug binding.",
+        "Class Ib drugs bind poorly to resting-state channels, which is why they have minimal effect on normal, healthy myocardium at normal heart rates.",
+        "Correct: lidocaine preferentially binds sodium channels in the depolarized (open/inactivated) state, which is common in ischemic, chronically depolarized myocytes, making it selectively effective for ischemic ventricular arrhythmias."
+      ],
+      "overview": "Class Ib antiarrhythmics (lidocaine, mexiletine) bind sodium channels preferentially in their depolarized state, making them most effective in ischemic myocardium (where cells are chronically depolarized) and at fast heart rates, with minimal effects on normal tissue or at slow rates. They have little effect on QRS duration at normal heart rates and are used mainly for ischemic ventricular tachycardia.",
+      "id": "2026-09-03-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A fixed splitting of S2 that does not vary with respiration is most characteristic of which condition?",
+      "options": [
+        "Right bundle branch block",
+        "Left bundle branch block",
+        "Pulmonary hypertension",
+        "Atrial septal defect"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "RBBB causes persistent (not fixed) splitting that still widens somewhat with inspiration, due to delayed right-sided conduction.",
+        "LBBB causes paradoxical splitting (which narrows with inspiration), not fixed splitting.",
+        "Pulmonary hypertension can cause persistent splitting of S2, but not the classic fixed pattern seen with ASD.",
+        "Correct: an atrial septal defect causes fixed splitting of S2 because the left-to-right shunt equalizes flow to the right heart, producing a consistent delay in pulmonic valve closure regardless of the respiratory cycle."
+      ],
+      "overview": "Physiologic S2 splitting widens with inspiration because increased venous return delays pulmonic valve closure. Persistent splitting (RBBB, pulmonary hypertension) reflects a delayed right-sided electrical or mechanical event; fixed splitting (ASD) results from a chronic left-to-right shunt causing consistently increased right-sided flow; paradoxical splitting (LBBB, severe AS, HCM) reflects delayed left ventricular outflow and narrows with inspiration.",
+      "id": "2026-09-03-16"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 52-year-old man with Marfan syndrome presents with sudden-onset severe \"tearing\" chest pain radiating to the back. Blood pressure is 160/95 mmHg in the right arm and 118/70 mmHg in the left arm. A new diastolic blowing murmur is heard at the left sternal border. Chest x-ray shows a widened mediastinum. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Aortic dissection",
+        "Acute pericarditis",
+        "Stable angina",
+        "Mitral valve prolapse",
+        "Pulmonary embolism"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: tearing pain radiating to the back, a blood pressure differential between arms, a new aortic regurgitation murmur, and a widened mediastinum are classic for aortic dissection (proximal/Type A dissections can produce AR).",
+        "Pericarditis causes pleuritic pain and a friction rub with diffuse ST elevation, not tearing pain with a blood pressure differential between arms.",
+        "Stable angina is exertional and relieved by rest, not sudden tearing pain with these exam findings.",
+        "Mitral valve prolapse produces a systolic click, not a diastolic murmur or the dissection findings described.",
+        "Pulmonary embolism causes dyspnea and pleuritic pain but not typically a blood pressure differential or new AR murmur."
+      ],
+      "overview": "Aortic dissection presents with sudden, tearing chest or back pain; hypertension is the strongest risk factor, along with Marfan syndrome, Ehlers-Danlos, and bicuspid aortic valve. Type A dissections involve the ascending aorta/arch (surgical emergency; can cause aortic regurgitation, tamponade, or MI from coronary ostial involvement), while Type B (descending) is usually managed medically. Key clues include a blood pressure differential between arms and a widened mediastinum on chest x-ray, with CT, MRI, or TEE used for definitive diagnosis.",
+      "id": "2026-09-03-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "Administration of a potent vasodilator such as adenosine during a pharmacologic stress test can induce ischemia in a stenotic coronary artery through which mechanism?",
+      "options": [
+        "Increased myocardial oxygen extraction beyond normal limits",
+        "Direct constriction of the stenotic vessel",
+        "Induction of coronary artery spasm exclusively in normal vessels",
+        "Coronary steal, redistributing blood flow to non-stenotic vessels whose arterioles can further dilate"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "The heart already extracts near-maximal oxygen at rest and cannot increase extraction further to compensate; this is not the mechanism of coronary steal.",
+        "Vasodilators do not directly constrict vessels; ischemia results from redistribution of flow, not direct constriction of the stenotic segment.",
+        "Coronary steal is due to differential vasodilation capacity, not induced spasm, and it specifically reduces flow to the stenotic (not normal) vessel's territory.",
+        "Correct: arterioles distal to a significant stenosis are already maximally dilated to maintain resting flow; when a vasodilator is given, only arterioles supplying normal vessels can dilate further, diverting (\"stealing\") blood flow away from the stenotic vessel's territory and causing ischemia."
+      ],
+      "overview": "Coronary steal occurs when a vasodilator (e.g., adenosine, dipyridamole, regadenoson) preferentially increases blood flow to normal coronary vessels whose arterioles are not yet maximally dilated, while arterioles distal to a significant (>75%) stenosis are already maximally dilated at rest and cannot respond further, diverting flow away from the ischemic territory. This principle underlies pharmacologic stress testing, where nuclear tracers detect the resulting relative perfusion defect in the stenotic vessel's territory.",
+      "id": "2026-09-03-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "The predominant hemodynamic mechanism by which nitroglycerin relieves angina is:",
+      "options": [
+        "Direct positive chronotropic effect",
+        "Increasing myocardial contractility",
+        "Venodilation leading to decreased preload",
+        "Arteriolar vasoconstriction increasing afterload"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Nitroglycerin has no direct chronotropic effect; reflex tachycardia can occur secondarily due to blood pressure lowering activating the sympathetic nervous system.",
+        "Nitroglycerin does not directly increase contractility; any reflex increase in contractility is a secondary, undesired effect of sympathetic activation.",
+        "Correct: nitroglycerin's predominant effect is venodilation, which pools blood in the venous system, reduces venous return, decreases preload (LVEDV), and lowers myocardial oxygen demand.",
+        "Nitrates cause vasodilation (decreasing afterload slightly), not vasoconstriction."
+      ],
+      "overview": "Nitrates are converted to nitric oxide, causing vasodilation that predominantly affects veins over arteries, reducing preload and myocardial oxygen demand. This benefit can be offset by reflex sympathetic activation (increasing heart rate and contractility), which is why nitrates are often co-administered with a beta blocker or calcium channel blocker to blunt this reflex response.",
+      "id": "2026-09-03-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 35-year-old man with a known delta wave on a prior ECG presents with palpitations and dizziness. ECG now shows an irregular, wide-complex tachycardia with a rate of 220/min and varying QRS morphology. Which of the following is contraindicated in the management of this arrhythmia?",
+      "options": [
+        "IV verapamil",
+        "IV fluid resuscitation",
+        "Procainamide",
+        "Electrical cardioversion",
+        "Ibutilide"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: AV nodal blocking agents (verapamil, beta blockers, digoxin, adenosine) are contraindicated because slowing AV node conduction promotes preferential conduction down the accessory pathway, which can dangerously increase the ventricular rate and precipitate ventricular fibrillation.",
+        "IV fluids are supportive but not a specific antiarrhythmic treatment; they are not dangerous or contraindicated in this scenario.",
+        "Procainamide slows conduction through the accessory pathway and is an appropriate treatment option.",
+        "Electrical cardioversion is appropriate, particularly if the patient becomes unstable.",
+        "Ibutilide is a reasonable antiarrhythmic option that slows conduction through the bypass tract."
+      ],
+      "overview": "WPW involves an accessory pathway (the Bundle of Kent) that bypasses the AV node, causing pre-excitation. When atrial fibrillation occurs in WPW, impulses can conduct rapidly over the bypass tract (which lacks the AV node's rate-limiting properties), producing a wide-complex, irregular, very fast tachycardia. AV nodal blocking drugs are contraindicated because blocking the AV node shifts all conduction to the accessory pathway, risking ventricular fibrillation; treatment instead relies on procainamide, ibutilide, or electrical cardioversion.",
+      "id": "2026-09-03-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Chronic volume overload of the left ventricle, such as from aortic regurgitation, classically leads to which pattern of hypertrophy?",
+      "options": [
+        "Concentric hypertrophy with sarcomeres added in series",
+        "No hypertrophy occurs with volume overload",
+        "Eccentric hypertrophy with sarcomeres added in series",
+        "Concentric hypertrophy with sarcomeres added in parallel"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Concentric hypertrophy involves parallel, not series, sarcomere addition, and it is associated with pressure overload, not volume overload.",
+        "Hypertrophy does occur as a compensatory mechanism in chronic volume overload.",
+        "Correct: chronic volume overload (aortic or mitral regurgitation) causes sarcomeres to be added in series, lengthening myocytes and dilating the LV cavity while wall thickness remains relatively normal (eccentric hypertrophy).",
+        "Concentric hypertrophy with sarcomeres added in parallel occurs with pressure overload (e.g., hypertension, aortic stenosis), not volume overload."
+      ],
+      "overview": "Pressure overload (hypertension, aortic stenosis) causes concentric hypertrophy via sarcomeres added in parallel, increasing wall thickness and reducing chamber size. Volume overload (aortic/mitral regurgitation, chronic valvular disease) causes eccentric hypertrophy via sarcomeres added in series, dilating the ventricular cavity with relatively normal wall thickness. Both patterns reduce wall tension per the Law of Laplace by distributing force over more myocardial mass.",
+      "id": "2026-09-03-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "In a patient taking digoxin, which electrolyte abnormality most significantly increases the risk of digoxin toxicity?",
+      "options": [
+        "Mild hypercalcemia",
+        "Hyperkalemia",
+        "Hypokalemia",
+        "Hypernatremia"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "While calcium can contribute to arrhythmogenesis, hypokalemia is the classic and most emphasized electrolyte risk factor for digoxin toxicity, not mild hypercalcemia.",
+        "Hyperkalemia is more classically associated with acute digoxin overdose as a consequence, rather than as a cause that increases toxicity risk.",
+        "Correct: hypokalemia (often caused by loop or thiazide diuretics) increases digoxin's binding affinity for the Na-K-ATPase pump, increasing the risk of digoxin toxicity.",
+        "Sodium levels are not the primary electrolyte concern for digoxin toxicity risk."
+      ],
+      "overview": "Digoxin inhibits the Na-K-ATPase pump, and hypokalemia (commonly caused by loop diuretics) increases digoxin's binding to this pump, raising the risk of toxicity even at therapeutic digoxin levels. Digoxin has a narrow therapeutic index and is renally cleared, so renal impairment also increases toxicity risk; digoxin-specific antibody fragments (Digibind) are used for severe toxicity.",
+      "id": "2026-09-03-22"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old woman presents with intermittent syncope that occurs specifically when she changes from sitting to standing, along with several months of fevers, weight loss, and fatigue. Auscultation reveals an early diastolic sound followed by a rumbling murmur that varies with body position. Echocardiogram reveals a pedunculated mass attached to the interatrial septum. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Metastatic melanoma",
+        "Rhabdomyoma",
+        "Cardiac myxoma",
+        "Papillary fibroelastoma",
+        "Vegetative endocarditis"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Metastatic tumors are the most common cardiac tumors overall but are not typically pedunculated interatrial septal masses causing a tumor plop.",
+        "Rhabdomyomas occur in children, are associated with tuberous sclerosis, and are typically embedded within the ventricular wall, not attached to the atrial septum with positional symptoms.",
+        "Correct: myxoma is the most common primary cardiac tumor, usually arising in the left atrium near the fossa ovalis; it can prolapse into the mitral valve causing positional syncope and a \"tumor plop,\" and it secretes IL-6, producing constitutional (B) symptoms.",
+        "Papillary fibroelastoma is not described in this context as producing systemic symptoms and positional syncope via a septal mass.",
+        "Endocarditis vegetations present with signs of infection and embolic phenomena rather than a positional diastolic tumor plop tied to a septal mass."
+      ],
+      "overview": "Cardiac myxoma is the most common primary cardiac tumor in adults, usually located in the left atrium attached near the fossa ovalis. It can obstruct the mitral valve, causing positional syncope and a diastolic \"tumor plop,\" and it produces IL-6, leading to constitutional B symptoms (fevers, weight loss); it may also embolize, causing stroke.",
+      "id": "2026-09-03-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "Compared to the aortic arch baroreceptors, the carotid sinus baroreceptors are considered more important because they:",
+      "options": [
+        "Directly control renal sodium excretion without CNS involvement",
+        "Only respond to extremely high blood pressure",
+        "Have no connection to the autonomic nervous system",
+        "Sense both low and high blood pressure over a wider range"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Baroreceptors signal the central nervous system (nucleus solitarius), which then modulates autonomic output; they do not directly control renal excretion independent of CNS processing.",
+        "It is the aortic arch baroreceptors, not the carotid sinus, that are relatively poor at sensing low blood pressure and respond mainly to elevated pressure.",
+        "Both carotid sinus (via CN IX) and aortic arch (via CN X) baroreceptors connect to the autonomic nervous system through afferent cranial nerves.",
+        "Correct: the carotid sinus baroreceptors modify signals over a wider range of blood pressures, sensing both hypotension and hypertension, making them the most important baroreceptors for blood pressure regulation."
+      ],
+      "overview": "Baroreceptors in the aortic arch and carotid sinus sense arterial stretch and relay signals to the brainstem (nucleus tractus solitarius) via CN X and CN IX respectively, triggering autonomic responses affecting heart rate, vascular tone, and renin release. The carotid sinus is considered the more important baroreceptor because it senses blood pressure changes over a wider range (both hypotension and hypertension), whereas the aortic arch mainly senses elevated pressure.",
+      "id": "2026-09-03-24"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 28-year-old woman presents to the emergency department with sudden-onset palpitations and mild chest discomfort that began abruptly at rest. Heart rate is 180/min with a narrow-complex, regular rhythm on ECG; no discrete P waves are visible before the QRS complexes. Blood pressure is stable. Which of the following is the most appropriate initial maneuver to attempt terminating this arrhythmia?",
+      "options": [
+        "Immediate synchronized cardioversion",
+        "IV metoprolol bolus",
+        "Administration of digoxin",
+        "Carotid sinus massage",
+        "Administration of IV amiodarone"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Cardioversion is reserved for hemodynamically unstable patients; this patient is stable.",
+        "Beta blockers may be used for chronic prevention, but vagal maneuvers are the appropriate first acute step in a stable patient.",
+        "Digoxin is not first-line acute therapy for terminating PSVT.",
+        "Correct: this presentation is classic for AVNRT, the most common cause of PSVT; vagal maneuvers such as carotid sinus massage increase vagal tone and slow AV node conduction, which can terminate the reentrant circuit and are appropriate first-line therapy in a stable patient.",
+        "IV amiodarone is not first-line for stable AVNRT; vagal maneuvers or adenosine are preferred first."
+      ],
+      "overview": "AVNRT is the most common cause of paroxysmal supraventricular tachycardia, arising from dual (fast and slow) pathways within the AV node and more common in young women. It presents with sudden-onset, sudden-offset, narrow-complex, regular tachycardia, often with retrograde P waves. First-line treatment in a stable patient is a vagal maneuver (carotid sinus massage, Valsalva) or adenosine, both of which transiently slow AV node conduction to break the reentrant circuit.",
+      "id": "2026-09-03-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following components contributes 2 points to the CHADS-VASc score used to estimate stroke risk in atrial fibrillation?",
+      "options": [
+        "Prior stroke or TIA",
+        "Female sex",
+        "Hypertension",
+        "Diabetes mellitus"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: prior stroke, TIA, or thromboembolism contributes 2 points in the CHADS-VASc score, reflecting its strong association with recurrent stroke risk.",
+        "Female sex contributes only 1 point in the CHADS-VASc score.",
+        "Hypertension contributes 1 point.",
+        "Diabetes mellitus contributes 1 point."
+      ],
+      "overview": "The CHADS-VASc score estimates stroke risk in patients with atrial fibrillation to guide anticoagulation decisions, weighting congestive heart failure, hypertension, diabetes, vascular disease, female sex, and age 65-74 as 1 point each, while prior stroke/TIA and age over 75 each contribute 2 points. A score of 2 or more generally warrants anticoagulation, while a score of 0 (or 1 due to female sex alone) does not.",
+      "id": "2026-09-03-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "Class III antiarrhythmic drugs such as sotalol exhibit 'reverse use dependence,' meaning their potassium channel-blocking effect is:",
+      "options": [
+        "Greater at fast heart rates and minimal at slow heart rates",
+        "Equal regardless of heart rate",
+        "Greater at slow heart rates, increasing the risk of QT prolongation during bradycardia",
+        "Only present during atrial fibrillation"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "This describes \"use dependence,\" characteristic of Class I drugs (which bind more during fast heart rates), not reverse use dependence.",
+        "Reverse use dependence specifically implies a rate-dependent effect, not an equal effect across heart rates.",
+        "Correct: reverse use dependence means potassium channel blockade (and the QT prolongation effect) is more pronounced at slow heart rates, increasing torsade de pointes risk during bradycardia.",
+        "Reverse use dependence is a general pharmacologic property of Class III drugs and is not exclusive to atrial fibrillation."
+      ],
+      "overview": "Class III antiarrhythmics (amiodarone, sotalol, dofetilide, ibutilide) block potassium channels preferentially in the resting state, meaning their QT-prolonging effect is more pronounced at slower heart rates (\"reverse use dependence\"). This is why bradycardia in a patient on sotalol or dofetilide raises the risk of QT prolongation and torsade de pointes, prompting inpatient monitoring when starting these drugs.",
+      "id": "2026-09-03-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A cannon 'a' wave on jugular venous pulse examination occurs due to which mechanism?",
+      "options": [
+        "Atrial contraction against a closed tricuspid valve",
+        "Right ventricular filling during diastole",
+        "Atrial fibrillation with loss of coordinated atrial contraction",
+        "Tricuspid regurgitation causing a giant systolic wave"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: a cannon a wave occurs when the atrium contracts against a closed tricuspid valve, which happens when atrioventricular coordination is lost (e.g., complete heart block, PVCs, ventricular tachycardia).",
+        "Right ventricular filling during diastole corresponds to the y descent, not the cannon a wave.",
+        "Atrial fibrillation causes an absent a wave due to lack of organized atrial contraction, not a cannon a wave.",
+        "Tricuspid regurgitation produces a giant \"v\" wave during ventricular systole, not a cannon \"a\" wave."
+      ],
+      "overview": "Jugular venous waveforms reflect right atrial pressure events: the a wave is atrial contraction, the c wave is tricuspid valve bulging during ventricular contraction, and the v wave is atrial filling. A cannon a wave occurs when the atria contract against a closed tricuspid valve due to AV dissociation (complete heart block, PVCs, ventricular tachycardia), while atrial fibrillation eliminates the a wave entirely due to lack of organized atrial contraction.",
+      "id": "2026-09-03-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to the Law of Laplace, wall tension in a cardiac chamber is directly proportional to which of the following relationships?",
+      "options": [
+        "Pressure \u00d7 radius, divided by wall thickness",
+        "Radius divided by (pressure \u00d7 wall thickness)",
+        "Pressure divided by (radius \u00d7 wall thickness)",
+        "Wall thickness \u00d7 radius, divided by pressure"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: the Law of Laplace states that wall tension is proportional to (pressure \u00d7 radius) divided by wall thickness; increased pressure or chamber radius raises wall tension, while increased wall thickness (hypertrophy) reduces it.",
+        "This incorrectly places radius as inversely related to tension, when it should be directly proportional in the numerator along with pressure.",
+        "This inverts the relationship; tension increases with pressure, it is not inversely related to it.",
+        "This inverts the formula entirely, placing wall thickness in the numerator instead of the denominator."
+      ],
+      "overview": "The Law of Laplace explains how wall tension relates to intracavitary pressure, chamber radius, and wall thickness. Pressure overload (e.g., hypertension, aortic stenosis) increases tension and drives concentric hypertrophy (sarcomeres added in parallel), while volume overload increases radius and drives eccentric hypertrophy (sarcomeres added in series); hypertrophy itself is a compensatory mechanism that reduces wall tension by distributing force over more myocardial mass.",
+      "id": "2026-09-03-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 30-year-old man is brought to the emergency department after a motor vehicle collision with blunt chest trauma. He is tachycardic and hypotensive. Exam reveals distended neck veins and muffled heart sounds. Which of the following best describes the expected hemodynamic profile?",
+      "options": [
+        "Low cardiac output, high right atrial pressure, high systemic vascular resistance",
+        "High cardiac output, low right atrial pressure, low systemic vascular resistance",
+        "High cardiac output, high right atrial pressure, low systemic vascular resistance",
+        "Low cardiac output, low right atrial pressure, low systemic vascular resistance",
+        "Normal cardiac output, normal right atrial pressure, high systemic vascular resistance"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: pericardial fluid compresses the cardiac chambers, impairing diastolic filling and lowering cardiac output; RA/RV/LA pressures rise and equalize, and compensatory sympathetic activation raises systemic vascular resistance.",
+        "Cardiac output is low in tamponade, not high, due to impaired ventricular filling.",
+        "Systemic vascular resistance is elevated (sympathetic compensation), not low, and cardiac output is low, not high.",
+        "Right atrial pressure is elevated, not low, in tamponade because ventricular filling is impaired.",
+        "Right atrial pressure is elevated in tamponade, not normal."
+      ],
+      "overview": "Cardiac tamponade is a form of obstructive shock caused by pericardial fluid compressing the cardiac chambers and impairing diastolic filling. Beck's triad (hypotension, distended neck veins, muffled heart sounds) and pulsus paradoxus are classic bedside findings. Hemodynamically, tamponade produces low cardiac output with elevated and equalized RA/RV/LA pressures and high systemic vascular resistance from compensatory sympathetic activation.",
+      "id": "2026-09-03-30"
     }
   ]
 }

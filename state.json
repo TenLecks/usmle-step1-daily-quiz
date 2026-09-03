@@ -1,7 +1,10 @@
 {
-  "cycle_index": 0,
+  "cycle_index": 1,
   "cycle_number": 2,
-  "tail_order": null,
+  "tail_order": [
+    "Reproductive",
+    "Renal"
+  ],
   "history": {
     "Cardiology": [
       "Quinidine and procainamide, Class IA antiarrhythmics, exert their primary effect by blocking which c",
@@ -33,7 +36,37 @@
       "A catecholamine-secreting tumor presenting with episodic headache, palpitations, and diaphoresis is ",
       "Adenosine is commonly used to terminate which arrhythmia?",
       "Which of the following is NOT one of the four components of Tetralogy of Fallot?",
-      "According to Poiseuille's law, resistance to blood flow is most strongly affected by changes in whic"
+      "According to Poiseuille's law, resistance to blood flow is most strongly affected by changes in whic",
+      "Which of the following ECG changes is most characteristic of early hyperkalemia?",
+      "A 55-year-old man with a history of mediastinal radiation therapy for Hodgkin lymphoma 15 years ago ",
+      "Thoracic aortic aneurysms of the ascending aorta are most classically associated with which underlyi",
+      "Sustained pressure applied to the abdomen causing a significant rise in jugular venous pressure (hep",
+      "The accessory pathway responsible for pre-excitation in Wolff-Parkinson-White syndrome is known by w",
+      "Ranolazine reduces myocardial oxygen demand and angina symptoms primarily by inhibiting which curren",
+      "A 34-year-old pregnant woman at 28 weeks gestation presents with progressive dyspnea on exertion. Sh",
+      "The AV node is most commonly supplied by which coronary artery?",
+      "Chronic severe aortic regurgitation classically produces which of the following blood pressure findi",
+      "A 45-year-old woman with a known history of mitral valve prolapse undergoes a tooth extraction witho",
+      "A third heart sound (S3) may be a normal physiologic finding in which of the following patient popul",
+      "A 60-year-old man presents with acute chest pain. ECG shows ST elevations in leads II, III, and aVF.",
+      "Which of the following is the antidote of choice for severe beta blocker overdose causing bradycardi",
+      "A 68-year-old woman presents with acute chest pain and dyspnea shortly after learning of her husband",
+      "Lidocaine is particularly effective in treating arrhythmias occurring in ischemic myocardium because",
+      "A fixed splitting of S2 that does not vary with respiration is most characteristic of which conditio",
+      "A 52-year-old man with Marfan syndrome presents with sudden-onset severe \"tearing\" chest pain radiat",
+      "Administration of a potent vasodilator such as adenosine during a pharmacologic stress test can indu",
+      "The predominant hemodynamic mechanism by which nitroglycerin relieves angina is:",
+      "A 35-year-old man with a known delta wave on a prior ECG presents with palpitations and dizziness. E",
+      "Chronic volume overload of the left ventricle, such as from aortic regurgitation, classically leads ",
+      "In a patient taking digoxin, which electrolyte abnormality most significantly increases the risk of ",
+      "A 60-year-old woman presents with intermittent syncope that occurs specifically when she changes fro",
+      "Compared to the aortic arch baroreceptors, the carotid sinus baroreceptors are considered more impor",
+      "A 28-year-old woman presents to the emergency department with sudden-onset palpitations and mild che",
+      "Which of the following components contributes 2 points to the CHADS-VASc score used to estimate stro",
+      "Class III antiarrhythmic drugs such as sotalol exhibit 'reverse use dependence,' meaning their potas",
+      "A cannon 'a' wave on jugular venous pulse examination occurs due to which mechanism?",
+      "According to the Law of Laplace, wall tension in a cardiac chamber is directly proportional to which",
+      "A 30-year-old man is brought to the emergency department after a motor vehicle collision with blunt "
     ],
     "Dermatology": [
       "A pregnant woman develops symmetric, irregular tan-brown patches on her cheeks and forehead (melasma",
