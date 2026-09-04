@@ -560,6 +560,596 @@
         "Incorrect: A superficial partial-thickness burn involves the epidermis and some dermis, is painful, blanches with pressure, and typically blisters \u2014 unlike the insensate wound described."
       ],
       "id": "2026-08-27-30"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 40-year-old man with end-stage AIDS presents with numerous red-purple papules and nodules on his skin. Biopsy reveals a neutrophilic infiltrate with visible bacilli. Which organism is most likely responsible, and how does the biopsy help distinguish this condition from its main clinical mimic?",
+      "options": [
+        "S. aureus; presence of desmoglein antibodies distinguishes it from pemphigus",
+        "Bartonella species; neutrophils and bacteria distinguish it from the lymphocytic infiltrate of Kaposi sarcoma",
+        "Malassezia; fungal hyphae distinguish it from tinea",
+        "HHV-8; lymphocytic infiltrate distinguishes it from bacillary angiomatosis",
+        "HPV; koilocytosis distinguishes it from verruca vulgaris"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "S. aureus and desmoglein antibodies are irrelevant to bacillary angiomatosis.",
+        "Correct - Bacillary angiomatosis is caused by Bartonella quintana or henselae in end-stage HIV/AIDS patients, and biopsy showing neutrophils and bacilli distinguishes it from Kaposi sarcoma, which shows a lymphocytic infiltrate without bacteria.",
+        "Malassezia and fungal hyphae are irrelevant here; bacillary angiomatosis is bacterial, not fungal.",
+        "This describes Kaposi sarcoma itself, not the organism/distinguishing feature of bacillary angiomatosis being asked about.",
+        "HPV and koilocytosis relate to warts, not bacillary angiomatosis."
+      ],
+      "overview": "Bacillary angiomatosis is a zoonotic infection by Bartonella quintana or henselae occurring in end-stage HIV/AIDS, presenting with numerous red-purple vascular nodules that mimic Kaposi sarcoma clinically. Biopsy differentiates the two: bacillary angiomatosis shows neutrophils and visible bacilli, whereas Kaposi sarcoma shows a lymphocytic infiltrate with angioproliferation from HHV-8.",
+      "id": "2026-09-04-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "Neurofibromin, the protein product of the NF1 gene, normally functions to restrict signaling through which pathway?",
+      "options": [
+        "HIF/ubiquitin-proteasome",
+        "RAS",
+        "PD-1/T-cell checkpoint",
+        "mTOR"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "HIF ubiquitination is the function of the VHL protein, not neurofibromin.",
+        "Correct - Neurofibromin is a tumor suppressor protein that restricts RAS function; NF1 mutation leads to RAS overactivity and uncontrolled cell growth, causing neurofibromas and other NF1 manifestations.",
+        "PD-1 checkpoint blockade is a cancer immunotherapy target (pembrolizumab), unrelated to neurofibromin.",
+        "mTOR restriction is the function of hamartin/tuberin in tuberous sclerosis, not neurofibromin."
+      ],
+      "overview": "Neurofibromatosis type 1 is an autosomal dominant disorder with 100% penetrance but variable expressivity, caused by mutation of the NF1 tumor suppressor gene on chromosome 17, which encodes neurofibromin. Neurofibromin normally restricts RAS signaling; its loss causes RAS overactivity and uncontrolled cell growth, producing neurofibromas, caf\u00e9-au-lait spots, Lisch nodules, and optic gliomas.",
+      "id": "2026-09-04-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "The basal lamina layer of the basement membrane, secreted by epithelial cells, contains which of the following key structural proteins?",
+      "options": [
+        "Laminin and type IV collagen",
+        "Keratin and filaggrin",
+        "Occludin and claudin",
+        "Desmoglein and desmocollin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - The basal lamina is an extracellular matrix layer secreted by epithelial cells containing laminin proteins and type IV collagen (relevant to Goodpasture's and Alport syndrome), anchoring epithelium and distinct from the underlying reticular lamina that connects to connective tissue.",
+        "Keratin and filaggrin are intracellular/stratum corneum proteins in keratinocytes, not basal lamina components.",
+        "Occludin and claudin are tight junction proteins, not basement membrane components.",
+        "Desmoglein and desmocollin are desmosomal cadherins, not basement membrane components."
+      ],
+      "overview": "The basement membrane has two layers: the basal lamina, an extracellular matrix secreted by epithelial cells containing laminin and type IV collagen (clinically relevant in Goodpasture's and Alport syndrome), and the reticular lamina, a net-like layer of reticular connective tissue that anchors the basal lamina to underlying connective tissue.",
+      "id": "2026-09-04-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which pair of proteins forms the structural basis of tight junctions, creating a barrier to paracellular movement of solutes between epithelial cells?",
+      "options": [
+        "Occludin and claudin",
+        "Connexin and integrin",
+        "Desmoglein and desmocollin",
+        "Cadherin and catenin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Tight junctions are built from occludin and claudin, sealing adjacent cell membranes near the apical surface and preventing paracellular solute movement.",
+        "Connexins form gap junctions; integrins are found in hemidesmosomes; neither forms tight junctions.",
+        "Desmogleins/desmocollins are cadherin subtypes found in desmosomes (spot junctions), not tight junctions.",
+        "Cadherins form adherens junctions (belt desmosomes), not tight junctions."
+      ],
+      "overview": "Epithelial cells are joined by four junction types: tight junctions (occludin/claudin, apical barrier to paracellular movement), adherens junctions (cadherin, belt-like anchoring), desmosomes (desmoglein, spot-like attachment to intermediate filaments), and gap junctions (connexin, channels for small molecules). Each has a distinct protein basis and location relative to the apical membrane.",
+      "id": "2026-09-04-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "Benzoyl peroxide, a topical acne treatment, exerts its therapeutic effect through which mechanisms?",
+      "options": [
+        "Inhibition of androgen receptors in sebaceous glands",
+        "Inhibition of 5-alpha reductase to reduce sebum production",
+        "Comedolytic breakdown of keratin and bactericidal activity against C. acnes",
+        "Blockade of retinoic acid receptors"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Androgen receptor inhibition is not the mechanism of benzoyl peroxide described in the notes; androgens drive sebum production but benzoyl peroxide does not target this pathway.",
+        "5-alpha reductase inhibition is not described as a mechanism for benzoyl peroxide in the notes.",
+        "Correct - Benzoyl peroxide breaks down keratin to unblock pores (comedolytic effect) and is bactericidal against C. acnes (formerly P. acnes), the anaerobic bacterium implicated in acne pathogenesis.",
+        "Retinoic acid receptor blockade is the opposite of how retinoids (like isotretinoin) work, which bind and activate RAR/RXR; this is not benzoyl peroxide's mechanism."
+      ],
+      "overview": "Acne results from increased sebum and keratin blocking pilosebaceous ducts, allowing overgrowth of the anaerobic bacterium C. acnes (formerly P. acnes). Treatments include benzoyl peroxide (comedolytic and bactericidal), topical/oral antibiotics (clindamycin, erythromycin) to reduce bacterial colonization, and retinoids like isotretinoin, which bind RAR/RXR receptors to decrease keratin production.",
+      "id": "2026-09-04-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "The Breslow thickness, an important prognostic measurement in melanoma, is defined as which of the following?",
+      "options": [
+        "The number of mitotic figures per high-power field",
+        "The distance from the granular layer of the epidermis to the deepest tumor cells",
+        "The horizontal diameter of the lesion at its widest point",
+        "The distance the tumor has spread along lymphatic vessels"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Mitotic count is a separate histologic parameter, not the definition of Breslow thickness per the notes.",
+        "Correct - Breslow thickness measures the distance from the granular epidermis to the deepest tumor cells, and increased depth correlates with increased risk of metastasis, making it a key prognostic factor in melanoma.",
+        "Horizontal diameter relates to the 'D' (diameter) in ABCDE criteria for gross description, not Breslow thickness, which measures depth.",
+        "Lymphatic spread distance is not how Breslow thickness is defined; it measures vertical tumor depth."
+      ],
+      "overview": "Melanoma initially grows radially along the epidermis and upper dermis before shifting to a vertical growth phase invading the dermis. Breslow thickness, the distance from the granular epidermis to the deepest tumor cells, increases with depth of invasion and directly correlates with metastatic risk, guiding prognosis and treatment (wide excision margins).",
+      "id": "2026-09-04-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "The sensitization phase of allergic contact dermatitis, which occurs 10-14 days after initial allergen exposure and produces no visible lesions, is characterized by which process?",
+      "options": [
+        "Hapten presentation to CD4+ and CD8+ T cells with proliferation of hapten-sensitive T cells",
+        "IgE binding to mast cells triggering histamine release",
+        "Deposition of immune complexes in the dermal papillae",
+        "Formation of autoantibodies against desmogleins"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - In the sensitization phase of contact dermatitis (a type IV hypersensitivity reaction), haptens (allergens) are presented to CD4+ and CD8+ T cells, leading to proliferation of hapten-sensitive T cells over 10-14 days without visible lesions.",
+        "IgE-mast cell mechanisms describe type I reactions like urticaria, not contact dermatitis sensitization.",
+        "Immune complex deposition in dermal papillae is not the mechanism described for contact dermatitis (IgA deposition there is specific to dermatitis herpetiformis, a different disease).",
+        "Desmoglein autoantibodies describe pemphigus, unrelated to contact dermatitis."
+      ],
+      "overview": "Contact dermatitis is a type IV hypersensitivity reaction with two phases: sensitization (10-14 days, haptens presented to T cells, no lesions) and elicitation (1-3 days, on reexposure sensitized T cells release cytokines like IFN-gamma, recruiting eosinophils, mast cells, and macrophages, causing dermal edema and spongiosis). Classic triggers include poison ivy, nickel, and laundry detergents.",
+      "id": "2026-09-04-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Psoriasis has a strong genetic association with which HLA allele, and approximately what proportion of patients develop an associated seronegative arthritis?",
+      "options": [
+        "HLA-B27; about one-half develop psoriatic arthritis",
+        "HLA-C; about one-third develop psoriatic arthritis",
+        "HLA-DQ2; about one-fourth develop psoriatic arthritis",
+        "HLA-DR4; about one-tenth develop psoriatic arthritis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "HLA-B27 is associated with other seronegative spondyloarthropathies broadly but is not the specific allele highlighted for psoriasis in the notes, and one-half is not the stated proportion.",
+        "Correct - Psoriasis has a strong association with HLA-C, and about one-third of patients develop psoriatic arthritis, a seronegative spondyloarthropathy more common in those with nail findings like pitting.",
+        "HLA-DQ2 is associated with celiac disease (relevant to dermatitis herpetiformis), not psoriasis, and one-fourth is not the stated proportion.",
+        "HLA-DR4 is not the allele described for psoriasis association in the notes, and one-tenth is not the stated proportion."
+      ],
+      "overview": "Psoriasis is a chronic inflammatory skin disorder believed to be autoimmune with a strong HLA-C association, producing well-demarcated, salmon-colored plaques with silvery scale on extensor surfaces. About one-third of patients develop psoriatic arthritis (a seronegative spondyloarthropathy), more common with nail involvement (pitting, onycholysis), and patients may also develop uveitis, conjunctivitis, or blepharitis.",
+      "id": "2026-09-04-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "A benign tumor of cardiac muscle cells found in about 90% of tuberous sclerosis patients, sometimes detected prenatally, is known as which of the following?",
+      "options": [
+        "Glomus tumor",
+        "Hemangioblastoma",
+        "Angiomyolipoma",
+        "Rhabdomyoma"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Glomus tumors arise from glomus bodies in fingers/toes, unrelated to tuberous sclerosis.",
+        "Hemangioblastomas are the classic CNS/retinal tumor of von Hippel-Lindau disease, not tuberous sclerosis.",
+        "Angiomyolipomas are the classic renal (not cardiac) manifestation of tuberous sclerosis.",
+        "Correct - Cardiac rhabdomyomas are benign tumors of muscle cells that occur in about 90% of tuberous sclerosis cases, are sometimes detected prenatally, and are embedded in the ventricular wall, rarely causing symptoms from obstruction or arrhythmia."
+      ],
+      "overview": "Tuberous sclerosis involves widespread hamartoma formation from TSC1/TSC2 mutations causing mTOR overactivity. Cardiac rhabdomyomas (benign muscle cell tumors) occur in about 90% of patients and are often detected prenatally, while renal angiomyolipomas are the most frequent renal manifestation, and CNS tubers/subependymal giant cell astrocytomas cause the classic presenting symptom of seizures.",
+      "id": "2026-09-04-09"
+    },
+    {
+      "format": "simple4",
+      "stem": "Verruca plana, condyloma acuminatum, and verruca vulgaris are all cutaneous or mucosal manifestations of infection with which virus?",
+      "options": [
+        "HSV",
+        "HHV-8",
+        "Poxvirus",
+        "HPV"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "HSV causes herpetic lesions and is linked to erythema multiforme, not warts.",
+        "HHV-8 causes Kaposi sarcoma, not warts.",
+        "Poxvirus is not discussed as a cause of warts in the notes.",
+        "Correct - All three are manifestations of HPV infection: verruca vulgaris (most common skin wart), verruca plana (flat wart), and condyloma acuminatum (venereal wart)."
+      ],
+      "overview": "Warts are caused by HPV infection and have several subtypes: verruca vulgaris (most common, on skin, especially hands), verruca plana (flat wart), and condyloma acuminatum (venereal warts). Histology of cutaneous warts shows epidermal hyperplasia with koilocytosis, cytoplasmic vacuolization creating a halo around the nucleus of infected keratinocytes.",
+      "id": "2026-09-04-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "Hydroquinone, a topical skin-lightening agent used to treat melasma, works by inhibiting which enzyme?",
+      "options": [
+        "mTOR kinase",
+        "Tyrosinase",
+        "Cyclooxygenase",
+        "5-alpha reductase"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "mTOR kinase inhibition relates to tuberous sclerosis pathophysiology, not melasma treatment.",
+        "Correct - Hydroquinone is a skin lightener used for melasma that works by inhibiting tyrosinase, the enzyme responsible for converting tyrosine into melanin, thereby reducing melanin synthesis.",
+        "Cyclooxygenase inhibition is unrelated to melanin synthesis or melasma.",
+        "5-alpha reductase is unrelated to melanin synthesis or melasma treatment per the notes."
+      ],
+      "overview": "Melasma is acquired facial hyperpigmentation triggered by UV light in susceptible individuals, often with pregnancy or oral contraceptive use due to increased estrogen ('mask of pregnancy'). Treatment includes sun protection and skin lighteners such as hydroquinone, which inhibits tyrosinase to reduce melanin synthesis.",
+      "id": "2026-09-04-11"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old man is found to have a cerebellar mass composed of clumps of capillaries without invasion, along with bilateral renal cysts and elevated plasma metanephrines. Genetic testing reveals a mutation in a tumor suppressor gene on chromosome 3. This gene normally functions to do which of the following?",
+      "options": [
+        "Inhibit mTOR kinase activity to restrict cell growth",
+        "Restrict RAS signaling to prevent uncontrolled proliferation",
+        "Inhibit desmoglein cleavage in the epidermis",
+        "Tag hypoxia-inducible factor for ubiquitination and proteasomal degradation",
+        "Encode a protein that anchors keratinocytes to the basement membrane"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "This describes hamartin/tuberin, mutated in tuberous sclerosis, not VHL disease.",
+        "This describes neurofibromin, mutated in NF1, not VHL disease.",
+        "Desmoglein cleavage is relevant to pemphigus and bullous impetigo, not VHL.",
+        "Correct - The VHL gene encodes a tumor suppressor protein that ubiquitinates hypoxia-inducible factor (HIF), tagging it for proteasomal destruction; loss of function causes cells to behave as if hypoxic, driving blood vessel growth (hemangioblastomas, renal cysts/RCC, pheochromocytoma) as seen in this patient.",
+        "This describes hemidesmosome/integrin function, unrelated to VHL."
+      ],
+      "overview": "Von Hippel-Lindau disease is a genetic cancer syndrome from mutation of the VHL tumor suppressor gene on chromosome 3, which normally ubiquitinates HIF for degradation; loss of function causes pseudohypoxic signaling and angiogenesis. Classic findings include CNS/retinal hemangioblastomas, renal cysts and bilateral renal cell carcinomas, pancreatic cysts, and pheochromocytomas, requiring lifelong surveillance.",
+      "id": "2026-09-04-12"
+    },
+    {
+      "format": "simple4",
+      "stem": "Gap junctions composed of connexin proteins allow passage of which of the following between adjacent cells?",
+      "options": [
+        "Small molecules and ions, but not proteins or nucleic acids",
+        "Proteins and nucleic acids exclusively",
+        "Only water molecules",
+        "Melanosomes from melanocytes to keratinocytes"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Gap junctions are formed by connexin proteins assembled into connexons, creating channels that allow passage of small molecules and ions between cells but are too small for proteins or nucleic acids.",
+        "Gap junctions are specifically too small to pass proteins and nucleic acids; this is the opposite of their function.",
+        "Gap junctions allow more than just water; they permit small molecules and ions generally.",
+        "Melanosome transfer to keratinocytes occurs by a separate mechanism, not through gap junctions."
+      ],
+      "overview": "Gap junctions are intercellular channels formed by connexin proteins that assemble into a structure called a connexon. They allow direct passage of small molecules and ions between adjacent cells for coordinated cellular activity, but are too small to permit passage of proteins or nucleic acids.",
+      "id": "2026-09-04-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Seborrheic dermatitis, presenting with red, flaky plaques on the face and scalp, is associated with overgrowth of which organism and which systemic conditions?",
+      "options": [
+        "Dermatophytes; immunosuppression",
+        "Malassezia species; Parkinson's disease and HIV infection",
+        "Candida species; diabetes mellitus",
+        "C. acnes; polycystic ovary syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Dermatophytes and general immunosuppression are not the specific organism/associations given for seborrheic dermatitis.",
+        "Correct - Seborrheic dermatitis is associated with the fungus Malassezia and is more common in patients with Parkinson's disease and HIV infection; treatment includes ketoconazole and corticosteroids.",
+        "Candida and diabetes mellitus are not the association described for seborrheic dermatitis in the notes.",
+        "C. acnes and PCOS relate to acne pathophysiology, not seborrheic dermatitis."
+      ],
+      "overview": "Seborrheic dermatitis produces red, scaly plaques in sebaceous gland-rich areas (face, scalp) without true sebaceous gland inflammation, and is associated with the fungus Malassezia. It is more common in patients with Parkinson's disease and HIV infection, and is treated with ketoconazole and corticosteroids.",
+      "id": "2026-09-04-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following environmental exposures, historically linked to contaminated drinking water, is a recognized risk factor for squamous cell carcinoma?",
+      "options": [
+        "Arsenic",
+        "Vinyl chloride",
+        "Bartonella infection",
+        "HHV-8 infection"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Arsenic exposure, found in contaminated drinking water, is a listed risk factor for squamous cell carcinoma, alongside sun exposure, ionizing radiation, chronic immunosuppression, and chronic skin inflammation.",
+        "Vinyl chloride exposure is linked to hepatic angiosarcoma, not squamous cell carcinoma.",
+        "Bartonella infection causes bacillary angiomatosis, not squamous cell carcinoma.",
+        "HHV-8 causes Kaposi sarcoma, not squamous cell carcinoma."
+      ],
+      "overview": "Squamous cell carcinoma is the second most common skin cancer, arising from keratinocytes in sun-exposed areas due to UV-induced DNA damage. Risk factors include sun exposure, ionizing radiation, chronic immunosuppression (organ transplant, HIV, long-term glucocorticoids), chronic skin inflammation (burns, ulcers), and arsenic exposure from contaminated drinking water.",
+      "id": "2026-09-04-15"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 35-year-old previously healthy man cuts his forearm on a fence while gardening. Three days later he develops redness and swelling at the site that rapidly expands over hours. On exam there is exquisite tenderness extending beyond the visible erythema, with skin that has turned dusky purple in places, and a crackling sensation is felt on palpation. He is febrile and hypotensive. Which of the following is the most likely causative organism?",
+      "options": [
+        "Malassezia species",
+        "Group A Streptococcus (S. pyogenes)",
+        "Staphylococcus epidermidis",
+        "Bartonella henselae",
+        "Human herpesvirus-8"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Malassezia is associated with seborrheic dermatitis, not necrotizing fasciitis.",
+        "Correct - Type 2 necrotizing fasciitis occurs in otherwise healthy people after skin injury and is caused by Group A strep (S. pyogenes), sometimes with staph.",
+        "S. epidermidis is a skin commensal, not a cause of necrotizing fasciitis.",
+        "Bartonella causes bacillary angiomatosis in HIV patients, not necrotizing fasciitis.",
+        "HHV-8 causes Kaposi sarcoma, not necrotizing fasciitis."
+      ],
+      "overview": "Necrotizing fasciitis is infection of fascia with pain out of proportion to exam, crepitus from gas-forming bacteria, and skin discoloration progressing red-purple-blue-black. Type 1 is polymicrobial in diabetics/immunocompromised (often post-surgical), while Type 2 is due to Group A strep in otherwise healthy people after minor trauma. It requires urgent surgical debridement given high mortality.",
+      "id": "2026-09-04-16"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 5-day-old infant develops fever, diffuse erythema most pronounced in the skin folds, and areas where the epidermis sloughs off with gentle stroking of the skin. Cultures obtained directly from the blistered skin do not grow any organism. Which of the following best explains the skin findings?",
+      "options": [
+        "Autoantibodies against desmoglein 1 and 3 in the skin",
+        "Autoantibodies against hemidesmosomal proteins BP180/BP230",
+        "Circulating exfoliative toxin from a distant S. aureus infection",
+        "Type IV hypersensitivity reaction to a recent medication",
+        "IgA deposition at the tips of dermal papillae"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "This describes pemphigus vulgaris, an autoimmune disease of adults, not a toxin-mediated newborn disease.",
+        "This describes bullous pemphigoid, occurring in the elderly, not newborns.",
+        "Correct - Staphylococcal scalded skin syndrome occurs in newborns colonized with S. aureus that produces diffuse exfoliative toxin, which circulates and cleaves desmoglein 1, causing widespread superficial epidermal sloughing without organisms present in the blistered skin itself.",
+        "SJS/TEN are type IV hypersensitivity drug reactions with epidermal necrosis, distinct from toxin-mediated SSSS.",
+        "This describes dermatitis herpetiformis, associated with celiac disease, not SSSS."
+      ],
+      "overview": "Staphylococcal scalded skin syndrome occurs in newborns 3-7 days of age due to S. aureus exfoliative toxin (exfoliatin), which cleaves desmoglein 1 in the stratum granulosum, causing diffuse erythema and sloughing (positive Nikolsky sign) that heals without scarring since damage is intraepidermal. Treatment is anti-staphylococcal antibiotics like nafcillin or oxacillin.",
+      "id": "2026-09-04-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which range of ultraviolet radiation wavelengths is most effective at causing sunburn?",
+      "options": [
+        "UVA, 320-400 nm",
+        "UVC, 100-280 nm",
+        "UVB, 280-320 nm",
+        "Visible light, 400-700 nm"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "UVA (320-400 nm) may also cause sunburn but is not the most effective range per the notes; UVB is specifically noted as most effective.",
+        "UVC is not discussed as a cause of sunburn in the notes.",
+        "Correct - UVB radiation, with a wavelength of 280-320 nm, is the most effective range at causing sunburn, though UVA can also contribute; UVB causes DNA damage leading to keratinocyte apoptosis ('sunburn cells').",
+        "Visible light is not implicated in sunburn pathogenesis in the notes."
+      ],
+      "overview": "Sunburn is an inflammatory skin response to ultraviolet radiation, with UVB radiation (280-320 nm) being most effective at causing sunburn, though UVA (320-400 nm) can also contribute. UVB causes DNA damage leading to keratinocyte apoptosis ('sunburn cells') and vasodilation with release of inflammatory mediators.",
+      "id": "2026-09-04-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "Loss of which cell adhesion molecule is classically associated with promoting metastasis in certain breast and gastric cancers?",
+      "options": [
+        "Laminin",
+        "E-cadherin",
+        "Occludin",
+        "Desmoglein 1"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Laminin is a basal lamina protein anchoring epithelium to connective tissue, not linked to metastasis.",
+        "Correct - E-cadherin is a calcium-dependent adhesion glycoprotein in adherens junctions; its loss disrupts cell-cell adhesion and promotes metastasis, a well-known feature in some breast and gastric cancers.",
+        "Occludin is a tight junction protein, not linked to metastasis.",
+        "Desmoglein 1 is a desmosomal cadherin targeted in bullous impetigo/pemphigus foliaceus, not classically linked to metastasis in the notes."
+      ],
+      "overview": "Cadherins are calcium-dependent adhesion glycoproteins that attach to actin filaments and hold epithelial sheets together via adherens junctions. E-cadherin loss is a classic mechanism promoting tumor cell invasion and metastasis, notably described in some breast and gastric cancers.",
+      "id": "2026-09-04-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man is diagnosed with metastatic melanoma. Genetic testing of the tumor reveals a V600E mutation. He is started on vemurafenib. Which of the following best describes the mechanism targeted by this drug?",
+      "options": [
+        "Inhibition of a mutated proto-oncogene that triggers cell proliferation downstream of RAS activation",
+        "Inhibition of tyrosinase to reduce melanin synthesis",
+        "Inhibition of mTOR to restrict tumor cell growth",
+        "Ubiquitination of hypoxia-inducible factor to prevent angiogenesis",
+        "Blockade of PD-1 on T cells to enhance anti-tumor immune response"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - BRAF is a proto-oncogene that triggers cell proliferation upon RAS activation; the V600E mutation (90% of BRAF mutations in melanoma) causes constitutive activation, and BRAF inhibitors like vemurafenib and dabrafenib target this mutated kinase, improving survival.",
+        "Tyrosinase inhibition describes hydroquinone used for melasma, unrelated to BRAF-targeted therapy.",
+        "mTOR inhibition relates to tuberous sclerosis pathophysiology, not melanoma BRAF treatment.",
+        "HIF ubiquitination relates to VHL disease, not melanoma treatment.",
+        "PD-1 blockade describes pembrolizumab, a different melanoma treatment with a different mechanism (immune checkpoint inhibition, not BRAF-targeted)."
+      ],
+      "overview": "BRAF mutations occur in 40-50% of sporadic melanomas, most commonly the V600E mutation, causing constitutive activation of the RAS-triggered proliferation pathway. BRAF inhibitors such as vemurafenib and dabrafenib specifically target this mutated kinase and improve survival in melanoma patients whose tumors carry the V600E mutation.",
+      "id": "2026-09-04-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "The classic pathophysiology of urticaria (hives) involves which of the following mechanisms?",
+      "options": [
+        "Type IV cell-mediated hypersensitivity to a topical allergen",
+        "IgE-mediated mast cell degranulation with histamine release",
+        "Deposition of IgA at the dermal papillae",
+        "IgG autoantibodies against desmosomal proteins"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Type IV hypersensitivity to a topical allergen describes contact dermatitis, not urticaria.",
+        "Correct - Urticaria is classically a type I hypersensitivity reaction where antigen binds IgE on mast cells, triggering histamine release, dermal edema, and dilation of lymph vessels; some cases are non-IgE dependent (e.g., vancomycin, radiocontrast, opiates activating mast cells directly).",
+        "IgA deposition at dermal papillae describes dermatitis herpetiformis, not urticaria.",
+        "IgG against desmosomal proteins describes pemphigus, not urticaria."
+      ],
+      "overview": "Urticaria (hives) presents as pruritic, raised wheals with a pale center and surrounding erythema, plus possible angioedema. It is usually a type I hypersensitivity reaction (IgE-mediated mast cell degranulation and histamine release), though some cases are non-IgE mediated, triggered by drugs like vancomycin, radiocontrast, or opiates acting directly on mast cells.",
+      "id": "2026-09-04-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old girl develops sudden onset fever and chills followed by a bright red rash on her cheek with a sharply demarcated, raised border that is clearly distinguishable from surrounding normal skin. Which layer of skin is primarily involved, and what is the most likely organism?",
+      "options": [
+        "Deep dermis and subcutaneous fat; Group A Streptococcus or S. aureus",
+        "Epidermis only; S. aureus exfoliative toxin",
+        "Superficial dermis; Group A Streptococcus",
+        "Subcutaneous fat lobules; Sarcoidosis-related",
+        "Fascia; polymicrobial anaerobes"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "This describes cellulitis, which involves deeper dermis/subcutaneous fat and has a slower onset with ill-defined borders, not erysipelas.",
+        "This describes bullous impetigo/scalded skin syndrome from exfoliative toxin, not erysipelas.",
+        "Correct - Erysipelas involves the superficial dermis, occurs in young children and older adults, is usually caused by Group A strep, and presents with acute fever/chills and a clearly demarcated rash.",
+        "Panniculitis of fat lobules relates to processes like erythema nodosum, not erysipelas.",
+        "This describes necrotizing fasciitis, which involves the fascia, not erysipelas."
+      ],
+      "overview": "Erysipelas and cellulitis are bacterial skin infections that differ mainly by depth: erysipelas involves the superficial dermis with a clearly demarcated border and affects young children/older adults, while cellulitis involves the deep dermis/subcutaneous fat with an ill-defined spreading border and slower onset, affecting middle-aged/elderly patients. Both are most often caused by Group A strep, and cellulitis may also be caused by S. aureus.",
+      "id": "2026-09-04-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "The most frequent renal manifestation of tuberous sclerosis, characterized by proliferation of epithelioid cells around blood vessels with risk of hemorrhage and renin-dependent hypertension, is which of the following?",
+      "options": [
+        "Wilms tumor",
+        "Simple renal cyst",
+        "Renal cell carcinoma",
+        "Angiomyolipoma"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Wilms tumor is not discussed as a tuberous sclerosis renal manifestation in the notes.",
+        "Renal cysts are also a VHL disease feature, not the classic tuberous sclerosis renal finding described.",
+        "Bilateral renal cell carcinomas are a classic feature of von Hippel-Lindau disease, not the most frequent renal finding in tuberous sclerosis.",
+        "Correct - Renal angiomyolipomas are the most frequent renal manifestation of tuberous sclerosis, often multiple and bilateral, with growth and hemorrhage causing pain and risk of renin-dependent hypertension and chronic kidney disease from compression of normal tissue."
+      ],
+      "overview": "Tuberous sclerosis causes widespread hamartomas in multiple organ systems from TSC1/TSC2 mutations leading to mTOR overactivity. Renal angiomyolipomas are the most frequent renal manifestation, presenting with multiple/bilateral lesions that can hemorrhage, cause pain, renin-dependent hypertension, and chronic kidney disease from compression of normal renal tissue.",
+      "id": "2026-09-04-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 74-year-old man presents with a purple, bruise-like nodule on his scalp that has been slowly enlarging over several months. Biopsy reveals irregular, abnormal vascular channels infiltrating the dermis. Which of the following exposures is most classically associated with a related form of this tumor arising in a different organ?",
+      "options": [
+        "Ionizing radiation to the skin only",
+        "HHV-8 infection",
+        "Arsenic-contaminated drinking water",
+        "Bartonella henselae infection",
+        "Vinyl chloride exposure (hepatic form)"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Radiation is associated with the breast form of angiosarcoma (following radiation therapy or chronic lymphedema after mastectomy), not scalp lesions, and is not the exposure highlighted for the hepatic form.",
+        "HHV-8 causes Kaposi sarcoma, a different vascular tumor, not angiosarcoma.",
+        "Arsenic exposure is a risk factor for squamous cell carcinoma, not angiosarcoma.",
+        "Bartonella causes bacillary angiomatosis, not angiosarcoma.",
+        "Correct - Angiosarcoma classically occurs on the scalp/forehead of older men as purple nodules resembling a bruise that grows over time; the hepatic form of angiosarcoma is classically associated with vinyl chloride exposure."
+      ],
+      "overview": "Angiosarcoma is a rare, aggressive vascular tumor most classically arising on the scalp/forehead of older men as a bruise-like purple nodule that grows over time, with biopsy showing irregular abnormal vascular structures and carrying a poor prognosis. Other forms occur in the liver (associated with vinyl chloride exposure) and breast (often following radiation therapy or in chronic lymphedema after mastectomy, occurring decades later).",
+      "id": "2026-09-04-24"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 38-year-old man with poorly controlled HIV infection (CD4 count 45 cells/mm3) presents with numerous violaceous nodules on his skin and oral mucosa. Biopsy shows angioproliferation with a lymphocytic infiltrate. Which of the following is the most likely causative agent?",
+      "options": [
+        "Human herpesvirus-8",
+        "Bartonella henselae",
+        "Bartonella quintana",
+        "Malassezia species",
+        "HPV"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Kaposi sarcoma is an angioproliferative tumor associated with HIV/AIDS caused by HHV-8, and biopsy classically shows a lymphocytic infiltrate, distinguishing it from bacillary angiomatosis.",
+        "Bartonella henselae causes bacillary angiomatosis, which shows neutrophils and bacilli on biopsy, not the lymphocytic infiltrate seen here.",
+        "Bartonella quintana also causes bacillary angiomatosis, not Kaposi sarcoma.",
+        "Malassezia is associated with seborrheic dermatitis, not Kaposi sarcoma.",
+        "HPV causes verrucae/warts, not Kaposi sarcoma."
+      ],
+      "overview": "Kaposi sarcoma is a vascular tumor common in HIV/AIDS caused by HHV-8 infection, presenting as red-purple nodules on skin and mucosa. It is distinguished from the similar-appearing bacillary angiomatosis (caused by Bartonella species) by biopsy: Kaposi sarcoma shows a lymphocytic infiltrate, while bacillary angiomatosis shows neutrophils and visible bacilli.",
+      "id": "2026-09-04-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Freckles (ephelides) are small, darkened macules that result from which of the following?",
+      "options": [
+        "Autoimmune destruction of melanocytes",
+        "Increased melanin production with a normal number of melanocytes",
+        "Increased number of melanocytes with normal melanin production per cell",
+        "Decreased tyrosinase activity in melanocytes"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Autoimmune destruction of melanocytes describes vitiligo, which causes depigmentation, not freckles.",
+        "Correct - Freckles are small, flat, brown macules caused by increased amounts of melanin production with a normal density/number of melanocytes; they can darken further with sun exposure.",
+        "Freckles are due to increased melanin output per melanocyte, not an increased number of melanocytes.",
+        "Decreased tyrosinase activity describes albinism, which causes hypopigmentation, the opposite of freckles."
+      ],
+      "overview": "Melanin is synthesized from tyrosine in melanocytes and transferred via melanosomes to keratinocytes. Freckles result from increased melanin synthesis with a normal melanocyte number/density, distinguishing them from disorders of melanocyte number (nevi) or melanocyte function (albinism, vitiligo).",
+      "id": "2026-09-04-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with neurofibromatosis type 2 is most likely to develop which of the following tumors, occurring in almost all affected patients?",
+      "options": [
+        "Cutaneous neurofibromas",
+        "Cardiac rhabdomyomas",
+        "Bilateral vestibular schwannomas (acoustic neuromas)",
+        "Optic gliomas"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Cutaneous neurofibromas are a hallmark of NF1, not NF2.",
+        "Cardiac rhabdomyomas are a classic feature of tuberous sclerosis, not NF2.",
+        "Correct - NF2 is characterized by bilateral schwannomas of the vestibular (acoustic) nerve, occurring in almost all patients, along with meningiomas; this distinguishes it from NF1.",
+        "Optic gliomas are a feature of NF1, not NF2."
+      ],
+      "overview": "Neurofibromatosis type 2 is a less common autosomal dominant disorder caused by mutation of the NF2 gene, with major features being CNS tumors: bilateral vestibular schwannomas ('acoustic neuromas') occurring in nearly all patients, plus meningiomas. This contrasts with NF1, which primarily causes peripheral nerve neurofibromas with skin and eye findings.",
+      "id": "2026-09-04-27"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman presents with painful oral ulcerations that have made eating difficult for the past two weeks. She now has several large, flaccid bullae on her chest and back that rupture easily, leaving scabbed erosions. Gentle lateral pressure on an intact bulla causes it to spread further. Which of the following is most likely to be found on direct immunofluorescence of a perilesional skin biopsy?",
+      "options": [
+        "Granular IgA deposition at the tips of dermal papillae",
+        "Eosinophils and lymphocytes without immunoglobulin deposition",
+        "C3 deposition around dermal blood vessels only",
+        "Reticular (net-like) IgG deposition throughout the epidermis",
+        "Linear IgG deposition at the dermal-epidermal junction"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Granular IgA at dermal papillae tips is the classic finding in dermatitis herpetiformis, not pemphigus vulgaris.",
+        "Eosinophils/lymphocytes without a significant immunoglobulin pattern understates the finding; bullous pemphigoid shows eosinophils on biopsy but PV specifically shows the IgG reticular pattern.",
+        "Isolated perivascular C3 deposition is not the classic pemphigus finding.",
+        "Correct - Pemphigus vulgaris shows a classic 'reticular,' net-like pattern of IgG immunofluorescence targeting desmogleins 1 and 3 between keratinocytes; the clinical picture (oral ulcers, flaccid easily ruptured bullae, Asboe-Hansen sign of lateral spread) is classic for PV.",
+        "Linear IgG at the dermal-epidermal junction is the classic finding in bullous pemphigoid, not pemphigus vulgaris."
+      ],
+      "overview": "Pemphigus vulgaris is caused by IgG autoantibodies against desmoglein 1 and 3 (components of desmosomes), producing acantholysis in the stratum spinosum with a 'reticular' net-like IgG pattern on immunofluorescence. It typically affects adults 30-60, often starts with painful oral erosions, produces flaccid bullae that rupture easily, and shows a positive Nikolsky sign and Asboe-Hansen sign (lateral spread of bullae with pressure).",
+      "id": "2026-09-04-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "In bullous impetigo, the S. aureus exfoliative toxin (exfoliatin) causes blister formation by which mechanism?",
+      "options": [
+        "Depositing IgA at the tips of dermal papillae",
+        "Forming IgG autoantibodies against desmoglein 3 in the stratum spinosum",
+        "Producing autoantibodies against hemidesmosomal proteins BP180 and BP230",
+        "Cleaving the desmoglein 1 complex, disrupting desmosomal adhesion between keratinocytes in the stratum granulosum"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "IgA deposition at dermal papillae describes dermatitis herpetiformis, unrelated to bullous impetigo.",
+        "IgG autoantibodies against desmoglein 3 describe the autoimmune mechanism of pemphigus vulgaris, not the toxin-mediated mechanism of bullous impetigo.",
+        "Autoantibodies against BP180/BP230 describe bullous pemphigoid, an autoimmune disease distinct from toxin-mediated bullous impetigo.",
+        "Correct - The S. aureus exfoliative toxin (exfoliatin) cleaves the desmoglein 1 complex, disrupting desmosomal adhesion between keratinocytes specifically in the stratum granulosum, producing the superficial blistering seen in bullous impetigo (and more diffusely in scalded skin syndrome)."
+      ],
+      "overview": "Bullous impetigo, seen in children and commonly involving the trunk, is caused by S. aureus producing exfoliative toxin (exfoliatin), which cleaves the desmoglein 1 complex and disrupts desmosomal adhesion in the stratum granulosum. This same toxin, when it spreads systemically in neonates, causes the more diffuse staphylococcal scalded skin syndrome.",
+      "id": "2026-09-04-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 50-year-old man started allopurinol two weeks ago for gout. He now presents with fever, diffuse skin pain, and sloughing of the epidermis with a positive Nikolsky sign involving approximately 35% of his body surface area, along with oral and ocular mucosal erosions. Which of the following terms best classifies this presentation?",
+      "options": [
+        "Bullous pemphigoid",
+        "Toxic epidermal necrolysis",
+        "Stevens-Johnson syndrome",
+        "Erythema multiforme",
+        "SJS-TEN overlap"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Bullous pemphigoid occurs in the elderly with tense bullae and is not associated with allopurinol or extensive epidermal necrosis.",
+        "Correct - Toxic epidermal necrolysis is the severe form of the SJS spectrum involving >30% body surface area; this patient's 35% BSA involvement classifies him as TEN. Allopurinol is a classic trigger.",
+        "SJS is defined as <10% BSA involvement, not 35%.",
+        "Erythema multiforme features target lesions and is not classified by BSA sloughing percentage in this way, and it is not typically drug-induced by allopurinol per the notes.",
+        "SJS-TEN overlap is defined as 10-30% BSA, not 35%."
+      ],
+      "overview": "SJS/TEN represent a spectrum of severe type IV hypersensitivity drug reactions causing epidermal necrosis, classically triggered by anticonvulsants, sulfonamides, allopurinol, penicillins, NSAIDs, and associated with Mycoplasma pneumoniae infection. Classification is by body surface area involved: SJS <10%, overlap 10-30%, TEN >30%, with TEN carrying the highest mortality (25-35%).",
+      "id": "2026-09-04-30"
     }
   ]
 }

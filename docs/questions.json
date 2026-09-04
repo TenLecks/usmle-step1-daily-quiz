@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-03",
-  "subject": "Cardiology",
+  "date": "2026-09-04",
+  "subject": "Dermatology",
   "questions": [
     {
-      "format": "simple4",
-      "stem": "Which of the following ECG changes is most characteristic of early hyperkalemia?",
-      "options": [
-        "Prolonged QT interval",
-        "Flattened T waves and U waves",
-        "Delta wave",
-        "Peaked T waves"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Hyperkalemia does not classically cause QT prolongation; that finding is more associated with hypocalcemia or certain antiarrhythmic drugs.",
-        "Flattened T waves with prominent U waves are characteristic of hypokalemia, not hyperkalemia.",
-        "A delta wave is seen in WPW syndrome due to pre-excitation and is unrelated to potassium levels.",
-        "Correct: peaked T waves are a classic early ECG finding in hyperkalemia, reflecting altered myocyte repolarization from elevated extracellular potassium."
-      ],
-      "overview": "Potassium abnormalities produce characteristic T wave changes: hyperkalemia causes peaked T waves (and can progress to QRS widening and a sine-wave pattern with severe elevation), while hypokalemia causes flattened T waves with prominent U waves. These findings are important because severe electrolyte derangements can precipitate life-threatening arrhythmias.",
-      "id": "2026-09-03-01"
-    },
-    {
       "format": "vignette5",
-      "stem": "A 55-year-old man with a history of mediastinal radiation therapy for Hodgkin lymphoma 15 years ago presents with progressive dyspnea, lower extremity edema, and abdominal distension. Exam reveals jugular venous distension that increases with inspiration and an early diastolic sound following S2. Which of the following is the most likely diagnosis?",
+      "stem": "A 40-year-old man with end-stage AIDS presents with numerous red-purple papules and nodules on his skin. Biopsy reveals a neutrophilic infiltrate with visible bacilli. Which organism is most likely responsible, and how does the biopsy help distinguish this condition from its main clinical mimic?",
       "options": [
-        "Acute pericarditis",
-        "Dilated cardiomyopathy",
-        "Cardiac tamponade",
-        "Constrictive pericarditis",
-        "Restrictive cardiomyopathy"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Acute pericarditis presents with pleuritic chest pain and diffuse ST elevations, not chronic right heart failure signs with Kussmaul's sign.",
-        "Dilated cardiomyopathy would show an S3, cardiomegaly, and reduced systolic function rather than Kussmaul's sign and a knock.",
-        "Tamponade classically produces pulsus paradoxus, not Kussmaul's sign, and is not associated with prior mediastinal radiation as a chronic scarring process.",
-        "Correct: prior mediastinal radiation is a classic cause of constrictive pericarditis; Kussmaul's sign (JVP rising with inspiration) and a pericardial knock (early diastolic sound after S2) are characteristic findings.",
-        "Restrictive cardiomyopathy can also show Kussmaul's sign, but the pericardial knock plus prior mediastinal radiation (a classic cause of pericardial scarring) point specifically to constrictive pericarditis."
-      ],
-      "overview": "Constrictive pericarditis results from a fibrotic, calcified, non-compliant pericardium, often caused by prior pericarditis, cardiac surgery, tuberculosis, or mediastinal radiation. It presents with prominent right heart failure signs, Kussmaul's sign (a paradoxical rise in JVP with inspiration), and a pericardial knock, distinguishing it from tamponade, which classically shows pulsus paradoxus rather than Kussmaul's sign.",
-      "id": "2026-09-03-02"
-    },
-    {
-      "format": "simple4",
-      "stem": "Thoracic aortic aneurysms of the ascending aorta are most classically associated with which underlying process, distinguishing them from abdominal aortic aneurysms?",
-      "options": [
-        "Cystic medial necrosis",
-        "Atherosclerosis of the infrarenal aorta",
-        "Chronic venous stasis",
-        "Rheumatic valvulitis"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: ascending thoracic aortic aneurysms are classically associated with cystic medial necrosis (degeneration of the medial layer), accelerated by hypertension, bicuspid aortic valve, or Marfan syndrome.",
-        "Atherosclerosis of the infrarenal aorta is the classic association with abdominal aortic aneurysms, not ascending thoracic aneurysms.",
-        "Venous stasis is unrelated to arterial aneurysm formation.",
-        "Rheumatic valvulitis affects heart valves and is not the classic mechanism behind thoracic aortic aneurysm formation."
-      ],
-      "overview": "Thoracic aortic aneurysms, especially of the ascending aorta, are associated with cystic medial necrosis, a degenerative process accelerated by hypertension, bicuspid aortic valve, and connective tissue disorders like Marfan syndrome. In contrast, abdominal aortic aneurysms are classically linked to atherosclerosis, most commonly affecting the infrarenal aorta, and share risk factors such as smoking, older age, and male sex.",
-      "id": "2026-09-03-03"
-    },
-    {
-      "format": "simple4",
-      "stem": "Sustained pressure applied to the abdomen causing a significant rise in jugular venous pressure (hepatojugular reflux) is a sign of which condition?",
-      "options": [
-        "Aortic stenosis",
-        "Mitral valve prolapse",
-        "Right heart failure",
-        "Hypertrophic cardiomyopathy"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Aortic stenosis is a left-sided valve lesion causing left ventricular pressure overload, not classically assessed via hepatojugular reflux.",
-        "Mitral valve prolapse causes a systolic click and possible regurgitation, not right heart failure signs like hepatojugular reflux.",
-        "Correct: in a failing right ventricle that cannot accommodate the increased venous return from abdominal compression, jugular venous pressure rises more than the normal 1-3 cm, indicating hepatojugular reflux.",
-        "HCM causes left ventricular outflow obstruction, not primarily right heart failure signs."
-      ],
-      "overview": "Hepatojugular reflux is elicited by applying sustained pressure to the abdomen; normally this raises JVP transiently by only 1-3 cm, but in right ventricular failure the noncompliant, overloaded right heart cannot accommodate the increased venous return, causing a sustained, exaggerated rise in JVP \u2014 a useful bedside sign of right heart failure.",
-      "id": "2026-09-03-04"
-    },
-    {
-      "format": "simple4",
-      "stem": "The accessory pathway responsible for pre-excitation in Wolff-Parkinson-White syndrome is known by which name?",
-      "options": [
-        "Bundle of Kent",
-        "Bachmann's bundle",
-        "James fiber",
-        "Bundle of His"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: the Bundle of Kent is the accessory atrioventricular pathway in WPW that bypasses the AV node, causing early ventricular depolarization (pre-excitation) seen as a delta wave and short PR interval.",
-        "Bachmann's bundle is involved in normal interatrial conduction, not in WPW.",
-        "James fibers are associated with a different pre-excitation pattern, not the classic WPW accessory pathway discussed here.",
-        "The Bundle of His is part of the normal cardiac conduction system, not an accessory pathway."
-      ],
-      "overview": "WPW syndrome results from an accessory atrioventricular pathway called the Bundle of Kent, which conducts impulses from the atria to the ventricles while bypassing the normal AV nodal delay. This causes pre-excitation, manifesting on ECG as a short PR interval and a delta wave, and predisposes to AV reentrant tachycardias.",
-      "id": "2026-09-03-05"
-    },
-    {
-      "format": "simple4",
-      "stem": "Ranolazine reduces myocardial oxygen demand and angina symptoms primarily by inhibiting which current?",
-      "options": [
-        "Delayed rectifier potassium current",
-        "Funny current (If)",
-        "Late sodium current",
-        "L-type calcium current"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Delayed rectifier potassium channel blockade is the mechanism of Class III antiarrhythmics; it is not ranolazine's primary anti-anginal mechanism.",
-        "The funny current is blocked by ivabradine to reduce heart rate, not by ranolazine.",
-        "Correct: ranolazine inhibits the late sodium current, reducing intracellular calcium overload and myocardial wall tension, thereby lowering oxygen demand.",
-        "L-type calcium channel blockade is the mechanism of calcium channel blockers (verapamil, diltiazem, nifedipine), not ranolazine."
-      ],
-      "overview": "Ranolazine is an anti-anginal drug that inhibits the late sodium current in cardiac myocytes, reducing intracellular calcium overload (via reduced reverse Na/Ca exchange), which lowers wall tension and myocardial oxygen demand without significantly affecting heart rate or blood pressure. Notable side effects include constipation, dizziness, and QT prolongation.",
-      "id": "2026-09-03-06"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 34-year-old pregnant woman at 28 weeks gestation presents with progressive dyspnea on exertion. She recalls a childhood history of joint pains and fevers without a formal diagnosis. Auscultation reveals an opening snap followed by a low-pitched diastolic rumbling murmur best heard at the apex. Which of the following is the most likely underlying etiology?",
-      "options": [
-        "Congenital cleft mitral valve",
-        "Carcinoid syndrome",
-        "Myxomatous degeneration",
-        "Rheumatic heart disease",
-        "Bicuspid aortic valve"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Cleft mitral valve is a congenital defect associated with endocardial cushion defects (e.g., Down syndrome), not typically presenting this way in an adult with a rheumatic-type history.",
-        "Carcinoid heart disease predominantly affects right-sided valves (tricuspid/pulmonic), not the mitral valve.",
-        "Myxomatous degeneration causes mitral valve prolapse and regurgitation with a systolic click, not stenosis with an opening snap.",
-        "Correct: the childhood history of joint pains and fever suggests prior (possibly unrecognized) rheumatic fever, the most common cause of mitral stenosis, which presents with an opening snap and a diastolic rumble.",
-        "Bicuspid aortic valve affects the aortic valve, not the mitral valve, and does not explain this presentation."
-      ],
-      "overview": "Mitral stenosis is most commonly caused by rheumatic heart disease and often presents years after acute rheumatic fever, which many patients do not recall having. It classically causes a diastolic rumbling murmur preceded by an opening snap, with elevated left atrial pressure leading to dyspnea and pulmonary congestion; symptoms often worsen during pregnancy due to increased blood volume and heart rate.",
-      "id": "2026-09-03-07"
-    },
-    {
-      "format": "simple4",
-      "stem": "The AV node is most commonly supplied by which coronary artery?",
-      "options": [
-        "Left main coronary artery",
-        "Right coronary artery",
-        "Left circumflex artery",
-        "Left anterior descending artery"
+        "S. aureus; presence of desmoglein antibodies distinguishes it from pemphigus",
+        "Bartonella species; neutrophils and bacteria distinguish it from the lymphocytic infiltrate of Kaposi sarcoma",
+        "Malassezia; fungal hyphae distinguish it from tinea",
+        "HHV-8; lymphocytic infiltrate distinguishes it from bacillary angiomatosis",
+        "HPV; koilocytosis distinguishes it from verruca vulgaris"
       ],
       "correctIndex": 1,
       "explanations": [
-        "The left main coronary artery gives rise to the LAD and LCX but does not directly supply the AV node.",
-        "Correct: the AV node (like the SA node) is usually supplied by the right coronary artery, which is why inferior MIs (RCA territory) commonly cause bradycardia and AV block.",
-        "The LCX supplies the lateral wall and, in left-dominant circulation, the PDA, but it is not the usual AV node supply.",
-        "The LAD supplies the anterior wall, anterior septum, and apex, not typically the AV node."
+        "S. aureus and desmoglein antibodies are irrelevant to bacillary angiomatosis.",
+        "Correct - Bacillary angiomatosis is caused by Bartonella quintana or henselae in end-stage HIV/AIDS patients, and biopsy showing neutrophils and bacilli distinguishes it from Kaposi sarcoma, which shows a lymphocytic infiltrate without bacteria.",
+        "Malassezia and fungal hyphae are irrelevant here; bacillary angiomatosis is bacterial, not fungal.",
+        "This describes Kaposi sarcoma itself, not the organism/distinguishing feature of bacillary angiomatosis being asked about.",
+        "HPV and koilocytosis relate to warts, not bacillary angiomatosis."
       ],
-      "overview": "The SA and AV nodes are usually supplied by the right coronary artery, explaining why inferior wall MIs (RCA territory) commonly cause sinus bradycardia and AV nodal block due to ischemia and increased vagal tone. AV node disease from RCA ischemia is generally more benign and often improves with reperfusion, unlike His-Purkinje system disease.",
-      "id": "2026-09-03-08"
+      "overview": "Bacillary angiomatosis is a zoonotic infection by Bartonella quintana or henselae occurring in end-stage HIV/AIDS, presenting with numerous red-purple vascular nodules that mimic Kaposi sarcoma clinically. Biopsy differentiates the two: bacillary angiomatosis shows neutrophils and visible bacilli, whereas Kaposi sarcoma shows a lymphocytic infiltrate with angioproliferation from HHV-8.",
+      "id": "2026-09-04-01"
     },
     {
       "format": "simple4",
-      "stem": "Chronic severe aortic regurgitation classically produces which of the following blood pressure findings?",
+      "stem": "Neurofibromin, the protein product of the NF1 gene, normally functions to restrict signaling through which pathway?",
       "options": [
-        "Widened pulse pressure with low diastolic pressure",
-        "Isolated systolic hypertension with normal diastolic pressure",
-        "Narrow pulse pressure with elevated diastolic pressure",
-        "Equally elevated systolic and diastolic pressures"
+        "HIF/ubiquitin-proteasome",
+        "RAS",
+        "PD-1/T-cell checkpoint",
+        "mTOR"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "HIF ubiquitination is the function of the VHL protein, not neurofibromin.",
+        "Correct - Neurofibromin is a tumor suppressor protein that restricts RAS function; NF1 mutation leads to RAS overactivity and uncontrolled cell growth, causing neurofibromas and other NF1 manifestations.",
+        "PD-1 checkpoint blockade is a cancer immunotherapy target (pembrolizumab), unrelated to neurofibromin.",
+        "mTOR restriction is the function of hamartin/tuberin in tuberous sclerosis, not neurofibromin."
+      ],
+      "overview": "Neurofibromatosis type 1 is an autosomal dominant disorder with 100% penetrance but variable expressivity, caused by mutation of the NF1 tumor suppressor gene on chromosome 17, which encodes neurofibromin. Neurofibromin normally restricts RAS signaling; its loss causes RAS overactivity and uncontrolled cell growth, producing neurofibromas, caf\u00e9-au-lait spots, Lisch nodules, and optic gliomas.",
+      "id": "2026-09-04-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "The basal lamina layer of the basement membrane, secreted by epithelial cells, contains which of the following key structural proteins?",
+      "options": [
+        "Laminin and type IV collagen",
+        "Keratin and filaggrin",
+        "Occludin and claudin",
+        "Desmoglein and desmocollin"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct: blood regurgitating back into the LV during diastole lowers diastolic pressure, while increased stroke volume raises systolic pressure, producing a widened pulse pressure and findings such as water-hammer pulses.",
-        "Isolated systolic hypertension with normal diastolic pressure is more typical of decreased arterial compliance (e.g., in the elderly), not AR.",
-        "Narrow pulse pressure is seen in low cardiac output states (e.g., heart failure), not aortic regurgitation.",
-        "AR does not cause equally elevated systolic and diastolic pressures; diastolic pressure characteristically falls."
+        "Correct - The basal lamina is an extracellular matrix layer secreted by epithelial cells containing laminin proteins and type IV collagen (relevant to Goodpasture's and Alport syndrome), anchoring epithelium and distinct from the underlying reticular lamina that connects to connective tissue.",
+        "Keratin and filaggrin are intracellular/stratum corneum proteins in keratinocytes, not basal lamina components.",
+        "Occludin and claudin are tight junction proteins, not basement membrane components.",
+        "Desmoglein and desmocollin are desmosomal cadherins, not basement membrane components."
       ],
-      "overview": "Chronic aortic regurgitation increases left ventricular preload and stroke volume (via the Frank-Starling mechanism) while diastolic blood pressure falls because blood leaks back across the incompetent aortic valve. This combination produces a widened pulse pressure and characteristic peripheral signs such as water-hammer pulses and head bobbing.",
-      "id": "2026-09-03-09"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 45-year-old woman with a known history of mitral valve prolapse undergoes a tooth extraction without antibiotic prophylaxis. Three weeks later she develops low-grade fevers, malaise, and a new murmur. Blood cultures grow catalase-negative, alpha-hemolytic gram-positive cocci. Which of the following organisms is most likely responsible?",
-      "options": [
-        "Coxiella burnetii",
-        "Enterococcus",
-        "Viridans streptococci",
-        "Staphylococcus aureus",
-        "Staphylococcus epidermidis"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Coxiella burnetii causes culture-negative endocarditis and would not grow on standard blood culture.",
-        "Enterococcus is associated with GI/GU manipulation in older men, not dental procedures.",
-        "Correct: viridans streptococci are low-virulence mouth flora that adhere to damaged endothelium (via dextran binding fibrin) and classically cause subacute endocarditis on a previously abnormal valve such as one with mitral valve prolapse, following dental procedures.",
-        "Staphylococcus aureus causes acute, severe endocarditis, often on previously normal valves, not a gradual subacute course after dental work.",
-        "Staphylococcus epidermidis typically causes prosthetic valve endocarditis, not native valve disease."
-      ],
-      "overview": "Viridans streptococci are low-virulence, mouth-flora organisms that adhere to damaged cardiac endothelium and classically cause subacute bacterial endocarditis following dental procedures, especially in patients with a predisposing valve abnormality such as mitral valve prolapse. This contrasts with Staphylococcus aureus, which causes acute, fulminant endocarditis often on structurally normal valves.",
-      "id": "2026-09-03-10"
+      "overview": "The basement membrane has two layers: the basal lamina, an extracellular matrix secreted by epithelial cells containing laminin and type IV collagen (clinically relevant in Goodpasture's and Alport syndrome), and the reticular lamina, a net-like layer of reticular connective tissue that anchors the basal lamina to underlying connective tissue.",
+      "id": "2026-09-04-03"
     },
     {
       "format": "simple4",
-      "stem": "A third heart sound (S3) may be a normal physiologic finding in which of the following patient populations?",
+      "stem": "Which pair of proteins forms the structural basis of tight junctions, creating a barrier to paracellular movement of solutes between epithelial cells?",
       "options": [
-        "Young healthy adults and pregnant women",
-        "Elderly patients with long-standing hypertension",
-        "Patients with severe aortic stenosis",
-        "Patients with hypertrophic cardiomyopathy"
+        "Occludin and claudin",
+        "Connexin and integrin",
+        "Desmoglein and desmocollin",
+        "Cadherin and catenin"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct: in young, healthy individuals and pregnant women, vigorous left ventricular relaxation causes rapid early filling and a physiologic S3, without underlying heart disease.",
-        "Elderly patients with hypertension are more likely to develop S4 due to a stiff ventricle, and a new S3 in this population would suggest heart failure, not a normal finding.",
-        "Severe aortic stenosis leads to concentric hypertrophy and S4, not physiologic S3.",
-        "HCM is associated with S4 due to a stiff, hypertrophied ventricle, not physiologic S3."
+        "Correct - Tight junctions are built from occludin and claudin, sealing adjacent cell membranes near the apical surface and preventing paracellular solute movement.",
+        "Connexins form gap junctions; integrins are found in hemidesmosomes; neither forms tight junctions.",
+        "Desmogleins/desmocollins are cadherin subtypes found in desmosomes (spot junctions), not tight junctions.",
+        "Cadherins form adherens junctions (belt desmosomes), not tight junctions."
       ],
-      "overview": "S3 is a low-pitched sound occurring in early diastole during rapid ventricular filling, most commonly a pathologic sign of heart failure with elevated left atrial pressure. However, it can be a normal physiologic finding in young patients (under 30) and pregnant women, in whom vigorous ventricular relaxation rapidly lowers pressure and causes rapid filling.",
-      "id": "2026-09-03-11"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 60-year-old man presents with acute chest pain. ECG shows ST elevations in leads II, III, and aVF. After successful reperfusion, he becomes acutely hypotensive with clear lung fields and jugular venous distension. Which of the following medications should be avoided in this patient?",
-      "options": [
-        "Aspirin",
-        "Clopidogrel",
-        "Nitroglycerin",
-        "Heparin",
-        "Metoprolol"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Aspirin is standard therapy for STEMI regardless of right ventricular involvement.",
-        "Clopidogrel is standard antiplatelet therapy for STEMI and is not contraindicated here.",
-        "Correct: right ventricular infarction depends heavily on adequate preload to maintain cardiac output; nitrates reduce preload and can precipitate severe, refractory hypotension.",
-        "Heparin is standard therapy for STEMI and is not contraindicated by RV infarction.",
-        "Beta blockers require caution with bradycardia or AV block from inferior MI, but they are not the classic absolute avoidance like nitrates in RV infarction."
-      ],
-      "overview": "Inferior STEMI (ST elevations in II, III, aVF) is usually due to RCA occlusion, and the RCA's acute marginal branch supplies the right ventricle, so RV infarction is a recognized complication. RV infarction causes hypotension with clear lungs and elevated JVP due to loss of RV contractility and reduced left ventricular preload. Because these patients are highly preload-dependent, nitrates and other preload-reducing agents must be avoided, as they can cause profound hypotension.",
-      "id": "2026-09-03-12"
+      "overview": "Epithelial cells are joined by four junction types: tight junctions (occludin/claudin, apical barrier to paracellular movement), adherens junctions (cadherin, belt-like anchoring), desmosomes (desmoglein, spot-like attachment to intermediate filaments), and gap junctions (connexin, channels for small molecules). Each has a distinct protein basis and location relative to the apical membrane.",
+      "id": "2026-09-04-04"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following is the antidote of choice for severe beta blocker overdose causing bradycardia and hypotension?",
+      "stem": "Benzoyl peroxide, a topical acne treatment, exerts its therapeutic effect through which mechanisms?",
       "options": [
-        "Calcium gluconate",
-        "Naloxone",
-        "Atropine",
-        "Glucagon"
+        "Inhibition of androgen receptors in sebaceous glands",
+        "Inhibition of 5-alpha reductase to reduce sebum production",
+        "Comedolytic breakdown of keratin and bactericidal activity against C. acnes",
+        "Blockade of retinoic acid receptors"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Androgen receptor inhibition is not the mechanism of benzoyl peroxide described in the notes; androgens drive sebum production but benzoyl peroxide does not target this pathway.",
+        "5-alpha reductase inhibition is not described as a mechanism for benzoyl peroxide in the notes.",
+        "Correct - Benzoyl peroxide breaks down keratin to unblock pores (comedolytic effect) and is bactericidal against C. acnes (formerly P. acnes), the anaerobic bacterium implicated in acne pathogenesis.",
+        "Retinoic acid receptor blockade is the opposite of how retinoids (like isotretinoin) work, which bind and activate RAR/RXR; this is not benzoyl peroxide's mechanism."
+      ],
+      "overview": "Acne results from increased sebum and keratin blocking pilosebaceous ducts, allowing overgrowth of the anaerobic bacterium C. acnes (formerly P. acnes). Treatments include benzoyl peroxide (comedolytic and bactericidal), topical/oral antibiotics (clindamycin, erythromycin) to reduce bacterial colonization, and retinoids like isotretinoin, which bind RAR/RXR receptors to decrease keratin production.",
+      "id": "2026-09-04-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "The Breslow thickness, an important prognostic measurement in melanoma, is defined as which of the following?",
+      "options": [
+        "The number of mitotic figures per high-power field",
+        "The distance from the granular layer of the epidermis to the deepest tumor cells",
+        "The horizontal diameter of the lesion at its widest point",
+        "The distance the tumor has spread along lymphatic vessels"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Mitotic count is a separate histologic parameter, not the definition of Breslow thickness per the notes.",
+        "Correct - Breslow thickness measures the distance from the granular epidermis to the deepest tumor cells, and increased depth correlates with increased risk of metastasis, making it a key prognostic factor in melanoma.",
+        "Horizontal diameter relates to the 'D' (diameter) in ABCDE criteria for gross description, not Breslow thickness, which measures depth.",
+        "Lymphatic spread distance is not how Breslow thickness is defined; it measures vertical tumor depth."
+      ],
+      "overview": "Melanoma initially grows radially along the epidermis and upper dermis before shifting to a vertical growth phase invading the dermis. Breslow thickness, the distance from the granular epidermis to the deepest tumor cells, increases with depth of invasion and directly correlates with metastatic risk, guiding prognosis and treatment (wide excision margins).",
+      "id": "2026-09-04-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "The sensitization phase of allergic contact dermatitis, which occurs 10-14 days after initial allergen exposure and produces no visible lesions, is characterized by which process?",
+      "options": [
+        "Hapten presentation to CD4+ and CD8+ T cells with proliferation of hapten-sensitive T cells",
+        "IgE binding to mast cells triggering histamine release",
+        "Deposition of immune complexes in the dermal papillae",
+        "Formation of autoantibodies against desmogleins"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - In the sensitization phase of contact dermatitis (a type IV hypersensitivity reaction), haptens (allergens) are presented to CD4+ and CD8+ T cells, leading to proliferation of hapten-sensitive T cells over 10-14 days without visible lesions.",
+        "IgE-mast cell mechanisms describe type I reactions like urticaria, not contact dermatitis sensitization.",
+        "Immune complex deposition in dermal papillae is not the mechanism described for contact dermatitis (IgA deposition there is specific to dermatitis herpetiformis, a different disease).",
+        "Desmoglein autoantibodies describe pemphigus, unrelated to contact dermatitis."
+      ],
+      "overview": "Contact dermatitis is a type IV hypersensitivity reaction with two phases: sensitization (10-14 days, haptens presented to T cells, no lesions) and elicitation (1-3 days, on reexposure sensitized T cells release cytokines like IFN-gamma, recruiting eosinophils, mast cells, and macrophages, causing dermal edema and spongiosis). Classic triggers include poison ivy, nickel, and laundry detergents.",
+      "id": "2026-09-04-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Psoriasis has a strong genetic association with which HLA allele, and approximately what proportion of patients develop an associated seronegative arthritis?",
+      "options": [
+        "HLA-B27; about one-half develop psoriatic arthritis",
+        "HLA-C; about one-third develop psoriatic arthritis",
+        "HLA-DQ2; about one-fourth develop psoriatic arthritis",
+        "HLA-DR4; about one-tenth develop psoriatic arthritis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "HLA-B27 is associated with other seronegative spondyloarthropathies broadly but is not the specific allele highlighted for psoriasis in the notes, and one-half is not the stated proportion.",
+        "Correct - Psoriasis has a strong association with HLA-C, and about one-third of patients develop psoriatic arthritis, a seronegative spondyloarthropathy more common in those with nail findings like pitting.",
+        "HLA-DQ2 is associated with celiac disease (relevant to dermatitis herpetiformis), not psoriasis, and one-fourth is not the stated proportion.",
+        "HLA-DR4 is not the allele described for psoriasis association in the notes, and one-tenth is not the stated proportion."
+      ],
+      "overview": "Psoriasis is a chronic inflammatory skin disorder believed to be autoimmune with a strong HLA-C association, producing well-demarcated, salmon-colored plaques with silvery scale on extensor surfaces. About one-third of patients develop psoriatic arthritis (a seronegative spondyloarthropathy), more common with nail involvement (pitting, onycholysis), and patients may also develop uveitis, conjunctivitis, or blepharitis.",
+      "id": "2026-09-04-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "A benign tumor of cardiac muscle cells found in about 90% of tuberous sclerosis patients, sometimes detected prenatally, is known as which of the following?",
+      "options": [
+        "Glomus tumor",
+        "Hemangioblastoma",
+        "Angiomyolipoma",
+        "Rhabdomyoma"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Calcium gluconate is used primarily for calcium channel blocker overdose (and hyperkalemia), not as the primary antidote for beta blocker overdose.",
-        "Naloxone reverses opioid overdose and has no role in beta blocker toxicity.",
-        "Atropine can be tried for bradycardia but is often insufficient in beta blocker overdose since it does not address the underlying cAMP deficiency.",
-        "Correct: glucagon activates adenylate cyclase through a receptor independent of the beta receptor, increasing intracellular cAMP and calcium, restoring cardiac contractility and heart rate despite beta receptor blockade."
+        "Glomus tumors arise from glomus bodies in fingers/toes, unrelated to tuberous sclerosis.",
+        "Hemangioblastomas are the classic CNS/retinal tumor of von Hippel-Lindau disease, not tuberous sclerosis.",
+        "Angiomyolipomas are the classic renal (not cardiac) manifestation of tuberous sclerosis.",
+        "Correct - Cardiac rhabdomyomas are benign tumors of muscle cells that occur in about 90% of tuberous sclerosis cases, are sometimes detected prenatally, and are embedded in the ventricular wall, rarely causing symptoms from obstruction or arrhythmia."
       ],
-      "overview": "Beta blocker overdose can cause severe bradycardia, AV block, hypotension, and cardiogenic shock due to depressed myocardial contractility. Glucagon is the antidote of choice because it raises intracellular cAMP via a receptor distinct from the beta-adrenergic receptor, bypassing the blockade and restoring heart rate and contractility.",
-      "id": "2026-09-03-13"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 68-year-old woman presents with acute chest pain and dyspnea shortly after learning of her husband's sudden death. ECG shows anterior ST elevations, and troponin is markedly elevated. Coronary angiography reveals no significant coronary artery disease, but ventriculography shows apical ballooning with hyperdynamic basal contraction. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Acute myocarditis",
-        "Dressler's syndrome",
-        "Takotsubo (stress-induced) cardiomyopathy",
-        "Anterior STEMI due to LAD occlusion",
-        "Vasospastic (Prinzmetal) angina"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Myocarditis often follows a viral illness with diffuse myocardial inflammation, not this classic apical ballooning pattern triggered by emotional stress.",
-        "Dressler's syndrome is a pericarditis occurring weeks after a myocardial infarction, not an acute presentation with apical ballooning after emotional stress.",
-        "Correct: Takotsubo cardiomyopathy is a stress-induced cardiomyopathy triggered by severe emotional distress, mimicking anterior MI with ST elevations and elevated biomarkers, but with apical ballooning and no significant coronary disease; it usually resolves within 4-6 weeks.",
-        "STEMI would show a culprit coronary lesion on angiography; this patient has normal coronary arteries.",
-        "Prinzmetal angina causes transient ST elevation from vasospasm but would not typically produce a fixed apical ballooning pattern on ventriculography."
-      ],
-      "overview": "Takotsubo (stress-induced/apical ballooning) cardiomyopathy is triggered by severe emotional distress and mimics an anterior MI, with markedly reduced LVEF, elevated cardiac biomarkers, and ECG changes, but coronary angiography shows no significant atherosclerotic disease. The hallmark finding is apical ballooning with basal hypercontractility, and most patients recover within 4 to 6 weeks.",
-      "id": "2026-09-03-14"
+      "overview": "Tuberous sclerosis involves widespread hamartoma formation from TSC1/TSC2 mutations causing mTOR overactivity. Cardiac rhabdomyomas (benign muscle cell tumors) occur in about 90% of patients and are often detected prenatally, while renal angiomyolipomas are the most frequent renal manifestation, and CNS tubers/subependymal giant cell astrocytomas cause the classic presenting symptom of seizures.",
+      "id": "2026-09-04-09"
     },
     {
       "format": "simple4",
-      "stem": "Lidocaine is particularly effective in treating arrhythmias occurring in ischemic myocardium because it preferentially binds to sodium channels in which state?",
+      "stem": "Verruca plana, condyloma acuminatum, and verruca vulgaris are all cutaneous or mucosal manifestations of infection with which virus?",
       "options": [
-        "It binds equally regardless of channel state",
-        "Hyperpolarized state",
-        "Resting state",
-        "Depolarized (open/inactivated) state"
+        "HSV",
+        "HHV-8",
+        "Poxvirus",
+        "HPV"
       ],
       "correctIndex": 3,
       "explanations": [
-        "This contradicts the state-dependent (use-dependent) blockade central to Class I drug pharmacology.",
-        "A distinct \"hyperpolarized state\" target is not a recognized concept for Class I drug binding.",
-        "Class Ib drugs bind poorly to resting-state channels, which is why they have minimal effect on normal, healthy myocardium at normal heart rates.",
-        "Correct: lidocaine preferentially binds sodium channels in the depolarized (open/inactivated) state, which is common in ischemic, chronically depolarized myocytes, making it selectively effective for ischemic ventricular arrhythmias."
+        "HSV causes herpetic lesions and is linked to erythema multiforme, not warts.",
+        "HHV-8 causes Kaposi sarcoma, not warts.",
+        "Poxvirus is not discussed as a cause of warts in the notes.",
+        "Correct - All three are manifestations of HPV infection: verruca vulgaris (most common skin wart), verruca plana (flat wart), and condyloma acuminatum (venereal wart)."
       ],
-      "overview": "Class Ib antiarrhythmics (lidocaine, mexiletine) bind sodium channels preferentially in their depolarized state, making them most effective in ischemic myocardium (where cells are chronically depolarized) and at fast heart rates, with minimal effects on normal tissue or at slow rates. They have little effect on QRS duration at normal heart rates and are used mainly for ischemic ventricular tachycardia.",
-      "id": "2026-09-03-15"
+      "overview": "Warts are caused by HPV infection and have several subtypes: verruca vulgaris (most common, on skin, especially hands), verruca plana (flat wart), and condyloma acuminatum (venereal warts). Histology of cutaneous warts shows epidermal hyperplasia with koilocytosis, cytoplasmic vacuolization creating a halo around the nucleus of infected keratinocytes.",
+      "id": "2026-09-04-10"
     },
     {
       "format": "simple4",
-      "stem": "A fixed splitting of S2 that does not vary with respiration is most characteristic of which condition?",
+      "stem": "Hydroquinone, a topical skin-lightening agent used to treat melasma, works by inhibiting which enzyme?",
       "options": [
-        "Right bundle branch block",
-        "Left bundle branch block",
-        "Pulmonary hypertension",
-        "Atrial septal defect"
+        "mTOR kinase",
+        "Tyrosinase",
+        "Cyclooxygenase",
+        "5-alpha reductase"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "mTOR kinase inhibition relates to tuberous sclerosis pathophysiology, not melasma treatment.",
+        "Correct - Hydroquinone is a skin lightener used for melasma that works by inhibiting tyrosinase, the enzyme responsible for converting tyrosine into melanin, thereby reducing melanin synthesis.",
+        "Cyclooxygenase inhibition is unrelated to melanin synthesis or melasma.",
+        "5-alpha reductase is unrelated to melanin synthesis or melasma treatment per the notes."
+      ],
+      "overview": "Melasma is acquired facial hyperpigmentation triggered by UV light in susceptible individuals, often with pregnancy or oral contraceptive use due to increased estrogen ('mask of pregnancy'). Treatment includes sun protection and skin lighteners such as hydroquinone, which inhibits tyrosinase to reduce melanin synthesis.",
+      "id": "2026-09-04-11"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old man is found to have a cerebellar mass composed of clumps of capillaries without invasion, along with bilateral renal cysts and elevated plasma metanephrines. Genetic testing reveals a mutation in a tumor suppressor gene on chromosome 3. This gene normally functions to do which of the following?",
+      "options": [
+        "Inhibit mTOR kinase activity to restrict cell growth",
+        "Restrict RAS signaling to prevent uncontrolled proliferation",
+        "Inhibit desmoglein cleavage in the epidermis",
+        "Tag hypoxia-inducible factor for ubiquitination and proteasomal degradation",
+        "Encode a protein that anchors keratinocytes to the basement membrane"
       ],
       "correctIndex": 3,
       "explanations": [
-        "RBBB causes persistent (not fixed) splitting that still widens somewhat with inspiration, due to delayed right-sided conduction.",
-        "LBBB causes paradoxical splitting (which narrows with inspiration), not fixed splitting.",
-        "Pulmonary hypertension can cause persistent splitting of S2, but not the classic fixed pattern seen with ASD.",
-        "Correct: an atrial septal defect causes fixed splitting of S2 because the left-to-right shunt equalizes flow to the right heart, producing a consistent delay in pulmonic valve closure regardless of the respiratory cycle."
+        "This describes hamartin/tuberin, mutated in tuberous sclerosis, not VHL disease.",
+        "This describes neurofibromin, mutated in NF1, not VHL disease.",
+        "Desmoglein cleavage is relevant to pemphigus and bullous impetigo, not VHL.",
+        "Correct - The VHL gene encodes a tumor suppressor protein that ubiquitinates hypoxia-inducible factor (HIF), tagging it for proteasomal destruction; loss of function causes cells to behave as if hypoxic, driving blood vessel growth (hemangioblastomas, renal cysts/RCC, pheochromocytoma) as seen in this patient.",
+        "This describes hemidesmosome/integrin function, unrelated to VHL."
       ],
-      "overview": "Physiologic S2 splitting widens with inspiration because increased venous return delays pulmonic valve closure. Persistent splitting (RBBB, pulmonary hypertension) reflects a delayed right-sided electrical or mechanical event; fixed splitting (ASD) results from a chronic left-to-right shunt causing consistently increased right-sided flow; paradoxical splitting (LBBB, severe AS, HCM) reflects delayed left ventricular outflow and narrows with inspiration.",
-      "id": "2026-09-03-16"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 52-year-old man with Marfan syndrome presents with sudden-onset severe \"tearing\" chest pain radiating to the back. Blood pressure is 160/95 mmHg in the right arm and 118/70 mmHg in the left arm. A new diastolic blowing murmur is heard at the left sternal border. Chest x-ray shows a widened mediastinum. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Aortic dissection",
-        "Acute pericarditis",
-        "Stable angina",
-        "Mitral valve prolapse",
-        "Pulmonary embolism"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: tearing pain radiating to the back, a blood pressure differential between arms, a new aortic regurgitation murmur, and a widened mediastinum are classic for aortic dissection (proximal/Type A dissections can produce AR).",
-        "Pericarditis causes pleuritic pain and a friction rub with diffuse ST elevation, not tearing pain with a blood pressure differential between arms.",
-        "Stable angina is exertional and relieved by rest, not sudden tearing pain with these exam findings.",
-        "Mitral valve prolapse produces a systolic click, not a diastolic murmur or the dissection findings described.",
-        "Pulmonary embolism causes dyspnea and pleuritic pain but not typically a blood pressure differential or new AR murmur."
-      ],
-      "overview": "Aortic dissection presents with sudden, tearing chest or back pain; hypertension is the strongest risk factor, along with Marfan syndrome, Ehlers-Danlos, and bicuspid aortic valve. Type A dissections involve the ascending aorta/arch (surgical emergency; can cause aortic regurgitation, tamponade, or MI from coronary ostial involvement), while Type B (descending) is usually managed medically. Key clues include a blood pressure differential between arms and a widened mediastinum on chest x-ray, with CT, MRI, or TEE used for definitive diagnosis.",
-      "id": "2026-09-03-17"
+      "overview": "Von Hippel-Lindau disease is a genetic cancer syndrome from mutation of the VHL tumor suppressor gene on chromosome 3, which normally ubiquitinates HIF for degradation; loss of function causes pseudohypoxic signaling and angiogenesis. Classic findings include CNS/retinal hemangioblastomas, renal cysts and bilateral renal cell carcinomas, pancreatic cysts, and pheochromocytomas, requiring lifelong surveillance.",
+      "id": "2026-09-04-12"
     },
     {
       "format": "simple4",
-      "stem": "Administration of a potent vasodilator such as adenosine during a pharmacologic stress test can induce ischemia in a stenotic coronary artery through which mechanism?",
+      "stem": "Gap junctions composed of connexin proteins allow passage of which of the following between adjacent cells?",
       "options": [
-        "Increased myocardial oxygen extraction beyond normal limits",
-        "Direct constriction of the stenotic vessel",
-        "Induction of coronary artery spasm exclusively in normal vessels",
-        "Coronary steal, redistributing blood flow to non-stenotic vessels whose arterioles can further dilate"
+        "Small molecules and ions, but not proteins or nucleic acids",
+        "Proteins and nucleic acids exclusively",
+        "Only water molecules",
+        "Melanosomes from melanocytes to keratinocytes"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Gap junctions are formed by connexin proteins assembled into connexons, creating channels that allow passage of small molecules and ions between cells but are too small for proteins or nucleic acids.",
+        "Gap junctions are specifically too small to pass proteins and nucleic acids; this is the opposite of their function.",
+        "Gap junctions allow more than just water; they permit small molecules and ions generally.",
+        "Melanosome transfer to keratinocytes occurs by a separate mechanism, not through gap junctions."
+      ],
+      "overview": "Gap junctions are intercellular channels formed by connexin proteins that assemble into a structure called a connexon. They allow direct passage of small molecules and ions between adjacent cells for coordinated cellular activity, but are too small to permit passage of proteins or nucleic acids.",
+      "id": "2026-09-04-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Seborrheic dermatitis, presenting with red, flaky plaques on the face and scalp, is associated with overgrowth of which organism and which systemic conditions?",
+      "options": [
+        "Dermatophytes; immunosuppression",
+        "Malassezia species; Parkinson's disease and HIV infection",
+        "Candida species; diabetes mellitus",
+        "C. acnes; polycystic ovary syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Dermatophytes and general immunosuppression are not the specific organism/associations given for seborrheic dermatitis.",
+        "Correct - Seborrheic dermatitis is associated with the fungus Malassezia and is more common in patients with Parkinson's disease and HIV infection; treatment includes ketoconazole and corticosteroids.",
+        "Candida and diabetes mellitus are not the association described for seborrheic dermatitis in the notes.",
+        "C. acnes and PCOS relate to acne pathophysiology, not seborrheic dermatitis."
+      ],
+      "overview": "Seborrheic dermatitis produces red, scaly plaques in sebaceous gland-rich areas (face, scalp) without true sebaceous gland inflammation, and is associated with the fungus Malassezia. It is more common in patients with Parkinson's disease and HIV infection, and is treated with ketoconazole and corticosteroids.",
+      "id": "2026-09-04-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following environmental exposures, historically linked to contaminated drinking water, is a recognized risk factor for squamous cell carcinoma?",
+      "options": [
+        "Arsenic",
+        "Vinyl chloride",
+        "Bartonella infection",
+        "HHV-8 infection"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Arsenic exposure, found in contaminated drinking water, is a listed risk factor for squamous cell carcinoma, alongside sun exposure, ionizing radiation, chronic immunosuppression, and chronic skin inflammation.",
+        "Vinyl chloride exposure is linked to hepatic angiosarcoma, not squamous cell carcinoma.",
+        "Bartonella infection causes bacillary angiomatosis, not squamous cell carcinoma.",
+        "HHV-8 causes Kaposi sarcoma, not squamous cell carcinoma."
+      ],
+      "overview": "Squamous cell carcinoma is the second most common skin cancer, arising from keratinocytes in sun-exposed areas due to UV-induced DNA damage. Risk factors include sun exposure, ionizing radiation, chronic immunosuppression (organ transplant, HIV, long-term glucocorticoids), chronic skin inflammation (burns, ulcers), and arsenic exposure from contaminated drinking water.",
+      "id": "2026-09-04-15"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 35-year-old previously healthy man cuts his forearm on a fence while gardening. Three days later he develops redness and swelling at the site that rapidly expands over hours. On exam there is exquisite tenderness extending beyond the visible erythema, with skin that has turned dusky purple in places, and a crackling sensation is felt on palpation. He is febrile and hypotensive. Which of the following is the most likely causative organism?",
+      "options": [
+        "Malassezia species",
+        "Group A Streptococcus (S. pyogenes)",
+        "Staphylococcus epidermidis",
+        "Bartonella henselae",
+        "Human herpesvirus-8"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Malassezia is associated with seborrheic dermatitis, not necrotizing fasciitis.",
+        "Correct - Type 2 necrotizing fasciitis occurs in otherwise healthy people after skin injury and is caused by Group A strep (S. pyogenes), sometimes with staph.",
+        "S. epidermidis is a skin commensal, not a cause of necrotizing fasciitis.",
+        "Bartonella causes bacillary angiomatosis in HIV patients, not necrotizing fasciitis.",
+        "HHV-8 causes Kaposi sarcoma, not necrotizing fasciitis."
+      ],
+      "overview": "Necrotizing fasciitis is infection of fascia with pain out of proportion to exam, crepitus from gas-forming bacteria, and skin discoloration progressing red-purple-blue-black. Type 1 is polymicrobial in diabetics/immunocompromised (often post-surgical), while Type 2 is due to Group A strep in otherwise healthy people after minor trauma. It requires urgent surgical debridement given high mortality.",
+      "id": "2026-09-04-16"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 5-day-old infant develops fever, diffuse erythema most pronounced in the skin folds, and areas where the epidermis sloughs off with gentle stroking of the skin. Cultures obtained directly from the blistered skin do not grow any organism. Which of the following best explains the skin findings?",
+      "options": [
+        "Autoantibodies against desmoglein 1 and 3 in the skin",
+        "Autoantibodies against hemidesmosomal proteins BP180/BP230",
+        "Circulating exfoliative toxin from a distant S. aureus infection",
+        "Type IV hypersensitivity reaction to a recent medication",
+        "IgA deposition at the tips of dermal papillae"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "This describes pemphigus vulgaris, an autoimmune disease of adults, not a toxin-mediated newborn disease.",
+        "This describes bullous pemphigoid, occurring in the elderly, not newborns.",
+        "Correct - Staphylococcal scalded skin syndrome occurs in newborns colonized with S. aureus that produces diffuse exfoliative toxin, which circulates and cleaves desmoglein 1, causing widespread superficial epidermal sloughing without organisms present in the blistered skin itself.",
+        "SJS/TEN are type IV hypersensitivity drug reactions with epidermal necrosis, distinct from toxin-mediated SSSS.",
+        "This describes dermatitis herpetiformis, associated with celiac disease, not SSSS."
+      ],
+      "overview": "Staphylococcal scalded skin syndrome occurs in newborns 3-7 days of age due to S. aureus exfoliative toxin (exfoliatin), which cleaves desmoglein 1 in the stratum granulosum, causing diffuse erythema and sloughing (positive Nikolsky sign) that heals without scarring since damage is intraepidermal. Treatment is anti-staphylococcal antibiotics like nafcillin or oxacillin.",
+      "id": "2026-09-04-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which range of ultraviolet radiation wavelengths is most effective at causing sunburn?",
+      "options": [
+        "UVA, 320-400 nm",
+        "UVC, 100-280 nm",
+        "UVB, 280-320 nm",
+        "Visible light, 400-700 nm"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "UVA (320-400 nm) may also cause sunburn but is not the most effective range per the notes; UVB is specifically noted as most effective.",
+        "UVC is not discussed as a cause of sunburn in the notes.",
+        "Correct - UVB radiation, with a wavelength of 280-320 nm, is the most effective range at causing sunburn, though UVA can also contribute; UVB causes DNA damage leading to keratinocyte apoptosis ('sunburn cells').",
+        "Visible light is not implicated in sunburn pathogenesis in the notes."
+      ],
+      "overview": "Sunburn is an inflammatory skin response to ultraviolet radiation, with UVB radiation (280-320 nm) being most effective at causing sunburn, though UVA (320-400 nm) can also contribute. UVB causes DNA damage leading to keratinocyte apoptosis ('sunburn cells') and vasodilation with release of inflammatory mediators.",
+      "id": "2026-09-04-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "Loss of which cell adhesion molecule is classically associated with promoting metastasis in certain breast and gastric cancers?",
+      "options": [
+        "Laminin",
+        "E-cadherin",
+        "Occludin",
+        "Desmoglein 1"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Laminin is a basal lamina protein anchoring epithelium to connective tissue, not linked to metastasis.",
+        "Correct - E-cadherin is a calcium-dependent adhesion glycoprotein in adherens junctions; its loss disrupts cell-cell adhesion and promotes metastasis, a well-known feature in some breast and gastric cancers.",
+        "Occludin is a tight junction protein, not linked to metastasis.",
+        "Desmoglein 1 is a desmosomal cadherin targeted in bullous impetigo/pemphigus foliaceus, not classically linked to metastasis in the notes."
+      ],
+      "overview": "Cadherins are calcium-dependent adhesion glycoproteins that attach to actin filaments and hold epithelial sheets together via adherens junctions. E-cadherin loss is a classic mechanism promoting tumor cell invasion and metastasis, notably described in some breast and gastric cancers.",
+      "id": "2026-09-04-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man is diagnosed with metastatic melanoma. Genetic testing of the tumor reveals a V600E mutation. He is started on vemurafenib. Which of the following best describes the mechanism targeted by this drug?",
+      "options": [
+        "Inhibition of a mutated proto-oncogene that triggers cell proliferation downstream of RAS activation",
+        "Inhibition of tyrosinase to reduce melanin synthesis",
+        "Inhibition of mTOR to restrict tumor cell growth",
+        "Ubiquitination of hypoxia-inducible factor to prevent angiogenesis",
+        "Blockade of PD-1 on T cells to enhance anti-tumor immune response"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - BRAF is a proto-oncogene that triggers cell proliferation upon RAS activation; the V600E mutation (90% of BRAF mutations in melanoma) causes constitutive activation, and BRAF inhibitors like vemurafenib and dabrafenib target this mutated kinase, improving survival.",
+        "Tyrosinase inhibition describes hydroquinone used for melasma, unrelated to BRAF-targeted therapy.",
+        "mTOR inhibition relates to tuberous sclerosis pathophysiology, not melanoma BRAF treatment.",
+        "HIF ubiquitination relates to VHL disease, not melanoma treatment.",
+        "PD-1 blockade describes pembrolizumab, a different melanoma treatment with a different mechanism (immune checkpoint inhibition, not BRAF-targeted)."
+      ],
+      "overview": "BRAF mutations occur in 40-50% of sporadic melanomas, most commonly the V600E mutation, causing constitutive activation of the RAS-triggered proliferation pathway. BRAF inhibitors such as vemurafenib and dabrafenib specifically target this mutated kinase and improve survival in melanoma patients whose tumors carry the V600E mutation.",
+      "id": "2026-09-04-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "The classic pathophysiology of urticaria (hives) involves which of the following mechanisms?",
+      "options": [
+        "Type IV cell-mediated hypersensitivity to a topical allergen",
+        "IgE-mediated mast cell degranulation with histamine release",
+        "Deposition of IgA at the dermal papillae",
+        "IgG autoantibodies against desmosomal proteins"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Type IV hypersensitivity to a topical allergen describes contact dermatitis, not urticaria.",
+        "Correct - Urticaria is classically a type I hypersensitivity reaction where antigen binds IgE on mast cells, triggering histamine release, dermal edema, and dilation of lymph vessels; some cases are non-IgE dependent (e.g., vancomycin, radiocontrast, opiates activating mast cells directly).",
+        "IgA deposition at dermal papillae describes dermatitis herpetiformis, not urticaria.",
+        "IgG against desmosomal proteins describes pemphigus, not urticaria."
+      ],
+      "overview": "Urticaria (hives) presents as pruritic, raised wheals with a pale center and surrounding erythema, plus possible angioedema. It is usually a type I hypersensitivity reaction (IgE-mediated mast cell degranulation and histamine release), though some cases are non-IgE mediated, triggered by drugs like vancomycin, radiocontrast, or opiates acting directly on mast cells.",
+      "id": "2026-09-04-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old girl develops sudden onset fever and chills followed by a bright red rash on her cheek with a sharply demarcated, raised border that is clearly distinguishable from surrounding normal skin. Which layer of skin is primarily involved, and what is the most likely organism?",
+      "options": [
+        "Deep dermis and subcutaneous fat; Group A Streptococcus or S. aureus",
+        "Epidermis only; S. aureus exfoliative toxin",
+        "Superficial dermis; Group A Streptococcus",
+        "Subcutaneous fat lobules; Sarcoidosis-related",
+        "Fascia; polymicrobial anaerobes"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "This describes cellulitis, which involves deeper dermis/subcutaneous fat and has a slower onset with ill-defined borders, not erysipelas.",
+        "This describes bullous impetigo/scalded skin syndrome from exfoliative toxin, not erysipelas.",
+        "Correct - Erysipelas involves the superficial dermis, occurs in young children and older adults, is usually caused by Group A strep, and presents with acute fever/chills and a clearly demarcated rash.",
+        "Panniculitis of fat lobules relates to processes like erythema nodosum, not erysipelas.",
+        "This describes necrotizing fasciitis, which involves the fascia, not erysipelas."
+      ],
+      "overview": "Erysipelas and cellulitis are bacterial skin infections that differ mainly by depth: erysipelas involves the superficial dermis with a clearly demarcated border and affects young children/older adults, while cellulitis involves the deep dermis/subcutaneous fat with an ill-defined spreading border and slower onset, affecting middle-aged/elderly patients. Both are most often caused by Group A strep, and cellulitis may also be caused by S. aureus.",
+      "id": "2026-09-04-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "The most frequent renal manifestation of tuberous sclerosis, characterized by proliferation of epithelioid cells around blood vessels with risk of hemorrhage and renin-dependent hypertension, is which of the following?",
+      "options": [
+        "Wilms tumor",
+        "Simple renal cyst",
+        "Renal cell carcinoma",
+        "Angiomyolipoma"
       ],
       "correctIndex": 3,
       "explanations": [
-        "The heart already extracts near-maximal oxygen at rest and cannot increase extraction further to compensate; this is not the mechanism of coronary steal.",
-        "Vasodilators do not directly constrict vessels; ischemia results from redistribution of flow, not direct constriction of the stenotic segment.",
-        "Coronary steal is due to differential vasodilation capacity, not induced spasm, and it specifically reduces flow to the stenotic (not normal) vessel's territory.",
-        "Correct: arterioles distal to a significant stenosis are already maximally dilated to maintain resting flow; when a vasodilator is given, only arterioles supplying normal vessels can dilate further, diverting (\"stealing\") blood flow away from the stenotic vessel's territory and causing ischemia."
+        "Wilms tumor is not discussed as a tuberous sclerosis renal manifestation in the notes.",
+        "Renal cysts are also a VHL disease feature, not the classic tuberous sclerosis renal finding described.",
+        "Bilateral renal cell carcinomas are a classic feature of von Hippel-Lindau disease, not the most frequent renal finding in tuberous sclerosis.",
+        "Correct - Renal angiomyolipomas are the most frequent renal manifestation of tuberous sclerosis, often multiple and bilateral, with growth and hemorrhage causing pain and risk of renin-dependent hypertension and chronic kidney disease from compression of normal tissue."
       ],
-      "overview": "Coronary steal occurs when a vasodilator (e.g., adenosine, dipyridamole, regadenoson) preferentially increases blood flow to normal coronary vessels whose arterioles are not yet maximally dilated, while arterioles distal to a significant (>75%) stenosis are already maximally dilated at rest and cannot respond further, diverting flow away from the ischemic territory. This principle underlies pharmacologic stress testing, where nuclear tracers detect the resulting relative perfusion defect in the stenotic vessel's territory.",
-      "id": "2026-09-03-18"
-    },
-    {
-      "format": "simple4",
-      "stem": "The predominant hemodynamic mechanism by which nitroglycerin relieves angina is:",
-      "options": [
-        "Direct positive chronotropic effect",
-        "Increasing myocardial contractility",
-        "Venodilation leading to decreased preload",
-        "Arteriolar vasoconstriction increasing afterload"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Nitroglycerin has no direct chronotropic effect; reflex tachycardia can occur secondarily due to blood pressure lowering activating the sympathetic nervous system.",
-        "Nitroglycerin does not directly increase contractility; any reflex increase in contractility is a secondary, undesired effect of sympathetic activation.",
-        "Correct: nitroglycerin's predominant effect is venodilation, which pools blood in the venous system, reduces venous return, decreases preload (LVEDV), and lowers myocardial oxygen demand.",
-        "Nitrates cause vasodilation (decreasing afterload slightly), not vasoconstriction."
-      ],
-      "overview": "Nitrates are converted to nitric oxide, causing vasodilation that predominantly affects veins over arteries, reducing preload and myocardial oxygen demand. This benefit can be offset by reflex sympathetic activation (increasing heart rate and contractility), which is why nitrates are often co-administered with a beta blocker or calcium channel blocker to blunt this reflex response.",
-      "id": "2026-09-03-19"
+      "overview": "Tuberous sclerosis causes widespread hamartomas in multiple organ systems from TSC1/TSC2 mutations leading to mTOR overactivity. Renal angiomyolipomas are the most frequent renal manifestation, presenting with multiple/bilateral lesions that can hemorrhage, cause pain, renin-dependent hypertension, and chronic kidney disease from compression of normal renal tissue.",
+      "id": "2026-09-04-23"
     },
     {
       "format": "vignette5",
-      "stem": "A 35-year-old man with a known delta wave on a prior ECG presents with palpitations and dizziness. ECG now shows an irregular, wide-complex tachycardia with a rate of 220/min and varying QRS morphology. Which of the following is contraindicated in the management of this arrhythmia?",
+      "stem": "A 74-year-old man presents with a purple, bruise-like nodule on his scalp that has been slowly enlarging over several months. Biopsy reveals irregular, abnormal vascular channels infiltrating the dermis. Which of the following exposures is most classically associated with a related form of this tumor arising in a different organ?",
       "options": [
-        "IV verapamil",
-        "IV fluid resuscitation",
-        "Procainamide",
-        "Electrical cardioversion",
-        "Ibutilide"
+        "Ionizing radiation to the skin only",
+        "HHV-8 infection",
+        "Arsenic-contaminated drinking water",
+        "Bartonella henselae infection",
+        "Vinyl chloride exposure (hepatic form)"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Radiation is associated with the breast form of angiosarcoma (following radiation therapy or chronic lymphedema after mastectomy), not scalp lesions, and is not the exposure highlighted for the hepatic form.",
+        "HHV-8 causes Kaposi sarcoma, a different vascular tumor, not angiosarcoma.",
+        "Arsenic exposure is a risk factor for squamous cell carcinoma, not angiosarcoma.",
+        "Bartonella causes bacillary angiomatosis, not angiosarcoma.",
+        "Correct - Angiosarcoma classically occurs on the scalp/forehead of older men as purple nodules resembling a bruise that grows over time; the hepatic form of angiosarcoma is classically associated with vinyl chloride exposure."
+      ],
+      "overview": "Angiosarcoma is a rare, aggressive vascular tumor most classically arising on the scalp/forehead of older men as a bruise-like purple nodule that grows over time, with biopsy showing irregular abnormal vascular structures and carrying a poor prognosis. Other forms occur in the liver (associated with vinyl chloride exposure) and breast (often following radiation therapy or in chronic lymphedema after mastectomy, occurring decades later).",
+      "id": "2026-09-04-24"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 38-year-old man with poorly controlled HIV infection (CD4 count 45 cells/mm3) presents with numerous violaceous nodules on his skin and oral mucosa. Biopsy shows angioproliferation with a lymphocytic infiltrate. Which of the following is the most likely causative agent?",
+      "options": [
+        "Human herpesvirus-8",
+        "Bartonella henselae",
+        "Bartonella quintana",
+        "Malassezia species",
+        "HPV"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct: AV nodal blocking agents (verapamil, beta blockers, digoxin, adenosine) are contraindicated because slowing AV node conduction promotes preferential conduction down the accessory pathway, which can dangerously increase the ventricular rate and precipitate ventricular fibrillation.",
-        "IV fluids are supportive but not a specific antiarrhythmic treatment; they are not dangerous or contraindicated in this scenario.",
-        "Procainamide slows conduction through the accessory pathway and is an appropriate treatment option.",
-        "Electrical cardioversion is appropriate, particularly if the patient becomes unstable.",
-        "Ibutilide is a reasonable antiarrhythmic option that slows conduction through the bypass tract."
+        "Correct - Kaposi sarcoma is an angioproliferative tumor associated with HIV/AIDS caused by HHV-8, and biopsy classically shows a lymphocytic infiltrate, distinguishing it from bacillary angiomatosis.",
+        "Bartonella henselae causes bacillary angiomatosis, which shows neutrophils and bacilli on biopsy, not the lymphocytic infiltrate seen here.",
+        "Bartonella quintana also causes bacillary angiomatosis, not Kaposi sarcoma.",
+        "Malassezia is associated with seborrheic dermatitis, not Kaposi sarcoma.",
+        "HPV causes verrucae/warts, not Kaposi sarcoma."
       ],
-      "overview": "WPW involves an accessory pathway (the Bundle of Kent) that bypasses the AV node, causing pre-excitation. When atrial fibrillation occurs in WPW, impulses can conduct rapidly over the bypass tract (which lacks the AV node's rate-limiting properties), producing a wide-complex, irregular, very fast tachycardia. AV nodal blocking drugs are contraindicated because blocking the AV node shifts all conduction to the accessory pathway, risking ventricular fibrillation; treatment instead relies on procainamide, ibutilide, or electrical cardioversion.",
-      "id": "2026-09-03-20"
+      "overview": "Kaposi sarcoma is a vascular tumor common in HIV/AIDS caused by HHV-8 infection, presenting as red-purple nodules on skin and mucosa. It is distinguished from the similar-appearing bacillary angiomatosis (caused by Bartonella species) by biopsy: Kaposi sarcoma shows a lymphocytic infiltrate, while bacillary angiomatosis shows neutrophils and visible bacilli.",
+      "id": "2026-09-04-25"
     },
     {
       "format": "simple4",
-      "stem": "Chronic volume overload of the left ventricle, such as from aortic regurgitation, classically leads to which pattern of hypertrophy?",
+      "stem": "Freckles (ephelides) are small, darkened macules that result from which of the following?",
       "options": [
-        "Concentric hypertrophy with sarcomeres added in series",
-        "No hypertrophy occurs with volume overload",
-        "Eccentric hypertrophy with sarcomeres added in series",
-        "Concentric hypertrophy with sarcomeres added in parallel"
+        "Autoimmune destruction of melanocytes",
+        "Increased melanin production with a normal number of melanocytes",
+        "Increased number of melanocytes with normal melanin production per cell",
+        "Decreased tyrosinase activity in melanocytes"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "explanations": [
-        "Concentric hypertrophy involves parallel, not series, sarcomere addition, and it is associated with pressure overload, not volume overload.",
-        "Hypertrophy does occur as a compensatory mechanism in chronic volume overload.",
-        "Correct: chronic volume overload (aortic or mitral regurgitation) causes sarcomeres to be added in series, lengthening myocytes and dilating the LV cavity while wall thickness remains relatively normal (eccentric hypertrophy).",
-        "Concentric hypertrophy with sarcomeres added in parallel occurs with pressure overload (e.g., hypertension, aortic stenosis), not volume overload."
+        "Autoimmune destruction of melanocytes describes vitiligo, which causes depigmentation, not freckles.",
+        "Correct - Freckles are small, flat, brown macules caused by increased amounts of melanin production with a normal density/number of melanocytes; they can darken further with sun exposure.",
+        "Freckles are due to increased melanin output per melanocyte, not an increased number of melanocytes.",
+        "Decreased tyrosinase activity describes albinism, which causes hypopigmentation, the opposite of freckles."
       ],
-      "overview": "Pressure overload (hypertension, aortic stenosis) causes concentric hypertrophy via sarcomeres added in parallel, increasing wall thickness and reducing chamber size. Volume overload (aortic/mitral regurgitation, chronic valvular disease) causes eccentric hypertrophy via sarcomeres added in series, dilating the ventricular cavity with relatively normal wall thickness. Both patterns reduce wall tension per the Law of Laplace by distributing force over more myocardial mass.",
-      "id": "2026-09-03-21"
+      "overview": "Melanin is synthesized from tyrosine in melanocytes and transferred via melanosomes to keratinocytes. Freckles result from increased melanin synthesis with a normal melanocyte number/density, distinguishing them from disorders of melanocyte number (nevi) or melanocyte function (albinism, vitiligo).",
+      "id": "2026-09-04-26"
     },
     {
       "format": "simple4",
-      "stem": "In a patient taking digoxin, which electrolyte abnormality most significantly increases the risk of digoxin toxicity?",
+      "stem": "A patient with neurofibromatosis type 2 is most likely to develop which of the following tumors, occurring in almost all affected patients?",
       "options": [
-        "Mild hypercalcemia",
-        "Hyperkalemia",
-        "Hypokalemia",
-        "Hypernatremia"
+        "Cutaneous neurofibromas",
+        "Cardiac rhabdomyomas",
+        "Bilateral vestibular schwannomas (acoustic neuromas)",
+        "Optic gliomas"
       ],
       "correctIndex": 2,
       "explanations": [
-        "While calcium can contribute to arrhythmogenesis, hypokalemia is the classic and most emphasized electrolyte risk factor for digoxin toxicity, not mild hypercalcemia.",
-        "Hyperkalemia is more classically associated with acute digoxin overdose as a consequence, rather than as a cause that increases toxicity risk.",
-        "Correct: hypokalemia (often caused by loop or thiazide diuretics) increases digoxin's binding affinity for the Na-K-ATPase pump, increasing the risk of digoxin toxicity.",
-        "Sodium levels are not the primary electrolyte concern for digoxin toxicity risk."
+        "Cutaneous neurofibromas are a hallmark of NF1, not NF2.",
+        "Cardiac rhabdomyomas are a classic feature of tuberous sclerosis, not NF2.",
+        "Correct - NF2 is characterized by bilateral schwannomas of the vestibular (acoustic) nerve, occurring in almost all patients, along with meningiomas; this distinguishes it from NF1.",
+        "Optic gliomas are a feature of NF1, not NF2."
       ],
-      "overview": "Digoxin inhibits the Na-K-ATPase pump, and hypokalemia (commonly caused by loop diuretics) increases digoxin's binding to this pump, raising the risk of toxicity even at therapeutic digoxin levels. Digoxin has a narrow therapeutic index and is renally cleared, so renal impairment also increases toxicity risk; digoxin-specific antibody fragments (Digibind) are used for severe toxicity.",
-      "id": "2026-09-03-22"
+      "overview": "Neurofibromatosis type 2 is a less common autosomal dominant disorder caused by mutation of the NF2 gene, with major features being CNS tumors: bilateral vestibular schwannomas ('acoustic neuromas') occurring in nearly all patients, plus meningiomas. This contrasts with NF1, which primarily causes peripheral nerve neurofibromas with skin and eye findings.",
+      "id": "2026-09-04-27"
     },
     {
       "format": "vignette5",
-      "stem": "A 60-year-old woman presents with intermittent syncope that occurs specifically when she changes from sitting to standing, along with several months of fevers, weight loss, and fatigue. Auscultation reveals an early diastolic sound followed by a rumbling murmur that varies with body position. Echocardiogram reveals a pedunculated mass attached to the interatrial septum. Which of the following is the most likely diagnosis?",
+      "stem": "A 45-year-old woman presents with painful oral ulcerations that have made eating difficult for the past two weeks. She now has several large, flaccid bullae on her chest and back that rupture easily, leaving scabbed erosions. Gentle lateral pressure on an intact bulla causes it to spread further. Which of the following is most likely to be found on direct immunofluorescence of a perilesional skin biopsy?",
       "options": [
-        "Metastatic melanoma",
-        "Rhabdomyoma",
-        "Cardiac myxoma",
-        "Papillary fibroelastoma",
-        "Vegetative endocarditis"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Metastatic tumors are the most common cardiac tumors overall but are not typically pedunculated interatrial septal masses causing a tumor plop.",
-        "Rhabdomyomas occur in children, are associated with tuberous sclerosis, and are typically embedded within the ventricular wall, not attached to the atrial septum with positional symptoms.",
-        "Correct: myxoma is the most common primary cardiac tumor, usually arising in the left atrium near the fossa ovalis; it can prolapse into the mitral valve causing positional syncope and a \"tumor plop,\" and it secretes IL-6, producing constitutional (B) symptoms.",
-        "Papillary fibroelastoma is not described in this context as producing systemic symptoms and positional syncope via a septal mass.",
-        "Endocarditis vegetations present with signs of infection and embolic phenomena rather than a positional diastolic tumor plop tied to a septal mass."
-      ],
-      "overview": "Cardiac myxoma is the most common primary cardiac tumor in adults, usually located in the left atrium attached near the fossa ovalis. It can obstruct the mitral valve, causing positional syncope and a diastolic \"tumor plop,\" and it produces IL-6, leading to constitutional B symptoms (fevers, weight loss); it may also embolize, causing stroke.",
-      "id": "2026-09-03-23"
-    },
-    {
-      "format": "simple4",
-      "stem": "Compared to the aortic arch baroreceptors, the carotid sinus baroreceptors are considered more important because they:",
-      "options": [
-        "Directly control renal sodium excretion without CNS involvement",
-        "Only respond to extremely high blood pressure",
-        "Have no connection to the autonomic nervous system",
-        "Sense both low and high blood pressure over a wider range"
+        "Granular IgA deposition at the tips of dermal papillae",
+        "Eosinophils and lymphocytes without immunoglobulin deposition",
+        "C3 deposition around dermal blood vessels only",
+        "Reticular (net-like) IgG deposition throughout the epidermis",
+        "Linear IgG deposition at the dermal-epidermal junction"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Baroreceptors signal the central nervous system (nucleus solitarius), which then modulates autonomic output; they do not directly control renal excretion independent of CNS processing.",
-        "It is the aortic arch baroreceptors, not the carotid sinus, that are relatively poor at sensing low blood pressure and respond mainly to elevated pressure.",
-        "Both carotid sinus (via CN IX) and aortic arch (via CN X) baroreceptors connect to the autonomic nervous system through afferent cranial nerves.",
-        "Correct: the carotid sinus baroreceptors modify signals over a wider range of blood pressures, sensing both hypotension and hypertension, making them the most important baroreceptors for blood pressure regulation."
+        "Granular IgA at dermal papillae tips is the classic finding in dermatitis herpetiformis, not pemphigus vulgaris.",
+        "Eosinophils/lymphocytes without a significant immunoglobulin pattern understates the finding; bullous pemphigoid shows eosinophils on biopsy but PV specifically shows the IgG reticular pattern.",
+        "Isolated perivascular C3 deposition is not the classic pemphigus finding.",
+        "Correct - Pemphigus vulgaris shows a classic 'reticular,' net-like pattern of IgG immunofluorescence targeting desmogleins 1 and 3 between keratinocytes; the clinical picture (oral ulcers, flaccid easily ruptured bullae, Asboe-Hansen sign of lateral spread) is classic for PV.",
+        "Linear IgG at the dermal-epidermal junction is the classic finding in bullous pemphigoid, not pemphigus vulgaris."
       ],
-      "overview": "Baroreceptors in the aortic arch and carotid sinus sense arterial stretch and relay signals to the brainstem (nucleus tractus solitarius) via CN X and CN IX respectively, triggering autonomic responses affecting heart rate, vascular tone, and renin release. The carotid sinus is considered the more important baroreceptor because it senses blood pressure changes over a wider range (both hypotension and hypertension), whereas the aortic arch mainly senses elevated pressure.",
-      "id": "2026-09-03-24"
+      "overview": "Pemphigus vulgaris is caused by IgG autoantibodies against desmoglein 1 and 3 (components of desmosomes), producing acantholysis in the stratum spinosum with a 'reticular' net-like IgG pattern on immunofluorescence. It typically affects adults 30-60, often starts with painful oral erosions, produces flaccid bullae that rupture easily, and shows a positive Nikolsky sign and Asboe-Hansen sign (lateral spread of bullae with pressure).",
+      "id": "2026-09-04-28"
     },
     {
-      "format": "vignette5",
-      "stem": "A 28-year-old woman presents to the emergency department with sudden-onset palpitations and mild chest discomfort that began abruptly at rest. Heart rate is 180/min with a narrow-complex, regular rhythm on ECG; no discrete P waves are visible before the QRS complexes. Blood pressure is stable. Which of the following is the most appropriate initial maneuver to attempt terminating this arrhythmia?",
+      "format": "simple4",
+      "stem": "In bullous impetigo, the S. aureus exfoliative toxin (exfoliatin) causes blister formation by which mechanism?",
       "options": [
-        "Immediate synchronized cardioversion",
-        "IV metoprolol bolus",
-        "Administration of digoxin",
-        "Carotid sinus massage",
-        "Administration of IV amiodarone"
+        "Depositing IgA at the tips of dermal papillae",
+        "Forming IgG autoantibodies against desmoglein 3 in the stratum spinosum",
+        "Producing autoantibodies against hemidesmosomal proteins BP180 and BP230",
+        "Cleaving the desmoglein 1 complex, disrupting desmosomal adhesion between keratinocytes in the stratum granulosum"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Cardioversion is reserved for hemodynamically unstable patients; this patient is stable.",
-        "Beta blockers may be used for chronic prevention, but vagal maneuvers are the appropriate first acute step in a stable patient.",
-        "Digoxin is not first-line acute therapy for terminating PSVT.",
-        "Correct: this presentation is classic for AVNRT, the most common cause of PSVT; vagal maneuvers such as carotid sinus massage increase vagal tone and slow AV node conduction, which can terminate the reentrant circuit and are appropriate first-line therapy in a stable patient.",
-        "IV amiodarone is not first-line for stable AVNRT; vagal maneuvers or adenosine are preferred first."
+        "IgA deposition at dermal papillae describes dermatitis herpetiformis, unrelated to bullous impetigo.",
+        "IgG autoantibodies against desmoglein 3 describe the autoimmune mechanism of pemphigus vulgaris, not the toxin-mediated mechanism of bullous impetigo.",
+        "Autoantibodies against BP180/BP230 describe bullous pemphigoid, an autoimmune disease distinct from toxin-mediated bullous impetigo.",
+        "Correct - The S. aureus exfoliative toxin (exfoliatin) cleaves the desmoglein 1 complex, disrupting desmosomal adhesion between keratinocytes specifically in the stratum granulosum, producing the superficial blistering seen in bullous impetigo (and more diffusely in scalded skin syndrome)."
       ],
-      "overview": "AVNRT is the most common cause of paroxysmal supraventricular tachycardia, arising from dual (fast and slow) pathways within the AV node and more common in young women. It presents with sudden-onset, sudden-offset, narrow-complex, regular tachycardia, often with retrograde P waves. First-line treatment in a stable patient is a vagal maneuver (carotid sinus massage, Valsalva) or adenosine, both of which transiently slow AV node conduction to break the reentrant circuit.",
-      "id": "2026-09-03-25"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which of the following components contributes 2 points to the CHADS-VASc score used to estimate stroke risk in atrial fibrillation?",
-      "options": [
-        "Prior stroke or TIA",
-        "Female sex",
-        "Hypertension",
-        "Diabetes mellitus"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: prior stroke, TIA, or thromboembolism contributes 2 points in the CHADS-VASc score, reflecting its strong association with recurrent stroke risk.",
-        "Female sex contributes only 1 point in the CHADS-VASc score.",
-        "Hypertension contributes 1 point.",
-        "Diabetes mellitus contributes 1 point."
-      ],
-      "overview": "The CHADS-VASc score estimates stroke risk in patients with atrial fibrillation to guide anticoagulation decisions, weighting congestive heart failure, hypertension, diabetes, vascular disease, female sex, and age 65-74 as 1 point each, while prior stroke/TIA and age over 75 each contribute 2 points. A score of 2 or more generally warrants anticoagulation, while a score of 0 (or 1 due to female sex alone) does not.",
-      "id": "2026-09-03-26"
-    },
-    {
-      "format": "simple4",
-      "stem": "Class III antiarrhythmic drugs such as sotalol exhibit 'reverse use dependence,' meaning their potassium channel-blocking effect is:",
-      "options": [
-        "Greater at fast heart rates and minimal at slow heart rates",
-        "Equal regardless of heart rate",
-        "Greater at slow heart rates, increasing the risk of QT prolongation during bradycardia",
-        "Only present during atrial fibrillation"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "This describes \"use dependence,\" characteristic of Class I drugs (which bind more during fast heart rates), not reverse use dependence.",
-        "Reverse use dependence specifically implies a rate-dependent effect, not an equal effect across heart rates.",
-        "Correct: reverse use dependence means potassium channel blockade (and the QT prolongation effect) is more pronounced at slow heart rates, increasing torsade de pointes risk during bradycardia.",
-        "Reverse use dependence is a general pharmacologic property of Class III drugs and is not exclusive to atrial fibrillation."
-      ],
-      "overview": "Class III antiarrhythmics (amiodarone, sotalol, dofetilide, ibutilide) block potassium channels preferentially in the resting state, meaning their QT-prolonging effect is more pronounced at slower heart rates (\"reverse use dependence\"). This is why bradycardia in a patient on sotalol or dofetilide raises the risk of QT prolongation and torsade de pointes, prompting inpatient monitoring when starting these drugs.",
-      "id": "2026-09-03-27"
-    },
-    {
-      "format": "simple4",
-      "stem": "A cannon 'a' wave on jugular venous pulse examination occurs due to which mechanism?",
-      "options": [
-        "Atrial contraction against a closed tricuspid valve",
-        "Right ventricular filling during diastole",
-        "Atrial fibrillation with loss of coordinated atrial contraction",
-        "Tricuspid regurgitation causing a giant systolic wave"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: a cannon a wave occurs when the atrium contracts against a closed tricuspid valve, which happens when atrioventricular coordination is lost (e.g., complete heart block, PVCs, ventricular tachycardia).",
-        "Right ventricular filling during diastole corresponds to the y descent, not the cannon a wave.",
-        "Atrial fibrillation causes an absent a wave due to lack of organized atrial contraction, not a cannon a wave.",
-        "Tricuspid regurgitation produces a giant \"v\" wave during ventricular systole, not a cannon \"a\" wave."
-      ],
-      "overview": "Jugular venous waveforms reflect right atrial pressure events: the a wave is atrial contraction, the c wave is tricuspid valve bulging during ventricular contraction, and the v wave is atrial filling. A cannon a wave occurs when the atria contract against a closed tricuspid valve due to AV dissociation (complete heart block, PVCs, ventricular tachycardia), while atrial fibrillation eliminates the a wave entirely due to lack of organized atrial contraction.",
-      "id": "2026-09-03-28"
-    },
-    {
-      "format": "simple4",
-      "stem": "According to the Law of Laplace, wall tension in a cardiac chamber is directly proportional to which of the following relationships?",
-      "options": [
-        "Pressure \u00d7 radius, divided by wall thickness",
-        "Radius divided by (pressure \u00d7 wall thickness)",
-        "Pressure divided by (radius \u00d7 wall thickness)",
-        "Wall thickness \u00d7 radius, divided by pressure"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct: the Law of Laplace states that wall tension is proportional to (pressure \u00d7 radius) divided by wall thickness; increased pressure or chamber radius raises wall tension, while increased wall thickness (hypertrophy) reduces it.",
-        "This incorrectly places radius as inversely related to tension, when it should be directly proportional in the numerator along with pressure.",
-        "This inverts the relationship; tension increases with pressure, it is not inversely related to it.",
-        "This inverts the formula entirely, placing wall thickness in the numerator instead of the denominator."
-      ],
-      "overview": "The Law of Laplace explains how wall tension relates to intracavitary pressure, chamber radius, and wall thickness. Pressure overload (e.g., hypertension, aortic stenosis) increases tension and drives concentric hypertrophy (sarcomeres added in parallel), while volume overload increases radius and drives eccentric hypertrophy (sarcomeres added in series); hypertrophy itself is a compensatory mechanism that reduces wall tension by distributing force over more myocardial mass.",
-      "id": "2026-09-03-29"
+      "overview": "Bullous impetigo, seen in children and commonly involving the trunk, is caused by S. aureus producing exfoliative toxin (exfoliatin), which cleaves the desmoglein 1 complex and disrupts desmosomal adhesion in the stratum granulosum. This same toxin, when it spreads systemically in neonates, causes the more diffuse staphylococcal scalded skin syndrome.",
+      "id": "2026-09-04-29"
     },
     {
       "format": "vignette5",
-      "stem": "A 30-year-old man is brought to the emergency department after a motor vehicle collision with blunt chest trauma. He is tachycardic and hypotensive. Exam reveals distended neck veins and muffled heart sounds. Which of the following best describes the expected hemodynamic profile?",
+      "stem": "A 50-year-old man started allopurinol two weeks ago for gout. He now presents with fever, diffuse skin pain, and sloughing of the epidermis with a positive Nikolsky sign involving approximately 35% of his body surface area, along with oral and ocular mucosal erosions. Which of the following terms best classifies this presentation?",
       "options": [
-        "Low cardiac output, high right atrial pressure, high systemic vascular resistance",
-        "High cardiac output, low right atrial pressure, low systemic vascular resistance",
-        "High cardiac output, high right atrial pressure, low systemic vascular resistance",
-        "Low cardiac output, low right atrial pressure, low systemic vascular resistance",
-        "Normal cardiac output, normal right atrial pressure, high systemic vascular resistance"
+        "Bullous pemphigoid",
+        "Toxic epidermal necrolysis",
+        "Stevens-Johnson syndrome",
+        "Erythema multiforme",
+        "SJS-TEN overlap"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanations": [
-        "Correct: pericardial fluid compresses the cardiac chambers, impairing diastolic filling and lowering cardiac output; RA/RV/LA pressures rise and equalize, and compensatory sympathetic activation raises systemic vascular resistance.",
-        "Cardiac output is low in tamponade, not high, due to impaired ventricular filling.",
-        "Systemic vascular resistance is elevated (sympathetic compensation), not low, and cardiac output is low, not high.",
-        "Right atrial pressure is elevated, not low, in tamponade because ventricular filling is impaired.",
-        "Right atrial pressure is elevated in tamponade, not normal."
+        "Bullous pemphigoid occurs in the elderly with tense bullae and is not associated with allopurinol or extensive epidermal necrosis.",
+        "Correct - Toxic epidermal necrolysis is the severe form of the SJS spectrum involving >30% body surface area; this patient's 35% BSA involvement classifies him as TEN. Allopurinol is a classic trigger.",
+        "SJS is defined as <10% BSA involvement, not 35%.",
+        "Erythema multiforme features target lesions and is not classified by BSA sloughing percentage in this way, and it is not typically drug-induced by allopurinol per the notes.",
+        "SJS-TEN overlap is defined as 10-30% BSA, not 35%."
       ],
-      "overview": "Cardiac tamponade is a form of obstructive shock caused by pericardial fluid compressing the cardiac chambers and impairing diastolic filling. Beck's triad (hypotension, distended neck veins, muffled heart sounds) and pulsus paradoxus are classic bedside findings. Hemodynamically, tamponade produces low cardiac output with elevated and equalized RA/RV/LA pressures and high systemic vascular resistance from compensatory sympathetic activation.",
-      "id": "2026-09-03-30"
+      "overview": "SJS/TEN represent a spectrum of severe type IV hypersensitivity drug reactions causing epidermal necrosis, classically triggered by anticonvulsants, sulfonamides, allopurinol, penicillins, NSAIDs, and associated with Mycoplasma pneumoniae infection. Classification is by body surface area involved: SJS <10%, overlap 10-30%, TEN >30%, with TEN carrying the highest mortality (25-35%).",
+      "id": "2026-09-04-30"
     }
   ]
 }
