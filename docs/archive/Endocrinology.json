@@ -560,6 +560,596 @@
         "Incorrect. Somatostatinoma is not described in the notes as causing hyperglycemia with this characteristic rash."
       ],
       "id": "2026-08-29-30"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 52-year-old woman presents with fatigue, weight loss, and nausea. She denies any skin darkening. Laboratory studies show a low morning serum cortisol, low ACTH, normal serum potassium, and normal plasma renin activity. MRI reveals a pituitary macroadenoma. Which of the following best explains the absence of hyperkalemia and skin hyperpigmentation in this patient?",
+      "options": [
+        "Aldosterone deficiency is being compensated for by increased cortisol secretion",
+        "Aldosterone synthesis is preserved because it is controlled by the renin-angiotensin system rather than ACTH, and low ACTH does not stimulate melanocyte-stimulating hormone",
+        "Elevated melanocyte-stimulating hormone is actively suppressing skin pigmentation",
+        "This patient has primary adrenal insufficiency (Addison's disease)",
+        "ACTH is markedly elevated but its receptors have been downregulated"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. There is no physiological mechanism by which cortisol compensates for aldosterone deficiency; the notes describe them as largely independent axes.",
+        "Correct. In secondary adrenal insufficiency (pituitary ACTH failure), only cortisol production falls because aldosterone release depends on the renin-angiotensin-aldosterone system, not ACTH. Since ACTH (and its co-product MSH) is low rather than high, there is no hyperpigmentation and no hyperkalemia.",
+        "Incorrect. MSH is derived from the same POMC precursor as ACTH; low ACTH means low MSH, not elevated MSH suppressing pigmentation.",
+        "Incorrect. Primary adrenal insufficiency would show elevated ACTH, hyperkalemia, hyperpigmentation, and elevated renin activity, none of which are present here.",
+        "Incorrect. In secondary adrenal insufficiency ACTH is low due to pituitary failure, not elevated with receptor downregulation."
+      ],
+      "overview": "Secondary adrenal insufficiency results from pituitary ACTH failure and affects cortisol only, sparing aldosterone (regulated by RAAS) and androgens are also reduced but less clinically relevant. Because ACTH is low (not high), there is no hyperpigmentation, and because aldosterone is intact, there is no hyperkalemia or salt-wasting \u2014 distinguishing it sharply from primary adrenal insufficiency.",
+      "id": "2026-09-05-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 32-year-old woman presents with a painful, tender, enlarged thyroid gland two weeks after a viral upper respiratory infection. Laboratory studies show elevated ESR and decreased radioactive iodine uptake. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Graves disease",
+        "Subacute (de Quervain) granulomatous thyroiditis",
+        "Hashimoto thyroiditis",
+        "Riedel thyroiditis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Graves disease shows increased, diffuse radioactive iodine uptake, not decreased uptake, and is not classically tender.",
+        "Correct. Subacute (de Quervain) thyroiditis follows a viral infection and presents with a tender, painful thyroid, elevated inflammatory markers, and decreased radioactive iodine uptake, progressing through hyperthyroid, euthyroid, and hypothyroid phases before recovery.",
+        "Incorrect. Hashimoto thyroiditis produces a painless, non-tender goiter, not the acute tender presentation described.",
+        "Incorrect. Riedel thyroiditis produces a painless, 'rock hard' fibrotic thyroid, not an acutely tender gland following viral infection."
+      ],
+      "overview": "Subacute (de Quervain) granulomatous thyroiditis is often triggered by a viral infection and causes a tender, enlarged thyroid with elevated ESR/CRP and decreased radioiodine uptake. It follows a self-limited course through hyperthyroid, euthyroid, and hypothyroid phases before recovery, distinguishing it from the painless Hashimoto and Riedel variants.",
+      "id": "2026-09-05-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with longstanding primary hyperparathyroidism develops bone pain and pathologic fractures. Biopsy of a bone lesion shows cystic spaces with fibrous tissue and multinucleated giant cells with hemosiderin deposits. What is this classic finding called?",
+      "options": [
+        "Osteomalacia",
+        "Osteopetrosis",
+        "Paget disease of bone",
+        "Osteitis fibrosa cystica (brown tumor)"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Osteomalacia results from impaired bone mineralization (e.g., vitamin D deficiency) and has different histology than osteitis fibrosa cystica.",
+        "Incorrect. Osteopetrosis results from defective osteoclast function causing abnormally dense bone, unrelated to hyperparathyroidism.",
+        "Incorrect. Paget disease has a distinct mosaic bone pattern and is not associated with hyperparathyroidism in these notes.",
+        "Correct. Osteitis fibrosa cystica, with brown tumors (osteoclastomas), is the classic bone finding of chronic PTH excess; hemosiderin deposition gives the lesion its brown color."
+      ],
+      "overview": "Chronic PTH excess from primary hyperparathyroidism causes increased osteoclastic bone resorption, leading to subperiosteal bone resorption and osteitis fibrosa cystica with brown tumors, presenting clinically as bone pain and pathologic fractures alongside kidney stones and abdominal/psychiatric symptoms.",
+      "id": "2026-09-05-03"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 22-year-old woman presents with hirsutism, severe acne, and oligomenorrhea. She reports that she developed pubic hair at age 3 and denies any history of ambiguous genitalia. Serum 17-hydroxyprogesterone is markedly elevated. Which of the following best characterizes her condition?",
+      "options": [
+        "Polycystic ovarian syndrome unrelated to any adrenal enzyme defect",
+        "11-beta-hydroxylase deficiency",
+        "17-alpha-hydroxylase deficiency",
+        "Non-classic 21-alpha-hydroxylase deficiency with 20-50% residual enzyme activity",
+        "Classic salt-wasting 21-alpha-hydroxylase deficiency"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. The markedly elevated 17-hydroxyprogesterone specifically indicates an enzymatic block in cortisol synthesis, not idiopathic PCOS.",
+        "Incorrect. 11-beta-hydroxylase deficiency would also cause hypertension and hypokalemia from excess 11-deoxycorticosterone, which is not described here.",
+        "Incorrect. 17-alpha-hydroxylase deficiency causes deficient sex hormone production (lack of virilization), the opposite of this hyperandrogenic presentation.",
+        "Correct. The non-classic (late-onset) form of 21-hydroxylase deficiency retains 20-50% enzyme activity, presents later in life with a PCOS-like picture (hirsutism, acne, oligomenorrhea) and a history of early pubarche, with elevated 17-hydroxyprogesterone confirming the enzyme block.",
+        "Incorrect. The classic salt-wasting form has 0-2% enzyme activity and presents in infancy with adrenal crisis and ambiguous genitalia in females, not in a 22-year-old with a PCOS-like presentation."
+      ],
+      "overview": "Non-classic congenital adrenal hyperplasia from partial 21-hydroxylase deficiency presents later in life with hyperandrogenic features (hirsutism, acne, oligomenorrhea) mimicking PCOS, but without ambiguous genitalia or salt-wasting. Serum 17-hydroxyprogesterone is the key diagnostic marker, elevated because of the block just proximal to the enzyme defect.",
+      "id": "2026-09-05-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "Administration of a large iodine load transiently inhibits thyroid hormone synthesis by which of the following mechanisms?",
+      "options": [
+        "Inhibition of organification of iodide, decreasing MIT/DIT formation",
+        "Stimulation of TSH receptor-blocking antibodies",
+        "Increased peripheral conversion of T4 to reverse T3",
+        "Direct cytotoxic destruction of thyroid follicular cells"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. The Wolff-Chaikoff effect describes transient inhibition of iodide organification by excess iodide, reducing MIT/DIT and thus thyroid hormone synthesis; most euthyroid individuals 'escape' this effect within about 10 days.",
+        "Incorrect. This is not an antibody-mediated process; it is a direct effect of excess iodide on thyroid peroxidase-mediated organification.",
+        "Incorrect. Increased conversion to reverse T3 is associated with euthyroid sick syndrome in critical illness, not the Wolff-Chaikoff effect.",
+        "Incorrect. No cellular destruction occurs; the effect is a reversible enzymatic/functional inhibition of hormone synthesis."
+      ],
+      "overview": "The Wolff-Chaikoff effect is a protective, transient inhibition of thyroid hormone synthesis triggered by an acute iodine load, mediated by inhibited organification of iodide. While normal thyroids escape this effect within about 10 days, patients with underlying autoimmune thyroid disease (Hashimoto's or Graves') may experience persistent iodine-induced hypothyroidism.",
+      "id": "2026-09-05-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 35-year-old man presents with a thyroid nodule found to be medullary thyroid carcinoma on biopsy. Further workup reveals elevated serum calcium and PTH along with episodic hypertension and elevated plasma free metanephrines. Genetic testing reveals a RET proto-oncogene mutation. Which of the following syndromes does this patient most likely have?",
+      "options": [
+        "Von Hippel-Lindau syndrome",
+        "Neurofibromatosis type 1",
+        "MEN1",
+        "MEN2A",
+        "MEN2B"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Von Hippel-Lindau syndrome is associated with pheochromocytoma but not medullary thyroid carcinoma or RET mutations.",
+        "Incorrect. Neurofibromatosis type 1 is associated with pheochromocytoma but not medullary thyroid carcinoma or RET mutations.",
+        "Incorrect. MEN1 features pituitary, parathyroid, and pancreatic tumors (the '3 P's') caused by loss-of-function mutations in the MEN1 gene, not RET, and does not include medullary thyroid carcinoma.",
+        "Correct. MEN2A consists of medullary thyroid carcinoma, pheochromocytoma, and parathyroid adenoma (causing hyperparathyroidism), and results from a gain-of-function RET proto-oncogene mutation.",
+        "Incorrect. MEN2B includes medullary thyroid carcinoma and pheochromocytoma but with mucosal neuromas and marfanoid habitus, and characteristically lacks parathyroid involvement."
+      ],
+      "overview": "MEN2A is an autosomal dominant syndrome caused by RET proto-oncogene gain-of-function mutations, featuring medullary thyroid carcinoma (nearly 100% lifetime risk), pheochromocytoma, and parathyroid adenoma. It is distinguished from MEN2B, which trades parathyroid disease for mucosal neuromas and a marfanoid body habitus.",
+      "id": "2026-09-05-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 25-year-old asymptomatic woman is found to have mildly elevated serum calcium, normal PTH, and low urinary calcium excretion. Her mother and sister have similar findings. Which of the following best explains this presentation?",
+      "options": [
+        "Familial hypocalciuric hypercalcemia due to inactivating calcium-sensing receptor mutations",
+        "Primary hyperparathyroidism",
+        "Vitamin D toxicity",
+        "Multiple endocrine neoplasia type 1"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Familial hypocalciuric hypercalcemia is an autosomal dominant disorder caused by inactivating CaSR mutations that raise the calcium set point, causing mild hypercalcemia with normal PTH and LOW urinary calcium due to increased renal calcium reabsorption.",
+        "Incorrect. Primary hyperparathyroidism would show an elevated PTH level and typically normal-to-high urinary calcium excretion.",
+        "Incorrect. Vitamin D toxicity typically suppresses PTH more markedly and does not classically show this familial pattern with low urinary calcium.",
+        "Incorrect. MEN1-associated parathyroid adenoma would cause elevated PTH, unlike the normal PTH seen here."
+      ],
+      "overview": "Familial hypocalciuric hypercalcemia results from inactivating mutations in the calcium-sensing receptor, raising the calcium set point required to suppress PTH. It causes mild, lifelong hypercalcemia with normal PTH and characteristically LOW urinary calcium, usually requiring no treatment, and must be distinguished from primary hyperparathyroidism.",
+      "id": "2026-09-05-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which protein, co-released with catecholamines from adrenal chromaffin cells, is used as a serum diagnostic marker for pheochromocytoma and other neuroendocrine tumors?",
+      "options": [
+        "Calcitonin",
+        "Chromogranin",
+        "C-peptide",
+        "Thyroglobulin"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Calcitonin is a marker for medullary thyroid carcinoma, not pheochromocytoma.",
+        "Correct. Chromogranin is stored and secreted along with catecholamines and is elevated in pheochromocytoma and other neuroendocrine tumors.",
+        "Incorrect. C-peptide reflects endogenous insulin production and is unrelated to catecholamine-secreting tumors.",
+        "Incorrect. Thyroglobulin is a thyroid-specific protein used as a marker for thyroid cancer, not pheochromocytoma."
+      ],
+      "overview": "Pheochromocytoma is a catecholamine-secreting neuroendocrine tumor of adrenal chromaffin cells presenting with episodic headaches, diaphoresis, palpitations, and hypertension. Chromogranin, synaptophysin, and neuron-specific enolase are useful immunohistochemical/serum markers supporting the diagnosis alongside catecholamine metabolite testing.",
+      "id": "2026-09-05-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "Acute hemorrhagic destruction of the adrenal glands leading to Waterhouse-Friderichsen syndrome is classically associated with which infection?",
+      "options": [
+        "Neisseria meningitidis (meningococcemia)",
+        "Streptococcus pneumoniae",
+        "Histoplasma capsulatum",
+        "Mycobacterium tuberculosis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Waterhouse-Friderichsen syndrome is classically triggered by meningococcemia causing acute bilateral adrenal hemorrhage.",
+        "Incorrect. Streptococcus pneumoniae is not the classic organism associated with this syndrome.",
+        "Incorrect. Histoplasmosis causes chronic primary adrenal insufficiency through gradual infiltrative destruction, not acute hemorrhage.",
+        "Incorrect. Tuberculosis causes chronic adrenal insufficiency via infiltrative disease, common in low-income countries, not an acute hemorrhagic crisis."
+      ],
+      "overview": "Waterhouse-Friderichsen syndrome is a rare cause of acute primary adrenal insufficiency from bilateral adrenal hemorrhage, most classically associated with fulminant meningococcemia, presenting as sudden shock in a patient with bacterial meningitis.",
+      "id": "2026-09-05-09"
+    },
+    {
+      "format": "simple4",
+      "stem": "GLP-1 receptor agonists lower blood glucose and promote weight loss primarily through which mechanism?",
+      "options": [
+        "Directly closing pancreatic beta-cell ATP-sensitive K+ channels",
+        "Blocking renal glucose reabsorption in the proximal tubule",
+        "Inhibiting hepatic gluconeogenesis and increasing energy expenditure",
+        "Enhancing glucose-dependent insulin secretion, suppressing glucagon, and slowing gastric emptying"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. This describes the mechanism of sulfonylureas and meglitinides, not GLP-1 analogs.",
+        "Incorrect. This describes SGLT2 inhibitors, not GLP-1 analogs.",
+        "Incorrect. This describes metformin's mechanism, not GLP-1 analogs.",
+        "Correct. GLP-1 analogs mimic the incretin effect: they enhance glucose-dependent insulin secretion, blunt glucagon release, slow gastric emptying, and decrease appetite, producing both glycemic control and weight loss."
+      ],
+      "overview": "GLP-1 receptor agonists (e.g., semaglutide, liraglutide) exploit the incretin effect by enhancing glucose-dependent insulin secretion, suppressing glucagon, slowing gastric emptying, and reducing appetite, leading to both improved glycemic control and clinically significant weight loss, though at higher cost and with GI side effects.",
+      "id": "2026-09-05-10"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old woman presents with 8 months of amenorrhea, hot flashes, and vaginal dryness. Urine pregnancy test is negative. Serum FSH and LH are markedly elevated, and estradiol is low. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Asherman syndrome",
+        "Polycystic ovarian syndrome",
+        "Prolactinoma",
+        "Primary ovarian insufficiency",
+        "Functional hypothalamic amenorrhea"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Asherman syndrome causes amenorrhea from intrauterine adhesions with normal hormone levels, not elevated FSH/LH with low estrogen.",
+        "Incorrect. PCOS is associated with an elevated LH:FSH ratio and anovulation but not frank hypergonadotropic ovarian failure with hot flashes and vaginal dryness.",
+        "Incorrect. Prolactinoma causes hypogonadotropic hypogonadism (low LH/FSH from GnRH suppression) typically with galactorrhea, not elevated gonadotropins.",
+        "Correct. Hypergonadotropic hypogonadism (elevated FSH/LH with low estrogen) occurring before age 40 defines primary ovarian insufficiency, presenting with menopause-like symptoms such as hot flashes and vaginal dryness.",
+        "Incorrect. Functional hypothalamic amenorrhea is characterized by low or normal LH/FSH due to decreased GnRH secretion, not elevated gonadotropins."
+      ],
+      "overview": "Primary ovarian insufficiency is hypergonadotropic hypogonadism occurring before age 40, characterized by elevated FSH/LH and low estrogen due to depleted ovarian follicles, producing menopause-like symptoms (hot flashes, vaginal atrophy) and amenorrhea, distinct from central (hypogonadotropic) causes of amenorrhea.",
+      "id": "2026-09-05-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 32-year-old woman with a history of dilation and curettage after a miscarriage now presents with secondary amenorrhea and infertility. Hormone levels are normal, and a progestin challenge test fails to induce withdrawal bleeding. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Primary ovarian insufficiency",
+        "Asherman syndrome",
+        "Functional hypothalamic amenorrhea",
+        "Polycystic ovarian syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Primary ovarian insufficiency would show elevated FSH/LH and low estrogen, not normal hormone levels.",
+        "Correct. Intrauterine adhesions from uterine curettage (Asherman syndrome) cause an outflow tract obstruction despite normal hormone levels, so no withdrawal bleeding occurs with a progestin challenge.",
+        "Incorrect. Functional hypothalamic amenorrhea shows low estradiol and low/normal LH/FSH, not normal hormone levels with an obstructive pattern.",
+        "Incorrect. PCOS typically shows anovulation WITH bleeding after a progestin challenge (since estrogen is present) and an abnormal LH:FSH ratio."
+      ],
+      "overview": "Asherman syndrome results from intrauterine adhesions, most commonly following uterine curettage (D&C), causing infertility and amenorrhea despite normal hormone levels. It is diagnosed by hysteroscopy and distinguished from anovulatory causes by the absence of withdrawal bleeding on a progestin challenge test.",
+      "id": "2026-09-05-12"
+    },
+    {
+      "format": "simple4",
+      "stem": "In primary hyperaldosteronism, the phenomenon of 'aldosterone escape' prevents which of the following from developing despite chronic sodium and water retention?",
+      "options": [
+        "Hypokalemia",
+        "Metabolic alkalosis",
+        "Peripheral edema",
+        "Hypertension"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Hypokalemia still occurs because aldosterone continues to promote renal potassium excretion.",
+        "Incorrect. Metabolic alkalosis still occurs due to ongoing aldosterone-driven hydrogen ion excretion.",
+        "Correct. Increased ANP release in response to volume expansion promotes diuresis, returning volume status toward normal and preventing edema \u2014 in contrast to secondary hyperaldosteronism/edematous states, where escape does not occur.",
+        "Incorrect. Hypertension still develops because of the sustained volume expansion driven by aldosterone excess."
+      ],
+      "overview": "Aldosterone escape explains why patients with primary hyperaldosteronism typically have normal volume status on exam despite chronic sodium retention: initial volume expansion is followed within days by compensatory diuresis (via increased ANP). This escape does not occur in secondary hyperaldosteronism/edematous states like heart failure or cirrhosis, where edema persists.",
+      "id": "2026-09-05-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "The MEN1 syndrome results from loss-of-function mutations in a tumor suppressor gene located on which chromosome, coding for which protein?",
+      "options": [
+        "Chromosome 10, RET",
+        "Chromosome 13, RB1",
+        "Chromosome 11, menin",
+        "Chromosome 17, p53"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. RET on chromosome 10 is the gene involved in MEN2A and MEN2B, not MEN1.",
+        "Incorrect. RB1 is associated with retinoblastoma and is not discussed as the gene responsible for MEN1.",
+        "Correct. The MEN1 gene is located on chromosome 11 and codes for the tumor suppressor protein menin, following a two-hit inheritance pattern.",
+        "Incorrect. p53 on chromosome 17 is associated with anaplastic thyroid carcinoma and numerous other cancers, not MEN1."
+      ],
+      "overview": "MEN1 is an autosomal dominant syndrome caused by loss-of-function mutations in the MEN1 tumor suppressor gene on chromosome 11, which encodes menin. It follows a two-hit hypothesis and causes the '3 P's': pituitary adenomas, parathyroid adenomas, and pancreatic neuroendocrine tumors.",
+      "id": "2026-09-05-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following best describes the physiologic role of somatostatin in the anterior pituitary?",
+      "options": [
+        "Inhibits release of growth hormone and TSH",
+        "Stimulates prolactin secretion",
+        "Selectively inhibits release of ACTH only",
+        "Stimulates release of growth hormone"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Somatostatin is a multifunctional inhibitory hormone that suppresses growth hormone and TSH release from the anterior pituitary, and is used therapeutically (octreotide) in acromegaly and certain GI neuroendocrine conditions.",
+        "Incorrect. Prolactin secretion is under tonic inhibitory control by dopamine, not stimulated by somatostatin.",
+        "Incorrect. Somatostatin is not described as selectively targeting ACTH; its documented inhibitory targets are GH and TSH.",
+        "Incorrect. This is the opposite effect; GHRH stimulates GH release while somatostatin inhibits it."
+      ],
+      "overview": "Somatostatin is produced by the hypothalamus (and also GI D-cells and pancreatic delta cells) and inhibits growth hormone and TSH release. Its synthetic analog octreotide is used therapeutically in acromegaly, GI neuroendocrine tumors, and GI bleeding.",
+      "id": "2026-09-05-15"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old boy presents with fever, a petechial rash, and altered mental status. Within hours he develops profound hypotension refractory to intravenous fluids. Blood cultures grow Neisseria meningitidis, and imaging reveals bilateral adrenal hemorrhage. Which of the following best explains the mechanism of his shock?",
+      "options": [
+        "Pituitary apoplexy causing secondary adrenal insufficiency",
+        "Excess catecholamine release from the adrenal medulla causing vasodilation",
+        "Autoimmune destruction of the adrenal cortex with sparing of the medulla",
+        "Acute primary adrenal insufficiency from hemorrhagic destruction of the adrenal cortex",
+        "Chronic ACTH suppression from long-term exogenous steroid use"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Pituitary apoplexy is a distinct entity involving pituitary hemorrhage/infarction, unrelated to meningococcemia-induced adrenal hemorrhage.",
+        "Incorrect. The mechanism is catecholamine and corticosteroid deficiency from destroyed adrenal tissue, not excess catecholamine release.",
+        "Incorrect. This describes chronic autoimmune Addison's disease, not the acute hemorrhagic process seen with meningococcemia.",
+        "Correct. This is Waterhouse-Friderichsen syndrome: meningococcemia causes acute bilateral adrenal hemorrhage, destroying the cortex and abruptly eliminating cortisol and aldosterone, producing shock.",
+        "Incorrect. There is no history of steroid use; the adrenal damage here is due to acute hemorrhage, not chronic suppression and atrophy."
+      ],
+      "overview": "Waterhouse-Friderichsen syndrome is a rare cause of acute primary adrenal insufficiency caused by bilateral adrenal hemorrhage, classically triggered by meningococcemia. It presents as sudden, severe shock in a patient with bacterial meningitis and should prompt immediate IV glucocorticoid treatment while ruling out refractory shock etiologies.",
+      "id": "2026-09-05-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child presents with hypertension, hypokalemia, and metabolic alkalosis but has a low plasma aldosterone concentration. Which enzyme deficiency, or chronic ingestion of which substance, best explains this presentation?",
+      "options": [
+        "21-alpha-hydroxylase deficiency",
+        "11-beta-hydroxysteroid dehydrogenase deficiency, or chronic licorice ingestion",
+        "Aldosterone synthase deficiency",
+        "Angiotensin-converting enzyme deficiency"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. 21-hydroxylase deficiency causes low cortisol and aldosterone with virilization, not this hypertensive, low-aldosterone picture.",
+        "Correct. This describes SAME (Syndrome of Apparent Mineralocorticoid Excess) syndrome; deficient renal 11-beta-hydroxysteroid dehydrogenase (or its inhibition by licorice's glycyrrhetinic acid) prevents cortisol breakdown, allowing cortisol to activate mineralocorticoid receptors despite low aldosterone.",
+        "Incorrect. Aldosterone synthase deficiency would cause low aldosterone WITH high renin and hypotension/hyperkalemia, not this mineralocorticoid-excess picture.",
+        "Incorrect. This enzyme and mechanism are not described in relation to this clinical picture."
+      ],
+      "overview": "SAME syndrome mimics hyperaldosteronism (hypertension, hypokalemia, metabolic alkalosis) but with a LOW plasma aldosterone concentration, because impaired 11-beta-hydroxysteroid dehydrogenase activity (congenital or from chronic licorice ingestion) allows cortisol to inappropriately activate renal mineralocorticoid receptors.",
+      "id": "2026-09-05-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old woman reports recurrent episodes of confusion, diaphoresis, and palpitations that occur while fasting and resolve after eating. During a supervised fast, her plasma glucose is 42 mg/dL with an inappropriately elevated insulin level and elevated C-peptide. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Sulfonylurea-induced hypoglycemia",
+        "Insulinoma",
+        "Exogenous (factitious) insulin administration",
+        "Primary adrenal insufficiency",
+        "Glucagonoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. While sulfonylureas can cause hyperinsulinemic hypoglycemia, there is no history of drug use given, making insulinoma the classic diagnosis for this presentation.",
+        "Correct. Fasting hypoglycemia with elevated insulin AND elevated C-peptide points to endogenous hyperinsulinism, classically from an insulin-secreting islet cell tumor (insulinoma).",
+        "Incorrect. Exogenous insulin administration would show elevated insulin but LOW C-peptide, since exogenous insulin does not contain C-peptide and endogenous secretion would be suppressed.",
+        "Incorrect. Adrenal insufficiency causes hypoglycemia via cortisol deficiency, which would present with low, not elevated, insulin and C-peptide.",
+        "Incorrect. Glucagonoma causes hyperglycemia and glucose intolerance, not hypoglycemia."
+      ],
+      "overview": "Insulinoma is a rare pancreatic islet-cell tumor causing fasting hypoglycemia with neuroglycopenic and sympathetic symptoms. The diagnostic hallmark is elevated insulin AND elevated C-peptide during hypoglycemia, which distinguishes endogenous hyperinsulinism from exogenous insulin administration (low C-peptide).",
+      "id": "2026-09-05-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "SGLT2 inhibitors such as canagliflozin and empagliflozin lower blood glucose by which mechanism?",
+      "options": [
+        "Increasing peripheral tissue insulin sensitivity",
+        "Inhibiting glucose reabsorption in the proximal tubule, causing glucosuria",
+        "Slowing intestinal carbohydrate absorption",
+        "Stimulating insulin release from pancreatic beta cells"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. This describes thiazolidinediones and metformin, not SGLT2 inhibitors.",
+        "Correct. SGLT2 inhibitors block glucose reabsorption in the proximal tubule, producing glucosuria and an osmotic diuresis that lowers serum glucose and provides mild weight loss.",
+        "Incorrect. This describes alpha-glucosidase inhibitors like acarbose, not SGLT2 inhibitors.",
+        "Incorrect. This describes sulfonylureas and meglitinides, not SGLT2 inhibitors."
+      ],
+      "overview": "SGLT2 inhibitors block glucose reabsorption in the renal proximal tubule, causing glucosuria and osmotic diuresis. They are a key second-line diabetes therapy with proven mortality benefit in heart failure (part of guideline-directed medical therapy), but carry risks of genital infections and reduced efficacy in advanced renal disease.",
+      "id": "2026-09-05-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 40-year-old woman with a history of Cushing disease underwent bilateral adrenalectomy 2 years ago for refractory hypercortisolism. She now presents with progressive skin darkening, headaches, and bitemporal visual field loss. Which of the following best explains her new symptoms?",
+      "options": [
+        "Development of new-onset primary adrenal insufficiency",
+        "Pituitary apoplexy related to a recent pregnancy",
+        "Recurrence of adrenal cortisol overproduction",
+        "An ectopic ACTH-secreting lung tumor",
+        "Enlargement of a pre-existing corticotroph pituitary tumor with markedly increased ACTH secretion"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect. She already has adrenal insufficiency as an expected consequence of adrenalectomy; her new symptoms are explained by pituitary tumor growth, not a separate new adrenal process.",
+        "Incorrect. There is no mention of pregnancy or postpartum hemorrhage in this case; that scenario describes Sheehan syndrome, a different entity.",
+        "Incorrect. Her adrenal glands have been surgically removed, so they cannot overproduce cortisol.",
+        "Incorrect. There is no evidence of an ectopic tumor; this is a well-described complication specifically following bilateral adrenalectomy for Cushing disease.",
+        "Correct. This is Nelson syndrome: after bilateral adrenalectomy removes cortisol-mediated negative feedback, the pre-existing corticotroph tumor grows unchecked, causing very high ACTH (hyperpigmentation) and mass effect (bitemporal hemianopsia, headache)."
+      ],
+      "overview": "Nelson syndrome occurs in up to 25% of patients after bilateral adrenalectomy for Cushing disease, as loss of cortisol feedback permits unchecked growth of the underlying corticotroph adenoma, producing very high ACTH levels (hyperpigmentation) and mass effect symptoms like headache and bitemporal hemianopsia.",
+      "id": "2026-09-05-20"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 4-year-old girl presents with atypical genitalia and hypertension. Serum studies reveal elevated 11-deoxycorticosterone, low aldosterone, and low serum potassium. Which enzyme deficiency best explains this presentation?",
+      "options": [
+        "21-alpha-hydroxylase deficiency",
+        "Aromatase deficiency",
+        "17-alpha-hydroxylase deficiency",
+        "11-beta-hydroxylase deficiency",
+        "5-alpha-reductase deficiency"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. 21-hydroxylase deficiency typically causes hypotension and hyperkalemia from aldosterone deficiency, the opposite electrolyte/blood pressure pattern.",
+        "Incorrect. Aromatase deficiency is not part of the adrenal steroidogenesis pathways described and does not explain this electrolyte/virilization pattern.",
+        "Incorrect. 17-alpha-hydroxylase deficiency causes decreased androgen production (no virilization) despite also causing hypertension.",
+        "Correct. 11-beta-hydroxylase deficiency causes accumulation of 11-deoxycorticosterone, a mineralocorticoid precursor that raises blood pressure and lowers potassium, along with excess androgen production causing virilization.",
+        "Incorrect. 5-alpha-reductase deficiency affects peripheral conversion of testosterone to DHT in males, unrelated to this presentation in a girl with adrenal hypertension."
+      ],
+      "overview": "11-beta-hydroxylase deficiency is a less common cause of congenital adrenal hyperplasia in which excess 11-deoxycorticosterone provides mineralocorticoid activity causing hypertension and hypokalemia, distinguishing it from 21-hydroxylase deficiency, while shared low cortisol and high ACTH drive virilizing excess androgen production in both.",
+      "id": "2026-09-05-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 29-year-old woman experienced severe postpartum hemorrhage complicated by hypovolemic shock during delivery. Six weeks later she reports failure to lactate and profound fatigue. Which of the following mechanisms best explains her presentation?",
+      "options": [
+        "Autoimmune destruction of the thyroid gland",
+        "Ischemic necrosis of an enlarged anterior pituitary gland secondary to postpartum hemorrhage",
+        "Retained placental tissue causing endometritis",
+        "Primary adrenal gland hemorrhage",
+        "Postpartum thyroiditis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. This describes an isolated thyroid autoimmune process, not the pituitary ischemia responsible for this presentation.",
+        "Correct. This is Sheehan syndrome: the pituitary enlarges during pregnancy (lactotroph hyperplasia from estrogen) and becomes vulnerable to ischemic infarction during postpartum hemorrhage/hypovolemia, causing hypopituitarism with failure to lactate (low prolactin) and fatigue (low ACTH/TSH).",
+        "Incorrect. Retained placental tissue would cause fever and pelvic pain from endometritis, not failure to lactate from pituitary hormone deficiency.",
+        "Incorrect. Adrenal hemorrhage (Waterhouse-Friderichsen) is associated with meningococcemia, not postpartum hemorrhage and pituitary ischemia.",
+        "Incorrect. Postpartum thyroiditis causes transient hyper- or hypothyroidism, not failure to lactate secondary to pituitary infarction."
+      ],
+      "overview": "Sheehan syndrome results from ischemic necrosis of the pregnancy-enlarged anterior pituitary following postpartum hemorrhage and hypovolemic shock. Classic features include failure to lactate (prolactin deficiency), loss of pubic hair, and signs of secondary adrenal insufficiency and hypothyroidism from panhypopituitarism.",
+      "id": "2026-09-05-22"
+    },
+    {
+      "format": "vignette5",
+      "stem": "An 8-year-old boy presents with headaches, bitemporal visual field deficits, and short stature. Head CT reveals a calcified, cystic suprasellar mass. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Craniopharyngioma",
+        "Pituitary apoplexy",
+        "Prolactinoma",
+        "Medulloblastoma",
+        "Neuroblastoma"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Craniopharyngioma is a benign, calcified, cystic tumor derived from Rathke's pouch remnants that typically occurs in children aged 5-14 years, presenting with hypopituitarism (short stature), headache, and bitemporal hemianopsia from mass effect.",
+        "Incorrect. Pituitary apoplexy presents acutely with sudden severe headache and shock from hemorrhage/infarction, not a chronic calcified cystic mass.",
+        "Incorrect. Prolactinoma is a solid pituitary adenoma that lacks the characteristic calcification and is more common in adults.",
+        "Incorrect. Medulloblastoma is a posterior fossa tumor, not a suprasellar mass causing bitemporal hemianopsia.",
+        "Incorrect. Neuroblastoma arises from sympathetic ganglia or the adrenal medulla and typically presents as an abdominal mass, not a suprasellar calcified lesion."
+      ],
+      "overview": "Craniopharyngioma is a benign, calcified cystic tumor derived from remnants of Rathke's pouch, occurring mainly in children 5-14 years old. It compresses surrounding structures to cause hypopituitarism, headache, bitemporal hemianopsia, and sometimes frontal lobe behavioral changes.",
+      "id": "2026-09-05-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "Sulfonylureas lower blood glucose primarily through which of the following mechanisms?",
+      "options": [
+        "Inhibiting intestinal alpha-glucosidase enzymes",
+        "Inhibiting renal glucose reabsorption via SGLT2",
+        "Closing ATP-sensitive K+ channels in pancreatic beta cells, promoting insulin release",
+        "Increasing peripheral insulin sensitivity via PPAR-gamma activation"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. This describes glucosidase inhibitors like acarbose, not sulfonylureas.",
+        "Incorrect. This describes SGLT2 inhibitors, not sulfonylureas.",
+        "Correct. Sulfonylureas close K+ channels in pancreatic beta cells, causing depolarization, calcium influx, and insulin granule release, independent of blood glucose levels.",
+        "Incorrect. This describes thiazolidinediones, not sulfonylureas."
+      ],
+      "overview": "Sulfonylureas are insulin secretagogues that close ATP-sensitive K+ channels in pancreatic beta cells, triggering depolarization and insulin release independent of blood glucose. Their major adverse effect is hypoglycemia (blood sugar-independent insulin release), especially with exercise, skipped meals, or renal impairment.",
+      "id": "2026-09-05-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "An infant presents with recurrent infections, hypocalcemic tetany, and a congenital heart defect. Which chromosomal abnormality and embryologic defect underlie this presentation?",
+      "options": [
+        "Trisomy 21",
+        "Deletion of the MEN1 gene on chromosome 11",
+        "45,X0 karyotype",
+        "22q11 deletion causing failure of the 3rd and 4th pharyngeal pouches"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Trisomy 21 (Down syndrome) presents with a different phenotype, not this classic triad.",
+        "Incorrect. MEN1 gene deletion causes multiple endocrine neoplasia, unrelated to this developmental triad.",
+        "Incorrect. Turner syndrome (45,X0) causes ovarian failure and other features, not this pharyngeal pouch-derived triad.",
+        "Correct. DiGeorge syndrome results from a 22q11 deletion causing failure of the 3rd/4th pharyngeal pouches, leading to thymic aplasia (recurrent infections), absent parathyroid glands (hypocalcemia), and congenital heart defects."
+      ],
+      "overview": "DiGeorge syndrome (thymic aplasia) arises from a 22q11 deletion causing failure of 3rd and 4th pharyngeal pouch development, producing a classic triad of hypoplastic thymus (T-cell deficiency, recurrent infections), absent parathyroid glands (hypocalcemia), and congenital heart defects, often with craniofacial abnormalities.",
+      "id": "2026-09-05-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which effect of growth hormone is mediated directly by GH itself rather than indirectly through IGF-1?",
+      "options": [
+        "Increased muscle mass",
+        "Organomegaly",
+        "Linear bone growth",
+        "Decreased peripheral glucose uptake (insulin resistance)"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Increased muscle mass is an indirect effect mediated by IGF-1.",
+        "Incorrect. Organomegaly is an indirect effect mediated by IGF-1.",
+        "Incorrect. Linear bone growth is mediated indirectly through IGF-1, not GH directly.",
+        "Correct. Decreased cellular glucose uptake and activation of lipolysis are direct effects of growth hormone itself."
+      ],
+      "overview": "Growth hormone has both direct effects (decreased glucose uptake, lipolysis) and indirect effects mediated through hepatic IGF-1 production (linear bone growth, increased muscle mass, organomegaly). This distinction explains why GH promotes insulin resistance and hyperglycemia while also driving growth-related changes in acromegaly and gigantism.",
+      "id": "2026-09-05-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "Why should a beta-blocker never be administered before an alpha-blocker in the preoperative management of pheochromocytoma?",
+      "options": [
+        "Unopposed alpha-adrenergic stimulation may precipitate a hypertensive crisis",
+        "Beta-blockade causes reflex tachycardia that worsens surgical risk",
+        "Alpha-blockers are contraindicated in pheochromocytoma",
+        "Beta-blockers directly increase catecholamine secretion from the tumor"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Giving a beta-blocker first removes beta-2 mediated vasodilation while leaving alpha-1 vasoconstriction unopposed, which can trigger a severe hypertensive crisis.",
+        "Incorrect. Beta-blockade slows heart rate rather than causing reflex tachycardia; the danger with early beta-blockade is unopposed alpha vasoconstriction.",
+        "Incorrect. Alpha-blockers such as phenoxybenzamine are first-line preoperative therapy and are not contraindicated.",
+        "Incorrect. Beta-blockers do not increase catecholamine secretion from the tumor; the danger is a hemodynamic effect, not increased hormone output."
+      ],
+      "overview": "Preoperative management of pheochromocytoma requires irreversible alpha-blockade (phenoxybenzamine) for at least 7 days before adding a beta-blocker 2-3 days prior to surgery. This sequence prevents unopposed alpha-adrenergic vasoconstriction, which would otherwise cause a life-threatening hypertensive crisis.",
+      "id": "2026-09-05-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A radiologic finding of an enlarged sella turcica incompletely filled with pituitary tissue, often seen in obese women with hypertension, is known as which of the following?",
+      "options": [
+        "Pituitary apoplexy",
+        "Rathke's cleft cyst",
+        "Empty sella syndrome",
+        "Craniopharyngioma"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Pituitary apoplexy is acute hemorrhage or infarction of the pituitary presenting with sudden severe headache, not this chronic radiologic finding.",
+        "Incorrect. Rathke's cleft cyst is not the entity described in these notes for this radiologic finding.",
+        "Correct. Empty sella syndrome describes an enlarged sella turcica incompletely filled by pituitary tissue, commonly associated with obesity and hypertension, and rarely causes hypopituitarism from CSF compression of the pituitary.",
+        "Incorrect. Craniopharyngioma is a distinct calcified cystic tumor, not simply an anatomic sella finding."
+      ],
+      "overview": "Empty sella syndrome is an incidental or primary radiologic finding of an enlarged sella turcica incompletely filled by pituitary tissue, associated with obesity and hypertension in its primary form, and rarely causes hypopituitarism when CSF pressure compresses the gland.",
+      "id": "2026-09-05-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 16-year-old boy has delayed puberty, small testes, and an inability to smell. Laboratory studies show low LH, FSH, and testosterone. Which of the following best explains this presentation?",
+      "options": [
+        "Impaired migration of GnRH neurons from the olfactory bulb to the hypothalamus",
+        "Constitutional delay of growth and puberty",
+        "Klinefelter syndrome",
+        "Primary testicular failure"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. This is Kallmann syndrome, hypogonadotropic hypogonadism caused by impaired migration of GnRH neurons, classically associated with anosmia.",
+        "Incorrect. Constitutional delay of puberty does not typically include anosmia, and hormone levels eventually normalize as puberty occurs at a later age.",
+        "Incorrect. Klinefelter syndrome (XXY) is a form of primary hypogonadism with elevated, not low, LH/FSH.",
+        "Incorrect. Primary testicular failure would produce elevated (hypergonadotropic), not low, LH/FSH."
+      ],
+      "overview": "Kallmann syndrome is a form of idiopathic hypogonadotropic hypogonadism caused by impaired migration of GnRH neurons from the olfactory placode to the hypothalamus, classically presenting with delayed puberty and anosmia, occurring much more often in males.",
+      "id": "2026-09-05-29"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child presents with short stature, short fourth and fifth metacarpals, round facies, hypocalcemia, hyperphosphatemia, and an elevated PTH level that fails to raise serum calcium. Which of the following best describes the underlying defect?",
+      "options": [
+        "22q11 deletion causing absence of the parathyroid glands",
+        "End-organ (renal) resistance to PTH due to a maternal GNAS1 mutation",
+        "Autoimmune destruction of the parathyroid glands",
+        "A vitamin D receptor mutation"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. 22q11 deletion (DiGeorge syndrome) causes absent parathyroid glands and LOW PTH, the opposite of the elevated PTH seen here.",
+        "Correct. This describes pseudohypoparathyroidism type 1a with Albright's hereditary osteodystrophy phenotype, caused by a maternally inherited GNAS1 mutation causing renal unresponsiveness to PTH despite elevated PTH levels.",
+        "Incorrect. Autoimmune destruction of the parathyroids causes hypoparathyroidism with LOW PTH, not the elevated PTH seen here.",
+        "Incorrect. A vitamin D receptor mutation is not the mechanism described in the notes for this presentation."
+      ],
+      "overview": "Pseudohypoparathyroidism results from GPCR/GNAS1 dysfunction causing end-organ resistance to PTH, producing hypocalcemia and hyperphosphatemia despite an appropriately elevated PTH level. Type 1a, from a maternally inherited GNAS1 mutation, produces the Albright's hereditary osteodystrophy phenotype (short stature, short metacarpals, round facies).",
+      "id": "2026-09-05-30"
     }
   ]
 }
