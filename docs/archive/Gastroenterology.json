@@ -590,6 +590,596 @@
       ],
       "overview": "Indirect inguinal hernias arise lateral to the inferior epigastric vessels, follow the path of testicular descent through the internal and external inguinal rings, and are covered by all three spermatic fascial layers due to a persistent processus vaginalis \u2014 this is the most common type of inguinal hernia in both sexes. Direct inguinal hernias arise medial to the epigastric vessels through a weakened Hesselbach's triangle floor (transversalis fascia), typically in older men, and are covered only by external spermatic fascia.",
       "id": "2026-08-29-30"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 42-year-old woman presents with several weeks of fatigue and vague right upper quadrant discomfort. Labs show AST 450 U/L, ALT 520 U/L, and mildly elevated bilirubin. Viral hepatitis panel is negative. Antinuclear antibody titer is elevated and anti-smooth muscle antibody is positive. Which of the following is the most appropriate initial treatment?",
+      "options": [
+        "Interferon-based antiviral therapy",
+        "Penicillamine",
+        "Corticosteroids",
+        "Ursodeoxycholic acid",
+        "Phlebotomy"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - interferon-based antivirals treat viral hepatitis, which has been excluded by the negative viral panel.",
+        "Incorrect - penicillamine chelates copper for Wilson's disease, not autoimmune hepatitis.",
+        "Correct - autoimmune hepatitis is treated with corticosteroids and other immunosuppressants to reduce hepatic inflammation.",
+        "Incorrect - ursodeoxycholic acid is used for cholestatic diseases such as primary biliary cirrhosis, not autoimmune hepatitis.",
+        "Incorrect - phlebotomy treats hemochromatosis, not autoimmune hepatitis."
+      ],
+      "overview": "Autoimmune hepatitis is an immune-mediated liver inflammation most common in women in their 40s-50s, presenting along a spectrum from asymptomatic disease to acute liver failure or cirrhosis. ANA is the most sensitive but least specific marker, while anti-smooth muscle antibody is more specific; first-line treatment is corticosteroids with immunosuppressants.",
+      "id": "2026-09-06-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a history of chronic alcohol use presents with severe chest pain after an episode of forceful retching. Chest X-ray shows air in the mediastinum and subcutaneous emphysema in the neck. What is the diagnosis?",
+      "options": [
+        "Mallory-Weiss syndrome",
+        "Esophageal varices",
+        "Boerhaave syndrome",
+        "Plummer-Vinson syndrome"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - Mallory-Weiss syndrome involves a mucosal (not transmural) tear at the gastroesophageal junction, causing painful hematemesis rather than pneumomediastinum.",
+        "Incorrect - esophageal varices cause painless bleeding from dilated submucosal veins due to portal hypertension, not perforation with pneumomediastinum.",
+        "Correct - Boerhaave syndrome is a transmural rupture of the esophagus, typically from severe retching/vomiting, allowing air to escape into the mediastinum (pneumomediastinum) and subcutaneous tissue.",
+        "Incorrect - Plummer-Vinson syndrome is a triad of iron deficiency anemia, esophageal web, and glossitis, unrelated to esophageal rupture."
+      ],
+      "overview": "Boerhaave syndrome is a full-thickness (transmural) esophageal rupture, classically caused by severe, forceful vomiting or retching, distinguishing it from the mucosal-only tear of Mallory-Weiss syndrome. Air escapes into the mediastinum and subcutaneous tissue, producing pneumomediastinum and subcutaneous emphysema, a surgical emergency.",
+      "id": "2026-09-06-02"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 19-year-old is brought to the emergency department after ingesting a large quantity of acetaminophen 10 hours ago. AST and ALT are markedly elevated (in the thousands), and N-acetylcysteine is administered. Which of the following best describes the mechanism by which this treatment prevents further hepatotoxicity?",
+      "options": [
+        "Inhibiting cytochrome P450 enzymes that generate the toxic metabolite",
+        "Binding acetaminophen in the gut to prevent absorption",
+        "Inducing hepatic regeneration via growth factor release",
+        "Replenishing hepatic glutathione stores to detoxify the toxic metabolite",
+        "Chelating the toxic metabolite for renal excretion"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - NAC's described mechanism is glutathione replenishment for detoxification, not P450 inhibition.",
+        "Incorrect - binding drug in the gut to prevent absorption describes activated charcoal, not N-acetylcysteine.",
+        "Incorrect - NAC does not act via growth factor-mediated hepatic regeneration.",
+        "Correct - N-acetylcysteine is a cysteine precursor that replenishes glutathione, which conjugates and detoxifies NAPQI, the toxic acetaminophen metabolite.",
+        "Incorrect - NAC does not act as a chelator; it restores glutathione for hepatic detoxification."
+      ],
+      "overview": "Acetaminophen overdose causes acute liver failure via accumulation of the toxic metabolite NAPQI, normally detoxified by conjugation with glutathione. At high doses, glutathione stores are depleted, allowing NAPQI to cause hepatocellular necrosis with markedly elevated transaminases; N-acetylcysteine treats overdose by replenishing glutathione.",
+      "id": "2026-09-06-03"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 28-year-old nonsmoker presents with progressive dyspnea and is found to have panacinar emphysema predominantly at the lung bases. He also has mildly elevated liver enzymes and hepatomegaly. Liver biopsy shows PAS-positive, diastase-resistant globules within hepatocytes. Which of the following best explains the pulmonary findings in this patient?",
+      "options": [
+        "Granulomatous destruction of alveolar septa",
+        "Autoimmune destruction of alveolar basement membrane",
+        "Accumulation of surfactant-laden macrophages",
+        "Unopposed neutrophil elastase activity destroying lung elastin",
+        "Chronic bronchial mucus plugging from CFTR dysfunction"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - granulomatous lung disease describes conditions like sarcoidosis, not A1AT deficiency.",
+        "Incorrect - alpha-1 antitrypsin deficiency is not an autoimmune process; it results from a defective/absent protease inhibitor protein.",
+        "Incorrect - surfactant-laden macrophage accumulation describes pulmonary alveolar proteinosis, unrelated to A1AT deficiency.",
+        "Correct - alpha-1 antitrypsin normally inhibits neutrophil elastase; deficiency causes unopposed elastase activity that destroys lung elastin, producing panacinar emphysema classically at the lung bases.",
+        "Incorrect - this describes cystic fibrosis pathophysiology, not alpha-1 antitrypsin deficiency."
+      ],
+      "overview": "Alpha-1 antitrypsin (AAT) deficiency is an autosomal co-dominant disorder causing panacinar emphysema via unchecked neutrophil elastase activity in the lungs, and liver cirrhosis via toxic accumulation of misfolded AAT polymers in hepatocyte endoplasmic reticulum. Liver biopsy classically shows PAS-positive, diastase-resistant globules, distinguishing the deposits from glycogen.",
+      "id": "2026-09-06-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which tumor marker is most useful for monitoring treatment response and detecting relapse in pancreatic adenocarcinoma, though not useful for initial screening?",
+      "options": [
+        "CEA",
+        "CA-19-9",
+        "AFP",
+        "hCG"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - CEA can be elevated in pancreatic cancer but has poor sensitivity/specificity and has been largely replaced by CA-19-9 for this purpose.",
+        "Correct - CA-19-9 is the tumor marker associated with pancreatic cancer, useful for monitoring after treatment and detecting relapse, though not sensitive/specific enough for screening or diagnosis.",
+        "Incorrect - AFP is the tumor marker for hepatocellular carcinoma, not pancreatic cancer.",
+        "Incorrect - hCG is not a marker discussed for pancreatic cancer in these notes."
+      ],
+      "overview": "CA-19-9 is the primary tumor marker associated with pancreatic adenocarcinoma, with sensitivity and specificity around 70-90%, but it is not reliable for screening or diagnosis since it can be falsely negative in small tumors. It is most useful for monitoring disease burden and detecting relapse after treatment.",
+      "id": "2026-09-06-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "What is the most common tumor of the salivary glands?",
+      "options": [
+        "Mucoepidermoid carcinoma",
+        "Warthin's tumor",
+        "Pleomorphic adenoma",
+        "Adenoid cystic carcinoma"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - mucoepidermoid carcinoma is the most common malignant salivary gland tumor, but not the most common tumor overall.",
+        "Incorrect - Warthin's tumor is the second most common salivary gland tumor, strongly associated with smoking.",
+        "Correct - pleomorphic adenoma (benign mixed tumor) is the most common salivary gland tumor overall, typically presenting as a painless, mobile mass in the superficial lobe of the parotid gland.",
+        "Incorrect - adenoid cystic carcinoma is not discussed as the most common tumor and is less common than pleomorphic adenoma."
+      ],
+      "overview": "Pleomorphic adenoma is the most common salivary gland tumor overall, usually benign, composed of both epithelial (glandular) and stromal (cartilage-like) tissue, and classically presents as a painless, mobile mass at the angle of the jaw. It has a tendency for local recurrence due to irregular margins and can rarely undergo malignant transformation.",
+      "id": "2026-09-06-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with chronic hemolytic anemia is found to have gallstones that are radiopaque on abdominal X-ray. These stones are most likely composed of which substance?",
+      "options": [
+        "Cholesterol",
+        "Calcium oxalate",
+        "Calcium bilirubinate",
+        "Uric acid"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - cholesterol stones are typically radiolucent (not visible on X-ray) and are associated with risk factors like obesity, estrogen, and rapid weight loss, not hemolysis.",
+        "Incorrect - calcium oxalate stones are a type of kidney stone associated with fat malabsorption in Crohn's disease, not gallstones.",
+        "Correct - pigment (bilirubin) stones are composed of calcium bilirubinate, form due to excess unconjugated bilirubin (as in extravascular hemolysis), and are radiopaque on X-ray, unlike cholesterol stones.",
+        "Incorrect - uric acid stones are a type of kidney stone, not a gallstone composition discussed in these notes."
+      ],
+      "overview": "Gallstones are classified as cholesterol stones (radiolucent, associated with estrogen excess, obesity, rapid weight loss, or reduced bile salts) or pigment stones (composed of calcium bilirubinate, radiopaque, associated with conditions causing excess unconjugated bilirubin such as chronic hemolysis or cirrhosis).",
+      "id": "2026-09-06-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which gastric cell type is responsible for secreting pepsinogen?",
+      "options": [
+        "Mucous neck cells",
+        "G cells",
+        "Chief cells",
+        "Parietal cells"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - mucous neck cells secrete mucus for gastric protection, not pepsinogen.",
+        "Incorrect - G cells secrete gastrin, a hormone that stimulates acid secretion, not pepsinogen.",
+        "Correct - chief cells, located in the deeper portions of gastric glands, secrete pepsinogen, which is activated to pepsin by gastric acid (H+).",
+        "Incorrect - parietal cells secrete hydrochloric acid and intrinsic factor, not pepsinogen."
+      ],
+      "overview": "Gastric glands contain specialized cell types: parietal cells (HCl and intrinsic factor), chief cells (pepsinogen), mucous neck cells (mucus), and G cells (gastrin, found in the antrum). Chief cells are located deeper in the gland and appear basophilic, releasing pepsinogen which is converted to active pepsin by the acidic gastric environment.",
+      "id": "2026-09-06-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "A direct inguinal hernia protrudes through which anatomic landmark?",
+      "options": [
+        "Deep inguinal ring",
+        "Hesselbach's triangle",
+        "Obturator canal",
+        "Femoral ring"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - the deep inguinal ring is the entry point for indirect inguinal hernias, which follow the path of testicular descent.",
+        "Correct - direct inguinal hernias protrude through Hesselbach's triangle (bounded by the inguinal ligament, inferior epigastric vessels, and rectus abdominis), caused by weakness of the transversalis fascia floor, typically in older men.",
+        "Incorrect - the obturator canal is not discussed as a hernia site in this context and is not associated with direct inguinal hernias.",
+        "Incorrect - the femoral ring is the site of femoral hernias, not direct inguinal hernias."
+      ],
+      "overview": "Direct inguinal hernias arise medial to the inferior epigastric vessels, bulging directly through a weakened transversalis fascia within Hesselbach's triangle, typically in older men from years of connective tissue stress. This contrasts with indirect inguinal hernias, which pass laterally through the deep inguinal ring along the path of testicular descent and are covered by all three layers of spermatic fascia.",
+      "id": "2026-09-06-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old woman with polycythemia vera presents with acute abdominal pain, distention, and a rapidly enlarging abdomen. Exam reveals tender hepatomegaly and shifting dullness. Doppler ultrasound shows absent flow in the hepatic veins. Liver biopsy would most likely show which histologic pattern?",
+      "options": [
+        "Periportal (zone 1) inflammation",
+        "Centrilobular (zone 3) congestion and necrosis",
+        "Granulomatous inflammation of bile ducts",
+        "PAS-positive foamy macrophages",
+        "Diffuse micronodular fibrosis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - zone 1 (periportal) is affected first in viral hepatitis, not venous outflow obstruction.",
+        "Correct - Budd-Chiari syndrome (hepatic vein thrombosis) causes venous outflow obstruction leading to congestion and necrosis concentrated in zone 3 (centrilobular), the region furthest from the blood supply.",
+        "Incorrect - granulomatous bile duct inflammation describes primary biliary cirrhosis, an autoimmune process unrelated to venous thrombosis.",
+        "Incorrect - PAS-positive foamy macrophages are the classic finding in Whipple's disease, not Budd-Chiari syndrome.",
+        "Incorrect - micronodular fibrosis describes chronic cirrhosis broadly, not the acute histologic hallmark of Budd-Chiari syndrome."
+      ],
+      "overview": "Budd-Chiari syndrome results from thrombosis of the hepatic veins, commonly due to myeloproliferative disorders (polycythemia vera, essential thrombocythemia), hepatocellular carcinoma, hypercoagulable states, or OCP/pregnancy use. It presents with the classic triad of abdominal pain, ascites, and hepatomegaly, with histology showing zone 3 congestion, necrosis, and hemorrhage from impaired venous outflow.",
+      "id": "2026-09-06-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "In the diagnosis of acute pancreatitis, which pancreatic enzyme is considered more specific for pancreatic injury?",
+      "options": [
+        "Lipase",
+        "Amylase",
+        "Trypsinogen",
+        "Alkaline phosphatase"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - lipase is more specific for pancreatic damage than amylase, since amylase can be elevated in numerous non-pancreatic conditions.",
+        "Incorrect - amylase is elevated in acute pancreatitis but is less specific, as it can be elevated in salivary gland disease and other conditions.",
+        "Incorrect - trypsinogen is the inactive precursor to trypsin and is not the standard clinical lab marker used for diagnosis.",
+        "Incorrect - alkaline phosphatase reflects biliary/cholestatic processes, not pancreatic acinar injury."
+      ],
+      "overview": "Acute pancreatitis is diagnosed using two of three criteria: epigastric pain, amylase/lipase elevated more than three times normal, and characteristic imaging findings. While both amylase and lipase rise in pancreatitis, lipase is more specific for pancreatic damage, as amylase elevation occurs in a broader range of conditions.",
+      "id": "2026-09-06-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "A femoral hernia protrudes through the femoral ring in which anatomic position relative to the femoral vein?",
+      "options": [
+        "Posterior",
+        "Anterior",
+        "Medial",
+        "Lateral"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - femoral hernias are defined by their medial relationship to the femoral vein, not a posterior position.",
+        "Incorrect - femoral hernias are defined by their medial relationship to the femoral vein, not an anterior position.",
+        "Correct - femoral hernias occur medial to the femoral vein, through the femoral ring, a narrow opening that confers a high risk of incarceration.",
+        "Incorrect - structures lateral to the femoral vein within the femoral sheath include the femoral artery, not the site of femoral hernia."
+      ],
+      "overview": "Femoral hernias protrude through the femoral ring, located medial to the femoral vein within the femoral sheath (following the 'NAVeL' lateral-to-medial order: nerve, artery, vein, lymphatics). They are more common in women than men, though indirect inguinal hernia remains the most common hernia type overall, and femoral hernias carry a high incarceration risk due to the narrow opening.",
+      "id": "2026-09-06-12"
+    },
+    {
+      "format": "simple4",
+      "stem": "A middle-aged woman presents with dysphagia, a smooth, beefy red tongue, and is found to have iron deficiency anemia. Endoscopy reveals a thin esophageal web. What is the diagnosis?",
+      "options": [
+        "Eosinophilic esophagitis",
+        "Plummer-Vinson syndrome",
+        "Schatzki ring",
+        "Zenker's diverticulum"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - eosinophilic esophagitis presents with dysphagia and eosinophilic infiltration on biopsy, not the anemia/glossitis/web triad.",
+        "Correct - Plummer-Vinson syndrome consists of the triad of iron deficiency anemia, glossitis (beefy red tongue), and esophageal web, most common in middle-aged white women.",
+        "Incorrect - a Schatzki ring occurs at the squamocolumnar junction of the lower esophagus and is not part of the anemia/glossitis triad described.",
+        "Incorrect - Zenker's diverticulum presents with dysphagia and halitosis from food regurgitation, not anemia and glossitis."
+      ],
+      "overview": "Plummer-Vinson syndrome is a rare condition of poorly understood etiology characterized by the triad of iron deficiency anemia, a beefy red tongue (glossitis), and an esophageal web, typically occurring in middle-aged white women and causing dysphagia due to the web's obstruction.",
+      "id": "2026-09-06-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Brunner's glands, which secrete alkaline fluid to protect against acidic chyme, are located in the submucosa of which structure?",
+      "options": [
+        "Ileum",
+        "Stomach",
+        "Jejunum",
+        "Duodenum"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - the ileum is characterized by Peyer's patches, not Brunner's glands.",
+        "Incorrect - the stomach does not contain Brunner's glands; it has gastric glands with parietal, chief, and mucous neck cells.",
+        "Incorrect - the jejunum contains neither prominent Brunner's glands nor Peyer's patches.",
+        "Correct - Brunner's glands are found exclusively in the submucosa of the duodenum, secreting alkaline fluid to neutralize acidic chyme; their thickness increases in peptic ulcer disease."
+      ],
+      "overview": "Brunner's glands are unique to the duodenal submucosa and secrete alkaline mucus to protect against acidic gastric chyme; their hypertrophy is a feature of peptic ulcer disease. In contrast, the ileum is characterized by Peyer's patches, while the jejunum has neither distinguishing feature.",
+      "id": "2026-09-06-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 30-year-old woman with a known history of ulcerative colitis presents with severe abdominal pain, distention, high fever, and bloody diarrhea. Abdominal X-ray shows marked colonic dilation, and she is tachycardic and hypotensive. Which of the following is the most feared complication if this condition is not promptly recognized and treated?",
+      "options": [
+        "Colovesical fistula",
+        "Colonic perforation",
+        "Ankylosing spondylitis",
+        "Primary sclerosing cholangitis",
+        "Ischemic colitis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - colovesical fistula is a complication of diverticulitis, not toxic megacolon.",
+        "Correct - toxic megacolon causes cessation of colonic contractions and progressive wall thinning, placing the colon at high risk for rupture/perforation, a surgical emergency.",
+        "Incorrect - ankylosing spondylitis is a chronic extra-intestinal manifestation of IBD, not an acute complication of toxic megacolon.",
+        "Incorrect - primary sclerosing cholangitis is a chronic biliary complication associated with ulcerative colitis but unrelated to acute toxic megacolon.",
+        "Incorrect - ischemic colitis is a separate entity related to hypoperfusion of watershed areas, not the acute feared complication of toxic megacolon."
+      ],
+      "overview": "Toxic megacolon is a rare, life-threatening complication of ulcerative colitis (or infectious colitis) characterized by cessation of colonic peristalsis and rapid colonic dilation, driven partly by nitric oxide-mediated inhibition of smooth muscle tone. The thinned colonic wall is at high risk for perforation, making prompt recognition and treatment critical.",
+      "id": "2026-09-06-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which hepatic cell type, normally a storage site for vitamin A, becomes activated in chronic liver disease to secrete TGF-\u03b2 and produce fibrous tissue, contributing to cirrhosis?",
+      "options": [
+        "Hepatic stellate cells",
+        "Cholangiocytes",
+        "Hepatocytes",
+        "Kupffer cells"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - hepatic (perisinusoidal) stellate cells normally store vitamin A (retinoids) but become activated in liver injury, proliferating and secreting TGF-\u03b2 to produce fibrous tissue, making them major contributors to cirrhosis.",
+        "Incorrect - cholangiocytes are bile duct epithelial cells, not the primary source of hepatic fibrosis.",
+        "Incorrect - hepatocytes are the main functional liver cells but are not the primary cells responsible for producing fibrous tissue in cirrhosis.",
+        "Incorrect - Kupffer cells are resident liver macrophages involved in immune surveillance, not primarily fibrosis production."
+      ],
+      "overview": "Hepatic stellate cells reside in the perisinusoidal space and normally store vitamin A metabolites. In chronic liver injury, they become activated, transforming into myofibroblast-like cells that secrete TGF-\u03b2 and deposit collagen/fibrous tissue, making them the major cellular driver of hepatic fibrosis and cirrhosis.",
+      "id": "2026-09-06-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "In the chromosomal instability pathway of colorectal cancer development, mutation of which gene is the initial step leading to increased polyp risk?",
+      "options": [
+        "DCC",
+        "K-RAS",
+        "APC",
+        "p53"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - DCC gene mutation is associated with advanced colorectal cancers but is not the initiating step of the sequence.",
+        "Incorrect - K-RAS mutation is the second step, occurring after APC mutation, and drives progression from at-risk colon to polyp formation.",
+        "Correct - APC (adenomatous polyposis coli) mutation is the first step in the chromosomal instability pathway, leading to unchecked \u03b2-catenin accumulation, oncogene activation, and increased polyp risk.",
+        "Incorrect - p53 loss is the third and final step in the classic sequence, driving progression from polyp to invasive colon cancer."
+      ],
+      "overview": "The chromosomal instability (adenoma-carcinoma) pathway to colorectal cancer follows a stepwise sequence of genetic mutations over 10-40 years: APC (tumor suppressor) loss first predisposes to polyp formation, followed by K-RAS (oncogene) mutation driving polyp growth, and finally p53 loss enabling progression to invasive carcinoma. This pathway is more common in left-sided colon cancers.",
+      "id": "2026-09-06-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman presents with 2 days of left lower quadrant pain, fever, and constipation. Exam reveals localized tenderness in the left lower quadrant without rebound. Labs show leukocytosis, and stool occult blood is positive. Which of the following is the most appropriate initial imaging study to confirm the diagnosis?",
+      "options": [
+        "HIDA scan",
+        "Upper GI barium series",
+        "Colonoscopy",
+        "Abdominal ultrasound",
+        "CT scan of the abdomen and pelvis"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect - HIDA scan evaluates gallbladder function/biliary obstruction, unrelated to diverticulitis.",
+        "Incorrect - upper GI barium series evaluates the esophagus, stomach, and proximal small bowel, not the sigmoid colon.",
+        "Incorrect - colonoscopy is typically avoided in acute diverticulitis due to perforation risk and is deferred until inflammation resolves.",
+        "Incorrect - ultrasound is not the primary imaging modality for diverticulitis; CT provides better visualization of the colon and surrounding structures.",
+        "Correct - CT scan is the diagnostic imaging modality of choice for suspected diverticulitis, showing colonic wall thickening and pericolonic inflammation."
+      ],
+      "overview": "Diverticulitis is inflammation of a colonic diverticulum, most commonly in the sigmoid colon, presenting as 'left-sided appendicitis' with left lower quadrant pain, fever, and leukocytosis. CT scan is the diagnostic study of choice, and treatment is typically antibiotics, with surgery reserved for complications like abscess, fistula, obstruction, or perforation.",
+      "id": "2026-09-06-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "Failure of duodenal recanalization during embryonic development is most strongly associated with which of the following?",
+      "options": [
+        "Trisomy 18",
+        "Cystic fibrosis",
+        "Trisomy 21",
+        "Turner syndrome"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - trisomy 18 (Edwards syndrome) is associated with omphalocele, not specifically duodenal atresia.",
+        "Incorrect - cystic fibrosis is associated with meconium ileus and chronic pancreatitis in children, not duodenal atresia.",
+        "Correct - duodenal atresia, caused by failure of recanalization of the duodenal lumen after normal epithelial proliferation occludes it, is classically associated with Down syndrome and produces the 'double bubble' sign.",
+        "Incorrect - Turner syndrome is not classically associated with duodenal atresia."
+      ],
+      "overview": "Duodenal atresia results from failure of the normally solid duodenal lumen to recanalize during early development, leading to complete obstruction. It presents with polyhydramnios in utero and bilious vomiting in the newborn, with the classic 'double bubble' sign on imaging, and is strongly associated with Down syndrome.",
+      "id": "2026-09-06-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "A neonate presents with jaundice, dark urine, and acholic (pale) stools. Ultrasound shows an absent gallbladder and no common bile duct, with no other cause of obstruction identified. What is the definitive surgical treatment?",
+      "options": [
+        "Cholecystectomy",
+        "Kasai procedure",
+        "Whipple procedure",
+        "Liver transplantation as first-line therapy"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - cholecystectomy (gallbladder removal) is not the treatment for biliary atresia, which involves absent or degenerated bile ducts, not gallbladder disease requiring removal.",
+        "Correct - biliary atresia is treated with the Kasai procedure (hepatoportoenterostomy), which creates a conduit for bile drainage using a loop of small intestine.",
+        "Incorrect - the Whipple procedure (pancreatoduodenectomy) is used for pancreatic cancer, not biliary atresia.",
+        "Incorrect - liver transplantation may eventually be needed if the Kasai procedure fails, but it is not the first-line/definitive initial surgical treatment."
+      ],
+      "overview": "Biliary atresia is an idiopathic obstructive cholangiopathy of neonates in which the biliary ducts fail to form or degenerate early in life, presenting with jaundice, dark urine, and acholic stools, and confirmed by absence of the gallbladder/common bile duct on ultrasound without other causes of obstruction. The Kasai procedure creates a bile drainage conduit using bowel and is the standard surgical treatment.",
+      "id": "2026-09-06-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which location in the colon is most vulnerable to ischemia during a hypotensive episode due to poor collateral blood supply?",
+      "options": [
+        "Splenic flexure",
+        "Ascending colon",
+        "Cecum",
+        "Transverse colon (mid-portion)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - the splenic flexure is the #1 watershed area of the colon, supplied by small branches with a very small marginal artery of Drummond, making it especially vulnerable to hypoperfusion.",
+        "Incorrect - the ascending colon is well supplied by the right colic artery and is not a watershed area.",
+        "Incorrect - the cecum has a robust blood supply from the ileocolic artery and is not a classic watershed area.",
+        "Incorrect - the mid-transverse colon is not the classic watershed zone; the splenic flexure (SMA-IMA border) is."
+      ],
+      "overview": "Watershed areas of the colon lie at the border between two major arterial territories and receive the least collateral flow, making them most susceptible to ischemia during hypotension or shock. The splenic flexure is the most vulnerable, followed by the rectosigmoid junction, and ischemia here often presents as ischemic colitis that may resolve spontaneously.",
+      "id": "2026-09-06-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman presents with 6 months of large-volume, watery, tea-colored diarrhea unresponsive to fasting or dietary changes. She reports muscle weakness. Labs show potassium 2.6 mEq/L, and endoscopic sampling reveals an elevated gastric pH. Serum VIP level is markedly elevated, and CT shows a pancreatic mass. Which of the following additional findings is most likely?",
+      "options": [
+        "Elevated urinary 5-HIAA",
+        "Hyperchlorhydria with peptic ulcers",
+        "Elevated fasting gastrin >1000 pg/mL",
+        "Achlorhydria",
+        "Hypercalcemia with renal stones"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - elevated urinary 5-HIAA is diagnostic of carcinoid syndrome from serotonin metabolism, not VIPoma.",
+        "Incorrect - hyperchlorhydria with peptic ulcers describes gastrinoma (Zollinger-Ellison syndrome); VIP actually inhibits gastric H+ secretion.",
+        "Incorrect - markedly elevated gastrin is seen in gastrinoma, not VIPoma.",
+        "Correct - VIPoma causes WDHA syndrome: watery diarrhea, hypokalemia, and achlorhydria, because VIP inhibits gastric acid secretion.",
+        "Incorrect - hypercalcemia with renal stones is not part of the VIPoma (WDHA) syndrome."
+      ],
+      "overview": "VIPomas are rare pancreatic islet cell tumors secreting vasoactive intestinal peptide, producing WDHA (watery diarrhea, hypokalemia, achlorhydria) syndrome, also called 'pancreatic cholera.' VIP stimulates pancreatic/intestinal bicarbonate and water secretion while inhibiting gastric acid secretion, distinguishing it from gastrin-secreting tumors. Initial treatment includes fluid/electrolyte replacement and octreotide.",
+      "id": "2026-09-06-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "The marginal artery of Drummond forms a collateral connection between which two arteries?",
+      "options": [
+        "SMA and IMA",
+        "Celiac trunk and SMA",
+        "Superior and inferior pancreaticoduodenal arteries",
+        "IMA and internal iliac artery"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - the marginal artery of Drummond connects branches of the middle colic artery (SMA) and left colic artery (IMA), providing collateral flow between the SMA and IMA territories.",
+        "Incorrect - the celiac trunk and SMA are connected via the superior and inferior pancreaticoduodenal arteries, not the marginal artery of Drummond.",
+        "Incorrect - these pancreaticoduodenal arteries connect the celiac trunk and SMA, not the marginal artery of Drummond.",
+        "Incorrect - the IMA and internal iliac artery connect via the superior and middle rectal arteries in the rectum."
+      ],
+      "overview": "The abdominal aorta's mesenteric branches have important collateral connections: celiac-SMA via pancreaticoduodenal arteries, SMA-IMA via the marginal artery of Drummond, and IMA-internal iliac via rectal arteries. These collaterals protect against ischemia if one major vessel is occluded, though watershed zones between collaterals remain vulnerable.",
+      "id": "2026-09-06-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 50-year-old woman presents with early satiety and unintentional weight loss. Endoscopy reveals diffuse thickening of the stomach wall without a discrete mass, described as a 'leather bottle' appearance. Biopsy shows cells with mucin pushing the nucleus to the periphery, without gland formation. Which of the following is most likely to be found on further workup?",
+      "options": [
+        "History of chronic NSAID-induced gastric ulcer at this site",
+        "A left supraclavicular lymph node biopsy showing intestinal-type adenocarcinoma glands",
+        "Strong association with H. pylori infection",
+        "Bilateral ovarian masses with signet ring cells",
+        "Serum anti-mitochondrial antibodies"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - diffuse-type carcinoma is not associated with a pre-existing peptic ulcer at the same site; it arises diffusely from gastric mucosa cells rather than from ulcer degeneration.",
+        "Incorrect - Virchow's node can occur with gastric cancer, but the intestinal-type gland histology does not match the diffuse-type signet ring morphology described here.",
+        "Incorrect - diffuse-type gastric carcinoma is notably not strongly associated with H. pylori or intestinal metaplasia, unlike the intestinal type.",
+        "Correct - diffuse-type gastric carcinoma (linitis plastica, signet ring cells) can metastasize bilaterally to the ovaries, known as a Krukenberg tumor, which classically shows signet ring cells on pathology.",
+        "Incorrect - anti-mitochondrial antibodies are associated with primary biliary cirrhosis, unrelated to gastric carcinoma."
+      ],
+      "overview": "Diffuse-type gastric carcinoma is characterized by signet ring cells (mucin pushing the nucleus to the periphery) infiltrating the stomach wall diffusely, producing the thickened, non-distensible 'linitis plastica' appearance. Unlike intestinal-type gastric cancer, it is not strongly linked to H. pylori or intestinal metaplasia, and it classically metastasizes bilaterally to the ovaries, forming a Krukenberg tumor.",
+      "id": "2026-09-06-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a large intracranial hemorrhage and elevated intracranial pressure develops acute gastritis and gastric ulcers. What is the primary mechanism responsible for this complication?",
+      "options": [
+        "Direct mucosal toxicity from chemotherapy",
+        "NSAID-induced prostaglandin inhibition",
+        "Decreased mucosal perfusion from hypotension",
+        "Increased vagal stimulation leading to excess acetylcholine and acid production"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - chemotherapy causes gastritis by inhibiting epithelial cell replication, unrelated to increased intracranial pressure.",
+        "Incorrect - NSAID-induced prostaglandin inhibition is a separate mechanism of acute gastritis unrelated to intracranial pathology.",
+        "Incorrect - decreased mucosal perfusion from hypotension describes the mechanism of stress ulcers in shock/sepsis/trauma, and Curling's ulcers in burn patients, not Cushing's ulcers.",
+        "Correct - Cushing's ulcers occur due to increased intracranial pressure causing increased vagal tone, leading to excess acetylcholine stimulation of the stomach and excess acid production, resulting in gastritis/ulcers."
+      ],
+      "overview": "Acute gastritis and ulcers have multiple distinct mechanisms depending on clinical context: Curling's ulcers occur in burn patients from hypovolemia-induced mucosal hypoperfusion, Cushing's ulcers occur from increased intracranial pressure driving excess vagal (acetylcholine)-mediated acid secretion, and stress ulcers occur in critically ill patients from shock-related mucosal hypoperfusion, often prevented with prophylactic PPIs in the ICU.",
+      "id": "2026-09-06-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A congenital anomaly in which pancreatic tissue forms a ring around the duodenum, potentially causing bowel obstruction, results from abnormal development of which structure?",
+      "options": [
+        "Ventral pancreatic bud",
+        "Vitelline duct",
+        "Septum transversum",
+        "Dorsal pancreatic bud"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - annular pancreas results from abnormal fusion of the two portions of the ventral pancreatic bud, which normally fuse together but can instead fuse around the duodenum, forming an obstructive ring.",
+        "Incorrect - the vitelline duct gives rise to Meckel's diverticulum and other omphalomesenteric remnants, unrelated to annular pancreas.",
+        "Incorrect - the septum transversum contributes to the ventral mesentery and diaphragm development, not annular pancreas.",
+        "Incorrect - the dorsal bud forms most of the pancreatic body, tail, and accessory duct; it is not the origin of annular pancreas."
+      ],
+      "overview": "The pancreas develops from a ventral bud (part of the head, uncinate process, and main pancreatic duct) and a dorsal bud (rest of the head, body, tail, and accessory duct). Annular pancreas occurs when the two components of the ventral bud fail to fuse normally and instead encircle the duodenum, which can cause bowel obstruction.",
+      "id": "2026-09-06-26"
+    },
+    {
+      "format": "vignette5",
+      "stem": "An 80-year-old man presents with several months of difficulty swallowing, regurgitation of undigested food hours after eating, and foul breath, without odynophagia or weight loss. Barium swallow shows an outpouching at the pharyngoesophageal junction. Which of the following best describes the anatomic basis of this condition?",
+      "options": [
+        "Persistent connection between the trachea and esophagus",
+        "Chronic acid reflux causing distal esophageal stricture",
+        "Failure of the cricopharyngeus muscle to relax, causing herniation through Killian's triangle",
+        "Loss of ganglion cells in Auerbach's plexus of the lower esophagus",
+        "Autoimmune destruction of esophageal smooth muscle"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - a persistent tracheoesophageal connection describes a tracheoesophageal fistula, a congenital anomaly unrelated to Zenker's diverticulum.",
+        "Incorrect - chronic GERD leading to stricture occurs in the distal esophagus, not the pharyngoesophageal junction.",
+        "Correct - Zenker's diverticulum results from a chronic swallowing disorder in which the cricopharyngeus muscle fails to relax properly, pushing mucosa/submucosa through the weak Killian's triangle.",
+        "Incorrect - loss of ganglion cells in Auerbach's plexus describes achalasia, affecting the lower esophageal sphincter, not the pharyngoesophageal junction.",
+        "Incorrect - autoimmune smooth muscle destruction is not the mechanism; Zenker's is caused by increased intraluminal pressure against a functional obstruction."
+      ],
+      "overview": "Zenker's diverticulum is an acquired false diverticulum (mucosa/submucosa only) forming at Killian's triangle, a weak point in the posterior pharyngeal wall above the upper esophageal sphincter, due to failure of the cricopharyngeus muscle to relax normally. Classic presentation includes dysphagia, halitosis, and regurgitation of undigested food.",
+      "id": "2026-09-06-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A colonoscopy in an asymptomatic 60-year-old reveals a small rectosigmoid polyp with a characteristic 'saw-tooth' serrated pattern on histology and no dysplasia. Which type of polyp is this?",
+      "options": [
+        "Tubular adenoma",
+        "Hyperplastic polyp",
+        "Villous adenoma",
+        "Juvenile polyp"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - tubular adenomas are dysplastic adenomatous polyps with malignant potential, showing tubule formation, not a saw-tooth pattern.",
+        "Correct - hyperplastic polyps are the most common type of colonic polyp, benign with normal cellular structure and a classic 'saw tooth' or serrated pattern, commonly found in the rectosigmoid colon; they generally do not require special surveillance.",
+        "Incorrect - villous adenomas are dysplastic with high malignant potential and long finger-like projections, not a serrated saw-tooth pattern.",
+        "Incorrect - juvenile polyps are hamartomas typically found in children, not associated with a saw-tooth serrated histologic pattern."
+      ],
+      "overview": "Colonic polyps are classified as either non-neoplastic (e.g., hyperplastic polyps, the most common type, showing a serrated 'saw-tooth' pattern with no dysplasia and minimal cancer risk) or neoplastic/adenomatous (tubular or villous, which carry malignant potential proportional to size, villous histology, and degree of dysplasia).",
+      "id": "2026-09-06-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following organs receives its primary arterial blood supply from the celiac trunk?",
+      "options": [
+        "Ileum",
+        "Descending colon",
+        "Spleen",
+        "Ascending colon"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - the ileum is a midgut structure supplied by the SMA.",
+        "Incorrect - the descending colon is a hindgut structure supplied by the IMA.",
+        "Correct - the celiac trunk supplies foregut-derived structures including the spleen, stomach, liver, gallbladder, and proximal duodenum/pancreas.",
+        "Incorrect - the ascending colon is a midgut structure supplied by the SMA."
+      ],
+      "overview": "The abdominal aorta's three unpaired branches supply the gut according to embryologic origin: celiac trunk for the foregut (stomach, liver, spleen, proximal duodenum, pancreas), SMA for the midgut (distal duodenum through proximal two-thirds of transverse colon), and IMA for the hindgut (distal transverse colon through rectum).",
+      "id": "2026-09-06-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man presents with fatigue, new-onset diabetes mellitus, bronze skin discoloration, and arthralgias. He denies alcohol use. Echocardiogram shows dilated cardiomyopathy. Labs show elevated ferritin, elevated transferrin saturation, and low TIBC. Genetic testing reveals homozygosity for a mutation causing a cysteine-to-tyrosine amino acid substitution. Which of the following is the most appropriate first-line treatment?",
+      "options": [
+        "Ursodeoxycholic acid",
+        "Deferoxamine chelation",
+        "Liver transplantation",
+        "Therapeutic phlebotomy",
+        "Penicillamine"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - ursodeoxycholic acid treats cholestatic liver diseases like primary biliary cirrhosis, not hemochromatosis.",
+        "Incorrect - iron chelators like deferoxamine are reserved for patients who cannot tolerate phlebotomy or have secondary (transfusion-related) hemochromatosis.",
+        "Incorrect - liver transplant is reserved for end-stage liver failure, not first-line management.",
+        "Correct - phlebotomy is first-line for hereditary hemochromatosis (HFE C282Y mutation), directly removing excess iron until ferritin normalizes.",
+        "Incorrect - penicillamine chelates copper and is used for Wilson's disease, not iron overload."
+      ],
+      "overview": "Hereditary hemochromatosis is an autosomal recessive disorder most commonly caused by the C282Y mutation in HFE, causing unregulated intestinal iron absorption with accumulation in liver, pancreas, heart, skin, and joints ('bronze diabetes'). Diagnosis is supported by elevated ferritin and transferrin saturation and confirmed genetically; first-line treatment is repeated phlebotomy.",
+      "id": "2026-09-06-30"
     }
   ]
 }
