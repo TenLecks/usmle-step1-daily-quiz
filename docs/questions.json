@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-07",
-  "subject": "Genetics",
+  "date": "2026-09-08",
+  "subject": "Hematology",
   "questions": [
     {
+      "format": "vignette5",
+      "stem": "A 24-year-old man with known sickle cell disease presents with several months of progressive, dull right hip pain that worsens with weight bearing. He denies fever. Physical exam shows decreased range of motion of the hip without warmth or effusion. Imaging reveals collapse of the femoral head. Which of the following best explains this finding?",
+      "options": [
+        "Parvovirus B19-induced aplastic crisis",
+        "Papillary necrosis",
+        "Vaso-occlusion causing bone infarction",
+        "Splenic sequestration crisis",
+        "Osteomyelitis from Salmonella infection"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Aplastic crisis presents with worsening anemia and a low reticulocyte count due to parvovirus B19 infection of erythroid precursors, not localized bone pathology.",
+        "Papillary necrosis affects the renal medulla and presents with painless gross hematuria, not hip pain.",
+        "Correct - Chronic vaso-occlusion in sickle cell disease can cause avascular necrosis, most commonly of the femoral head, leading to progressive, afebrile hip or groin pain and eventual bone collapse.",
+        "Splenic sequestration crisis presents with a rapidly enlarging spleen and abrupt hemoglobin drop, not with chronic hip pain and femoral head collapse.",
+        "Osteomyelitis typically presents acutely with fever and bone tenderness, unlike this patient's chronic, afebrile, progressive pain."
+      ],
+      "overview": "Sickle cell disease causes chronic vaso-occlusion of small vessels, which in bone can lead to avascular necrosis, most commonly of the femoral head, presenting as chronic progressive hip or groin pain distinct from the acute, febrile presentation of osteomyelitis (often due to Salmonella in these patients).",
+      "id": "2026-09-08-01"
+    },
+    {
       "format": "simple4",
-      "stem": "The dystrophin protein, which is deficient in Duchenne muscular dystrophy, normally functions to:",
+      "stem": "A 60-year-old man is found to have hemoglobin 19 g/dL, an elevated platelet count, and facial plethora. Serum erythropoietin level is low. Which of the following genetic mutations is most commonly associated with this condition?",
       "options": [
-        "Transport neurotransmitters across the neuromuscular junction",
-        "Regulate calcium release from the sarcoplasmic reticulum",
-        "Catalyze ATP hydrolysis during muscle contraction",
-        "Anchor intracellular actin to the extracellular matrix via a transmembrane dystroglycan complex"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Dystrophin is a structural protein maintaining muscle membrane integrity, not a neurotransmitter transporter at the neuromuscular junction.",
-        "Calcium release from the sarcoplasmic reticulum is regulated by the ryanodine receptor and related channels, not dystrophin.",
-        "ATP hydrolysis during contraction is performed by myosin ATPase, not dystrophin.",
-        "Correct \u2014 dystrophin connects intracellular actin filaments to alpha- and beta-dystroglycan in the muscle cell membrane, which in turn connects to the extracellular matrix (laminin), maintaining sarcolemmal integrity during contraction."
-      ],
-      "overview": "Dystrophin is a large cytoskeletal protein that maintains muscle membrane stability by linking intracellular actin to the transmembrane dystroglycan complex, which connects to the extracellular matrix (laminin). Loss of dystrophin (Duchenne) or production of a partially functional truncated form (Becker) leads to progressive myonecrosis, muscle weakness, and elevated muscle enzymes such as creatine kinase.",
-      "id": "2026-09-07-01"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 32-year-old man reports difficulty releasing his grip after shaking hands and progressive weakness in his hands and face. On exam, he has a long, narrow face with temporal wasting, frontal balding, and bilateral cataracts. ECG shows first-degree AV block. He also reports decreased libido, and exam reveals testicular atrophy. Which of the following best describes the genetic mechanism underlying this disorder?",
-      "options": [
-        "CAG repeat expansion in the HTT gene, autosomal dominant",
-        "CTG repeat expansion in the DMPK gene, autosomal dominant",
-        "GAA repeat expansion in the frataxin gene, autosomal recessive",
-        "Deletion in the DMD gene, X-linked recessive",
-        "CGG repeat expansion in the FMR1 gene, X-linked dominant"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "CAG repeat expansion in HTT causes Huntington's disease, which presents with chorea and dementia, not myotonia and cataracts.",
-        "Correct \u2014 Myotonic dystrophy type 1 is caused by a CTG trinucleotide repeat expansion in the DMPK gene on chromosome 19, inherited in an autosomal dominant pattern, producing myotonia, cataracts, frontal balding, cardiac conduction disease, and hypogonadism.",
-        "GAA repeat expansion in frataxin causes Friedreich's ataxia, an autosomal recessive ataxic disorder, not myotonic dystrophy.",
-        "DMD gene deletions cause Duchenne/Becker muscular dystrophy, X-linked recessive disorders without myotonia or cataracts.",
-        "CGG repeat expansion in FMR1 causes Fragile X syndrome, an X-linked disorder with intellectual disability, not this adult myopathy/cataract syndrome."
-      ],
-      "overview": "Myotonic dystrophy type 1 is an autosomal dominant trinucleotide (CTG) repeat expansion disorder in the DMPK gene on chromosome 19. It is the most common adult-onset muscular dystrophy, presenting with myotonia (inability to relax muscles after contraction), a characteristic long face with frontal balding, cataracts, cardiac conduction abnormalities, and primary hypogonadism with testicular atrophy.",
-      "id": "2026-09-07-02"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A female infant is born small for gestational age with a birth weight well below the 10th percentile. Exam reveals a prominent occiput, low-set ears, micrognathia, clenched fists with the index finger overlapping the third digit, and rocker-bottom feet. Echocardiogram reveals a ventricular septal defect. Which of the following is the most likely underlying chromosomal abnormality?",
-      "options": [
-        "Trisomy 18",
-        "Trisomy 21",
-        "Trisomy 13",
-        "47,XXY",
-        "45,X"
+        "JAK2 V617F",
+        "BCR-ABL fusion",
+        "Cyclin D1 overexpression",
+        "PML-RARA fusion"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct \u2014 Trisomy 18 (Edward syndrome) presents with intrauterine growth restriction, a prominent occiput, micrognathia, clenched fists with overlapping fingers, rocker-bottom feet, and congenital heart disease; most affected infants die within the first year.",
-        "Trisomy 21 (Down syndrome) presents with flat facial profile, epicanthal folds, and endocardial cushion defects, not clenched fists with overlapping fingers or rocker-bottom feet.",
-        "Trisomy 13 (Patau syndrome) presents with microphthalmia, cleft lip/palate, and postaxial polydactyly rather than the overlapping fingers and rocker-bottom feet described here.",
-        "47,XXY (Klinefelter syndrome) presents in males later in life with hypogonadism, not with these neonatal dysmorphic features.",
-        "45,X (Turner syndrome) occurs in phenotypic females with webbed neck and lymphedema, not the growth restriction and limb findings described."
+        "Correct - Polycythemia vera is associated with the JAK2 V617F mutation in nearly 100% of cases, causing cytokine-independent proliferation of myeloid progenitors and an appropriately low (suppressed) erythropoietin level due to the autonomous red cell overproduction.",
+        "BCR-ABL fusion from t(9;22) is the hallmark of CML, not polycythemia vera.",
+        "Cyclin D1 overexpression from t(11;14) is characteristic of mantle cell lymphoma, not polycythemia vera.",
+        "PML-RARA fusion from t(15;17) is specific to acute promyelocytic leukemia, not polycythemia vera."
       ],
-      "overview": "Edward syndrome (trisomy 18) is the second most common autosomal trisomy in live births, most often due to meiotic nondisjunction and associated with advanced maternal age. Classic features include severe intrauterine growth restriction, a small head with a prominent occiput, micrognathia, clenched fists with overlapping fingers, and rocker-bottom feet, along with a high rate of congenital heart and GI defects. Prognosis is poor, with most infants dying in the first weeks to year of life.",
-      "id": "2026-09-07-03"
-    },
-    {
-      "format": "simple4",
-      "stem": "A child is found to have two structurally different homologous copies of chromosome 15 inherited from the same parent (uniparental heterodisomy), with no contribution from the other parent. This finding is most consistent with a nondisjunction error occurring during which stage of gametogenesis?",
-      "options": [
-        "Mitosis after fertilization",
-        "Meiosis II",
-        "Fertilization itself",
-        "Meiosis I"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "A mitotic error after fertilization would typically produce mosaicism (a mixture of normal and abnormal cell lines) rather than uniform heterodisomy in all cells.",
-        "Meiosis II nondisjunction involves failure of sister chromatids (which are genetically identical, aside from crossover) to separate, producing isodisomy (two identical copies), not heterodisomy.",
-        "Fertilization itself is the union of two normal or abnormal gametes; it is not the point at which nondisjunction of homologous chromosomes occurs.",
-        "Correct \u2014 heterodisomy (inheritance of both different homologous chromosomes from one parent) results from failure of homologous chromosomes to separate during meiosis I, before sister chromatids have differentiated genetically."
-      ],
-      "overview": "Uniparental disomy occurs when both copies of a chromosome pair come from one parent, with no contribution from the other. Heterodisomy (two different homologous chromosomes from one parent) implicates a meiosis I error, since homologous chromosomes have not yet been separated; isodisomy (two identical copies) implicates a meiosis II error, since it involves duplicated sister chromatids. This distinction helps localize the stage of nondisjunction in cases like Prader-Willi syndrome from maternal uniparental disomy.",
-      "id": "2026-09-07-04"
+      "overview": "Polycythemia vera is a myeloproliferative disorder driven by the JAK2 V617F mutation in nearly all cases, causing increased red cell mass (and often platelets/WBCs) with an appropriately low erythropoietin level, distinguishing it from secondary polycythemia due to hypoxia or EPO-secreting tumors (where EPO is elevated). Clinical features include facial plethora, aquagenic pruritus, erythromelalgia, and increased thrombosis risk (e.g., Budd-Chiari syndrome).",
+      "id": "2026-09-08-02"
     },
     {
       "format": "vignette5",
-      "stem": "A 4-month-old infant presents with a several-day history of oral thrush and a prior episode of Pneumocystis jirovecii pneumonia. Echocardiogram performed in the newborn period showed tetralogy of Fallot. Laboratory studies reveal markedly reduced CD3+ T lymphocytes with normal B lymphocyte counts. Genetic testing reveals a microdeletion. Which of the following is the most likely underlying chromosomal abnormality?",
+      "stem": "A 10-month-old girl born to Greek immigrant parents presents with pallor, poor growth, and abdominal distension. Exam reveals frontal bossing, maxillary prominence, and hepatosplenomegaly. Skull x-ray shows a \"crew cut\" appearance. Labs show severe microcytic, hypochromic anemia with marked anisopoikilocytosis, target cells, and nucleated red blood cells. Hemoglobin electrophoresis shows absent HbA and elevated HbA2 and HbF. Which of the following best explains this patient's skeletal and hepatosplenic findings?",
       "options": [
-        "Trisomy of chromosome 13",
-        "Deletion of the short arm of chromosome 5",
-        "Deletion of the long arm of chromosome 7",
-        "Microdeletion of the paternal copy of chromosome 15q11-13",
-        "Deletion of the long arm of chromosome 22"
+        "Osteoclast activation by cytokines secreted from malignant plasma cells",
+        "Iron deposition in the bone marrow from repeated transfusions",
+        "Vaso-occlusion of the vasa recta",
+        "Direct viral infiltration of the bone marrow",
+        "Erythroid hyperplasia and extramedullary hematopoiesis from ineffective erythropoiesis"
       ],
       "correctIndex": 4,
       "explanations": [
-        "Patau syndrome (trisomy 13) causes holoprosencephaly, polydactyly, and cleft lip/palate, not isolated T-cell deficiency.",
-        "Cri-du-chat (5p deletion) causes cat-like cry, microcephaly, and intellectual disability, not thymic/cardiac/T-cell defects.",
-        "Williams syndrome (7q deletion, elastin gene) causes supravalvular aortic stenosis and elfin facies, not immunodeficiency.",
-        "Paternal 15q11-13 deletion causes Prader-Willi syndrome (hypotonia, hyperphagia), unrelated to immune/cardiac defects.",
-        "Correct \u2014 22q11.2 deletion (DiGeorge/thymic aplasia) causes T-cell deficiency from thymic hypoplasia, hypocalcemia, and conotruncal cardiac defects like tetralogy of Fallot."
+        "Osteoclast activation by plasma cell cytokines (RANKL, IL-6) describes multiple myeloma, not thalassemia.",
+        "Transfusional iron overload causes secondary hemochromatosis over time but does not explain the marrow expansion (crew-cut skull) or extramedullary hematopoiesis, which arise from ineffective erythropoiesis itself.",
+        "Vaso-occlusion of the vasa recta is a feature of sickle cell disease, not thalassemia.",
+        "There is no viral infiltration mechanism in beta thalassemia major.",
+        "Correct - In beta thalassemia major, severely deficient beta-globin production leads to ineffective erythropoiesis and chronic anemia, driving massive compensatory erythroid hyperplasia (marrow expansion causing skull changes) and extramedullary hematopoiesis in the liver and spleen (hepatosplenomegaly)."
       ],
-      "overview": "DiGeorge syndrome (thymic aplasia) results from a 22q11.2 microdeletion causing failure of the 3rd and 4th pharyngeal pouches to develop, producing the triad of T-cell immunodeficiency (thymic hypoplasia), hypocalcemia (parathyroid hypoplasia), and conotruncal cardiac defects (tetralogy of Fallot, truncus arteriosus). It is also known as velocardiofacial or Shprintzen syndrome. Recurrent viral/fungal infections reflect the T-cell deficit.",
-      "id": "2026-09-07-05"
-    },
-    {
-      "format": "simple4",
-      "stem": "A population geneticist is evaluating whether a population is in Hardy-Weinberg equilibrium. Which of the following observations would suggest that the population violates the assumptions required for Hardy-Weinberg equilibrium?",
-      "options": [
-        "Individuals mate randomly with respect to the genotype in question",
-        "Individuals with a certain genotype preferentially choose mates with the same genotype (assortative mating)",
-        "There is no migration into or out of the population",
-        "The population is very large"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Random mating is one of the required assumptions for Hardy-Weinberg equilibrium, so this observation would support, not violate, equilibrium.",
-        "Correct \u2014 nonrandom (assortative) mating violates the random mating assumption required for Hardy-Weinberg equilibrium, causing allele and genotype frequencies to deviate from predicted values.",
-        "Absence of migration is a required assumption for equilibrium, so this observation supports rather than violates it.",
-        "A large population size is a required assumption (to minimize genetic drift), so this supports equilibrium rather than violating it."
-      ],
-      "overview": "Hardy-Weinberg equilibrium requires a large population, completely random mating, no new mutations, no migration in or out of the population, and no natural selection. When these assumptions hold, allele frequencies (p, q) and genotype frequencies (p2, 2pq, q2) remain stable across generations; violation of any assumption (e.g., nonrandom mating, small population size, selection) can shift allele and genotype frequencies over time.",
-      "id": "2026-09-07-06"
-    },
-    {
-      "format": "simple4",
-      "stem": "On eye examination of a newborn with suspected Down syndrome, small white or grayish spots are noted arranged around the periphery of the iris. These findings are known as:",
-      "options": [
-        "Lisch nodules",
-        "Brushfield spots",
-        "Roth spots",
-        "Koplik spots"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Lisch nodules are pigmented iris hamartomas seen in neurofibromatosis type 1, not Down syndrome.",
-        "Correct \u2014 Brushfield spots are white or light-colored spots on the periphery of the iris, a classic ocular finding associated with Down syndrome.",
-        "Roth spots are retinal hemorrhages with pale centers seen in infective endocarditis, not an iris finding in Down syndrome.",
-        "Koplik spots are small white lesions on the buccal mucosa seen in measles, unrelated to the iris or Down syndrome."
-      ],
-      "overview": "Down syndrome (trisomy 21) is associated with characteristic dysmorphic features including a flat facial profile, epicanthal folds, upslanting palpebral fissures, Brushfield spots (white iris spots), a single transverse palmar crease, and a 'sandal gap' between the first and second toes, in addition to hypotonia, short stature, and an increased risk of congenital heart and GI anomalies.",
-      "id": "2026-09-07-07"
-    },
-    {
-      "format": "simple4",
-      "stem": "A young child develops osteosarcoma, and genetic testing reveals a germline mutation in the TP53 tumor suppressor gene. Family history reveals early-onset sarcomas, breast cancer, leukemia, and adrenal tumors across multiple generations. This pattern of cancer predisposition is best explained by which of the following?",
-      "options": [
-        "X-linked recessive inheritance of a DNA repair gene defect",
-        "Li-Fraumeni syndrome, following a two-hit mechanism of tumor suppressor gene inactivation",
-        "Mitochondrial inheritance of a nuclear-encoded tumor suppressor gene",
-        "Genomic imprinting of the TP53 gene"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Li-Fraumeni syndrome is autosomal dominant, not X-linked recessive, and TP53 is a cell-cycle regulator, not primarily a DNA mismatch repair gene (that would describe Lynch syndrome).",
-        "Correct \u2014 Li-Fraumeni syndrome results from a germline TP53 mutation and follows the two-hit hypothesis, in which a somatic mutation inactivating the remaining allele leads to malignancy; it causes sarcomas, breast cancer, leukemia, and adrenal tumors (the 'SBLA' cancer syndrome) at an early age.",
-        "TP53 mutations follow classic autosomal dominant Mendelian inheritance via nuclear chromosomes, not maternal mitochondrial inheritance.",
-        "TP53 is not known to be an imprinted gene; both alleles are normally expressed, and disease follows a two-hit tumor suppressor mechanism, not parent-of-origin-specific expression."
-      ],
-      "overview": "Li-Fraumeni syndrome is caused by a germline mutation in the TP53 tumor suppressor gene, which normally delays cell cycle progression to allow DNA repair. As with other tumor suppressor gene disorders, it follows the two-hit hypothesis: carriers are born with one mutant allele in every cell, and a single additional somatic mutation in the remaining allele is sufficient to trigger malignancy, producing early-onset sarcomas, breast cancer, leukemia, and adrenal cortical tumors.",
-      "id": "2026-09-07-08"
+      "overview": "Beta thalassemia major results from severely reduced or absent beta-globin synthesis, causing unstable excess alpha chains, ineffective erythropoiesis, and chronic hemolytic anemia. Compensatory erythropoietin drive produces massive bone marrow expansion (skeletal deformities, \"chipmunk facies,\" crew-cut skull) and extramedullary hematopoiesis (hepatosplenomegaly), and patients become transfusion-dependent, risking secondary iron overload.",
+      "id": "2026-09-08-03"
     },
     {
       "format": "vignette5",
-      "stem": "A 3-year-old girl is evaluated for a heart murmur. Echocardiography reveals narrowing of the ascending aorta just above the aortic valve. Laboratory testing shows an elevated serum calcium level. She has well-developed verbal skills for her age but delayed motor milestones, and is noted by her parents to be unusually sociable with strangers. Which of the following genetic abnormalities is most likely responsible for this presentation?",
+      "stem": "A 19-year-old man presents with fatigue and yellowing of the eyes. He has had recurrent episodes of jaundice since childhood and a remote history of gallstones. Physical exam reveals mild splenomegaly. Labs show hemoglobin 10.2 g/dL, MCV 82 fL, elevated MCHC, elevated indirect bilirubin, and a negative direct Coombs test. Peripheral smear shows small, round red cells lacking central pallor. Which of the following best confirms the diagnosis?",
       "options": [
-        "Full trisomy of chromosome 21",
-        "Deletion of the paternal 15q11-13 region",
-        "Deletion of the elastin gene on chromosome 7",
-        "Trinucleotide CGG repeat expansion on the X chromosome",
-        "Microdeletion of chromosome 22q11.2"
+        "Osmotic fragility test",
+        "Serotonin release assay",
+        "Ham's acid hemolysis test",
+        "Heinz body preparation",
+        "Ristocetin cofactor assay"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - The osmotic fragility test demonstrates increased susceptibility of spherocytes to lysis in hypotonic solution, confirming hereditary spherocytosis; the eosin-5-maleimide binding test is another diagnostic option.",
+        "The serotonin release assay is used to diagnose heparin-induced thrombocytopenia, not spherocytosis.",
+        "Ham's test (or flow cytometry for GPI-anchored proteins) is used to diagnose PNH, not hereditary spherocytosis.",
+        "Heinz body preparation detects oxidized hemoglobin precipitates seen in G6PD deficiency, not hereditary spherocytosis.",
+        "The ristocetin cofactor assay evaluates von Willebrand factor activity and is used to diagnose von Willebrand disease, not hereditary spherocytosis."
+      ],
+      "overview": "Hereditary spherocytosis is caused by defects in RBC membrane cytoskeletal proteins (spectrin, ankyrin, band proteins), producing small spherical RBCs that lack central pallor and undergo chronic extravascular hemolysis in the spleen. The Coombs test is negative (not immune-mediated), and the osmotic fragility test confirms the diagnosis by showing increased RBC lysis in hypotonic solution.",
+      "id": "2026-09-08-04"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 58-year-old man presents with fatigue, unintentional weight loss, and early satiety. Physical exam reveals massive splenomegaly. A CBC shows WBC 130,000/microL, and the peripheral smear demonstrates neutrophils, metamyelocytes, myelocytes, and increased basophils, with only rare blasts. Bone marrow cytogenetics reveal a reciprocal translocation between chromosomes 9 and 22. Which of the following is the most appropriate first-line therapy for this chronic-phase disease?",
+      "options": [
+        "All-trans retinoic acid",
+        "Imatinib",
+        "Hydroxyurea alone",
+        "Cladribine",
+        "Rituximab"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "All-trans retinoic acid is used for acute promyelocytic leukemia (t(15;17)), not CML.",
+        "Correct - Imatinib is a tyrosine kinase inhibitor targeting the BCR-ABL fusion protein produced by the Philadelphia chromosome t(9;22), the standard first-line therapy for chronic-phase CML.",
+        "Hydroxyurea can be used for cytoreduction but is not the standard long-term disease-controlling therapy; tyrosine kinase inhibitors are preferred.",
+        "Cladribine is a purine analog preferentially used in hairy cell leukemia, not CML.",
+        "Rituximab targets CD20 and is used for B-cell malignancies, not CML."
+      ],
+      "overview": "CML is a myeloproliferative disorder driven by the Philadelphia chromosome t(9;22), producing the BCR-ABL fusion tyrosine kinase. Chronic-phase blood findings include marked leukocytosis with a full spectrum of granulocyte precursors and increased basophils. Imatinib and other tyrosine kinase inhibitors (dasatinib, nilotinib) provide long-term disease control by inhibiting BCR-ABL.",
+      "id": "2026-09-08-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 65-year-old man has painless, waxing and waning lymphadenopathy for several years. Lymph node biopsy shows a follicular growth pattern with malignant B cells expressing CD19 and CD20. Genetic testing reveals a t(14;18) translocation. Which of the following best describes the functional consequence of this translocation?",
+      "options": [
+        "Overexpression of cyclin D1, promoting G1 to S phase transition",
+        "Overexpression of c-myc, driving proliferation",
+        "Overexpression of BCL2, blocking apoptosis",
+        "Fusion of BCR and ABL genes, creating a constitutively active tyrosine kinase"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Trisomy 21 (Down syndrome) causes different dysmorphic features and endocardial cushion defects, not supravalvular aortic stenosis or hypercalcemia.",
-        "Paternal 15q11-13 deletion causes Prader-Willi syndrome, characterized by hypotonia and hyperphagia, not this cardiac/personality phenotype.",
-        "Correct \u2014 Williams syndrome results from a microdeletion on chromosome 7q that includes the elastin gene, producing supravalvular aortic stenosis, hypercalcemia, and a friendly, verbally skilled personality with elfin facies.",
-        "CGG repeat expansion in FMR1 causes Fragile X syndrome, associated with macroorchidism and autistic features, not supravalvular aortic stenosis or hypercalcemia.",
-        "22q11.2 deletion causes DiGeorge syndrome with immunodeficiency and hypocalcemia (not hypercalcemia)."
+        "Cyclin D1 overexpression from t(11;14) is characteristic of mantle cell lymphoma, not follicular lymphoma.",
+        "c-myc overexpression from t(8;14) is characteristic of Burkitt lymphoma, not follicular lymphoma.",
+        "Correct - The t(14;18) translocation in follicular lymphoma places the BCL2 gene next to the immunoglobulin heavy chain gene, causing BCL2 overexpression, which blocks apoptosis (a caspase antagonist) and allows germinal center B cells that would normally be eliminated to survive.",
+        "The BCR-ABL fusion from t(9;22) is characteristic of CML, not follicular lymphoma."
       ],
-      "overview": "Williams syndrome is caused by a microdeletion on chromosome 7q that includes the elastin gene, leading to connective tissue elastin haploinsufficiency. Classic features include an 'elfin' facial appearance, supravalvular aortic stenosis (and other arteriopathies), mild-moderate intellectual disability with strong verbal skills, an extremely friendly/sociable personality, and mild hypercalcemia related to increased vitamin D sensitivity.",
-      "id": "2026-09-07-09"
+      "overview": "Follicular lymphoma is an indolent B-cell malignancy of germinal center origin, characterized by the t(14;18) translocation that causes overexpression of the anti-apoptotic protein BCL2. Normal germinal center B cells are typically BCL2-negative and undergo apoptosis unless positively selected, so BCL2 overexpression is a key marker distinguishing lymphoma from reactive follicular hyperplasia.",
+      "id": "2026-09-08-06"
     },
     {
       "format": "simple4",
-      "stem": "Two gene loci on the same chromosome are found to have a recombination frequency (\u03b8) close to zero in family linkage studies. This finding indicates that the two loci are:",
+      "stem": "A child with recurrent mucosal bleeding has a normal platelet count and normal-sized platelets on peripheral smear. Platelet aggregation testing shows failure to aggregate in response to both ADP and thrombin, but the ristocetin cofactor assay is normal. Which receptor deficiency best explains these findings?",
       "options": [
-        "Located very close together on the chromosome",
-        "Undergoing frequent independent assortment",
-        "Located far apart on the chromosome",
-        "Located on different chromosomes entirely"
+        "GPIIb/IIIa",
+        "vWF deficiency",
+        "GPIb",
+        "P2Y12"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct \u2014 recombination frequency is proportional to distance; a \u03b8 near zero indicates the loci are very close together and rarely separated by crossover (tight linkage).",
-        "Frequent independent assortment produces a recombination frequency near 0.5, the opposite of what is described.",
-        "Loci located far apart would have a higher recombination frequency, approaching 0.5, not close to zero.",
-        "Loci on different chromosomes assort independently and would show a recombination frequency of 0.5, not near zero."
+        "Correct - Glanzmann thrombasthenia results from deficiency of the GPIIb/IIIa receptor, which normally binds fibrinogen and vWF to link platelets together; this causes normal platelet count and size but abnormal aggregation with ADP or thrombin, while the ristocetin assay (testing GPIb-mediated adhesion, not aggregation) remains normal.",
+        "Von Willebrand factor deficiency (von Willebrand disease) would produce an abnormal ristocetin cofactor assay, which is normal in this patient.",
+        "GPIb deficiency describes Bernard-Soulier syndrome, which presents with giant platelets, mild thrombocytopenia, and an abnormal (not normal) ristocetin cofactor assay \u2014 a different pattern from this patient.",
+        "An isolated P2Y12 defect would impair ADP-induced aggregation but would not typically abolish thrombin-induced aggregation, and is not a described inherited platelet disorder in these notes."
       ],
-      "overview": "Recombination frequency (\u03b8) reflects the physical distance between two loci on a chromosome, ranging from 0 (perfectly linked, no recombination) to 0.5 (unlinked, behaving as if on separate chromosomes due to independent assortment). Family linkage studies use recombination frequency to construct genetic maps, since closely spaced genes are rarely separated by crossover events during meiosis.",
-      "id": "2026-09-07-10"
+      "overview": "Glanzmann thrombasthenia is an autosomal recessive disorder caused by deficiency of the platelet GPIIb/IIIa receptor, which normally binds fibrinogen and von Willebrand factor to mediate platelet-platelet aggregation. Patients have normal platelet count and size but abnormal platelet aggregation testing with ADP or thrombin, while the ristocetin cofactor assay (testing GPIb-mediated adhesion) remains normal \u2014 the mirror image of Bernard-Soulier syndrome.",
+      "id": "2026-09-08-07"
     },
     {
       "format": "simple4",
-      "stem": "Angelman syndrome results from loss of expression of the UBE3A gene. Under normal conditions, which parental copy of UBE3A is expressed in the brain?",
+      "stem": "A patient with blood type O has naturally occurring antibodies against A and B antigens without any prior transfusion or pregnancy. These antibodies are best characterized as which immunoglobulin class, and why do they not cross the placenta?",
       "options": [
-        "Both maternal and paternal copies equally",
-        "The paternally inherited copy only",
-        "Neither copy is normally expressed",
-        "The maternally inherited copy only"
+        "IgE; bound to mast cells",
+        "IgG; too large to cross the placenta",
+        "IgA; actively transported away from the placenta",
+        "IgM; too large to cross the placenta"
       ],
       "correctIndex": 3,
       "explanations": [
-        "UBE3A is an imprinted gene, so it does not show biallelic expression; only the maternal copy is normally active in the brain.",
-        "The paternal copy of UBE3A is normally silenced (not expressed) in the brain; deletion of the paternal chromosome 15 region instead causes Prader-Willi syndrome.",
-        "UBE3A is normally actively expressed from the maternal allele; it is not silenced on both chromosomes under normal circumstances.",
-        "Correct \u2014 UBE3A is normally expressed only from the maternally inherited chromosome 15 in the brain, so deletion or dysfunction of the maternal copy (as in Angelman syndrome) results in a complete lack of UBE3A expression."
+        "IgE is associated with type I hypersensitivity reactions, not naturally occurring ABO antibodies.",
+        "ABO antibodies are IgM, not IgG; IgG (such as anti-D antibodies in Rh disease) is the class that can cross the placenta.",
+        "IgA is not the antibody class responsible for naturally occurring ABO antibodies.",
+        "Correct - ABO antibodies arise naturally in early infancy from exposure to structurally similar bacterial antigens during gut colonization and are IgM, which is too large to cross the placenta, explaining why ABO incompatibility does not typically cause severe hemolytic disease of the newborn like Rh incompatibility can."
       ],
-      "overview": "Angelman syndrome results from loss of function of the maternally inherited UBE3A gene within the 15q11-13 imprinted region, most commonly due to deletion of the maternal chromosome 15 segment (with maternal uniparental disomy accounting for only a small minority of cases). Because the paternal copy of UBE3A is normally silenced in the brain, loss of the maternal copy leaves no functional UBE3A, producing severe intellectual disability, ataxia, seizures, and a characteristic happy demeanor with frequent laughter.",
-      "id": "2026-09-07-11"
+      "overview": "Unlike Rh(D) antibodies, which require prior sensitizing exposure and are IgG (able to cross the placenta), ABO blood group antibodies occur naturally without prior transfusion or pregnancy exposure, arising from cross-reactivity with similar bacterial gut antigens, and are of the IgM class, which does not cross the placenta.",
+      "id": "2026-09-08-08"
     },
     {
       "format": "simple4",
-      "stem": "A secondary oocyte released at ovulation remains arrested at which stage of meiosis until fertilization occurs?",
+      "stem": "A patient with hemolytic anemia has markedly decreased serum haptoglobin, hemoglobinuria, and hemosiderinuria. These findings are most consistent with which type of hemolysis?",
       "options": [
-        "Metaphase of meiosis I",
-        "Metaphase of meiosis II",
-        "Anaphase of meiosis II",
-        "Prophase of meiosis I"
+        "Extravascular hemolysis in the spleen",
+        "Intravascular hemolysis",
+        "Sequestration of red cells in an enlarged spleen",
+        "Ineffective erythropoiesis in the bone marrow"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Secondary oocytes have already completed meiosis I by the time of ovulation, so they are not arrested in metaphase of meiosis I.",
-        "Correct \u2014 after completing meiosis I at ovulation, the secondary oocyte begins meiosis II but arrests in metaphase II until fertilization triggers completion of meiosis.",
-        "The oocyte does not reach anaphase of meiosis II until after fertilization occurs; it is arrested earlier, at metaphase II.",
-        "Primary oocytes, not secondary oocytes, are arrested in prophase of meiosis I, from fetal life until puberty."
+        "Extravascular hemolysis (as in hereditary spherocytosis or warm AIHA) typically shows only low or normal haptoglobin, without hemoglobinuria or hemosiderinuria, since red cells are destroyed by splenic macrophages rather than lysed in the bloodstream.",
+        "Correct - Intravascular hemolysis releases free hemoglobin directly into the plasma, rapidly saturating and depleting haptoglobin, with excess free hemoglobin filtered into the urine (hemoglobinuria) and reabsorbed iron appearing as hemosiderin in sloughed tubular cells (hemosiderinuria).",
+        "Splenic sequestration causes an acute drop in hemoglobin from pooling of red cells in the spleen, not hemoglobinuria/hemosiderinuria.",
+        "Ineffective erythropoiesis reflects failure of red cell maturation in the marrow, not the plasma/urine findings of active intravascular red cell lysis."
       ],
-      "overview": "Oogenesis begins in utero, with primary oocytes arrested in prophase of meiosis I until puberty. Each cycle, a primary oocyte completes meiosis I, forming a secondary oocyte and a polar body; the secondary oocyte then begins meiosis II but arrests again in metaphase II. Fertilization is required to trigger completion of meiosis II, underscoring why meiosis I errors are especially common with advancing maternal age given the decades-long arrest.",
-      "id": "2026-09-07-12"
+      "overview": "Intravascular hemolysis (e.g., mechanical hemolysis, PNH, ABO transfusion reaction) releases free hemoglobin directly into plasma, causing markedly decreased haptoglobin, hemoglobinuria, and hemosiderinuria \u2014 findings not typically seen with extravascular hemolysis, where RBCs are phagocytosed by splenic/hepatic macrophages.",
+      "id": "2026-09-08-09"
     },
     {
       "format": "simple4",
-      "stem": "Beta-thalassemia can result from a wide range of different mutations within the beta-globin gene, with mutations that abolish all protein function (\u03b20) causing more severe disease than mutations that only partially reduce function (\u03b2+). This phenomenon, in which different mutations at the same locus produce a spectrum of disease severity, is termed:",
+      "stem": "A newborn has persistent bleeding from the umbilical stump. Platelet count, bleeding time, PT, and aPTT are all normal. Which test should be performed next to establish the diagnosis?",
       "options": [
-        "Locus heterogeneity",
-        "Allelic heterogeneity",
-        "Codominance",
-        "Genetic imprinting"
+        "Ristocetin cofactor assay",
+        "Clot solubility test",
+        "Osmotic fragility test",
+        "Mixing study"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Locus heterogeneity refers to mutations at different genes/loci causing the same disease (e.g., retinitis pigmentosa), not multiple mutations within a single gene.",
-        "Correct \u2014 allelic heterogeneity describes multiple different mutations within the same gene (locus) producing a spectrum of disease severity, as seen with beta-thalassemia and cystic fibrosis.",
-        "Codominance describes simultaneous expression of two different alleles in a heterozygote (e.g., ABO blood groups), not a spectrum of severity from different mutations at one locus.",
-        "Genetic imprinting refers to parent-of-origin-specific gene expression, unrelated to the number of mutation types within a gene."
+        "The ristocetin cofactor assay evaluates von Willebrand factor activity and would be relevant if vWD were suspected, but the normal bleeding time here argues against a platelet-vWF disorder.",
+        "Correct - Factor XIII cross-links fibrin monomers to stabilize the clot but is not assessed by PT or PTT; its deficiency is classically diagnosed by a clot solubility test, in which the clot dissolves easily in a special solution, and classically presents with umbilical stump bleeding despite normal coagulation screening.",
+        "Osmotic fragility testing is used for hereditary spherocytosis, unrelated to this presentation.",
+        "A mixing study is used to differentiate a factor deficiency from an inhibitor when PT or PTT is prolonged, which is not the case here."
       ],
-      "overview": "Allelic heterogeneity occurs when multiple different mutations at the same gene locus can cause the same general disease, often producing variable severity depending on the specific mutation's effect on protein function. Classic examples include beta-thalassemia (\u03b2o = no function vs \u03b2+ = partial function) and cystic fibrosis (CFTR gene, over 1400 described mutations).",
-      "id": "2026-09-07-13"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which of the following is the most common genetic mechanism underlying Prader-Willi syndrome?",
-      "options": [
-        "Deletion of the maternally inherited copy of the 15q11-13 region",
-        "A CGG trinucleotide repeat expansion on the X chromosome",
-        "Maternal uniparental disomy of chromosome 15 in all cases",
-        "Deletion of the paternally inherited copy of the 15q11-13 region"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Deletion of the maternal 15q11-13 region causes Angelman syndrome (loss of maternally-expressed UBE3A), not Prader-Willi.",
-        "Prader-Willi syndrome is caused by an imprinting/deletion defect on chromosome 15, not a trinucleotide repeat expansion (that mechanism underlies Fragile X syndrome).",
-        "Maternal uniparental disomy accounts for only about 25% of Prader-Willi cases, making it a minority rather than the most common mechanism.",
-        "Correct \u2014 approximately 75% of Prader-Willi syndrome cases result from a sporadic deletion of the paternal copy of the 15q11-13 region, silencing paternally-expressed genes."
-      ],
-      "overview": "Prader-Willi syndrome results from loss of function of paternally-expressed genes in the 15q11-13 region, most commonly (~75%) due to a sporadic deletion of the paternal chromosome 15 segment, with the remainder due to maternal uniparental disomy (two maternal copies, no paternal copy). Clinical features include neonatal hypotonia and poor feeding, followed by hyperphagia and obesity, mild intellectual disability, and hypogonadism.",
-      "id": "2026-09-07-14"
-    },
-    {
-      "format": "simple4",
-      "stem": "Genomic imprinting, in which certain genes are expressed only from the maternally or paternally inherited chromosome, is established during gametogenesis primarily through which molecular mechanism?",
-      "options": [
-        "Methylation of cytosine residues in DNA",
-        "X chromosome inactivation",
-        "Trinucleotide repeat expansion",
-        "Nondisjunction during meiosis I"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 imprinting occurs during gametogenesis when genes are 'marked' as maternal or paternal in origin through methylation of cytosine in DNA, which then silences one parental allele after fertilization.",
-        "X chromosome inactivation (lyonization) silences one X chromosome in females for dosage compensation, which is a related but distinct epigenetic phenomenon from autosomal genomic imprinting.",
-        "Trinucleotide repeat expansion underlies disorders like Fragile X and Huntington's disease, not the establishment of genomic imprinting.",
-        "Nondisjunction is a meiotic error causing aneuploidy, unrelated to the epigenetic marking process of imprinting."
-      ],
-      "overview": "Genomic imprinting is an epigenetic phenomenon in which a gene's expression depends on its parent of origin. During gametogenesis, genes are marked as paternal or maternal, typically via cytosine methylation, which silences one parental copy after fertilization. Only imprinted genes show this monoallelic expression; most genes are non-imprinted and express both alleles. Disruption of imprinted regions on chromosome 15q11-13 underlies Prader-Willi and Angelman syndromes.",
-      "id": "2026-09-07-15"
+      "overview": "Factor XIII cross-links fibrin monomers to form a stable, mechanically strong clot but is not measured by PT or aPTT, so its deficiency presents with normal coagulation screening tests. The classic presentation is umbilical stump bleeding in a newborn, diagnosed with a clot solubility test showing that the clot dissolves in solution.",
+      "id": "2026-09-08-10"
     },
     {
       "format": "vignette5",
-      "stem": "A 29-year-old man presents for evaluation of infertility after 2 years of unprotected intercourse with his partner. Physical exam reveals small, firm testes, sparse facial hair, and gynecomastia. He has long arms and legs. Semen analysis shows azoospermia. Laboratory studies show low serum testosterone with elevated FSH and LH. Which of the following karyotypes is most consistent with this presentation?",
+      "stem": "A 29-year-old woman reports several months of intermittent dark urine that is most noticeable in the morning. She has also had two episodes of abdominal pain and was recently diagnosed with a portal vein thrombosis. Labs show anemia, elevated LDH, decreased haptoglobin, and a negative direct Coombs test. Flow cytometry shows a red cell population deficient in CD55 and CD59. Which of the following best explains the pathogenesis of this patient's disease?",
       "options": [
-        "45,X",
-        "46,XY with FMR1 CGG expansion",
-        "45,X/46,XX mosaicism",
-        "47,XXX",
-        "47,XXY"
+        "Deficiency of pyruvate kinase impairing glycolysis",
+        "Acquired somatic mutation impairing the GPI anchor for complement-regulatory proteins",
+        "Autoantibodies directed against red cell membrane proteins",
+        "Point mutation in the beta-globin gene",
+        "Deficient ADAMTS13 activity leading to microthrombi"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Pyruvate kinase deficiency causes a chronic hereditary hemolytic anemia but is not associated with CD55/CD59 deficiency or the thrombotic pattern described.",
+        "Correct - PNH results from an acquired mutation in the PIGA gene in a hematopoietic stem cell, impairing synthesis of the GPI anchor needed to attach complement-regulatory proteins CD55 (decay accelerating factor) and CD59 (MAC inhibitor) to the cell surface, causing complement-mediated intravascular hemolysis and increased thrombosis risk.",
+        "Autoantibody-mediated hemolysis would produce a positive direct Coombs test, which is negative in this patient, consistent instead with a complement-mediated process.",
+        "A beta-globin point mutation describes sickle cell disease, not PNH.",
+        "ADAMTS13 deficiency causes TTP, not PNH; the clinical picture here (nocturnal hemoglobinuria, unusual-site thrombosis, negative Coombs, CD55/CD59 deficiency) is classic for PNH."
+      ],
+      "overview": "Paroxysmal nocturnal hemoglobinuria arises from an acquired PIGA gene mutation that impairs GPI-anchor synthesis, causing loss of the complement-regulatory proteins CD55 and CD59 from blood cell membranes and resulting in complement-mediated intravascular hemolysis. Classic features include morning hemoglobinuria, unusual-site venous thromboses (e.g., portal, hepatic, cerebral veins), and a negative Coombs test; treatment is with anti-C5 antibodies (eculizumab/ravulizumab).",
+      "id": "2026-09-08-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "Vascular endothelial injury activates the coagulation cascade in vivo primarily through exposure of which substance?",
+      "options": [
+        "High molecular weight kininogen",
+        "Prekallikrein",
+        "Factor XII",
+        "Tissue factor (thromboplastin)"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "High molecular weight kininogen is a cofactor for the contact (intrinsic) pathway relevant to laboratory testing, not the primary in vivo trigger.",
+        "Prekallikrein participates in the contact activation pathway measured by aPTT but is not clinically important for in vivo hemostasis.",
+        "Factor XII activation is relevant mainly to the aPTT laboratory assay via contact activation, not the major in vivo initiating event.",
+        "Correct - Tissue factor is a subendothelial glycoprotein exposed by vascular injury; it complexes with factor VIIa to activate factor X, initiating the extrinsic pathway, the major physiologic trigger of coagulation in vivo."
+      ],
+      "overview": "Vascular injury exposes tissue factor, a subendothelial glycoprotein that binds factor VIIa to activate factor X, initiating the extrinsic pathway (measured by PT), which is the physiologically dominant trigger of clotting. The intrinsic/contact pathway (factor XII, prekallikrein, HMWK) is mainly relevant to the aPTT assay and not to in vivo hemostasis.",
+      "id": "2026-09-08-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 71-year-old woman is evaluated after a pathologic vertebral compression fracture that occurred with minimal trauma. She also reports fatigue and unintentional weight loss. Serum protein electrophoresis shows a monoclonal IgG spike, and urine studies reveal Bence Jones proteins. Renal function is impaired. Which of the following mechanisms best explains this patient's renal dysfunction?",
+      "options": [
+        "Immune complex deposition activating complement in the glomerulus",
+        "Light chain casts obstructing the distal tubules",
+        "Direct viral cytopathic injury to renal tubular cells",
+        "Cross-linking of DNA in renal tubular cells",
+        "Deposition of amyloid fibrils composed of serum amyloid A protein"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Myeloma kidney results from tubular obstruction by light chains, not glomerular immune complex deposition.",
+        "Correct - In multiple myeloma, excess free light chains exceed the reabsorptive capacity of the proximal tubule, reach the distal tubule, and combine with Tamm-Horsfall protein to form obstructing casts (\"myeloma kidney\" or cast nephropathy).",
+        "There is no viral cytopathic mechanism underlying myeloma-associated renal injury.",
+        "DNA cross-linking is a mechanism of alkylating chemotherapy agents, not the underlying pathology of myeloma kidney.",
+        "AA amyloidosis derives from serum amyloid A and is associated with chronic inflammatory conditions (e.g., rheumatoid arthritis), not the renal mechanism described here."
+      ],
+      "overview": "Multiple myeloma is a plasma cell malignancy that produces monoclonal immunoglobulins (usually IgG) and free light chains, causing the CRAB features: hypercalcemia, renal failure, anemia, and lytic bone lesions/pathologic fractures. Renal injury classically results from light-chain (Bence Jones protein) cast nephropathy when proximal tubular reabsorptive capacity is exceeded.",
+      "id": "2026-09-08-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 3-year-old boy living in an older home with peeling paint presents with abdominal pain, constipation, and a microcytic anemia with basophilic stippling on smear. Lead poisoning impairs heme synthesis primarily by inhibiting which two enzymes?",
+      "options": [
+        "Delta-ALA dehydratase and ferrochelatase",
+        "Delta-ALA synthase and porphobilinogen deaminase",
+        "Thymidylate synthase and dihydrofolate reductase",
+        "Uroporphyrinogen decarboxylase and delta-ALA synthase"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Lead inhibits delta-aminolevulinic acid dehydratase and ferrochelatase in the heme synthesis pathway, impairing heme production and causing microcytic, hypochromic anemia with basophilic stippling.",
+        "Delta-ALA synthase is the rate-limiting enzyme normally inhibited by heme itself (negative feedback), and porphobilinogen deaminase deficiency causes acute intermittent porphyria, not lead poisoning.",
+        "Thymidylate synthase and DHFR are targets of chemotherapy drugs (5-FU, methotrexate), unrelated to heme synthesis or lead poisoning.",
+        "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, unrelated to lead toxicity."
+      ],
+      "overview": "Lead poisoning inhibits delta-aminolevulinic acid dehydratase and ferrochelatase in the heme synthesis pathway, causing microcytic, hypochromic anemia with basophilic stippling on smear. Clinical features include abdominal pain (\"lead colic\"), constipation, gum lead lines, neuropathy (wrist/foot drop), and neurodevelopmental effects in children.",
+      "id": "2026-09-08-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman completes six cycles of doxorubicin-containing chemotherapy for breast cancer. Eight months later she presents with progressive dyspnea, lower extremity edema, and fatigue. Echocardiogram shows a decreased left ventricular ejection fraction. Which mechanism best explains this patient's cardiac findings?",
+      "options": [
+        "Coronary vasospasm from pyrimidine analog metabolites",
+        "Immune-mediated myocarditis",
+        "Direct blockade of HER2 receptors on myocytes",
+        "Iron chelation-induced myocyte necrosis",
+        "Free radical-mediated oxidative damage to myocytes"
       ],
       "correctIndex": 4,
       "explanations": [
-        "45,X (Turner syndrome) occurs in phenotypic females, not males with a male reproductive presentation.",
-        "FMR1 CGG expansion causes Fragile X syndrome, associated with macroorchidism, not small testes and gynecomastia.",
-        "45,X/46,XX mosaicism describes mosaic Turner syndrome in phenotypic females.",
-        "47,XXX (triple X) occurs in females and is often clinically silent, not associated with a male infertility presentation.",
-        "Correct \u2014 Klinefelter syndrome (47,XXY) causes primary hypogonadism with small firm testes, elevated gonadotropins from loss of testosterone/inhibin B feedback, gynecomastia, and long limbs from the extra SHOX gene copy."
+        "Coronary vasospasm is a toxicity of 5-fluorouracil, not doxorubicin.",
+        "Doxorubicin cardiotoxicity is caused by direct free radical damage to myocytes, not an immune-mediated myocarditis.",
+        "This describes trastuzumab-induced cardiotoxicity, which is typically reversible and mechanistically distinct from anthracycline damage.",
+        "Dexrazoxane is an iron-chelating agent used to prevent (not cause) anthracycline-induced cardiotoxicity.",
+        "Correct - Anthracyclines like doxorubicin generate free radicals via their quinone groups, causing oxidative damage and necrosis of myocytes, which leads to systolic heart failure with decreased LVEF."
       ],
-      "overview": "Klinefelter syndrome (47,XXY) is the most common sex chromosome aneuploidy in males, usually from meiotic nondisjunction. It causes primary hypogonadism with small firm testes and seminiferous tubule atrophy, leading to low testosterone, infertility, and compensatory elevation of LH and FSH (loss of inhibin B feedback). Extra copies of the SHOX gene produce a tall, eunuchoid body habitus with long limbs; gynecomastia and learning disabilities are also common.",
-      "id": "2026-09-07-16"
+      "overview": "Anthracyclines (doxorubicin, daunorubicin) cause dose-related cardiotoxicity through free radical generation via their quinone groups, leading to myocyte necrosis and systolic heart failure (decreased LVEF). Dexrazoxane, an iron chelator, can limit this toxicity, and periodic echocardiograms are used for screening.",
+      "id": "2026-09-08-15"
     },
     {
       "format": "simple4",
-      "stem": "A female carrier of an X-linked recessive disease allele unexpectedly develops clinical manifestations of the disease, despite having one normal allele on her other X chromosome. Which of the following best explains this presentation?",
+      "stem": "A patient started on standard-dose intravenous unfractionated heparin for a DVT shows minimal rise in aPTT despite escalating doses. Which underlying condition best explains this finding?",
       "options": [
-        "Uniparental disomy of the X chromosome",
-        "Complete deletion of the Y chromosome",
-        "Random but skewed X-inactivation resulting in preferential inactivation of the X chromosome carrying the normal allele",
-        "A new spontaneous autosomal dominant mutation"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Uniparental disomy involves inheriting both copies of a chromosome from one parent; it is not the mechanism underlying variable X-linked recessive expression in carrier females due to X-inactivation.",
-        "Females do not have a Y chromosome under normal circumstances, so its deletion is not relevant to this scenario.",
-        "Correct \u2014 Lyonization (X-inactivation) is normally random, but skewed lyonization can result in a majority of cells inactivating the X chromosome bearing the normal allele, unmasking the disease phenotype in a heterozygous female carrier.",
-        "The scenario describes an X-linked recessive condition already known to be present as a carrier state, not a new autosomal dominant mutation."
-      ],
-      "overview": "Lyonization is the random inactivation of one X chromosome in each cell of a female embryo early in development, creating a mosaic of cells expressing either the maternal or paternal X. While usually balanced, skewed lyonization (where a majority of cells inactivate the X carrying the normal allele) can cause female carriers of X-linked recessive diseases to manifest disease symptoms, unlike the typical unaffected carrier state.",
-      "id": "2026-09-07-17"
-    },
-    {
-      "format": "simple4",
-      "stem": "Unlike Duchenne muscular dystrophy, in which about two-thirds of cases are inherited from a carrier mother, Becker muscular dystrophy cases are inherited from a carrier mother in approximately what proportion of cases?",
-      "options": [
-        "100%",
-        "50%",
-        "90%",
-        "10%"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "100% is not accurate, as a small proportion of Becker cases still arise from new mutations rather than maternal inheritance.",
-        "50% underestimates the proportion; Becker muscular dystrophy is inherited from a carrier mother in about 90% of cases.",
-        "Correct \u2014 approximately 90% of Becker muscular dystrophy cases are inherited from a carrier mother, a higher proportion than in Duchenne (two-thirds), reflecting differences in new mutation rates and reproductive fitness.",
-        "10% is far too low; the vast majority of Becker cases are inherited rather than arising from new mutations."
-      ],
-      "overview": "Both Duchenne and Becker muscular dystrophy are X-linked recessive disorders caused by mutations in the DMD gene, with Duchenne caused by frameshift mutations (absent or truncated dystrophin) and Becker caused by non-frameshift mutations (partially functional dystrophin, milder disease). Becker muscular dystrophy is inherited from a carrier mother in about 90% of cases, more often than Duchenne, and has a later onset with slower progression, often allowing survival into the 30s.",
-      "id": "2026-09-07-18"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 14-year-old boy presents with progressive difficulty walking and frequent falls over the past year. Exam shows a wide-based, ataxic gait, dysarthria, loss of vibration and proprioception, and absent deep tendon reflexes in the lower extremities. Echocardiogram reveals concentric left ventricular hypertrophy. He also has pes cavus and kyphoscoliosis. Genetic testing reveals an expanded trinucleotide repeat in a gene on chromosome 9. This condition is inherited in which of the following patterns, and involves a protein important for which cellular process?",
-      "options": [
-        "Autosomal dominant; microtubule transport",
-        "X-linked recessive; dystrophin-glycoprotein complex",
-        "Mitochondrial; oxidative phosphorylation complex I",
-        "Autosomal recessive; mitochondrial function",
-        "Autosomal dominant; DNA mismatch repair"
+        "Factor V Leiden mutation",
+        "Antiphospholipid syndrome",
+        "Protein C deficiency",
+        "Antithrombin III deficiency"
       ],
       "correctIndex": 3,
       "explanations": [
-        "The disorder is not autosomal dominant, and frataxin is not involved in microtubule transport.",
-        "Dystrophin-glycoprotein complex defects cause Duchenne/Becker muscular dystrophy, which are X-linked, not this disease.",
-        "Mitochondrial DNA mutations follow maternal inheritance, but Friedreich's ataxia is a nuclear (chromosome 9) gene defect with autosomal recessive inheritance.",
-        "Correct \u2014 Friedreich's ataxia is autosomal recessive, caused by GAA repeat expansion in the frataxin gene on chromosome 9; frataxin is a mitochondrial protein, and its deficiency causes mitochondrial dysfunction affecting the brain, heart, and pancreas.",
-        "DNA mismatch repair gene mutations cause Lynch syndrome (HNPCC), unrelated to Friedreich's ataxia."
+        "Factor V Leiden causes resistance to activated protein C and hypercoagulability but does not classically cause heparin resistance.",
+        "Antiphospholipid syndrome causes a paradoxically prolonged aPTT at baseline due to lupus anticoagulant interference, not blunted heparin responsiveness.",
+        "Protein C deficiency causes hypercoagulability, notably warfarin-induced skin necrosis, but not heparin resistance.",
+        "Correct - Antithrombin III is the endogenous target that heparin binds to accelerate inactivation of thrombin and factor Xa; a deficiency of antithrombin III blunts heparin's effect, producing \"heparin resistance\" with an escalating dose requirement and minimal aPTT rise."
       ],
-      "overview": "Friedreich's ataxia is an autosomal recessive trinucleotide (GAA) repeat expansion disorder affecting the frataxin gene on chromosome 9. Frataxin is needed for normal mitochondrial function, and its deficiency causes progressive spinocerebellar and dorsal column degeneration (ataxia, loss of proprioception/vibration, areflexia), hypertrophic cardiomyopathy, and skeletal deformities like kyphoscoliosis and pes cavus, with onset in adolescence.",
-      "id": "2026-09-07-19"
+      "overview": "Heparin is an indirect anticoagulant that works by binding and greatly accelerating the activity of antithrombin III against thrombin (IIa) and factor Xa. Antithrombin III deficiency (inherited or acquired, e.g., nephrotic syndrome) classically presents as venous thrombosis and heparin resistance, where escalating heparin doses fail to raise the aPTT appropriately.",
+      "id": "2026-09-08-16"
     },
     {
       "format": "simple4",
-      "stem": "A disease-causing mutation arises near a specific allele of a nearby polymorphic marker. Over many subsequent generations, the degree of linkage disequilibrium between the mutation and the marker allele is expected to:",
+      "stem": "A 35-year-old woman has recurrent episodes of severe abdominal pain, tachycardia, and confusion, often after fasting or starting a new medication. Her urine darkens on standing. Which enzyme deficiency underlies this condition?",
       "options": [
-        "Decrease over time as recombination separates the loci",
-        "Increase steadily due to natural selection",
-        "Increase only if the population size decreases",
-        "Remain constant regardless of generations passed"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 linkage disequilibrium is greatest when a mutation first arises near a marker allele and fades over successive generations as recombination gradually separates the two loci.",
-        "Natural selection is not required for linkage disequilibrium to change; recombination alone erodes it over time.",
-        "A decrease in population size would tend to slow, not accelerate, decay by increasing genetic drift, but the fundamental cause of decay is recombination over time and distance, not a requirement for the population to shrink.",
-        "Linkage disequilibrium is not static \u2014 it decays as recombination events accumulate across generations."
-      ],
-      "overview": "Linkage disequilibrium (LD) refers to non-random association between alleles at nearby loci in a population, distinct from family-based linkage studies used for loci with larger recombination frequencies. LD is greatest immediately after a new mutation arises and fades over successive generations as recombination breaks up the ancestral haplotype; the rate of decay depends on the physical distance between loci and the number of generations elapsed.",
-      "id": "2026-09-07-20"
-    },
-    {
-      "format": "simple4",
-      "stem": "Two unaffected parents have two children with the same rare autosomal dominant disorder. Genetic testing of the parents' blood and skin samples shows no evidence of the disease-causing mutation. Which of the following best explains this pattern?",
-      "options": [
-        "Somatic mosaicism in one of the affected children",
-        "Incomplete penetrance in both children",
-        "Germline mosaicism in one of the parents",
-        "A new independent spontaneous mutation occurred in each child"
+        "Ferrochelatase",
+        "Delta-ALA dehydratase",
+        "Porphobilinogen deaminase",
+        "Uroporphyrinogen decarboxylase"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Somatic mosaicism in the children would not explain why two separate children share the same specific mutation inherited from a parent.",
-        "Incomplete penetrance would apply if a parent carried the mutation but did not express the phenotype; the parents test negative on standard tissue sampling, favoring germline mosaicism over penetrance issues in the children (who are affected).",
-        "Correct \u2014 germline mosaicism occurs when a parent has the mutation only in a subset of germ cells (not in blood/skin), making it undetectable on standard testing while still being transmissible, and can present as recurrent 'sporadic' disease in multiple offspring.",
-        "While possible statistically, two independent identical spontaneous mutations in two separate children is far less likely than a single germline mosaic mutation transmitted from one parent's germ cell population."
+        "Ferrochelatase deficiency is associated with lead poisoning-type heme synthesis blocks, not acute intermittent porphyria.",
+        "Delta-ALA dehydratase is inhibited in lead poisoning, not in acute intermittent porphyria.",
+        "Correct - Acute intermittent porphyria is caused by deficiency of porphobilinogen deaminase, the third enzyme in heme synthesis; accumulation of delta-ALA and porphobilinogen (neurotoxins) causes the acute neurovisceral attacks, and porphobilinogen oxidizes on standing, darkening the urine.",
+        "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, which presents with photosensitive blistering skin lesions, not acute neurovisceral attacks."
       ],
-      "overview": "Germline mosaicism occurs when a parent carries a disease-causing mutation in only a subset of germ cells (sperm or oocytes), while somatic tissues sampled for testing (blood, skin) appear genetically normal. Because the mutation is undetectable by routine testing yet can be transmitted to offspring, germline mosaicism can cause recurrent 'sporadic' appearing disease among siblings despite both parents testing negative.",
-      "id": "2026-09-07-21"
-    },
-    {
-      "format": "simple4",
-      "stem": "In several trinucleotide repeat disorders, such as Huntington's disease and myotonic dystrophy, the number of repeats can increase from one generation to the next, resulting in earlier disease onset and greater severity in children compared to their affected parent. This phenomenon is called:",
-      "options": [
-        "Penetrance",
-        "Anticipation",
-        "Lyonization",
-        "Pleiotropy"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Penetrance refers to the proportion of individuals with a genotype who express the phenotype at all, not to changes in severity across generations.",
-        "Correct \u2014 anticipation describes the worsening severity and earlier age of onset of a genetic disease in successive generations, characteristic of unstable trinucleotide repeat expansion disorders.",
-        "Lyonization refers to random X chromosome inactivation in females, unrelated to generational changes in trinucleotide repeat number.",
-        "Pleiotropy refers to a single gene causing multiple distinct phenotypic effects, not to changes in disease severity across generations."
-      ],
-      "overview": "Trinucleotide repeat expansion disorders (e.g., Fragile X, Huntington's disease, myotonic dystrophy, Friedreich's ataxia) involve unstable repeat sequences that can expand further with each generation. This produces 'anticipation' \u2014 earlier onset and increased severity of disease in successive generations \u2014 because a larger repeat number in the offspring's gene typically correlates with more severe disease.",
-      "id": "2026-09-07-22"
-    },
-    {
-      "format": "simple4",
-      "stem": "The specific physical position of a gene or its allele on a chromosome is termed the gene's:",
-      "options": [
-        "Genotype",
-        "Phenotype",
-        "Allele",
-        "Locus"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Genotype refers to the specific combination of alleles an individual carries, not a chromosomal position.",
-        "Phenotype refers to the observable physical characteristics resulting from a genotype, not a chromosomal location.",
-        "An allele is one of the alternative forms a gene can take, not the location where it resides.",
-        "Correct \u2014 locus refers to the specific location of a gene or allele on a chromosome."
-      ],
-      "overview": "Basic genetic terminology distinguishes a gene (a DNA segment coding for a product), its alleles (alternative forms of that gene), its locus (its chromosomal location), and an individual's genotype (allele combination) versus phenotype (resulting observable trait). Precise use of these terms underlies interpretation of inheritance patterns and population genetics calculations.",
-      "id": "2026-09-07-23"
+      "overview": "Acute intermittent porphyria results from deficiency of porphobilinogen deaminase, causing accumulation of the neurotoxic precursors delta-ALA and porphobilinogen. Attacks are triggered by drugs that induce cytochrome P450 (increasing heme demand), alcohol, and fasting/caloric restriction, presenting with abdominal pain, autonomic and psychiatric symptoms, and urine that darkens on standing; treatment includes hemin and glucose to suppress ALA synthase.",
+      "id": "2026-09-08-17"
     },
     {
       "format": "vignette5",
-      "stem": "A couple presents after their third first-trimester pregnancy loss. Karyotyping of the male partner reveals 45 chromosomes total, with fusion of the long arms of chromosomes 14 and 21 and loss of both short arms. He is phenotypically normal. Which of the following best explains the couple's reproductive history?",
+      "stem": "A 45-year-old man is admitted to the ICU after being found to have spontaneous bruising and blood oozing around his peripheral IV site. Laboratory testing reveals hemoglobin 9.1 g/dL, platelets 22,000/mm3, prolonged PT and PTT, decreased fibrinogen, and elevated D-dimer. Peripheral blood smear reveals abnormal promyelocytes containing multiple bundled needle-shaped cytoplasmic inclusions. Cytogenetic analysis identifies a translocation between chromosomes 15 and 17. Aside from supportive management of the coagulopathy, which of the following is the most appropriate targeted pharmacotherapy?",
       "options": [
-        "The pregnancy losses are due to maternal age-related meiosis I nondisjunction",
-        "The father is producing predominantly monosomic and trisomic gametes due to unbalanced segregation of the translocated chromosome",
-        "The father has mosaic Klinefelter syndrome affecting spermatogenesis",
-        "The mother has a balanced 14;21 translocation causing recurrent aneuploidy",
-        "The father has a de novo trisomy 21 in all somatic cells"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "This mechanism describes sporadic meiotic nondisjunction related to maternal age, not the translocation carrier state described in the father.",
-        "Correct \u2014 Robertsonian translocation carriers have a balanced karyotype (loss of short arms is phenotypically silent) but produce a high proportion of unbalanced gametes (monosomic or trisomic for chromosomes 14/21), leading to frequent miscarriages.",
-        "The father's karyotype (45 chromosomes with a 14;21 fusion) is a Robertsonian translocation, not Klinefelter syndrome (47,XXY).",
-        "The scenario specifies the karyotype abnormality is in the father, not the mother.",
-        "A carrier of a balanced translocation does not have trisomy 21 in his own cells; his own phenotype is normal because no genetic material is lost from the long arms."
-      ],
-      "overview": "Robertsonian translocations involve fusion of the long arms of two acrocentric chromosomes (13, 14, 15, 21, 22), with loss of the short arms. Carriers have only 45 chromosomes but a normal phenotype since short-arm material is not essential. However, carriers produce a high proportion of unbalanced gametes (monosomic or trisomic), causing recurrent spontaneous abortions or offspring with trisomy (e.g., Down syndrome via 14;21 translocation, which carries a high familial recurrence risk independent of maternal age).",
-      "id": "2026-09-07-24"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A female newborn is noted to have puffy hands and feet along with loose skin folds at the posterior neck. Prenatal ultrasound had shown a large fluid-filled collection in the neck region. On exam, the chest is broad with widely spaced nipples. An echocardiogram is obtained given the association of this condition with a bicuspid aortic valve. Karyotype analysis is most likely to reveal which of the following?",
-      "options": [
-        "47,XXY",
-        "45,X",
-        "45,X/46,XY mosaicism with ambiguous genitalia",
-        "46,XX with an FMR1 premutation",
-        "47,XYY"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "47,XXY (Klinefelter) occurs in phenotypic males and does not cause cystic hygroma or lymphedema.",
-        "Correct \u2014 Turner syndrome (45,X) causes fetal lymphatic obstruction leading to cystic hygroma and neonatal lymphedema of the hands/feet, along with a webbed neck, shield chest, and bicuspid aortic valve.",
-        "Mixed gonadal dysgenesis (45,X/46,XY) can cause ambiguous genitalia but is a distinct, less common entity from classic 45,X Turner syndrome described here.",
-        "An FMR1 premutation relates to Fragile X-associated conditions, not Turner-type lymphedema.",
-        "47,XYY occurs in males and is generally not associated with this phenotype."
-      ],
-      "overview": "Turner syndrome (45,X) is the most common cause of female sex chromosome aneuploidy, typically arising from a sperm lacking a sex chromosome. Fetal lymphatic obstruction causes cystic hygroma in utero and neonatal lymphedema of the hands and feet, plus a webbed neck and shield chest with widely spaced nipples. Cardiovascular associations include bicuspid aortic valve (~30%) and coarctation of the aorta (5-10%), and gonadal dysgenesis causes primary hypogonadism.",
-      "id": "2026-09-07-25"
-    },
-    {
-      "format": "simple4",
-      "stem": "Compared to the general pediatric population, children with Down syndrome have a markedly increased relative risk of developing which specific subtype of acute myeloid leukemia?",
-      "options": [
-        "M3, acute promyelocytic leukemia",
-        "M7, megakaryoblastic leukemia",
-        "M4, myelomonocytic leukemia",
-        "M0, minimally differentiated leukemia"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "M3 (acute promyelocytic leukemia) is associated with the PML-RARA translocation and is not the AML subtype specifically linked to Down syndrome.",
-        "Correct \u2014 children with Down syndrome have a markedly increased risk of the M7 (acute megakaryoblastic) subtype of AML, in addition to an overall increased risk of acute lymphoblastic leukemia.",
-        "M4 (myelomonocytic leukemia) is not the AML subtype classically associated with Down syndrome.",
-        "M0 (minimally differentiated AML) is not the subtype specifically associated with Down syndrome."
-      ],
-      "overview": "Down syndrome is associated with a significantly increased lifetime risk of leukemia (about 1-1.5%), most commonly acute lymphoblastic leukemia (10-20 times the general population risk) as well as a specific predisposition to the M7 megakaryoblastic subtype of acute myeloid leukemia, often occurring in early childhood.",
-      "id": "2026-09-07-26"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient found to have early-onset COPD and liver disease undergoes genetic testing for alpha-1 antitrypsin (AAT) deficiency. The AAT gene has multiple alleles (M, S, Z) that combine in a codominant fashion to determine protein levels. Which genotype is expected to produce the most severe protein deficiency?",
-      "options": [
-        "MS",
-        "ZZ",
-        "MZ",
-        "MM"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "MS produces only mildly reduced protein levels since M is the normal allele.",
-        "Correct \u2014 ZZ homozygotes have severely reduced AAT protein levels, since the Z allele produces the least functional protein, and both alleles contribute independently (codominance).",
-        "MZ produces an intermediate, variable reduction in protein levels rather than the most severe deficiency.",
-        "MM is the normal genotype, associated with normal AAT protein levels."
-      ],
-      "overview": "Alpha-1 antitrypsin deficiency illustrates codominant inheritance: the M allele is normal, while S and Z alleles produce progressively lower protein levels. Because both alleles are expressed and contribute to phenotype, genotype combinations (MM, MS, MZ, SZ, ZZ) produce a spectrum of AAT levels, with ZZ homozygotes having the most severe deficiency and highest risk of early COPD and liver disease.",
-      "id": "2026-09-07-27"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 14-year-old boy with a known history of a dystrophin gene frameshift mutation and progressive proximal muscle weakness now presents with dyspnea on exertion and lower extremity edema. Echocardiogram shows a depressed left ventricular ejection fraction with myocardial fibrosis. ECG shows a new conduction abnormality. Which of the following best explains this new complication?",
-      "options": [
-        "This represents an unrelated autoimmune myocarditis",
-        "The patient has developed a second, unrelated mitochondrial myopathy",
-        "Dystrophin is also expressed in cardiac muscle, and its absence leads to myonecrosis and fibrosis of the myocardium",
-        "This is a manifestation of accelerated atherosclerosis due to immobility",
-        "Chronic corticosteroid use has caused a stress cardiomyopathy"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Nothing in the vignette suggests an autoimmune process; the cardiomyopathy is a direct consequence of the underlying dystrophin defect.",
-        "There is no indication of a separate mitochondrial disorder; the cardiac findings are explained by the known dystrophinopathy.",
-        "Correct \u2014 Dystrophin is expressed in cardiac and smooth muscle as well as skeletal muscle; its absence in Duchenne muscular dystrophy leads to progressive myocardial fibrosis, dilated cardiomyopathy with depressed LVEF, and conduction abnormalities such as AV block or arrhythmias.",
-        "Atherosclerosis is not a feature of Duchenne muscular dystrophy, and immobility does not directly cause dilated cardiomyopathy with fibrosis in this context.",
-        "The vignette does not mention corticosteroid therapy, and stress cardiomyopathy would not typically cause myocardial fibrosis."
-      ],
-      "overview": "Dystrophin is expressed not only in skeletal muscle but also in cardiac and smooth muscle, where it maintains membrane integrity by linking intracellular actin to the extracellular matrix via the dystroglycan complex. In Duchenne muscular dystrophy, loss of dystrophin causes progressive cardiomyopathy with myocardial fibrosis, systolic heart failure, and conduction abnormalities (AV block, arrhythmias), which along with respiratory failure are common causes of death.",
-      "id": "2026-09-07-28"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 22-year-old man undergoes colonoscopy after his father was diagnosed with colon cancer at age 35. The colonoscopy reveals hundreds to thousands of colonic adenomatous polyps. Genetic testing confirms a germline mutation in a tumor suppressor gene. Which of the following best describes the expected clinical course and underlying genetic mechanism?",
-      "options": [
-        "The condition shows incomplete penetrance, and most carriers will never develop polyps",
-        "This is caused by a chromosomal translocation rather than a point mutation or deletion",
-        "This represents a trinucleotide repeat expansion disorder with anticipation in successive generations",
-        "Cancer risk is low because the mutation is recessive and requires mutations in two separate genes",
-        "Nearly all affected individuals will develop colon cancer, requiring only a single additional somatic mutation in the remaining allele"
+        "Hydroxyurea",
+        "Imatinib",
+        "Rituximab",
+        "Cladribine",
+        "All-trans retinoic acid"
       ],
       "correctIndex": 4,
       "explanations": [
-        "FAP has essentially complete penetrance for colon cancer (nearly 100%) if the colon is not removed, unlike incomplete penetrance seen in BRCA1/2 mutations.",
-        "FAP is typically caused by point mutations or small deletions in APC, not translocations.",
-        "FAP is caused by point mutations/deletions in the APC gene, not a trinucleotide repeat expansion disorder.",
-        "FAP is autosomal dominant at the level of germline transmission (one mutant allele is inherited), and cancer results from a second hit in the same gene, not mutations in two separate genes.",
-        "Correct \u2014 Familial adenomatous polyposis (FAP) is caused by a germline mutation in the APC tumor suppressor gene; following the two-hit hypothesis, only one additional somatic 'hit' inactivating the remaining allele is needed in a given cell, so nearly 100% of carriers develop colon cancer if untreated, often requiring prophylactic colectomy."
+        "Hydroxyurea is used for cytoreduction in myeloproliferative disorders, not as targeted therapy for APML.",
+        "Imatinib targets BCR-ABL in CML, not the PML-RARA fusion protein of APML.",
+        "Rituximab targets CD20 on B cells and has no role in APML.",
+        "Cladribine is preferred for hairy cell leukemia, not APML.",
+        "Correct - APML is defined by t(15;17), creating the PML-RARA fusion gene that blocks promyelocyte maturation; all-trans retinoic acid, a vitamin A derivative, induces differentiation of the abnormal promyelocytes."
       ],
-      "overview": "Familial adenomatous polyposis (FAP) results from a germline mutation in the APC tumor suppressor gene. Following the two-hit hypothesis of tumorigenesis, carriers already have one nonfunctional allele in every cell, so only a single additional somatic mutation is needed to inactivate the remaining allele and drive polyp/cancer formation. This leads to near-100% progression to colorectal cancer, typically managed with prophylactic colectomy.",
-      "id": "2026-09-07-29"
+      "overview": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion gene that arrests promyelocyte maturation and predisposes to DIC due to release of procoagulant material (including Auer rods) from the myeloperoxidase-rich cells. All-trans retinoic acid induces terminal differentiation of the malignant promyelocytes and is central to treatment alongside management of the associated coagulopathy.",
+      "id": "2026-09-08-18"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 34-year-old woman with chronic myeloid leukemia is being prepared for allogeneic stem cell transplantation. She receives a single high-dose myeloablative chemotherapy regimen. Two weeks later she develops progressive dyspnea on exertion, and chest imaging reveals diffuse pulmonary fibrosis. On examination she also has diffuse darkening of the skin, most pronounced in sun-exposed areas. Which drug most likely caused this presentation?",
+      "options": [
+        "Vincristine",
+        "Busulfan",
+        "Bleomycin",
+        "Cisplatin",
+        "Cyclophosphamide"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Vincristine causes peripheral neuropathy and constipation, not pulmonary fibrosis or skin hyperpigmentation.",
+        "Correct - Busulfan classically causes \"busulfan lung\" (pulmonary fibrosis) and \"busulfan tan\" (diffuse/patchy hyperpigmentation), and is used at a single high dose for myeloablation prior to stem cell transplant.",
+        "Bleomycin can cause pulmonary fibrosis but is not the classic myeloablative agent used for pre-transplant conditioning, and does not classically cause diffuse skin hyperpigmentation in this pattern.",
+        "Cisplatin causes nephrotoxicity, peripheral neuropathy, and ototoxicity, not this pattern of lung and skin toxicity.",
+        "Cyclophosphamide classically causes hemorrhagic cystitis and SIADH, not pulmonary fibrosis with hyperpigmentation."
+      ],
+      "overview": "Busulfan is an alkylating agent used at high single doses for myeloablation prior to stem cell transplant. Classic toxicities are pulmonary fibrosis (\"busulfan lung\") and diffuse or patchy skin hyperpigmentation (\"busulfan tan\"), as well as seizures at high dosages.",
+      "id": "2026-09-08-19"
     },
     {
       "format": "simple4",
-      "stem": "Some women who inherit a pathogenic BRCA1 mutation never develop breast or ovarian cancer during their lifetime. This phenomenon, in which not all individuals carrying a disease-causing allele express the associated phenotype, is termed:",
+      "stem": "A patient receiving 5-fluorouracil for colorectal cancer develops mucositis and myelosuppression. The active metabolite of this drug produces its cytotoxic effect by which mechanism?",
       "options": [
-        "Variable expressivity",
-        "Genetic anticipation",
-        "Pleiotropy",
-        "Incomplete penetrance"
+        "Inhibiting dihydrofolate reductase",
+        "Cross-linking DNA at the N7 position of guanine",
+        "Inhibiting topoisomerase I",
+        "Inhibiting thymidylate synthase"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Variable expressivity refers to differences in the severity or range of features among individuals who do express the phenotype, not whether it appears at all.",
-        "Genetic anticipation refers to worsening severity and earlier onset of disease in successive generations, typically seen in trinucleotide repeat disorders, not to penetrance.",
-        "Pleiotropy refers to one gene causing multiple, seemingly unrelated phenotypic effects, not variability in whether a phenotype appears at all.",
-        "Correct \u2014 incomplete penetrance describes the situation where not all individuals with a disease-causing genotype (such as BRCA1 mutation carriers) develop the associated phenotype."
+        "Dihydrofolate reductase inhibition is the mechanism of methotrexate, not 5-FU.",
+        "N7 guanine cross-linking describes alkylating agents, not 5-FU.",
+        "Topoisomerase I inhibition describes irinotecan and topotecan, not 5-FU.",
+        "Correct - 5-FU is converted to 5-FdUMP, which inhibits thymidylate synthase, blocking dTMP synthesis and causing \"thymineless death\"; its effect is enhanced by leucovorin."
       ],
-      "overview": "Penetrance describes the proportion of individuals with a given genotype who actually express the associated phenotype. Incomplete penetrance, commonly seen in autosomal dominant conditions like BRCA1/BRCA2 mutations, means some carriers never develop the disease, which has important implications for counseling about cancer risk and the effectiveness of prophylactic interventions.",
-      "id": "2026-09-07-30"
+      "overview": "5-Fluorouracil is a pyrimidine analog converted to 5-FdUMP, which inhibits thymidylate synthase and blocks dTMP synthesis, producing \"thymineless death.\" It is used in colorectal and other solid tumors and topically for basal cell carcinoma, with toxicities including myelosuppression, mucositis, and hand-foot syndrome.",
+      "id": "2026-09-08-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Clopidogrel inhibits platelet aggregation by irreversibly blocking which receptor?",
+      "options": [
+        "Thromboxane A2 receptor",
+        "GPIIb/IIIa",
+        "GPIb",
+        "P2Y12"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Aspirin, not clopidogrel, works by reducing thromboxane A2 production via COX inhibition.",
+        "GPIIb/IIIa is blocked by abciximab, eptifibatide, and tirofiban, not clopidogrel.",
+        "GPIb is the receptor for von Willebrand factor mediating platelet adhesion; it is not the target of clopidogrel.",
+        "Correct - Clopidogrel is a thienopyridine that irreversibly blocks the P2Y12 ADP receptor on platelets, preventing the conformational change of GPIIb/IIIa needed for platelet aggregation."
+      ],
+      "overview": "Thienopyridines (ticlopidine, clopidogrel, prasugrel) irreversibly block the P2Y12 ADP receptor on platelets, preventing the GPIIb/IIIa conformational activation required for platelet aggregation. They are often combined with aspirin (dual antiplatelet therapy) after coronary stenting or acute coronary syndrome, with bleeding as the main toxicity.",
+      "id": "2026-09-08-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient receiving standard paclitaxel infusion for ovarian cancer develops wheezing and urticaria shortly after starting the infusion. This reaction is most directly attributable to which factor?",
+      "options": [
+        "The solvent used to deliver the poorly water-soluble drug",
+        "Cross-reactivity with penicillin-induced hapten formation",
+        "The taxane's stabilization of microtubules triggering mast cell degranulation",
+        "Complement activation by anti-tubulin antibodies"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Paclitaxel hypersensitivity reactions (occurring in up to 30% of patients) are attributed to the solvents required to deliver this poorly soluble drug; premedication with glucocorticoids/antihistamines is used, and albumin-bound paclitaxel avoids this issue.",
+        "This describes a mechanism of penicillin-induced hemolytic anemia, unrelated to paclitaxel hypersensitivity.",
+        "Microtubule stabilization is the antitumor mechanism of paclitaxel, not the cause of hypersensitivity reactions.",
+        "There is no described anti-tubulin antibody-complement mechanism for paclitaxel reactions."
+      ],
+      "overview": "Taxols (paclitaxel, docetaxel) hyperstabilize microtubules, blocking mitotic spindle breakdown and arresting cells at the metaphase-anaphase transition. Hypersensitivity reactions occur in up to 30% of patients due to the delivery solvent rather than the drug itself, and albumin-bound paclitaxel formulations reduce this risk.",
+      "id": "2026-09-08-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A hospitalized patient on prolonged broad-spectrum antibiotics develops vitamin K deficiency. Which of the following laboratory findings would be expected earliest?",
+      "options": [
+        "Prolonged bleeding time",
+        "Prolonged PT/INR",
+        "Decreased platelet count",
+        "Isolated prolonged thrombin time"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Bleeding time reflects platelet function and is normal in vitamin K deficiency, which affects coagulation factors rather than platelets.",
+        "Correct - Vitamin K deficiency impairs synthesis of factors II, VII, IX, X and proteins C/S; factor VII has the shortest half-life, so PT/INR prolongs earliest, while aPTT prolongation is less sensitive and may remain normal.",
+        "Platelet count is unaffected by vitamin K deficiency, since it is a disorder of the coagulation cascade, not platelets.",
+        "Thrombin time is prolonged by heparin or direct thrombin inhibitors and by hypofibrinogenemia, not typically by vitamin K deficiency."
+      ],
+      "overview": "Vitamin K is required for gamma-carboxylation (via epoxide reductase) of clotting factors II, VII, IX, and X as well as proteins C and S. Because factor VII has the shortest half-life, PT/INR is the most sensitive and earliest-affected test in vitamin K deficiency, while aPTT and bleeding time are less reliably affected.",
+      "id": "2026-09-08-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 4-year-old boy develops bloody diarrhea after eating undercooked ground beef at a family barbecue. Five days later he becomes pale and lethargic, and his urine output decreases. Labs show hemoglobin 7.5 g/dL, platelets 45,000/mm3, elevated creatinine, elevated LDH, and schistocytes on peripheral smear. PT and PTT are normal. Which of the following best explains this patient's condition?",
+      "options": [
+        "Severe deficiency of ADAMTS13",
+        "Autoantibody against factor VIII",
+        "Shiga-like toxin causing endothelial damage",
+        "Consumption of clotting factors from disseminated intravascular coagulation",
+        "Deficiency of glucose-6-phosphate dehydrogenase"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Severe ADAMTS13 deficiency causes TTP, which typically presents with fever and neurologic symptoms rather than the classic bloody diarrhea prodrome seen here, and is less common in young children.",
+        "This describes acquired hemophilia, which causes an isolated prolonged PTT without microangiopathic hemolytic anemia or thrombocytopenia.",
+        "Correct - E. coli O157:H7 produces Shiga-like toxin that damages endothelial cells and triggers microthrombi formation, producing HUS with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury following a bloody diarrhea prodrome, typically without fever or neurologic symptoms.",
+        "DIC causes prolonged PT/PTT and low fibrinogen due to consumption of clotting factors, which is not seen here since PT/PTT are normal.",
+        "G6PD deficiency causes episodic hemolysis triggered by oxidative stressors, not a diarrhea-associated thrombotic microangiopathy with thrombocytopenia and renal failure."
+      ],
+      "overview": "Hemolytic uremic syndrome classically follows infection with Shiga-toxin-producing E. coli O157:H7, causing endothelial damage and microthrombi in the kidney. It presents with the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury, typically without fever or neurologic symptoms (distinguishing it from TTP), and PT/PTT remain normal since clotting factors are not consumed.",
+      "id": "2026-09-08-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with long-standing rheumatoid arthritis develops nephrotic-range proteinuria. A kidney biopsy shows Congo red-positive deposits with apple-green birefringence under polarized light. Which protein most likely composes these amyloid deposits?",
+      "options": [
+        "Immunoglobulin light chains",
+        "Serum amyloid A protein",
+        "Transthyretin",
+        "Beta-2 microglobulin"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Immunoglobulin light chains compose AL (primary) amyloid, associated with plasma cell dyscrasias like multiple myeloma, not chronic inflammatory conditions like RA.",
+        "Correct - AA (secondary) amyloidosis is composed of serum amyloid A, an acute phase reactant produced in chronic inflammatory conditions such as rheumatoid arthritis, and classically presents with nephrotic syndrome.",
+        "Transthyretin composes senile (wild-type) and familial (mutant) amyloidosis, primarily affecting the heart and peripheral nerves.",
+        "Beta-2 microglobulin composes dialysis-related amyloidosis, affecting joints and tendons, not RA-associated nephrotic syndrome."
+      ],
+      "overview": "Amyloidosis results from extracellular deposition of misfolded proteins forming beta-pleated sheets, detected by Congo red staining with apple-green birefringence under polarized light. AA (secondary) amyloidosis, composed of serum amyloid A, arises from chronic inflammatory conditions like rheumatoid arthritis and classically presents with nephrotic syndrome, in contrast to AL (primary) amyloidosis from light chains in plasma cell dyscrasias.",
+      "id": "2026-09-08-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient started on methyldopa for hypertension develops a positive direct Coombs test and evidence of hemolytic anemia with spherocytes on smear. Which mechanism best explains this drug-induced hemolysis?",
+      "options": [
+        "The drug induces oxidative damage to hemoglobin, forming Heinz bodies",
+        "The drug activates complement directly on the RBC membrane",
+        "The drug triggers IgG autoantibodies directed against native RBC antigens such as Rh",
+        "The drug binds to the RBC surface as a hapten, generating antibodies against the drug-RBC complex"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Heinz body formation from oxidative damage is characteristic of G6PD deficiency, not methyldopa-induced AIHA.",
+        "Methyldopa-induced hemolysis is IgG-mediated extravascular hemolysis, not direct complement activation as seen in cold agglutinin disease.",
+        "Correct - Methyldopa is a classic trigger of warm autoimmune hemolytic anemia, inducing IgG autoantibodies directed against native RBC antigens (such as Rh antigens), causing extravascular hemolysis with a positive direct Coombs test and spherocytes.",
+        "The hapten mechanism (drug binding RBC surface, generating antibodies to the drug-RBC complex) describes high-dose penicillin-induced hemolysis, not methyldopa."
+      ],
+      "overview": "Warm autoimmune hemolytic anemia is caused by IgG autoantibodies against RBC surface antigens, producing extravascular hemolysis (spherocytes, splenomegaly, positive direct Coombs test). Methyldopa is a classic drug trigger that induces autoantibodies against native RBC antigens like Rh, distinct from the hapten mechanism seen with high-dose penicillin.",
+      "id": "2026-09-08-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "Deletion of all four alpha-globin genes results in a hemoglobin composed entirely of gamma-globin tetramers. This condition is best described by which of the following?",
+      "options": [
+        "HbH disease, a mild chronic hemolytic anemia",
+        "Silent carrier state with no anemia",
+        "Hgb Barts, incompatible with life causing hydrops fetalis",
+        "Alpha thalassemia trait, a mild microcytic anemia"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "HbH disease occurs with three-gene (not four-gene) deletions and is a chronic but survivable hemolytic anemia.",
+        "The silent carrier state (alpha thalassemia minima) results from a single gene deletion and produces no anemia; four-gene deletion is fatal, not silent.",
+        "Correct - Deletion of all four alpha-globin genes prevents formation of HbA, HbA2, or HbF; the resulting gamma-globin tetramers (Hgb Barts) cannot deliver oxygen effectively, and this condition is incompatible with life, causing hydrops fetalis and fetal death.",
+        "Alpha thalassemia trait results from two-gene deletions and is typically an asymptomatic, mild microcytic anemia."
+      ],
+      "overview": "Alpha thalassemia results from deletion of one or more of the four alpha-globin genes, with disease severity proportional to the number of genes deleted. Loss of all four genes prevents formation of HbA, HbA2, and HbF, producing Hgb Barts (gamma-globin tetramers), which is incompatible with life and causes hydrops fetalis, in contrast to milder single/two-gene deletions (silent carrier, trait) or three-gene deletion (HbH disease).",
+      "id": "2026-09-08-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient on long-term apixaban for atrial fibrillation presents with life-threatening gastrointestinal bleeding. Which reversal agent acts as a decoy that binds and sequesters the offending drug?",
+      "options": [
+        "Vitamin K",
+        "Protamine sulfate",
+        "Idarucizumab",
+        "Andexanet alfa"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Vitamin K reverses warfarin by restoring synthesis of vitamin K-dependent clotting factors, not direct factor Xa inhibitors.",
+        "Protamine sulfate reverses unfractionated heparin by binding and neutralizing it directly, not factor Xa inhibitors.",
+        "Idarucizumab is a monoclonal antibody that reverses dabigatran, a direct thrombin inhibitor, not a factor Xa inhibitor.",
+        "Correct - Andexanet alfa is a decoy factor Xa molecule that binds and sequesters direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban), reversing their anticoagulant effect."
+      ],
+      "overview": "Direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban) work without antithrombin, providing predictable oral anticoagulation without routine monitoring. Their only major toxicity is bleeding, and andexanet alfa reverses their effect by acting as a decoy that binds and sequesters the drug away from endogenous factor Xa.",
+      "id": "2026-09-08-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "Methotrexate exerts its antineoplastic and immunosuppressive effects primarily by inhibiting which enzyme?",
+      "options": [
+        "Thymidylate synthase",
+        "Ribonucleotide reductase",
+        "Topoisomerase II",
+        "Dihydrofolate reductase"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Thymidylate synthase is directly inhibited by 5-fluorouracil's active metabolite, not by methotrexate.",
+        "Ribonucleotide reductase is inhibited by hydroxyurea, not methotrexate.",
+        "Topoisomerase II is inhibited by etoposide/teniposide and anthracyclines, not methotrexate.",
+        "Correct - Methotrexate is a folate analog that inhibits dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate and thereby reducing thymidine synthesis."
+      ],
+      "overview": "Methotrexate mimics folate and inhibits dihydrofolate reductase, preventing regeneration of tetrahydrofolate needed for thymidine synthesis and thereby blocking DNA synthesis in S phase. Myelosuppression can be rescued with leucovorin (folinic acid), which bypasses the DHFR block.",
+      "id": "2026-09-08-29"
+    },
+    {
+      "format": "simple4",
+      "stem": "A lymph node biopsy from a patient with cervical lymphadenopathy and night sweats shows large binucleate cells with prominent nucleoli (\"owl-eye\" appearance) admixed with reactive inflammatory cells. Which surface markers are these malignant cells most likely to express?",
+      "options": [
+        "CD5 and CD23",
+        "CD15 and CD30",
+        "CD19 and CD20",
+        "TdT and CD10"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "CD5 and CD23 are markers of CLL/SLL, not Reed-Sternberg cells.",
+        "Correct - Classical Reed-Sternberg cells, the diagnostic malignant cells of Hodgkin lymphoma, typically express CD15 and CD30 and are usually negative for other B-cell markers (CD19, CD20, CD21, CD22) despite deriving from B cells.",
+        "CD19 and CD20 are B-cell markers typically seen in non-Hodgkin lymphomas (and the rare nodular lymphocyte predominant Hodgkin variant), not classical Reed-Sternberg cells.",
+        "TdT and CD10 are markers seen in ALL lymphoblasts, not Reed-Sternberg cells."
+      ],
+      "overview": "Hodgkin lymphoma is diagnosed by the presence of Reed-Sternberg cells \u2014 large, often binucleate (\"owl-eye\") cells derived from B cells but typically CD15+ and CD30+ while lacking usual B-cell markers. These cells make up only a small minority of cells in the involved node, with the bulk being reactive lymphocytes, plasma cells, and macrophages recruited by RS-cell cytokine release.",
+      "id": "2026-09-08-30"
     }
   ]
 }
