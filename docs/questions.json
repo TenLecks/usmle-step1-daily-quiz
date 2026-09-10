@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-08",
-  "subject": "Hematology",
+  "date": "2026-09-10",
+  "subject": "Immunology",
   "questions": [
     {
       "format": "vignette5",
-      "stem": "A 24-year-old man with known sickle cell disease presents with several months of progressive, dull right hip pain that worsens with weight bearing. He denies fever. Physical exam shows decreased range of motion of the hip without warmth or effusion. Imaging reveals collapse of the femoral head. Which of the following best explains this finding?",
+      "stem": "A 29-year-old woman with systemic lupus erythematosus has had two prior first-trimester pregnancy losses and one episode of deep vein thrombosis. Laboratory testing reveals a prolonged partial thromboplastin time that does not correct with mixing studies, and a false-positive RPR test. Which of the following antibodies is most likely responsible for this clinical picture?",
       "options": [
-        "Parvovirus B19-induced aplastic crisis",
-        "Papillary necrosis",
-        "Vaso-occlusion causing bone infarction",
-        "Splenic sequestration crisis",
-        "Osteomyelitis from Salmonella infection"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Aplastic crisis presents with worsening anemia and a low reticulocyte count due to parvovirus B19 infection of erythroid precursors, not localized bone pathology.",
-        "Papillary necrosis affects the renal medulla and presents with painless gross hematuria, not hip pain.",
-        "Correct - Chronic vaso-occlusion in sickle cell disease can cause avascular necrosis, most commonly of the femoral head, leading to progressive, afebrile hip or groin pain and eventual bone collapse.",
-        "Splenic sequestration crisis presents with a rapidly enlarging spleen and abrupt hemoglobin drop, not with chronic hip pain and femoral head collapse.",
-        "Osteomyelitis typically presents acutely with fever and bone tenderness, unlike this patient's chronic, afebrile, progressive pain."
-      ],
-      "overview": "Sickle cell disease causes chronic vaso-occlusion of small vessels, which in bone can lead to avascular necrosis, most commonly of the femoral head, presenting as chronic progressive hip or groin pain distinct from the acute, febrile presentation of osteomyelitis (often due to Salmonella in these patients).",
-      "id": "2026-09-08-01"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 60-year-old man is found to have hemoglobin 19 g/dL, an elevated platelet count, and facial plethora. Serum erythropoietin level is low. Which of the following genetic mutations is most commonly associated with this condition?",
-      "options": [
-        "JAK2 V617F",
-        "BCR-ABL fusion",
-        "Cyclin D1 overexpression",
-        "PML-RARA fusion"
+        "Antiphospholipid antibodies (lupus anticoagulant/anticardiolipin)",
+        "Anti-double stranded DNA antibodies",
+        "Anti-histone antibodies",
+        "Anti-centromere antibodies",
+        "Anti-Smith antibodies"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Polycythemia vera is associated with the JAK2 V617F mutation in nearly 100% of cases, causing cytokine-independent proliferation of myeloid progenitors and an appropriately low (suppressed) erythropoietin level due to the autonomous red cell overproduction.",
-        "BCR-ABL fusion from t(9;22) is the hallmark of CML, not polycythemia vera.",
-        "Cyclin D1 overexpression from t(11;14) is characteristic of mantle cell lymphoma, not polycythemia vera.",
-        "PML-RARA fusion from t(15;17) is specific to acute promyelocytic leukemia, not polycythemia vera."
+        "Correct - Antiphospholipid antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22 glycoprotein) cause antiphospholipid syndrome, associated with venous/arterial thrombosis, recurrent fetal loss, a paradoxically prolonged PTT, and a false-positive RPR/VDRL.",
+        "Incorrect - Anti-dsDNA is specific for SLE and correlates with disease activity and renal involvement, but does not cause thrombosis, fetal loss, or a false-positive RPR.",
+        "Incorrect - Anti-histone antibodies are characteristic of drug-induced lupus, not antiphospholipid syndrome.",
+        "Incorrect - Anti-centromere antibodies are associated with limited scleroderma (CREST), not SLE-associated thrombosis.",
+        "Incorrect - Anti-Sm is specific for SLE but is directed against snRNPs and is not linked to thrombosis or false-positive syphilis testing."
       ],
-      "overview": "Polycythemia vera is a myeloproliferative disorder driven by the JAK2 V617F mutation in nearly all cases, causing increased red cell mass (and often platelets/WBCs) with an appropriately low erythropoietin level, distinguishing it from secondary polycythemia due to hypoxia or EPO-secreting tumors (where EPO is elevated). Clinical features include facial plethora, aquagenic pruritus, erythromelalgia, and increased thrombosis risk (e.g., Budd-Chiari syndrome).",
-      "id": "2026-09-08-02"
+      "overview": "Antiphospholipid syndrome, seen in association with SLE or as a primary disorder, is caused by antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22 glycoprotein) against phospholipid-binding proteins, leading to increased venous/arterial thrombosis risk, recurrent fetal loss, a falsely elevated PTT, and a false-positive syphilis serology.",
+      "id": "2026-09-10-01"
     },
     {
-      "format": "vignette5",
-      "stem": "A 10-month-old girl born to Greek immigrant parents presents with pallor, poor growth, and abdominal distension. Exam reveals frontal bossing, maxillary prominence, and hepatosplenomegaly. Skull x-ray shows a \"crew cut\" appearance. Labs show severe microcytic, hypochromic anemia with marked anisopoikilocytosis, target cells, and nucleated red blood cells. Hemoglobin electrophoresis shows absent HbA and elevated HbA2 and HbF. Which of the following best explains this patient's skeletal and hepatosplenic findings?",
+      "format": "simple4",
+      "stem": "Which of the following best describes a property of IgM antibody?",
       "options": [
-        "Osteoclast activation by cytokines secreted from malignant plasma cells",
-        "Iron deposition in the bone marrow from repeated transfusions",
-        "Vaso-occlusion of the vasa recta",
-        "Direct viral infiltration of the bone marrow",
-        "Erythroid hyperplasia and extramedullary hematopoiesis from ineffective erythropoiesis"
+        "It is the most abundant antibody in mucosal secretions",
+        "It has ten antigen-binding sites and is the most effective complement activator",
+        "It is the only antibody class capable of crossing the placenta",
+        "It mediates degranulation of mast cells in type I hypersensitivity"
       ],
-      "correctIndex": 4,
+      "correctIndex": 1,
       "explanations": [
-        "Osteoclast activation by plasma cell cytokines (RANKL, IL-6) describes multiple myeloma, not thalassemia.",
-        "Transfusional iron overload causes secondary hemochromatosis over time but does not explain the marrow expansion (crew-cut skull) or extramedullary hematopoiesis, which arise from ineffective erythropoiesis itself.",
-        "Vaso-occlusion of the vasa recta is a feature of sickle cell disease, not thalassemia.",
-        "There is no viral infiltration mechanism in beta thalassemia major.",
-        "Correct - In beta thalassemia major, severely deficient beta-globin production leads to ineffective erythropoiesis and chronic anemia, driving massive compensatory erythroid hyperplasia (marrow expansion causing skull changes) and extramedullary hematopoiesis in the liver and spleen (hepatosplenomegaly)."
+        "Incorrect - IgA, not IgM, is the predominant antibody at mucosal surfaces.",
+        "Correct - IgM is a pentamer with ten antigen-binding sites, giving it the greatest avidity of any antibody class and making it the most effective activator of the classical complement pathway, though it is a weak opsonin since phagocyte Fc receptors cannot bind it.",
+        "Incorrect - IgG, not IgM, is the only antibody class that crosses the placenta.",
+        "Incorrect - IgE, not IgM, mediates mast cell degranulation in type I hypersensitivity reactions."
       ],
-      "overview": "Beta thalassemia major results from severely reduced or absent beta-globin synthesis, causing unstable excess alpha chains, ineffective erythropoiesis, and chronic hemolytic anemia. Compensatory erythropoietin drive produces massive bone marrow expansion (skeletal deformities, \"chipmunk facies,\" crew-cut skull) and extramedullary hematopoiesis (hepatosplenomegaly), and patients become transfusion-dependent, risking secondary iron overload.",
-      "id": "2026-09-08-03"
+      "overview": "IgM is the first antibody produced during an immune response and exists as a pentamer with ten antigen-binding sites, giving it the highest avidity and making it an excellent activator of the classical complement pathway, though it is a poor opsonin and cannot cross the placenta.",
+      "id": "2026-09-10-02"
     },
     {
       "format": "vignette5",
-      "stem": "A 19-year-old man presents with fatigue and yellowing of the eyes. He has had recurrent episodes of jaundice since childhood and a remote history of gallstones. Physical exam reveals mild splenomegaly. Labs show hemoglobin 10.2 g/dL, MCV 82 fL, elevated MCHC, elevated indirect bilirubin, and a negative direct Coombs test. Peripheral smear shows small, round red cells lacking central pallor. Which of the following best confirms the diagnosis?",
+      "stem": "A 45-year-old man with chronic hepatitis B infection presents with fever, weight loss, and new-onset foot drop with numbness. Skin examination reveals tender subcutaneous nodules and purpura on the lower extremities. Laboratory testing shows an elevated creatinine. Angiography of the mesenteric and renal arteries reveals multiple small aneurysms and areas of vessel narrowing. Which of the following best characterizes the underlying vascular pathology?",
       "options": [
-        "Osmotic fragility test",
-        "Serotonin release assay",
-        "Ham's acid hemolysis test",
-        "Heinz body preparation",
-        "Ristocetin cofactor assay"
+        "Granulomatous inflammation of the aortic arch and its branches",
+        "Pauci-immune necrotizing vasculitis with c-ANCA positivity",
+        "Transmural fibrinoid necrosis of medium-sized muscular arteries",
+        "Noninflammatory vasospasm of digital arteries",
+        "Leukocytoclastic vasculitis of postcapillary venules with IgA deposition"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - Granulomatous inflammation of the aortic arch describes Takayasu arteritis, a large-vessel disease, not this case.",
+        "Incorrect - Pauci-immune, c-ANCA-positive necrotizing vasculitis describes granulomatosis with polyangiitis (Wegener's), which also involves the sinuses/upper airway, unlike this case.",
+        "Correct - Polyarteritis nodosa is an immune complex-mediated (type III hypersensitivity), often Hepatitis B-associated, vasculitis of medium vessels causing transmural inflammation with fibrinoid necrosis, producing aneurysms and constrictions ('rosary sign') on angiogram, along with mononeuritis multiplex, skin nodules/purpura, and renal failure.",
+        "Incorrect - Noninflammatory digital vasospasm describes Raynaud phenomenon, not a systemic necrotizing vasculitis with aneurysms.",
+        "Incorrect - IgA-mediated leukocytoclastic vasculitis of small vessels describes Henoch-Sch\u00f6nlein purpura, typically in children following a URI."
+      ],
+      "overview": "Polyarteritis nodosa is a medium-vessel, immune complex-mediated vasculitis classically associated with hepatitis B, causing transmural fibrinoid necrosis with aneurysm formation in renal, mesenteric, and hepatic arteries. Clinical features include mononeuritis multiplex, skin nodules/purpura, and renal failure; diagnosis is by angiography or tissue biopsy, and treatment is corticosteroids plus cyclophosphamide.",
+      "id": "2026-09-10-03"
+    },
+    {
+      "format": "vignette5",
+      "stem": "Six weeks after receiving a cadaveric renal transplant, a patient develops rising serum creatinine and low-grade fever. A renal biopsy shows dense infiltrates of lymphocytes and mononuclear cells within the graft parenchyma. Which of the following best describes the mechanism and management of this process?",
+      "options": [
+        "Recipient CD8+ T cells reacting against donor HLA antigens; treatable with increased immunosuppression",
+        "Donor T cells attacking recipient tissues, causing rash and diarrhea",
+        "Intravascular coagulation from antibody-mediated vessel spasm occurring within minutes of reperfusion",
+        "Preformed recipient antibodies against donor ABO/HLA antigens; largely untreatable",
+        "Progressive vascular fibrosis and glomerular scarring occurring over years; irreversible"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - The osmotic fragility test demonstrates increased susceptibility of spherocytes to lysis in hypotonic solution, confirming hereditary spherocytosis; the eosin-5-maleimide binding test is another diagnostic option.",
-        "The serotonin release assay is used to diagnose heparin-induced thrombocytopenia, not spherocytosis.",
-        "Ham's test (or flow cytometry for GPI-anchored proteins) is used to diagnose PNH, not hereditary spherocytosis.",
-        "Heinz body preparation detects oxidized hemoglobin precipitates seen in G6PD deficiency, not hereditary spherocytosis.",
-        "The ristocetin cofactor assay evaluates von Willebrand factor activity and is used to diagnose von Willebrand disease, not hereditary spherocytosis."
+        "Correct - This describes acute rejection, occurring weeks to months post-transplant, driven by a cell-mediated immune response in which recipient T cells (especially CD8+) react to donor HLA antigens; biopsy shows lymphocytic/mononuclear infiltrates, and it is treatable with immunosuppression.",
+        "Incorrect - Donor T cells attacking recipient tissue describes graft-versus-host disease, a complication of bone marrow (not solid organ) transplantation.",
+        "Incorrect - This describes hyperacute rejection with vascular spasm and thrombosis occurring within minutes, not weeks, after transplantation.",
+        "Incorrect - This describes hyperacute rejection, which occurs within minutes due to preformed antibodies and is generally untreatable \u2014 not consistent with a presentation six weeks later with lymphocytic infiltrate.",
+        "Incorrect - This describes chronic rejection, which occurs over months to years with fibrosis, not an acute lymphocytic infiltrate at 6 weeks."
       ],
-      "overview": "Hereditary spherocytosis is caused by defects in RBC membrane cytoskeletal proteins (spectrin, ankyrin, band proteins), producing small spherical RBCs that lack central pallor and undergo chronic extravascular hemolysis in the spleen. The Coombs test is negative (not immune-mediated), and the osmotic fragility test confirms the diagnosis by showing increased RBC lysis in hypotonic solution.",
-      "id": "2026-09-08-04"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 58-year-old man presents with fatigue, unintentional weight loss, and early satiety. Physical exam reveals massive splenomegaly. A CBC shows WBC 130,000/microL, and the peripheral smear demonstrates neutrophils, metamyelocytes, myelocytes, and increased basophils, with only rare blasts. Bone marrow cytogenetics reveal a reciprocal translocation between chromosomes 9 and 22. Which of the following is the most appropriate first-line therapy for this chronic-phase disease?",
-      "options": [
-        "All-trans retinoic acid",
-        "Imatinib",
-        "Hydroxyurea alone",
-        "Cladribine",
-        "Rituximab"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "All-trans retinoic acid is used for acute promyelocytic leukemia (t(15;17)), not CML.",
-        "Correct - Imatinib is a tyrosine kinase inhibitor targeting the BCR-ABL fusion protein produced by the Philadelphia chromosome t(9;22), the standard first-line therapy for chronic-phase CML.",
-        "Hydroxyurea can be used for cytoreduction but is not the standard long-term disease-controlling therapy; tyrosine kinase inhibitors are preferred.",
-        "Cladribine is a purine analog preferentially used in hairy cell leukemia, not CML.",
-        "Rituximab targets CD20 and is used for B-cell malignancies, not CML."
-      ],
-      "overview": "CML is a myeloproliferative disorder driven by the Philadelphia chromosome t(9;22), producing the BCR-ABL fusion tyrosine kinase. Chronic-phase blood findings include marked leukocytosis with a full spectrum of granulocyte precursors and increased basophils. Imatinib and other tyrosine kinase inhibitors (dasatinib, nilotinib) provide long-term disease control by inhibiting BCR-ABL.",
-      "id": "2026-09-08-05"
+      "overview": "Transplant rejection is classified by timing and mechanism: hyperacute (minutes, preformed antibodies, untreatable), acute (weeks-months, cell-mediated/CD8 T-cell response to donor HLA, treatable with immunosuppression), and chronic (months-years, fibrosis and vascular narrowing, poorly understood and largely irreversible).",
+      "id": "2026-09-10-04"
     },
     {
       "format": "simple4",
-      "stem": "A 65-year-old man has painless, waxing and waning lymphadenopathy for several years. Lymph node biopsy shows a follicular growth pattern with malignant B cells expressing CD19 and CD20. Genetic testing reveals a t(14;18) translocation. Which of the following best describes the functional consequence of this translocation?",
+      "stem": "Cytotoxic CD8+ T cells kill virus-infected cells through which combination of mechanisms?",
       "options": [
-        "Overexpression of cyclin D1, promoting G1 to S phase transition",
-        "Overexpression of c-myc, driving proliferation",
-        "Overexpression of BCL2, blocking apoptosis",
-        "Fusion of BCR and ABL genes, creating a constitutively active tyrosine kinase"
+        "Release of IgE that triggers mast cell-mediated cytotoxicity",
+        "Direct phagocytosis of the infected cell",
+        "Perforin-mediated membrane pore formation and granzyme-induced apoptosis",
+        "Secretion of IL-4 to recruit eosinophils to the infected cell"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Cyclin D1 overexpression from t(11;14) is characteristic of mantle cell lymphoma, not follicular lymphoma.",
-        "c-myc overexpression from t(8;14) is characteristic of Burkitt lymphoma, not follicular lymphoma.",
-        "Correct - The t(14;18) translocation in follicular lymphoma places the BCL2 gene next to the immunoglobulin heavy chain gene, causing BCL2 overexpression, which blocks apoptosis (a caspase antagonist) and allows germinal center B cells that would normally be eliminated to survive.",
-        "The BCR-ABL fusion from t(9;22) is characteristic of CML, not follicular lymphoma."
+        "Incorrect - IgE-mediated mast cell cytotoxicity is unrelated to CD8 T-cell killing and is instead relevant to antiparasitic and allergic responses.",
+        "Incorrect - CD8+ T cells are not phagocytic; phagocytosis is a function of macrophages and neutrophils.",
+        "Correct - CD8+ T cells kill virus-infected cells by inserting perforins (forming membrane pores) and granzymes (proteases that activate caspases and degrade cell contents), as well as granulysin and Fas ligand, producing apoptosis with minimal inflammation.",
+        "Incorrect - IL-4 is a Th2 cytokine that promotes IgE production and Th2 differentiation, not a mechanism used by CD8 T cells to kill infected cells."
       ],
-      "overview": "Follicular lymphoma is an indolent B-cell malignancy of germinal center origin, characterized by the t(14;18) translocation that causes overexpression of the anti-apoptotic protein BCL2. Normal germinal center B cells are typically BCL2-negative and undergo apoptosis unless positively selected, so BCL2 overexpression is a key marker distinguishing lymphoma from reactive follicular hyperplasia.",
-      "id": "2026-09-08-06"
+      "overview": "CD8+ cytotoxic T cells recognize antigen presented on MHC class I (found on all nucleated cells) and kill virus-infected or tumor cells via perforin/granzyme-mediated pore formation and apoptosis induction, as well as Fas ligand engagement of Fas (CD95) on target cells, triggering the extrinsic apoptotic pathway with minimal surrounding inflammation.",
+      "id": "2026-09-10-05"
     },
     {
       "format": "simple4",
-      "stem": "A child with recurrent mucosal bleeding has a normal platelet count and normal-sized platelets on peripheral smear. Platelet aggregation testing shows failure to aggregate in response to both ADP and thrombin, but the ristocetin cofactor assay is normal. Which receptor deficiency best explains these findings?",
+      "stem": "Major basic protein, released from eosinophil granules, contributes to host defense against parasites primarily through which mechanism?",
       "options": [
-        "GPIIb/IIIa",
-        "vWF deficiency",
-        "GPIb",
-        "P2Y12"
+        "Its positive charge allows it to bind and damage the surface of large parasites too big to be phagocytosed",
+        "It stimulates B cells to produce IgM against parasite antigens",
+        "It activates the classical complement pathway directly on the parasite surface",
+        "It opsonizes the parasite for phagocytosis by macrophages"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Glanzmann thrombasthenia results from deficiency of the GPIIb/IIIa receptor, which normally binds fibrinogen and vWF to link platelets together; this causes normal platelet count and size but abnormal aggregation with ADP or thrombin, while the ristocetin assay (testing GPIb-mediated adhesion, not aggregation) remains normal.",
-        "Von Willebrand factor deficiency (von Willebrand disease) would produce an abnormal ristocetin cofactor assay, which is normal in this patient.",
-        "GPIb deficiency describes Bernard-Soulier syndrome, which presents with giant platelets, mild thrombocytopenia, and an abnormal (not normal) ristocetin cofactor assay \u2014 a different pattern from this patient.",
-        "An isolated P2Y12 defect would impair ADP-induced aggregation but would not typically abolish thrombin-induced aggregation, and is not a described inherited platelet disorder in these notes."
+        "Correct - Eosinophil granules, including major basic protein (positively charged, in contrast to the negatively charged eosin dye that stains them), are discharged directly onto the surface of parasites too large for phagocytosis, causing cytotoxic damage.",
+        "Incorrect - Eosinophils are activated by IgE (via Th2-derived IL-5) and act through direct degranulation, not by stimulating B cells to make IgM.",
+        "Incorrect - Eosinophil granule proteins act directly and cytotoxically on the parasite surface rather than by activating complement.",
+        "Incorrect - Because the parasites are too large for phagocytosis, the mechanism is direct extracellular cytotoxicity, not opsonization for phagocytosis."
       ],
-      "overview": "Glanzmann thrombasthenia is an autosomal recessive disorder caused by deficiency of the platelet GPIIb/IIIa receptor, which normally binds fibrinogen and von Willebrand factor to mediate platelet-platelet aggregation. Patients have normal platelet count and size but abnormal platelet aggregation testing with ADP or thrombin, while the ristocetin cofactor assay (testing GPIb-mediated adhesion) remains normal \u2014 the mirror image of Bernard-Soulier syndrome.",
-      "id": "2026-09-08-07"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with blood type O has naturally occurring antibodies against A and B antigens without any prior transfusion or pregnancy. These antibodies are best characterized as which immunoglobulin class, and why do they not cross the placenta?",
-      "options": [
-        "IgE; bound to mast cells",
-        "IgG; too large to cross the placenta",
-        "IgA; actively transported away from the placenta",
-        "IgM; too large to cross the placenta"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "IgE is associated with type I hypersensitivity reactions, not naturally occurring ABO antibodies.",
-        "ABO antibodies are IgM, not IgG; IgG (such as anti-D antibodies in Rh disease) is the class that can cross the placenta.",
-        "IgA is not the antibody class responsible for naturally occurring ABO antibodies.",
-        "Correct - ABO antibodies arise naturally in early infancy from exposure to structurally similar bacterial antigens during gut colonization and are IgM, which is too large to cross the placenta, explaining why ABO incompatibility does not typically cause severe hemolytic disease of the newborn like Rh incompatibility can."
-      ],
-      "overview": "Unlike Rh(D) antibodies, which require prior sensitizing exposure and are IgG (able to cross the placenta), ABO blood group antibodies occur naturally without prior transfusion or pregnancy exposure, arising from cross-reactivity with similar bacterial gut antigens, and are of the IgM class, which does not cross the placenta.",
-      "id": "2026-09-08-08"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with hemolytic anemia has markedly decreased serum haptoglobin, hemoglobinuria, and hemosiderinuria. These findings are most consistent with which type of hemolysis?",
-      "options": [
-        "Extravascular hemolysis in the spleen",
-        "Intravascular hemolysis",
-        "Sequestration of red cells in an enlarged spleen",
-        "Ineffective erythropoiesis in the bone marrow"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Extravascular hemolysis (as in hereditary spherocytosis or warm AIHA) typically shows only low or normal haptoglobin, without hemoglobinuria or hemosiderinuria, since red cells are destroyed by splenic macrophages rather than lysed in the bloodstream.",
-        "Correct - Intravascular hemolysis releases free hemoglobin directly into the plasma, rapidly saturating and depleting haptoglobin, with excess free hemoglobin filtered into the urine (hemoglobinuria) and reabsorbed iron appearing as hemosiderin in sloughed tubular cells (hemosiderinuria).",
-        "Splenic sequestration causes an acute drop in hemoglobin from pooling of red cells in the spleen, not hemoglobinuria/hemosiderinuria.",
-        "Ineffective erythropoiesis reflects failure of red cell maturation in the marrow, not the plasma/urine findings of active intravascular red cell lysis."
-      ],
-      "overview": "Intravascular hemolysis (e.g., mechanical hemolysis, PNH, ABO transfusion reaction) releases free hemoglobin directly into plasma, causing markedly decreased haptoglobin, hemoglobinuria, and hemosiderinuria \u2014 findings not typically seen with extravascular hemolysis, where RBCs are phagocytosed by splenic/hepatic macrophages.",
-      "id": "2026-09-08-09"
-    },
-    {
-      "format": "simple4",
-      "stem": "A newborn has persistent bleeding from the umbilical stump. Platelet count, bleeding time, PT, and aPTT are all normal. Which test should be performed next to establish the diagnosis?",
-      "options": [
-        "Ristocetin cofactor assay",
-        "Clot solubility test",
-        "Osmotic fragility test",
-        "Mixing study"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "The ristocetin cofactor assay evaluates von Willebrand factor activity and would be relevant if vWD were suspected, but the normal bleeding time here argues against a platelet-vWF disorder.",
-        "Correct - Factor XIII cross-links fibrin monomers to stabilize the clot but is not assessed by PT or PTT; its deficiency is classically diagnosed by a clot solubility test, in which the clot dissolves easily in a special solution, and classically presents with umbilical stump bleeding despite normal coagulation screening.",
-        "Osmotic fragility testing is used for hereditary spherocytosis, unrelated to this presentation.",
-        "A mixing study is used to differentiate a factor deficiency from an inhibitor when PT or PTT is prolonged, which is not the case here."
-      ],
-      "overview": "Factor XIII cross-links fibrin monomers to form a stable, mechanically strong clot but is not measured by PT or aPTT, so its deficiency presents with normal coagulation screening tests. The classic presentation is umbilical stump bleeding in a newborn, diagnosed with a clot solubility test showing that the clot dissolves in solution.",
-      "id": "2026-09-08-10"
+      "overview": "Eosinophils are granulocytes activated by IgE and IL-5 (from Th2 cells) that play a key role in antiparasitic defense, particularly against helminths too large to be phagocytosed. Their granules contain cytotoxic proteins, including major basic protein, eosinophil cationic protein, eosinophil peroxidase, and eosinophil-derived neurotoxin, released directly onto the parasite surface.",
+      "id": "2026-09-10-06"
     },
     {
       "format": "vignette5",
-      "stem": "A 29-year-old woman reports several months of intermittent dark urine that is most noticeable in the morning. She has also had two episodes of abdominal pain and was recently diagnosed with a portal vein thrombosis. Labs show anemia, elevated LDH, decreased haptoglobin, and a negative direct Coombs test. Flow cytometry shows a red cell population deficient in CD55 and CD59. Which of the following best explains the pathogenesis of this patient's disease?",
+      "stem": "A 58-year-old woman with a 15-year history of severe rheumatoid arthritis with joint deformities presents with recurrent bacterial infections and easy fatigability. Physical exam reveals an enlarged spleen. Labs show an absolute neutrophil count of 800/mm3. Rheumatoid factor is strongly positive. Which of the following best describes this patient's condition?",
       "options": [
-        "Deficiency of pyruvate kinase impairing glycolysis",
-        "Acquired somatic mutation impairing the GPI anchor for complement-regulatory proteins",
-        "Autoantibodies directed against red cell membrane proteins",
-        "Point mutation in the beta-globin gene",
-        "Deficient ADAMTS13 activity leading to microthrombi"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Pyruvate kinase deficiency causes a chronic hereditary hemolytic anemia but is not associated with CD55/CD59 deficiency or the thrombotic pattern described.",
-        "Correct - PNH results from an acquired mutation in the PIGA gene in a hematopoietic stem cell, impairing synthesis of the GPI anchor needed to attach complement-regulatory proteins CD55 (decay accelerating factor) and CD59 (MAC inhibitor) to the cell surface, causing complement-mediated intravascular hemolysis and increased thrombosis risk.",
-        "Autoantibody-mediated hemolysis would produce a positive direct Coombs test, which is negative in this patient, consistent instead with a complement-mediated process.",
-        "A beta-globin point mutation describes sickle cell disease, not PNH.",
-        "ADAMTS13 deficiency causes TTP, not PNH; the clinical picture here (nocturnal hemoglobinuria, unusual-site thrombosis, negative Coombs, CD55/CD59 deficiency) is classic for PNH."
-      ],
-      "overview": "Paroxysmal nocturnal hemoglobinuria arises from an acquired PIGA gene mutation that impairs GPI-anchor synthesis, causing loss of the complement-regulatory proteins CD55 and CD59 from blood cell membranes and resulting in complement-mediated intravascular hemolysis. Classic features include morning hemoglobinuria, unusual-site venous thromboses (e.g., portal, hepatic, cerebral veins), and a negative Coombs test; treatment is with anti-C5 antibodies (eculizumab/ravulizumab).",
-      "id": "2026-09-08-11"
-    },
-    {
-      "format": "simple4",
-      "stem": "Vascular endothelial injury activates the coagulation cascade in vivo primarily through exposure of which substance?",
-      "options": [
-        "High molecular weight kininogen",
-        "Prekallikrein",
-        "Factor XII",
-        "Tissue factor (thromboplastin)"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "High molecular weight kininogen is a cofactor for the contact (intrinsic) pathway relevant to laboratory testing, not the primary in vivo trigger.",
-        "Prekallikrein participates in the contact activation pathway measured by aPTT but is not clinically important for in vivo hemostasis.",
-        "Factor XII activation is relevant mainly to the aPTT laboratory assay via contact activation, not the major in vivo initiating event.",
-        "Correct - Tissue factor is a subendothelial glycoprotein exposed by vascular injury; it complexes with factor VIIa to activate factor X, initiating the extrinsic pathway, the major physiologic trigger of coagulation in vivo."
-      ],
-      "overview": "Vascular injury exposes tissue factor, a subendothelial glycoprotein that binds factor VIIa to activate factor X, initiating the extrinsic pathway (measured by PT), which is the physiologically dominant trigger of clotting. The intrinsic/contact pathway (factor XII, prekallikrein, HMWK) is mainly relevant to the aPTT assay and not to in vivo hemostasis.",
-      "id": "2026-09-08-12"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 71-year-old woman is evaluated after a pathologic vertebral compression fracture that occurred with minimal trauma. She also reports fatigue and unintentional weight loss. Serum protein electrophoresis shows a monoclonal IgG spike, and urine studies reveal Bence Jones proteins. Renal function is impaired. Which of the following mechanisms best explains this patient's renal dysfunction?",
-      "options": [
-        "Immune complex deposition activating complement in the glomerulus",
-        "Light chain casts obstructing the distal tubules",
-        "Direct viral cytopathic injury to renal tubular cells",
-        "Cross-linking of DNA in renal tubular cells",
-        "Deposition of amyloid fibrils composed of serum amyloid A protein"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Myeloma kidney results from tubular obstruction by light chains, not glomerular immune complex deposition.",
-        "Correct - In multiple myeloma, excess free light chains exceed the reabsorptive capacity of the proximal tubule, reach the distal tubule, and combine with Tamm-Horsfall protein to form obstructing casts (\"myeloma kidney\" or cast nephropathy).",
-        "There is no viral cytopathic mechanism underlying myeloma-associated renal injury.",
-        "DNA cross-linking is a mechanism of alkylating chemotherapy agents, not the underlying pathology of myeloma kidney.",
-        "AA amyloidosis derives from serum amyloid A and is associated with chronic inflammatory conditions (e.g., rheumatoid arthritis), not the renal mechanism described here."
-      ],
-      "overview": "Multiple myeloma is a plasma cell malignancy that produces monoclonal immunoglobulins (usually IgG) and free light chains, causing the CRAB features: hypercalcemia, renal failure, anemia, and lytic bone lesions/pathologic fractures. Renal injury classically results from light-chain (Bence Jones protein) cast nephropathy when proximal tubular reabsorptive capacity is exceeded.",
-      "id": "2026-09-08-13"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 3-year-old boy living in an older home with peeling paint presents with abdominal pain, constipation, and a microcytic anemia with basophilic stippling on smear. Lead poisoning impairs heme synthesis primarily by inhibiting which two enzymes?",
-      "options": [
-        "Delta-ALA dehydratase and ferrochelatase",
-        "Delta-ALA synthase and porphobilinogen deaminase",
-        "Thymidylate synthase and dihydrofolate reductase",
-        "Uroporphyrinogen decarboxylase and delta-ALA synthase"
+        "Felty syndrome, associated with splenomegaly and neutropenia in long-standing severe RA",
+        "Disseminated gonococcal infection causing septic arthritis",
+        "Sjogren's syndrome, characterized by dry eyes and dry mouth",
+        "Amyloidosis secondary to chronic RA",
+        "Drug-induced lupus from methotrexate therapy"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Lead inhibits delta-aminolevulinic acid dehydratase and ferrochelatase in the heme synthesis pathway, impairing heme production and causing microcytic, hypochromic anemia with basophilic stippling.",
-        "Delta-ALA synthase is the rate-limiting enzyme normally inhibited by heme itself (negative feedback), and porphobilinogen deaminase deficiency causes acute intermittent porphyria, not lead poisoning.",
-        "Thymidylate synthase and DHFR are targets of chemotherapy drugs (5-FU, methotrexate), unrelated to heme synthesis or lead poisoning.",
-        "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, unrelated to lead toxicity."
+        "Correct - Felty syndrome = splenomegaly + neutropenia occurring in patients with severe, longstanding RA, typically years after onset, and improves with RA-directed therapy.",
+        "Incorrect - Gonococcal septic arthritis presents acutely with monoarticular joint infection, not chronic splenomegaly/neutropenia.",
+        "Incorrect - Sjogren's presents with sicca symptoms (dry eyes/mouth), not splenomegaly and neutropenia.",
+        "Incorrect - Secondary (AA) amyloidosis is a long-term RA complication but presents with organ dysfunction (e.g., proteinuria), not splenomegaly/neutropenia.",
+        "Incorrect - Drug-induced lupus presents with rash, arthritis, penias, and anti-histone antibodies after specific drugs (INH, hydralazine, procainamide), not this pattern."
       ],
-      "overview": "Lead poisoning inhibits delta-aminolevulinic acid dehydratase and ferrochelatase in the heme synthesis pathway, causing microcytic, hypochromic anemia with basophilic stippling on smear. Clinical features include abdominal pain (\"lead colic\"), constipation, gum lead lines, neuropathy (wrist/foot drop), and neurodevelopmental effects in children.",
-      "id": "2026-09-08-14"
+      "overview": "Felty syndrome is a triad of splenomegaly, neutropenia, and rheumatoid arthritis, occurring in patients with severe, longstanding, seropositive RA, often with joint deformity and extra-articular disease. It generally improves with RA-directed therapy and predisposes to bacterial infection due to neutropenia.",
+      "id": "2026-09-10-07"
     },
     {
       "format": "vignette5",
-      "stem": "A 45-year-old woman completes six cycles of doxorubicin-containing chemotherapy for breast cancer. Eight months later she presents with progressive dyspnea, lower extremity edema, and fatigue. Echocardiogram shows a decreased left ventricular ejection fraction. Which mechanism best explains this patient's cardiac findings?",
+      "stem": "A 55-year-old woman with a 10-year history of primary Sj\u00f6gren's syndrome presents with a persistent, painless swelling of her right parotid gland that has not resolved over several months. She denies fever or recent illness. Which of the following complications should be most strongly suspected?",
       "options": [
-        "Coronary vasospasm from pyrimidine analog metabolites",
-        "Immune-mediated myocarditis",
-        "Direct blockade of HER2 receptors on myocytes",
-        "Iron chelation-induced myocyte necrosis",
-        "Free radical-mediated oxidative damage to myocytes"
-      ],
-      "correctIndex": 4,
-      "explanations": [
-        "Coronary vasospasm is a toxicity of 5-fluorouracil, not doxorubicin.",
-        "Doxorubicin cardiotoxicity is caused by direct free radical damage to myocytes, not an immune-mediated myocarditis.",
-        "This describes trastuzumab-induced cardiotoxicity, which is typically reversible and mechanistically distinct from anthracycline damage.",
-        "Dexrazoxane is an iron-chelating agent used to prevent (not cause) anthracycline-induced cardiotoxicity.",
-        "Correct - Anthracyclines like doxorubicin generate free radicals via their quinone groups, causing oxidative damage and necrosis of myocytes, which leads to systolic heart failure with decreased LVEF."
-      ],
-      "overview": "Anthracyclines (doxorubicin, daunorubicin) cause dose-related cardiotoxicity through free radical generation via their quinone groups, leading to myocyte necrosis and systolic heart failure (decreased LVEF). Dexrazoxane, an iron chelator, can limit this toxicity, and periodic echocardiograms are used for screening.",
-      "id": "2026-09-08-15"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient started on standard-dose intravenous unfractionated heparin for a DVT shows minimal rise in aPTT despite escalating doses. Which underlying condition best explains this finding?",
-      "options": [
-        "Factor V Leiden mutation",
-        "Antiphospholipid syndrome",
-        "Protein C deficiency",
-        "Antithrombin III deficiency"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Factor V Leiden causes resistance to activated protein C and hypercoagulability but does not classically cause heparin resistance.",
-        "Antiphospholipid syndrome causes a paradoxically prolonged aPTT at baseline due to lupus anticoagulant interference, not blunted heparin responsiveness.",
-        "Protein C deficiency causes hypercoagulability, notably warfarin-induced skin necrosis, but not heparin resistance.",
-        "Correct - Antithrombin III is the endogenous target that heparin binds to accelerate inactivation of thrombin and factor Xa; a deficiency of antithrombin III blunts heparin's effect, producing \"heparin resistance\" with an escalating dose requirement and minimal aPTT rise."
-      ],
-      "overview": "Heparin is an indirect anticoagulant that works by binding and greatly accelerating the activity of antithrombin III against thrombin (IIa) and factor Xa. Antithrombin III deficiency (inherited or acquired, e.g., nephrotic syndrome) classically presents as venous thrombosis and heparin resistance, where escalating heparin doses fail to raise the aPTT appropriately.",
-      "id": "2026-09-08-16"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 35-year-old woman has recurrent episodes of severe abdominal pain, tachycardia, and confusion, often after fasting or starting a new medication. Her urine darkens on standing. Which enzyme deficiency underlies this condition?",
-      "options": [
-        "Ferrochelatase",
-        "Delta-ALA dehydratase",
-        "Porphobilinogen deaminase",
-        "Uroporphyrinogen decarboxylase"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Ferrochelatase deficiency is associated with lead poisoning-type heme synthesis blocks, not acute intermittent porphyria.",
-        "Delta-ALA dehydratase is inhibited in lead poisoning, not in acute intermittent porphyria.",
-        "Correct - Acute intermittent porphyria is caused by deficiency of porphobilinogen deaminase, the third enzyme in heme synthesis; accumulation of delta-ALA and porphobilinogen (neurotoxins) causes the acute neurovisceral attacks, and porphobilinogen oxidizes on standing, darkening the urine.",
-        "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, which presents with photosensitive blistering skin lesions, not acute neurovisceral attacks."
-      ],
-      "overview": "Acute intermittent porphyria results from deficiency of porphobilinogen deaminase, causing accumulation of the neurotoxic precursors delta-ALA and porphobilinogen. Attacks are triggered by drugs that induce cytochrome P450 (increasing heme demand), alcohol, and fasting/caloric restriction, presenting with abdominal pain, autonomic and psychiatric symptoms, and urine that darkens on standing; treatment includes hemin and glucose to suppress ALA synthase.",
-      "id": "2026-09-08-17"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 45-year-old man is admitted to the ICU after being found to have spontaneous bruising and blood oozing around his peripheral IV site. Laboratory testing reveals hemoglobin 9.1 g/dL, platelets 22,000/mm3, prolonged PT and PTT, decreased fibrinogen, and elevated D-dimer. Peripheral blood smear reveals abnormal promyelocytes containing multiple bundled needle-shaped cytoplasmic inclusions. Cytogenetic analysis identifies a translocation between chromosomes 15 and 17. Aside from supportive management of the coagulopathy, which of the following is the most appropriate targeted pharmacotherapy?",
-      "options": [
-        "Hydroxyurea",
-        "Imatinib",
-        "Rituximab",
-        "Cladribine",
-        "All-trans retinoic acid"
-      ],
-      "correctIndex": 4,
-      "explanations": [
-        "Hydroxyurea is used for cytoreduction in myeloproliferative disorders, not as targeted therapy for APML.",
-        "Imatinib targets BCR-ABL in CML, not the PML-RARA fusion protein of APML.",
-        "Rituximab targets CD20 on B cells and has no role in APML.",
-        "Cladribine is preferred for hairy cell leukemia, not APML.",
-        "Correct - APML is defined by t(15;17), creating the PML-RARA fusion gene that blocks promyelocyte maturation; all-trans retinoic acid, a vitamin A derivative, induces differentiation of the abnormal promyelocytes."
-      ],
-      "overview": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion gene that arrests promyelocyte maturation and predisposes to DIC due to release of procoagulant material (including Auer rods) from the myeloperoxidase-rich cells. All-trans retinoic acid induces terminal differentiation of the malignant promyelocytes and is central to treatment alongside management of the associated coagulopathy.",
-      "id": "2026-09-08-18"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 34-year-old woman with chronic myeloid leukemia is being prepared for allogeneic stem cell transplantation. She receives a single high-dose myeloablative chemotherapy regimen. Two weeks later she develops progressive dyspnea on exertion, and chest imaging reveals diffuse pulmonary fibrosis. On examination she also has diffuse darkening of the skin, most pronounced in sun-exposed areas. Which drug most likely caused this presentation?",
-      "options": [
-        "Vincristine",
-        "Busulfan",
-        "Bleomycin",
-        "Cisplatin",
-        "Cyclophosphamide"
+        "Mumps parotitis",
+        "B-cell (marginal zone) lymphoma",
+        "Sialolithiasis (salivary stone)",
+        "Squamous cell carcinoma of the parotid",
+        "Recurrent bacterial sialadenitis"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Vincristine causes peripheral neuropathy and constipation, not pulmonary fibrosis or skin hyperpigmentation.",
-        "Correct - Busulfan classically causes \"busulfan lung\" (pulmonary fibrosis) and \"busulfan tan\" (diffuse/patchy hyperpigmentation), and is used at a single high dose for myeloablation prior to stem cell transplant.",
-        "Bleomycin can cause pulmonary fibrosis but is not the classic myeloablative agent used for pre-transplant conditioning, and does not classically cause diffuse skin hyperpigmentation in this pattern.",
-        "Cisplatin causes nephrotoxicity, peripheral neuropathy, and ototoxicity, not this pattern of lung and skin toxicity.",
-        "Cyclophosphamide classically causes hemorrhagic cystitis and SIADH, not pulmonary fibrosis with hyperpigmentation."
+        "Incorrect - Mumps causes acute, often bilateral, parotitis associated with a viral prodrome, not chronic persistent swelling in a Sj\u00f6gren's patient.",
+        "Correct - Patients with Sj\u00f6gren's syndrome have an increased risk (5-10%) of B-cell lymphoma, which can present as a persistent, unilateral swollen salivary gland that may mimic a prior benign swelling.",
+        "Incorrect - Sialolithiasis typically causes intermittent, painful swelling associated with eating, not a persistent painless mass.",
+        "Incorrect - Squamous cell carcinoma of the parotid is not a described complication of Sj\u00f6gren's syndrome; lymphoma is the classic association.",
+        "Incorrect - Bacterial sialadenitis would typically be painful, acute, and associated with signs of infection (fever, purulent discharge), not a persistent painless mass."
       ],
-      "overview": "Busulfan is an alkylating agent used at high single doses for myeloablation prior to stem cell transplant. Classic toxicities are pulmonary fibrosis (\"busulfan lung\") and diffuse or patchy skin hyperpigmentation (\"busulfan tan\"), as well as seizures at high dosages.",
-      "id": "2026-09-08-19"
+      "overview": "Sj\u00f6gren's syndrome is a lymphocyte-mediated (type IV hypersensitivity) autoimmune destruction of salivary and lacrimal glands causing sicca symptoms (xerostomia, keratoconjunctivitis sicca). Patients have a significantly increased risk of B-cell lymphoma, which can present as a persistent, unilateral salivary gland swelling.",
+      "id": "2026-09-10-08"
     },
     {
-      "format": "simple4",
-      "stem": "A patient receiving 5-fluorouracil for colorectal cancer develops mucositis and myelosuppression. The active metabolite of this drug produces its cytotoxic effect by which mechanism?",
+      "format": "vignette5",
+      "stem": "A 27-year-old man presents 2 weeks after an episode of bloody diarrhea with new-onset asymmetric swelling and pain in his left knee and right ankle. He also reports eye redness and pain with urination. He denies any sexual activity. Stool culture obtained during his diarrheal illness grew Campylobacter jejuni. Which of the following is the most likely diagnosis?",
       "options": [
-        "Inhibiting dihydrofolate reductase",
-        "Cross-linking DNA at the N7 position of guanine",
-        "Inhibiting topoisomerase I",
-        "Inhibiting thymidylate synthase"
+        "Rheumatoid arthritis",
+        "Septic arthritis from disseminated Campylobacter",
+        "Systemic lupus erythematosus",
+        "Reactive arthritis",
+        "Gonococcal arthritis"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Dihydrofolate reductase inhibition is the mechanism of methotrexate, not 5-FU.",
-        "N7 guanine cross-linking describes alkylating agents, not 5-FU.",
-        "Topoisomerase I inhibition describes irinotecan and topotecan, not 5-FU.",
-        "Correct - 5-FU is converted to 5-FdUMP, which inhibits thymidylate synthase, blocking dTMP synthesis and causing \"thymineless death\"; its effect is enhanced by leucovorin."
+        "Incorrect - RA causes symmetric polyarthritis of small joints (hands), not asymmetric lower extremity oligoarthritis following GI infection.",
+        "Incorrect - The joint symptoms represent a post-infectious autoimmune reaction, not direct joint infection by the organism.",
+        "Incorrect - SLE does not typically follow a GI infection and would show other systemic/serologic findings (ANA, malar rash, etc.).",
+        "Correct - Reactive arthritis is a form of seronegative spondyloarthritis occurring 1-4 weeks after a GI (Campylobacter, Salmonella, Shigella, Yersinia, C. diff) or urogenital (Chlamydia) infection, presenting with asymmetric oligoarthritis (often knees), conjunctivitis, and urethritis.",
+        "Incorrect - Gonococcal arthritis follows sexual exposure with disseminated gonococcemia, not a preceding diarrheal illness; the patient denies sexual activity."
       ],
-      "overview": "5-Fluorouracil is a pyrimidine analog converted to 5-FdUMP, which inhibits thymidylate synthase and blocks dTMP synthesis, producing \"thymineless death.\" It is used in colorectal and other solid tumors and topically for basal cell carcinoma, with toxicities including myelosuppression, mucositis, and hand-foot syndrome.",
-      "id": "2026-09-08-20"
+      "overview": "Reactive arthritis is a seronegative spondyloarthropathy triggered by antecedent GI (Salmonella, Shigella, Yersinia, Campylobacter, C. difficile) or genitourinary (Chlamydia trachomatis) infections, presenting days to weeks later with asymmetric oligoarthritis of the lower extremities, often with conjunctivitis, urethritis, enthesitis, and dactylitis. Most cases resolve within 6-12 months.",
+      "id": "2026-09-10-09"
     },
     {
       "format": "simple4",
-      "stem": "Clopidogrel inhibits platelet aggregation by irreversibly blocking which receptor?",
+      "stem": "Superantigens, such as toxic shock syndrome toxin-1 from Staphylococcus aureus, cause massive systemic inflammation by which mechanism?",
       "options": [
-        "Thromboxane A2 receptor",
-        "GPIIb/IIIa",
-        "GPIb",
-        "P2Y12"
+        "Directly lysing T cells through pore formation",
+        "Inhibiting regulatory T-cell function selectively",
+        "Binding to B-cell receptors to trigger polyclonal antibody production",
+        "Nonspecifically cross-linking MHC class II and T-cell receptors outside the normal antigen-binding groove, activating a large percentage of T cells"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Aspirin, not clopidogrel, works by reducing thromboxane A2 production via COX inhibition.",
-        "GPIIb/IIIa is blocked by abciximab, eptifibatide, and tirofiban, not clopidogrel.",
-        "GPIb is the receptor for von Willebrand factor mediating platelet adhesion; it is not the target of clopidogrel.",
-        "Correct - Clopidogrel is a thienopyridine that irreversibly blocks the P2Y12 ADP receptor on platelets, preventing the conformational change of GPIIb/IIIa needed for platelet aggregation."
+        "Incorrect - Superantigens activate T cells rather than lyse them directly.",
+        "Incorrect - The described mechanism is nonspecific, massive T-cell activation, not selective inhibition of regulatory T cells.",
+        "Incorrect - Superantigens act on T cells via MHC II/TCR cross-linking, not by directly engaging B-cell receptors.",
+        "Correct - Superantigens bypass normal, highly specific antigen presentation by cross-linking MHC class II on APCs with the T-cell receptor outside the peptide-binding groove, activating up to 20% of T cells (compared to <1% with normal antigen), causing massive cytokine release and shock."
       ],
-      "overview": "Thienopyridines (ticlopidine, clopidogrel, prasugrel) irreversibly block the P2Y12 ADP receptor on platelets, preventing the GPIIb/IIIa conformational activation required for platelet aggregation. They are often combined with aspirin (dual antiplatelet therapy) after coronary stenting or acute coronary syndrome, with bleeding as the main toxicity.",
-      "id": "2026-09-08-21"
+      "overview": "Superantigens are bacterial toxins (e.g., Staph aureus TSST-1, Strep pyogenes pyrogenic exotoxin A/C) that cause toxic shock syndrome by nonspecifically cross-linking MHC class II and T-cell receptors, activating a vastly larger percentage of T cells than normal antigen presentation, resulting in a massive cytokine surge and systemic vasodilation/shock.",
+      "id": "2026-09-10-10"
     },
     {
-      "format": "simple4",
-      "stem": "A patient receiving standard paclitaxel infusion for ovarian cancer develops wheezing and urticaria shortly after starting the infusion. This reaction is most directly attributable to which factor?",
+      "format": "vignette5",
+      "stem": "A 4-year-old boy with pale skin, light blond hair, and pale blue eyes presents with recurrent skin abscesses caused by Staphylococcus aureus. His parents note that he has become increasingly clumsy and now has difficulty walking. Neurologic exam reveals peripheral sensory and motor deficits. A peripheral blood smear shows giant cytoplasmic granules within neutrophils. Which of the following is the underlying defect?",
       "options": [
-        "The solvent used to deliver the poorly water-soluble drug",
-        "Cross-reactivity with penicillin-induced hapten formation",
-        "The taxane's stabilization of microtubules triggering mast cell degranulation",
-        "Complement activation by anti-tubulin antibodies"
+        "Failure of lysosomes to fuse with phagosomes due to a microtubule dysfunction",
+        "Deficient IL-12 receptor signaling in T cells",
+        "Absence of NADPH oxidase activity in phagocytes",
+        "Defective CD18 integrin subunit impairing leukocyte adhesion",
+        "Failure of class switching due to defective CD40 ligand"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Paclitaxel hypersensitivity reactions (occurring in up to 30% of patients) are attributed to the solvents required to deliver this poorly soluble drug; premedication with glucocorticoids/antihistamines is used, and albumin-bound paclitaxel avoids this issue.",
-        "This describes a mechanism of penicillin-induced hemolytic anemia, unrelated to paclitaxel hypersensitivity.",
-        "Microtubule stabilization is the antitumor mechanism of paclitaxel, not the cause of hypersensitivity reactions.",
-        "There is no described anti-tubulin antibody-complement mechanism for paclitaxel reactions."
+        "Correct - Chediak-Higashi syndrome is caused by a mutation in the LYST (lysosomal trafficking regulator) gene, causing microtubule dysfunction and failure of lysosomes to fuse with phagosomes; this produces giant granules, recurrent Staph/Strep infections, oculocutaneous albinism, and progressive peripheral neuropathy.",
+        "Incorrect - IL-12 receptor deficiency impairs Th1 differentiation, causing disseminated mycobacterial infections, not this presentation.",
+        "Incorrect - Absent NADPH oxidase activity describes chronic granulomatous disease, which causes catalase-positive organism infections but not albinism or giant granules.",
+        "Incorrect - Defective CD18 describes leukocyte adhesion deficiency, presenting with delayed cord separation and omphalitis, not albinism/neuropathy with giant granules.",
+        "Incorrect - Defective CD40L causes Hyper-IgM syndrome with recurrent bacterial and opportunistic infections, not albinism, giant granules, or neuropathy."
       ],
-      "overview": "Taxols (paclitaxel, docetaxel) hyperstabilize microtubules, blocking mitotic spindle breakdown and arresting cells at the metaphase-anaphase transition. Hypersensitivity reactions occur in up to 30% of patients due to the delivery solvent rather than the drug itself, and albumin-bound paclitaxel formulations reduce this risk.",
-      "id": "2026-09-08-22"
+      "overview": "Chediak-Higashi syndrome results from a LYST gene mutation causing microtubule dysfunction and failure of phagolysosome fusion, leading to recurrent bacterial (Staph, Strep) infections, oculocutaneous albinism, giant cytoplasmic granules in leukocytes, and, in survivors, progressive peripheral neuropathy.",
+      "id": "2026-09-10-11"
     },
     {
       "format": "simple4",
-      "stem": "A hospitalized patient on prolonged broad-spectrum antibiotics develops vitamin K deficiency. Which of the following laboratory findings would be expected earliest?",
+      "stem": "The \"pencil-in-cup\" deformity seen on hand radiographs in psoriatic arthritis classically affects which joint?",
       "options": [
-        "Prolonged bleeding time",
-        "Prolonged PT/INR",
-        "Decreased platelet count",
-        "Isolated prolonged thrombin time"
+        "Metacarpophalangeal (MCP) joint",
+        "Wrist joint",
+        "Proximal interphalangeal (PIP) joint",
+        "Distal interphalangeal (DIP) joint"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanations": [
-        "Bleeding time reflects platelet function and is normal in vitamin K deficiency, which affects coagulation factors rather than platelets.",
-        "Correct - Vitamin K deficiency impairs synthesis of factors II, VII, IX, X and proteins C/S; factor VII has the shortest half-life, so PT/INR prolongs earliest, while aPTT prolongation is less sensitive and may remain normal.",
-        "Platelet count is unaffected by vitamin K deficiency, since it is a disorder of the coagulation cascade, not platelets.",
-        "Thrombin time is prolonged by heparin or direct thrombin inhibitors and by hypofibrinogenemia, not typically by vitamin K deficiency."
+        "Incorrect - MCP joints are classically involved in RA (with ulnar deviation), not the site of the pencil-in-cup deformity.",
+        "Incorrect - The wrist can be involved in various arthritides but is not the classic site of the pencil-in-cup deformity.",
+        "Incorrect - PIP involvement with swan neck deformity is more characteristic of rheumatoid arthritis, not the classic pencil-in-cup finding.",
+        "Correct - Psoriatic arthritis classically causes DIP joint arthritis, with the 'pencil-in-cup' deformity being a classic radiographic finding at this joint."
       ],
-      "overview": "Vitamin K is required for gamma-carboxylation (via epoxide reductase) of clotting factors II, VII, IX, and X as well as proteins C and S. Because factor VII has the shortest half-life, PT/INR is the most sensitive and earliest-affected test in vitamin K deficiency, while aPTT and bleeding time are less reliably affected.",
-      "id": "2026-09-08-23"
+      "overview": "Psoriatic arthritis is a seronegative spondyloarthropathy occurring in a minority of psoriasis patients, often with nail changes (pitting, onycholysis), dactylitis, and sacroiliitis. A hallmark feature is DIP joint arthritis with the classic 'pencil-in-cup' deformity on imaging.",
+      "id": "2026-09-10-12"
     },
     {
       "format": "vignette5",
-      "stem": "A 4-year-old boy develops bloody diarrhea after eating undercooked ground beef at a family barbecue. Five days later he becomes pale and lethargic, and his urine output decreases. Labs show hemoglobin 7.5 g/dL, platelets 45,000/mm3, elevated creatinine, elevated LDH, and schistocytes on peripheral smear. PT and PTT are normal. Which of the following best explains this patient's condition?",
+      "stem": "A 72-year-old woman presents with a 3-week history of throbbing headache localized to her right temple and pain in her jaw that worsens while chewing. She has also noticed transient episodes of blurred vision in her right eye. Erythrocyte sedimentation rate is markedly elevated. Which of the following is the most appropriate next step in management?",
       "options": [
-        "Severe deficiency of ADAMTS13",
-        "Autoantibody against factor VIII",
-        "Shiga-like toxin causing endothelial damage",
-        "Consumption of clotting factors from disseminated intravascular coagulation",
-        "Deficiency of glucose-6-phosphate dehydrogenase"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Severe ADAMTS13 deficiency causes TTP, which typically presents with fever and neurologic symptoms rather than the classic bloody diarrhea prodrome seen here, and is less common in young children.",
-        "This describes acquired hemophilia, which causes an isolated prolonged PTT without microangiopathic hemolytic anemia or thrombocytopenia.",
-        "Correct - E. coli O157:H7 produces Shiga-like toxin that damages endothelial cells and triggers microthrombi formation, producing HUS with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury following a bloody diarrhea prodrome, typically without fever or neurologic symptoms.",
-        "DIC causes prolonged PT/PTT and low fibrinogen due to consumption of clotting factors, which is not seen here since PT/PTT are normal.",
-        "G6PD deficiency causes episodic hemolysis triggered by oxidative stressors, not a diarrhea-associated thrombotic microangiopathy with thrombocytopenia and renal failure."
-      ],
-      "overview": "Hemolytic uremic syndrome classically follows infection with Shiga-toxin-producing E. coli O157:H7, causing endothelial damage and microthrombi in the kidney. It presents with the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury, typically without fever or neurologic symptoms (distinguishing it from TTP), and PT/PTT remain normal since clotting factors are not consumed.",
-      "id": "2026-09-08-24"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with long-standing rheumatoid arthritis develops nephrotic-range proteinuria. A kidney biopsy shows Congo red-positive deposits with apple-green birefringence under polarized light. Which protein most likely composes these amyloid deposits?",
-      "options": [
-        "Immunoglobulin light chains",
-        "Serum amyloid A protein",
-        "Transthyretin",
-        "Beta-2 microglobulin"
+        "Start colchicine for suspected pseudogout",
+        "Initiate high-dose corticosteroids immediately, without waiting for biopsy results",
+        "Obtain an angiogram to look for pulseless disease",
+        "Begin methotrexate for suspected rheumatoid arthritis",
+        "Await temporal artery biopsy results before starting any treatment"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Immunoglobulin light chains compose AL (primary) amyloid, associated with plasma cell dyscrasias like multiple myeloma, not chronic inflammatory conditions like RA.",
-        "Correct - AA (secondary) amyloidosis is composed of serum amyloid A, an acute phase reactant produced in chronic inflammatory conditions such as rheumatoid arthritis, and classically presents with nephrotic syndrome.",
-        "Transthyretin composes senile (wild-type) and familial (mutant) amyloidosis, primarily affecting the heart and peripheral nerves.",
-        "Beta-2 microglobulin composes dialysis-related amyloidosis, affecting joints and tendons, not RA-associated nephrotic syndrome."
+        "Incorrect - Colchicine is used for gout/pseudogout, not vasculitis affecting the temporal artery.",
+        "Correct - Temporal (giant cell) arteritis carries a risk of irreversible blindness from ophthalmic artery occlusion; treatment with high-dose steroids should begin immediately based on clinical suspicion, without waiting for biopsy confirmation.",
+        "Incorrect - Angiography for pulseless disease describes Takayasu arteritis, a large-vessel vasculitis of the aortic arch typically in younger Asian women, not this presentation.",
+        "Incorrect - The presentation (jaw claudication, headache, elevated ESR in an elderly patient) is classic for temporal arteritis, not RA.",
+        "Incorrect - Delaying treatment for biopsy risks permanent vision loss; biopsy can still be performed after starting steroids since inflammatory changes persist for some time."
       ],
-      "overview": "Amyloidosis results from extracellular deposition of misfolded proteins forming beta-pleated sheets, detected by Congo red staining with apple-green birefringence under polarized light. AA (secondary) amyloidosis, composed of serum amyloid A, arises from chronic inflammatory conditions like rheumatoid arthritis and classically presents with nephrotic syndrome, in contrast to AL (primary) amyloidosis from light chains in plasma cell dyscrasias.",
-      "id": "2026-09-08-25"
+      "overview": "Temporal (giant cell) arteritis is a granulomatous large-vessel vasculitis affecting the temporal artery system, classically in elderly women, presenting with headache and jaw claudication with an elevated ESR. Because untreated disease can cause blindness via ophthalmic artery occlusion, high-dose steroids should be started empirically without waiting for confirmatory temporal artery biopsy.",
+      "id": "2026-09-10-13"
     },
     {
       "format": "simple4",
-      "stem": "A patient started on methyldopa for hypertension develops a positive direct Coombs test and evidence of hemolytic anemia with spherocytes on smear. Which mechanism best explains this drug-induced hemolysis?",
+      "stem": "The paracortex of a lymph node is characterized by which two features?",
       "options": [
-        "The drug induces oxidative damage to hemoglobin, forming Heinz bodies",
-        "The drug activates complement directly on the RBC membrane",
-        "The drug triggers IgG autoantibodies directed against native RBC antigens such as Rh",
-        "The drug binds to the RBC surface as a hapten, generating antibodies against the drug-RBC complex"
+        "T cells activated by dendritic cells, and high endothelial venules allowing lymphocyte entry",
+        "B cells undergoing class switching within germinal centers",
+        "Plasma cells secreting antibodies into medullary cords",
+        "Macrophages filtering lymph within medullary sinuses"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanations": [
-        "Heinz body formation from oxidative damage is characteristic of G6PD deficiency, not methyldopa-induced AIHA.",
-        "Methyldopa-induced hemolysis is IgG-mediated extravascular hemolysis, not direct complement activation as seen in cold agglutinin disease.",
-        "Correct - Methyldopa is a classic trigger of warm autoimmune hemolytic anemia, inducing IgG autoantibodies directed against native RBC antigens (such as Rh antigens), causing extravascular hemolysis with a positive direct Coombs test and spherocytes.",
-        "The hapten mechanism (drug binding RBC surface, generating antibodies to the drug-RBC complex) describes high-dose penicillin-induced hemolysis, not methyldopa."
+        "Correct - The paracortex contains T cells activated by dendritic cells presenting antigen, and it contains high endothelial venules, specialized vessels that allow circulating B and T cells to enter the lymph node; the paracortex is underdeveloped in T-cell deficiency disorders like DiGeorge syndrome.",
+        "Incorrect - Germinal centers with B-cell class switching are found in the lymphoid follicles of the cortex, not the paracortex.",
+        "Incorrect - Plasma cells secreting antibodies are found in the medullary cords, not the paracortex.",
+        "Incorrect - Macrophages filtering lymph are found in the medullary sinuses, not the paracortex."
       ],
-      "overview": "Warm autoimmune hemolytic anemia is caused by IgG autoantibodies against RBC surface antigens, producing extravascular hemolysis (spherocytes, splenomegaly, positive direct Coombs test). Methyldopa is a classic drug trigger that induces autoantibodies against native RBC antigens like Rh, distinct from the hapten mechanism seen with high-dose penicillin.",
-      "id": "2026-09-08-26"
+      "overview": "Lymph node architecture is organized by function: cortical follicles are the site of B-cell activation (with germinal centers in secondary follicles), the paracortex contains T cells activated by dendritic cells along with high endothelial venules for lymphocyte entry, and the medulla contains macrophage-filled sinuses and plasma cell-containing cords. The paracortex is characteristically underdeveloped in T-cell deficiencies such as DiGeorge syndrome.",
+      "id": "2026-09-10-14"
     },
     {
       "format": "simple4",
-      "stem": "Deletion of all four alpha-globin genes results in a hemoglobin composed entirely of gamma-globin tetramers. This condition is best described by which of the following?",
+      "stem": "A patient who underwent splenectomy after trauma is at greatest increased risk for fulminant sepsis from which organism?",
       "options": [
-        "HbH disease, a mild chronic hemolytic anemia",
-        "Silent carrier state with no anemia",
-        "Hgb Barts, incompatible with life causing hydrops fetalis",
-        "Alpha thalassemia trait, a mild microcytic anemia"
+        "Streptococcus pneumoniae",
+        "Bacteroides fragilis",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus epidermidis"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanations": [
-        "HbH disease occurs with three-gene (not four-gene) deletions and is a chronic but survivable hemolytic anemia.",
-        "The silent carrier state (alpha thalassemia minima) results from a single gene deletion and produces no anemia; four-gene deletion is fatal, not silent.",
-        "Correct - Deletion of all four alpha-globin genes prevents formation of HbA, HbA2, or HbF; the resulting gamma-globin tetramers (Hgb Barts) cannot deliver oxygen effectively, and this condition is incompatible with life, causing hydrops fetalis and fetal death.",
-        "Alpha thalassemia trait results from two-gene deletions and is typically an asymptomatic, mild microcytic anemia."
+        "Correct - Streptococcus pneumoniae is the predominant pathogen causing overwhelming post-splenectomy sepsis, with mortality exceeding 50% in affected patients, due to loss of splenic marginal zone macrophage-mediated clearance and reduced opsonization of encapsulated organisms.",
+        "Incorrect - Bacteroides fragilis is an anaerobic gut organism associated with intra-abdominal infections, not classically the predominant post-splenectomy sepsis pathogen.",
+        "Incorrect - Pseudomonas is not the predominant organism associated with post-splenectomy sepsis; encapsulated organisms (S. pneumoniae, H. influenzae, N. meningitidis) predominate.",
+        "Incorrect - Staphylococcus epidermidis is a low-virulence skin commensal, not a classic cause of post-splenectomy sepsis."
       ],
-      "overview": "Alpha thalassemia results from deletion of one or more of the four alpha-globin genes, with disease severity proportional to the number of genes deleted. Loss of all four genes prevents formation of HbA, HbA2, and HbF, producing Hgb Barts (gamma-globin tetramers), which is incompatible with life and causes hydrops fetalis, in contrast to milder single/two-gene deletions (silent carrier, trait) or three-gene deletion (HbH disease).",
-      "id": "2026-09-08-27"
+      "overview": "The spleen's marginal zone macrophages and splenic B cells are critical for phagocytosis and opsonization (IgM/IgG and complement C3b) of encapsulated bacteria. Loss of splenic function (splenectomy, sickle cell disease with functional asplenia) predisposes to fulminant sepsis, most commonly from Streptococcus pneumoniae, with mortality over 50%, as well as H. influenzae and N. meningitidis.",
+      "id": "2026-09-10-15"
     },
     {
       "format": "simple4",
-      "stem": "A patient on long-term apixaban for atrial fibrillation presents with life-threatening gastrointestinal bleeding. Which reversal agent acts as a decoy that binds and sequesters the offending drug?",
+      "stem": "Certain pathogens, including Streptococcus pneumoniae, Haemophilus influenzae, and Neisseria species, produce an enzyme that cleaves the secretory component of IgA. What is the primary consequence of this enzymatic activity?",
       "options": [
-        "Vitamin K",
-        "Protamine sulfate",
-        "Idarucizumab",
-        "Andexanet alfa"
+        "Enhanced ability of the pathogen to colonize mucosal surfaces",
+        "Conversion of IgA into a more effective opsonin",
+        "Stimulation of mast cell degranulation",
+        "Increased complement activation at the mucosal surface"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - IgA protease cleaves the secretory component of IgA, disabling its ability to coat and neutralize pathogens at mucosal surfaces, thereby allowing these organisms to colonize mucosal surfaces more effectively.",
+        "Incorrect - Cleavage of IgA disables rather than enhances its function; IgA is not typically an opsonin even when intact.",
+        "Incorrect - IgA does not mediate mast cell degranulation (that is a function of IgE); IgA protease has no effect on mast cells.",
+        "Incorrect - IgA does not activate complement at baseline, and cleaving it would not increase complement activation; it removes a mucosal defense mechanism instead."
+      ],
+      "overview": "IgA is the dominant antibody at mucosal surfaces (GI tract, respiratory tract, saliva, tears), functioning to coat pathogens and prevent their adherence/invasion without activating complement. Certain bacteria (S. pneumoniae, H. influenzae, Neisseria) produce IgA protease, which cleaves the secretory component and allows these organisms to evade mucosal defenses and colonize the host.",
+      "id": "2026-09-10-16"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A newborn is found to have a conotruncal cardiac defect on echocardiogram and develops tetany with seizure-like activity on day 2 of life. Serum calcium is low. Chest x-ray shows absence of the thymic shadow. Genetic testing reveals a 22q11 deletion. Which of the following sets of infections is this infant at greatest risk for?",
+      "options": [
+        "Omphalitis due to defective neutrophil migration",
+        "Recurrent encapsulated bacterial sinopulmonary infections due to absent B cells",
+        "Disseminated candidiasis due to neutropenia",
+        "Viral, fungal, and intracellular bacterial infections due to T-cell deficiency",
+        "Recurrent Neisseria infections due to terminal complement deficiency"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Vitamin K reverses warfarin by restoring synthesis of vitamin K-dependent clotting factors, not direct factor Xa inhibitors.",
-        "Protamine sulfate reverses unfractionated heparin by binding and neutralizing it directly, not factor Xa inhibitors.",
-        "Idarucizumab is a monoclonal antibody that reverses dabigatran, a direct thrombin inhibitor, not a factor Xa inhibitor.",
-        "Correct - Andexanet alfa is a decoy factor Xa molecule that binds and sequesters direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban), reversing their anticoagulant effect."
+        "Incorrect - Omphalitis with delayed cord separation is characteristic of leukocyte adhesion deficiency, not DiGeorge syndrome.",
+        "Incorrect - B cells and antibody production are typically preserved in DiGeorge syndrome (it is a primary T-cell disorder), unlike Bruton's agammaglobulinemia.",
+        "Incorrect - Neutropenia is not a feature of DiGeorge syndrome; the defect is in T-cell development, not granulocytes.",
+        "Correct - DiGeorge syndrome results from failure of the 3rd/4th pharyngeal pouches to develop, causing thymic aplasia (loss of T cells), parathyroid aplasia (hypocalcemia/tetany), and conotruncal cardiac defects; the T-cell deficiency predisposes to viral, fungal, protozoal, and intracellular bacterial infections.",
+        "Incorrect - Recurrent Neisseria infections occur with terminal complement (C5-C9) deficiency, unrelated to DiGeorge syndrome."
       ],
-      "overview": "Direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban) work without antithrombin, providing predictable oral anticoagulation without routine monitoring. Their only major toxicity is bleeding, and andexanet alfa reverses their effect by acting as a decoy that binds and sequesters the drug away from endogenous factor Xa.",
-      "id": "2026-09-08-28"
+      "overview": "DiGeorge syndrome results from a 22q11 deletion causing failure of the 3rd and 4th pharyngeal pouches to develop, producing the classic triad of thymic aplasia (T-cell deficiency, recurrent viral/fungal/intracellular infections), parathyroid aplasia (hypocalcemia, tetany), and conotruncal cardiac defects. Chest x-ray characteristically shows an absent thymic shadow.",
+      "id": "2026-09-10-17"
     },
     {
       "format": "simple4",
-      "stem": "Methotrexate exerts its antineoplastic and immunosuppressive effects primarily by inhibiting which enzyme?",
+      "stem": "Th17 cells are a distinct subset of CD4+ T cells important for mucosal immunity in the GI tract. Loss of Th17 function classically leads to increased susceptibility to which type of infection?",
       "options": [
-        "Thymidylate synthase",
-        "Ribonucleotide reductase",
-        "Topoisomerase II",
-        "Dihydrofolate reductase"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Thymidylate synthase is directly inhibited by 5-fluorouracil's active metabolite, not by methotrexate.",
-        "Ribonucleotide reductase is inhibited by hydroxyurea, not methotrexate.",
-        "Topoisomerase II is inhibited by etoposide/teniposide and anthracyclines, not methotrexate.",
-        "Correct - Methotrexate is a folate analog that inhibits dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate and thereby reducing thymidine synthesis."
-      ],
-      "overview": "Methotrexate mimics folate and inhibits dihydrofolate reductase, preventing regeneration of tetrahydrofolate needed for thymidine synthesis and thereby blocking DNA synthesis in S phase. Myelosuppression can be rescued with leucovorin (folinic acid), which bypasses the DHFR block.",
-      "id": "2026-09-08-29"
-    },
-    {
-      "format": "simple4",
-      "stem": "A lymph node biopsy from a patient with cervical lymphadenopathy and night sweats shows large binucleate cells with prominent nucleoli (\"owl-eye\" appearance) admixed with reactive inflammatory cells. Which surface markers are these malignant cells most likely to express?",
-      "options": [
-        "CD5 and CD23",
-        "CD15 and CD30",
-        "CD19 and CD20",
-        "TdT and CD10"
+        "Chronic mucocutaneous candidiasis only",
+        "Enteric gram-negative bacteria entering the bloodstream (e.g., E. coli)",
+        "Recurrent Neisseria meningitidis infection",
+        "Disseminated mycobacterial infection"
       ],
       "correctIndex": 1,
       "explanations": [
-        "CD5 and CD23 are markers of CLL/SLL, not Reed-Sternberg cells.",
-        "Correct - Classical Reed-Sternberg cells, the diagnostic malignant cells of Hodgkin lymphoma, typically express CD15 and CD30 and are usually negative for other B-cell markers (CD19, CD20, CD21, CD22) despite deriving from B cells.",
-        "CD19 and CD20 are B-cell markers typically seen in non-Hodgkin lymphomas (and the rare nodular lymphocyte predominant Hodgkin variant), not classical Reed-Sternberg cells.",
-        "TdT and CD10 are markers seen in ALL lymphoblasts, not Reed-Sternberg cells."
+        "Incorrect - The classic described consequence of loss of Th17 cells in these notes is enteric gram-negative bacteremia, not candidiasis specifically.",
+        "Correct - Th17 cells produce IL-17, which recruits neutrophils and macrophages to mucosal surfaces; loss of Th17 function impairs containment of GI flora, allowing translocation of enteric gram-negative organisms into the bloodstream.",
+        "Incorrect - Recurrent Neisseria infections are associated with terminal complement (C5-C9) deficiency, not Th17 dysfunction.",
+        "Incorrect - Disseminated mycobacterial infection is classically associated with defects in the IL-12/IFN-\u03b3 (Th1) axis, not Th17 deficiency."
       ],
-      "overview": "Hodgkin lymphoma is diagnosed by the presence of Reed-Sternberg cells \u2014 large, often binucleate (\"owl-eye\") cells derived from B cells but typically CD15+ and CD30+ while lacking usual B-cell markers. These cells make up only a small minority of cells in the involved node, with the bulk being reactive lymphocytes, plasma cells, and macrophages recruited by RS-cell cytokine release.",
-      "id": "2026-09-08-30"
+      "overview": "Th17 cells are a CD4+ T-cell subset distinct from Th1/Th2 that secretes IL-17 to recruit neutrophils and macrophages, playing a key role in mucosal immunity, especially in the GI tract. Loss of Th17 function predisposes to translocation of enteric gram-negative bacteria into the bloodstream and has emerging links to autoimmune disease.",
+      "id": "2026-09-10-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "Paroxysmal nocturnal hemoglobinuria results from an acquired deficiency of which membrane proteins, leading to unchecked complement-mediated red cell lysis?",
+      "options": [
+        "Mannose-binding lectin",
+        "Decay accelerating factor (CD55) and MAC inhibitory protein (CD59)",
+        "C1 inhibitor",
+        "Factor H"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Mannose-binding lectin is involved in initiating the lectin complement pathway, not in protecting host cells from complement-mediated lysis.",
+        "Correct - PNH results from deficiency of the membrane proteins that normally protect host cells from complement \u2014 decay accelerating factor (DAF/CD55), which disrupts C3b attachment, and CD59, which disrupts membrane attack complex formation \u2014 leading to unchecked complement-mediated hemolysis.",
+        "Incorrect - C1 inhibitor deficiency causes hereditary angioedema (via unregulated bradykinin), not PNH.",
+        "Incorrect - Factor H deficiency would lead to uncontrolled alternative pathway activation generally, but the classic PNH mechanism is loss of CD55/CD59, not Factor H."
+      ],
+      "overview": "Paroxysmal nocturnal hemoglobinuria is caused by loss of the GPI-anchored complement regulatory proteins DAF (CD55) and CD59 on blood cells, leading to complement-mediated intravascular hemolysis (classically at night), hemoglobinuria, and an increased risk of thrombosis (often in unusual sites like the portal or hepatic veins), the leading cause of death.",
+      "id": "2026-09-10-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "Sirolimus (rapamycin), used in kidney transplantation and drug-eluting stents, exerts its immunosuppressive effect through which mechanism?",
+      "options": [
+        "Binding cyclophilin and inhibiting calcineurin, thereby blocking NFAT-mediated cytokine transcription",
+        "Inhibiting inosine monophosphate dehydrogenase to block purine synthesis in lymphocytes",
+        "Alkylating DNA to cross-link strands and block replication",
+        "Binding FK-binding protein and inhibiting mTOR, blocking the response to IL-2 and arresting the cell cycle"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - Binding cyclophilin and inhibiting calcineurin describes the mechanism of cyclosporine, not sirolimus.",
+        "Incorrect - Inhibition of IMP dehydrogenase describes the mechanism of mycophenolic acid, not sirolimus.",
+        "Incorrect - DNA alkylation and cross-linking describes the mechanism of cyclophosphamide, not sirolimus.",
+        "Correct - Sirolimus binds FK-binding protein (the same target as tacrolimus) but, unlike tacrolimus, does not inhibit calcineurin; instead, the complex inhibits mTOR, blocking the cellular response to IL-2 and arresting T and B cells in the G1-S phase of the cell cycle."
+      ],
+      "overview": "Sirolimus (rapamycin) is used in kidney transplantation and drug-eluting coronary stents; it binds FK-binding protein (like tacrolimus) but inhibits mTOR rather than calcineurin, blocking IL-2 signaling and arresting lymphocyte proliferation in the G1-S phase. Its side effects include cytopenias, hyperlipidemia, and hyperglycemia, distinct from the nephrotoxicity seen with calcineurin inhibitors.",
+      "id": "2026-09-10-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with selective IgA deficiency develops an anaphylactic reaction during a blood transfusion. What is the most likely explanation for this reaction?",
+      "options": [
+        "Preformed antibodies against IgA present in donor blood products",
+        "Activation of the alternative complement pathway by transfused platelets",
+        "Excess IgE in the donor plasma triggering mast cell degranulation",
+        "Cross-reactivity between IgA and ABO blood group antigens"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Patients with selective IgA deficiency can develop antibodies against IgA; when transfused with blood products containing IgA (a normal blood component), these antibodies can trigger an anaphylactic reaction.",
+        "Incorrect - The described mechanism in IgA deficiency-related transfusion reactions is antibody-mediated (anti-IgA), not complement activation by platelets.",
+        "Incorrect - The mechanism involves anti-IgA antibodies in the recipient, not excess IgE in the donor plasma.",
+        "Incorrect - The reaction is due to anti-IgA antibodies, not cross-reactivity with ABO antigens."
+      ],
+      "overview": "Selective IgA deficiency is a common (~1 in 600) immunodeficiency, usually asymptomatic, but symptomatic patients can have recurrent sinopulmonary and GI (giardiasis) infections, increased rates of SLE/RA, a false-positive \u03b2-HCG test, and anaphylactic transfusion reactions due to antibodies against IgA present in transfused blood products.",
+      "id": "2026-09-10-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "Probenecid is used for the prevention of recurrent gout attacks. What is its mechanism of action?",
+      "options": [
+        "Converting uric acid to the more water-soluble allantoin",
+        "Inhibiting microtubule polymerization to block neutrophil migration into joints",
+        "Inhibiting xanthine oxidase, decreasing uric acid production",
+        "Blocking proximal tubule reabsorption of uric acid, increasing its urinary excretion"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - Conversion of uric acid to allantoin describes the mechanism of the uricase drugs pegloticase and rasburicase, not probenecid.",
+        "Incorrect - Inhibition of microtubule polymerization and neutrophil migration describes the mechanism of colchicine, not probenecid.",
+        "Incorrect - Xanthine oxidase inhibition describes the mechanism of allopurinol and febuxostat, not probenecid.",
+        "Correct - Probenecid is a uricosuric drug that blocks proximal tubule reabsorption of uric acid, thereby promoting its excretion in urine and lowering serum uric acid levels; it can also block penicillin secretion in the urine."
+      ],
+      "overview": "Probenecid is a uricosuric agent that lowers serum uric acid by blocking proximal tubular reabsorption of uric acid, increasing its urinary excretion; it can precipitate uric acid kidney stones and, as a sulfa drug, was originally developed to reduce renal secretion of penicillin and thereby prolong its effect.",
+      "id": "2026-09-10-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "Factor H is a plasma glycoprotein that protects host cells from inappropriate complement activation via which mechanism?",
+      "options": [
+        "Binding C1q to prevent classical pathway activation",
+        "Blocking mannose-binding lectin from binding microbial surfaces",
+        "Accelerating decay of the alternative pathway C3 convertase (C3bBb) and inactivating C3b",
+        "Cleaving C5 to prevent membrane attack complex formation"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - Factor H acts on the alternative pathway C3 convertase, not on C1q or the classical pathway.",
+        "Incorrect - Factor H does not interact with mannose-binding lectin, which is part of the lectin pathway.",
+        "Correct - Factor H is a liver-synthesized glycoprotein that protects host cells by accelerating the decay of the alternative pathway C3 convertase (C3bBb) and promoting cleavage/inactivation of C3b; some pathogens (H. influenzae, N. meningitidis, streptococci, Pseudomonas) hijack Factor H to evade the alternative pathway.",
+        "Incorrect - Factor H acts upstream at the level of C3 convertase, not by cleaving C5."
+      ],
+      "overview": "In the alternative complement pathway, spontaneously generated C3b is normally rapidly destroyed unless stabilized on a pathogen surface, where it forms the C3 convertase (C3bBb) that amplifies C3b deposition. Factor H is a host-protective regulatory protein that accelerates decay of this convertase and inactivates C3b on host cells; several pathogens exploit Factor H binding to evade complement-mediated killing.",
+      "id": "2026-09-10-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with rheumatoid arthritis develops a swelling behind the knee that later ruptures, causing calf pain and swelling that mimics a deep vein thrombosis. This describes which of the following?",
+      "options": [
+        "Tophus",
+        "Ganglion cyst",
+        "Baker's (popliteal) cyst",
+        "Rheumatoid nodule"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - A tophus is a uric acid deposit seen in chronic gout, not a synovial cyst of the knee.",
+        "Incorrect - A ganglion cyst is a distinct, generally non-inflammatory cystic swelling near joints/tendons, not the classic RA-associated popliteal cyst described.",
+        "Correct - A Baker's (popliteal) cyst is a synovium-lined sac continuous with the joint space at the back of the knee, commonly seen in RA; rupture can produce symptoms mimicking a DVT.",
+        "Incorrect - Rheumatoid nodules are subcutaneous nodules typically on the elbow, associated with RF-positive RA, not fluid-filled popliteal masses."
+      ],
+      "overview": "A Baker's (popliteal) cyst is a synovium-lined sac at the back of the knee that communicates with the joint space, commonly occurring in rheumatoid arthritis due to increased synovial fluid production; rupture can mimic the presentation of a deep vein thrombosis.",
+      "id": "2026-09-10-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "Primary biliary cirrhosis, characterized by T-cell mediated destruction of small bile ducts, is most strongly associated with which rheumatologic condition?",
+      "options": [
+        "Polyarteritis nodosa",
+        "Limited (CREST) scleroderma",
+        "Ankylosing spondylitis",
+        "Diffuse scleroderma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Polyarteritis nodosa is a medium-vessel vasculitis associated with hepatitis B, not PBC.",
+        "Correct - Primary biliary cirrhosis is associated with limited scleroderma, with 5-15% of PBC patients having limited scleroderma (also associated with Sj\u00f6gren's, lupus, RA, and Hashimoto's thyroiditis).",
+        "Incorrect - Ankylosing spondylitis is a seronegative spondyloarthropathy with no described association with PBC.",
+        "Incorrect - The described association in the notes is specifically with limited (not diffuse) scleroderma."
+      ],
+      "overview": "Primary biliary cirrhosis is a T-cell mediated autoimmune destruction of small bile ducts leading to cholestasis (elevated conjugated bilirubin and alkaline phosphatase), pruritus, and potential progression to cirrhosis. It shows a notable association with limited scleroderma, as well as Sj\u00f6gren's syndrome, SLE, RA, and Hashimoto's thyroiditis.",
+      "id": "2026-09-10-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following metabolic conditions is most classically associated with calcium pyrophosphate deposition disease (CPPD)?",
+      "options": [
+        "Von Gierke disease",
+        "Hemochromatosis",
+        "Wilson disease",
+        "Lesch-Nyhan syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Von Gierke disease (glucose-6-phosphatase deficiency) is associated with gout via lactic acidosis-driven uric acid retention, not CPPD.",
+        "Correct - Hemochromatosis, a hereditary iron overload disorder, is classically associated with CPPD, with calcium pyrophosphate deposition seen in up to two-thirds of hemochromatosis patients along with iron deposition in synovial tissue; hyperparathyroidism and joint trauma are other associated conditions.",
+        "Incorrect - Wilson disease (copper overload) is not among the associated conditions for CPPD described in these notes.",
+        "Incorrect - Lesch-Nyhan syndrome (HGPRT deficiency) causes excess uric acid production and gout, not CPPD."
+      ],
+      "overview": "Calcium pyrophosphate deposition disease (CPPD) causes asymptomatic chondrocalcinosis, acute pseudogout attacks (rhomboid, positively birefringent crystals), or chronic pseudo-osteoarthritis, typically in older patients. It is associated with joint trauma, hyperparathyroidism, and hemochromatosis, the last of which causes CPPD via associated iron deposition in synovial tissue.",
+      "id": "2026-09-10-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "The Schirmer test, used in the evaluation of suspected Sj\u00f6gren's syndrome, directly measures which of the following?",
+      "options": [
+        "Salivary flow rate",
+        "Radionuclide uptake by the salivary glands",
+        "Reflex tear production",
+        "Serum anti-SSA/SSB antibody titers"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - Salivary flow is assessed by whole sialometry (collecting and weighing saliva), a separate test from the Schirmer test.",
+        "Incorrect - Radionuclide uptake is assessed by salivary gland scintigraphy, not the Schirmer test.",
+        "Correct - The Schirmer test uses filter paper placed near the lower eyelid to measure the amount of tear wetting over 5 minutes, assessing reflex tear production, which is reduced in Sj\u00f6gren's syndrome.",
+        "Incorrect - Antibody titers are measured by serologic testing, not the Schirmer test, which is a physical/functional ocular test."
+      ],
+      "overview": "Sj\u00f6gren's syndrome causes lymphocytic destruction of lacrimal and salivary glands, producing dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia). Diagnostic criteria include objective measures of these deficits \u2014 the Schirmer test for tear production and salivary scintigraphy/sialometry for salivary flow \u2014 alongside anti-SSA/SSB antibodies or biopsy showing lymphocytic sialadenitis.",
+      "id": "2026-09-10-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "The heavy chain V, D, and J gene segments that rearrange to generate B-cell receptor diversity are located on which chromosome?",
+      "options": [
+        "Chromosome 6",
+        "Chromosome 14",
+        "Chromosome 11",
+        "Chromosome 22"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Chromosome 6 harbors the HLA/MHC genes, not the immunoglobulin heavy chain locus.",
+        "Correct - The immunoglobulin heavy chain V, D, and J gene segments are located on chromosome 14, and their combinatorial rearrangement, along with light chain rearrangement, generates the enormous diversity of B-cell receptors from a limited number of genes.",
+        "Incorrect - Chromosome 11 is not the site of heavy chain gene rearrangement described in these notes (it is associated with the ATM gene in ataxia telangiectasia).",
+        "Incorrect - Chromosome 22 is associated with the 22q11 deletion in DiGeorge syndrome, not the immunoglobulin heavy chain locus."
+      ],
+      "overview": "B-cell receptor diversity arises not from one gene per receptor but from combinatorial VDJ rearrangement of a limited set of variable (~50), diversity (~25), and joining (~6) gene segments on chromosome 14 for the heavy chain, combined with light chain V/J rearrangement, generating millions of unique antigen receptors.",
+      "id": "2026-09-10-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "Conjugate vaccines against encapsulated bacteria (e.g., Hib, Neisseria meningitidis, Streptococcus pneumoniae) improve immunogenicity primarily by which mechanism?",
+      "options": [
+        "Using a live attenuated form of the polysaccharide-encapsulated organism",
+        "Linking the polysaccharide antigen to a protein carrier, enabling T-cell help and stronger B-cell memory",
+        "Directly stimulating B cells without any antigen presentation",
+        "Bypassing the need for antibody production entirely"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Conjugate vaccines are not live attenuated organisms; they combine a purified polysaccharide antigen with a protein carrier.",
+        "Correct - Polysaccharide antigens alone activate B cells in a T-cell-independent manner, producing a weak, short-lived, mostly IgM response with poor memory; conjugating the polysaccharide to a protein carrier allows the protein to be presented to T cells, which provide help to B cells, producing a stronger, class-switched, memory response.",
+        "Incorrect - The mechanism specifically involves T-cell-dependent activation via the conjugated protein, not purely direct B-cell stimulation.",
+        "Incorrect - The goal of vaccination, including conjugate vaccines, is to generate a strong, durable antibody (and memory) response, not to bypass antibody production."
+      ],
+      "overview": "Polysaccharide capsule antigens activate B cells independent of T-cell help, generating a weak, transient IgM-predominant response without memory. Conjugate vaccines attach the polysaccharide to a protein carrier so that T cells can be recruited to help B cells, producing a stronger, longer-lasting, class-switched antibody response with immunologic memory.",
+      "id": "2026-09-10-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 48-year-old woman has a 3-year history of limited cutaneous systemic sclerosis with skin involvement confined to the fingers and face, calcinosis, and telangiectasias. She now presents with progressive dyspnea on exertion. Echocardiogram shows right ventricular enlargement and elevated pulmonary artery pressure. Which of the following is the most likely explanation for her current presentation?",
+      "options": [
+        "Myocarditis with conduction system disease",
+        "Pulmonary hypertension, the leading cause of death in limited scleroderma",
+        "Primary biliary cirrhosis causing hepatopulmonary syndrome",
+        "Scleroderma renal crisis with malignant hypertension",
+        "Esophageal dysmotility causing aspiration pneumonia"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - Myocarditis/conduction disease is described with diffuse scleroderma, not the limited/CREST form.",
+        "Correct - In limited scleroderma (CREST), pulmonary hypertension (and interstitial lung disease) is the main risk and leading cause of death, even though the disease course is otherwise more benign than diffuse disease.",
+        "Incorrect - PBC is associated with limited scleroderma but causes cholestatic liver disease, not primary pulmonary hypertension.",
+        "Incorrect - Scleroderma renal crisis is a complication of diffuse, not limited, scleroderma, and presents with acute renal failure and marked hypertension, not isolated pulmonary hypertension.",
+        "Incorrect - Esophageal dysmotility is part of CREST but causes reflux/dysphagia, not right heart strain and pulmonary hypertension."
+      ],
+      "overview": "Limited (CREST) scleroderma generally has a more benign course than diffuse disease and rarely involves the heart or kidneys, but pulmonary complications \u2014 particularly pulmonary hypertension and interstitial lung disease \u2014 are the leading cause of death. Routine monitoring includes echocardiography to detect early pulmonary hypertension.",
+      "id": "2026-09-10-30"
     }
   ]
 }
