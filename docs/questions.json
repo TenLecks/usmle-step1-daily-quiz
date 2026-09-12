@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-10",
-  "subject": "Immunology",
+  "date": "2026-09-12",
+  "subject": "Musculoskeletal",
   "questions": [
     {
-      "format": "vignette5",
-      "stem": "A 29-year-old woman with systemic lupus erythematosus has had two prior first-trimester pregnancy losses and one episode of deep vein thrombosis. Laboratory testing reveals a prolonged partial thromboplastin time that does not correct with mixing studies, and a false-positive RPR test. Which of the following antibodies is most likely responsible for this clinical picture?",
-      "options": [
-        "Antiphospholipid antibodies (lupus anticoagulant/anticardiolipin)",
-        "Anti-double stranded DNA antibodies",
-        "Anti-histone antibodies",
-        "Anti-centromere antibodies",
-        "Anti-Smith antibodies"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Antiphospholipid antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22 glycoprotein) cause antiphospholipid syndrome, associated with venous/arterial thrombosis, recurrent fetal loss, a paradoxically prolonged PTT, and a false-positive RPR/VDRL.",
-        "Incorrect - Anti-dsDNA is specific for SLE and correlates with disease activity and renal involvement, but does not cause thrombosis, fetal loss, or a false-positive RPR.",
-        "Incorrect - Anti-histone antibodies are characteristic of drug-induced lupus, not antiphospholipid syndrome.",
-        "Incorrect - Anti-centromere antibodies are associated with limited scleroderma (CREST), not SLE-associated thrombosis.",
-        "Incorrect - Anti-Sm is specific for SLE but is directed against snRNPs and is not linked to thrombosis or false-positive syphilis testing."
-      ],
-      "overview": "Antiphospholipid syndrome, seen in association with SLE or as a primary disorder, is caused by antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22 glycoprotein) against phospholipid-binding proteins, leading to increased venous/arterial thrombosis risk, recurrent fetal loss, a falsely elevated PTT, and a false-positive syphilis serology.",
-      "id": "2026-09-10-01"
-    },
-    {
       "format": "simple4",
-      "stem": "Which of the following best describes a property of IgM antibody?",
+      "stem": "A patient who fell asleep in a chair with his arm draped over the backrest develops wrist drop and sensory loss over the dorsum of the hand the next morning, with triceps strength preserved. Where is the site of radial nerve compression?",
       "options": [
-        "It is the most abundant antibody in mucosal secretions",
-        "It has ten antigen-binding sites and is the most effective complement activator",
-        "It is the only antibody class capable of crossing the placenta",
-        "It mediates degranulation of mast cells in type I hypersensitivity"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - IgA, not IgM, is the predominant antibody at mucosal surfaces.",
-        "Correct - IgM is a pentamer with ten antigen-binding sites, giving it the greatest avidity of any antibody class and making it the most effective activator of the classical complement pathway, though it is a weak opsonin since phagocyte Fc receptors cannot bind it.",
-        "Incorrect - IgG, not IgM, is the only antibody class that crosses the placenta.",
-        "Incorrect - IgE, not IgM, mediates mast cell degranulation in type I hypersensitivity reactions."
-      ],
-      "overview": "IgM is the first antibody produced during an immune response and exists as a pentamer with ten antigen-binding sites, giving it the highest avidity and making it an excellent activator of the classical complement pathway, though it is a poor opsonin and cannot cross the placenta.",
-      "id": "2026-09-10-02"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 45-year-old man with chronic hepatitis B infection presents with fever, weight loss, and new-onset foot drop with numbness. Skin examination reveals tender subcutaneous nodules and purpura on the lower extremities. Laboratory testing shows an elevated creatinine. Angiography of the mesenteric and renal arteries reveals multiple small aneurysms and areas of vessel narrowing. Which of the following best characterizes the underlying vascular pathology?",
-      "options": [
-        "Granulomatous inflammation of the aortic arch and its branches",
-        "Pauci-immune necrotizing vasculitis with c-ANCA positivity",
-        "Transmural fibrinoid necrosis of medium-sized muscular arteries",
-        "Noninflammatory vasospasm of digital arteries",
-        "Leukocytoclastic vasculitis of postcapillary venules with IgA deposition"
+        "Compression at the elbow below the lateral epicondyle",
+        "Compression in the axilla",
+        "Compression in the spiral groove of the humerus",
+        "Compression at the wrist near the anatomic snuffbox"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - Granulomatous inflammation of the aortic arch describes Takayasu arteritis, a large-vessel disease, not this case.",
-        "Incorrect - Pauci-immune, c-ANCA-positive necrotizing vasculitis describes granulomatosis with polyangiitis (Wegener's), which also involves the sinuses/upper airway, unlike this case.",
-        "Correct - Polyarteritis nodosa is an immune complex-mediated (type III hypersensitivity), often Hepatitis B-associated, vasculitis of medium vessels causing transmural inflammation with fibrinoid necrosis, producing aneurysms and constrictions ('rosary sign') on angiogram, along with mononeuritis multiplex, skin nodules/purpura, and renal failure.",
-        "Incorrect - Noninflammatory digital vasospasm describes Raynaud phenomenon, not a systemic necrotizing vasculitis with aneurysms.",
-        "Incorrect - IgA-mediated leukocytoclastic vasculitis of small vessels describes Henoch-Sch\u00f6nlein purpura, typically in children following a URI."
+        "Incorrect \u2014 injury below the elbow spares wrist drop and sensory loss of the dorsal hand, since the posterior interosseous branch mainly causes motor deficits distally.",
+        "Incorrect \u2014 axillary compression (e.g., crutches) of the radial nerve typically also affects triceps function, causing weakness of elbow extension, which is preserved in this patient.",
+        "Correct \u2014 \"Saturday night palsy\" refers to radial nerve compression in the spiral (radial) groove of the humerus from prolonged pressure (e.g., sleeping with the arm draped over a chair), causing wrist drop with sensory loss over the dorsal hand/forearm, but sparing the triceps since its branches arise proximal to the groove.",
+        "Incorrect \u2014 the radial nerve does not pass through the anatomic snuffbox as a site of classic compression; this location is relevant to scaphoid fractures, not radial nerve palsy."
       ],
-      "overview": "Polyarteritis nodosa is a medium-vessel, immune complex-mediated vasculitis classically associated with hepatitis B, causing transmural fibrinoid necrosis with aneurysm formation in renal, mesenteric, and hepatic arteries. Clinical features include mononeuritis multiplex, skin nodules/purpura, and renal failure; diagnosis is by angiography or tissue biopsy, and treatment is corticosteroids plus cyclophosphamide.",
-      "id": "2026-09-10-03"
+      "overview": "Radial nerve injury findings depend on the level of compression: axillary compression (crutches, crutch palsy) affects the triceps in addition to wrist/finger extensors, while spiral groove compression at the humeral midshaft (Saturday night palsy, associated with midshaft humeral fractures) causes wrist drop and dorsal hand sensory loss with the triceps spared. Injuries below the elbow spare sensory loss and triceps function, presenting mainly with finger extension weakness.",
+      "id": "2026-09-12-01"
     },
     {
       "format": "vignette5",
-      "stem": "Six weeks after receiving a cadaveric renal transplant, a patient develops rising serum creatinine and low-grade fever. A renal biopsy shows dense infiltrates of lymphocytes and mononuclear cells within the graft parenchyma. Which of the following best describes the mechanism and management of this process?",
+      "stem": "A 24-year-old recreational soccer player plants his foot and twists suddenly while an opponent contacts his knee from the side. He develops pain and swelling over the next day. On exam, with the knee flexed and the foot rotated externally while the knee is extended, the examiner elicits a painful pop along the joint line. Which structure is most likely injured?",
       "options": [
-        "Recipient CD8+ T cells reacting against donor HLA antigens; treatable with increased immunosuppression",
-        "Donor T cells attacking recipient tissues, causing rash and diarrhea",
-        "Intravascular coagulation from antibody-mediated vessel spasm occurring within minutes of reperfusion",
-        "Preformed recipient antibodies against donor ABO/HLA antigens; largely untreatable",
-        "Progressive vascular fibrosis and glomerular scarring occurring over years; irreversible"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - This describes acute rejection, occurring weeks to months post-transplant, driven by a cell-mediated immune response in which recipient T cells (especially CD8+) react to donor HLA antigens; biopsy shows lymphocytic/mononuclear infiltrates, and it is treatable with immunosuppression.",
-        "Incorrect - Donor T cells attacking recipient tissue describes graft-versus-host disease, a complication of bone marrow (not solid organ) transplantation.",
-        "Incorrect - This describes hyperacute rejection with vascular spasm and thrombosis occurring within minutes, not weeks, after transplantation.",
-        "Incorrect - This describes hyperacute rejection, which occurs within minutes due to preformed antibodies and is generally untreatable \u2014 not consistent with a presentation six weeks later with lymphocytic infiltrate.",
-        "Incorrect - This describes chronic rejection, which occurs over months to years with fibrosis, not an acute lymphocytic infiltrate at 6 weeks."
-      ],
-      "overview": "Transplant rejection is classified by timing and mechanism: hyperacute (minutes, preformed antibodies, untreatable), acute (weeks-months, cell-mediated/CD8 T-cell response to donor HLA, treatable with immunosuppression), and chronic (months-years, fibrosis and vascular narrowing, poorly understood and largely irreversible).",
-      "id": "2026-09-10-04"
-    },
-    {
-      "format": "simple4",
-      "stem": "Cytotoxic CD8+ T cells kill virus-infected cells through which combination of mechanisms?",
-      "options": [
-        "Release of IgE that triggers mast cell-mediated cytotoxicity",
-        "Direct phagocytosis of the infected cell",
-        "Perforin-mediated membrane pore formation and granzyme-induced apoptosis",
-        "Secretion of IL-4 to recruit eosinophils to the infected cell"
+        "Lateral collateral ligament",
+        "Lateral meniscus",
+        "Medial meniscus",
+        "Popliteus tendon",
+        "Posterior cruciate ligament"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - IgE-mediated mast cell cytotoxicity is unrelated to CD8 T-cell killing and is instead relevant to antiparasitic and allergic responses.",
-        "Incorrect - CD8+ T cells are not phagocytic; phagocytosis is a function of macrophages and neutrophils.",
-        "Correct - CD8+ T cells kill virus-infected cells by inserting perforins (forming membrane pores) and granzymes (proteases that activate caspases and degrade cell contents), as well as granulysin and Fas ligand, producing apoptosis with minimal inflammation.",
-        "Incorrect - IL-4 is a Th2 cytokine that promotes IgE production and Th2 differentiation, not a mechanism used by CD8 T cells to kill infected cells."
+        "Incorrect \u2014 LCL injury is tested with varus stress (adduction force), not with the McMurray rotational maneuver, and is rarely injured in isolation.",
+        "Incorrect \u2014 internal rotation of the tibia during McMurray testing, not external rotation, stresses the lateral meniscus.",
+        "Correct \u2014 external rotation of the tibia/foot during the McMurray test stresses and elicits pain from the medial meniscus, since foot rotation away from midline (external rotation) tests the medial meniscus.",
+        "Incorrect \u2014 the popliteus is not specifically tested by the McMurray maneuver and is not a classic structure injured in twisting knee injuries described here.",
+        "Incorrect \u2014 PCL injury is assessed with the posterior drawer test and classically results from a posteriorly directed force (e.g., dashboard injury), not a twisting mechanism with a positive McMurray test."
       ],
-      "overview": "CD8+ cytotoxic T cells recognize antigen presented on MHC class I (found on all nucleated cells) and kill virus-infected or tumor cells via perforin/granzyme-mediated pore formation and apoptosis induction, as well as Fas ligand engagement of Fas (CD95) on target cells, triggering the extrinsic apoptotic pathway with minimal surrounding inflammation.",
-      "id": "2026-09-10-05"
+      "overview": "Meniscal tears often occur when the foot is planted and the knee twists suddenly, common in sports like soccer and basketball, causing pain and swelling that worsens with pivoting. The McMurray test evaluates for meniscal tears by flexing the knee and rotating the foot while extending the knee: internal rotation stresses the lateral meniscus, while external rotation stresses the medial meniscus, with pain or a palpable pop indicating a positive test.",
+      "id": "2026-09-12-02"
     },
     {
       "format": "simple4",
-      "stem": "Major basic protein, released from eosinophil granules, contributes to host defense against parasites primarily through which mechanism?",
+      "stem": "Which of the following best describes the role of osteoprotegerin (OPG) in bone remodeling?",
       "options": [
-        "Its positive charge allows it to bind and damage the surface of large parasites too big to be phagocytosed",
-        "It stimulates B cells to produce IgM against parasite antigens",
-        "It activates the classical complement pathway directly on the parasite surface",
-        "It opsonizes the parasite for phagocytosis by macrophages"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Eosinophil granules, including major basic protein (positively charged, in contrast to the negatively charged eosin dye that stains them), are discharged directly onto the surface of parasites too large for phagocytosis, causing cytotoxic damage.",
-        "Incorrect - Eosinophils are activated by IgE (via Th2-derived IL-5) and act through direct degranulation, not by stimulating B cells to make IgM.",
-        "Incorrect - Eosinophil granule proteins act directly and cytotoxically on the parasite surface rather than by activating complement.",
-        "Incorrect - Because the parasites are too large for phagocytosis, the mechanism is direct extracellular cytotoxicity, not opsonization for phagocytosis."
-      ],
-      "overview": "Eosinophils are granulocytes activated by IgE and IL-5 (from Th2 cells) that play a key role in antiparasitic defense, particularly against helminths too large to be phagocytosed. Their granules contain cytotoxic proteins, including major basic protein, eosinophil cationic protein, eosinophil peroxidase, and eosinophil-derived neurotoxin, released directly onto the parasite surface.",
-      "id": "2026-09-10-06"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 58-year-old woman with a 15-year history of severe rheumatoid arthritis with joint deformities presents with recurrent bacterial infections and easy fatigability. Physical exam reveals an enlarged spleen. Labs show an absolute neutrophil count of 800/mm3. Rheumatoid factor is strongly positive. Which of the following best describes this patient's condition?",
-      "options": [
-        "Felty syndrome, associated with splenomegaly and neutropenia in long-standing severe RA",
-        "Disseminated gonococcal infection causing septic arthritis",
-        "Sjogren's syndrome, characterized by dry eyes and dry mouth",
-        "Amyloidosis secondary to chronic RA",
-        "Drug-induced lupus from methotrexate therapy"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Felty syndrome = splenomegaly + neutropenia occurring in patients with severe, longstanding RA, typically years after onset, and improves with RA-directed therapy.",
-        "Incorrect - Gonococcal septic arthritis presents acutely with monoarticular joint infection, not chronic splenomegaly/neutropenia.",
-        "Incorrect - Sjogren's presents with sicca symptoms (dry eyes/mouth), not splenomegaly and neutropenia.",
-        "Incorrect - Secondary (AA) amyloidosis is a long-term RA complication but presents with organ dysfunction (e.g., proteinuria), not splenomegaly/neutropenia.",
-        "Incorrect - Drug-induced lupus presents with rash, arthritis, penias, and anti-histone antibodies after specific drugs (INH, hydralazine, procainamide), not this pattern."
-      ],
-      "overview": "Felty syndrome is a triad of splenomegaly, neutropenia, and rheumatoid arthritis, occurring in patients with severe, longstanding, seropositive RA, often with joint deformity and extra-articular disease. It generally improves with RA-directed therapy and predisposes to bacterial infection due to neutropenia.",
-      "id": "2026-09-10-07"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 55-year-old woman with a 10-year history of primary Sj\u00f6gren's syndrome presents with a persistent, painless swelling of her right parotid gland that has not resolved over several months. She denies fever or recent illness. Which of the following complications should be most strongly suspected?",
-      "options": [
-        "Mumps parotitis",
-        "B-cell (marginal zone) lymphoma",
-        "Sialolithiasis (salivary stone)",
-        "Squamous cell carcinoma of the parotid",
-        "Recurrent bacterial sialadenitis"
+        "It is a receptor on osteoclasts that binds RANK-L to stimulate bone resorption",
+        "It is a decoy receptor secreted by osteoblasts that binds RANK-L and prevents osteoclast activation",
+        "It is a growth factor that stimulates chondrocyte proliferation at the growth plate",
+        "It is secreted by osteoclasts to stimulate osteoblast bone formation"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - Mumps causes acute, often bilateral, parotitis associated with a viral prodrome, not chronic persistent swelling in a Sj\u00f6gren's patient.",
-        "Correct - Patients with Sj\u00f6gren's syndrome have an increased risk (5-10%) of B-cell lymphoma, which can present as a persistent, unilateral swollen salivary gland that may mimic a prior benign swelling.",
-        "Incorrect - Sialolithiasis typically causes intermittent, painful swelling associated with eating, not a persistent painless mass.",
-        "Incorrect - Squamous cell carcinoma of the parotid is not a described complication of Sj\u00f6gren's syndrome; lymphoma is the classic association.",
-        "Incorrect - Bacterial sialadenitis would typically be painful, acute, and associated with signs of infection (fever, purulent discharge), not a persistent painless mass."
+        "Incorrect \u2014 this describes RANK itself, the receptor on osteoclasts that RANK-L binds to stimulate resorption, not OPG's decoy function.",
+        "Correct \u2014 osteoprotegerin is produced by osteoblasts and acts as a decoy receptor, binding RANK-L and preventing it from binding RANK on osteoclasts, thereby inhibiting osteoclast activity and bone resorption.",
+        "Incorrect \u2014 OPG does not act on chondrocytes or the growth plate; it specifically regulates the RANK/RANK-L osteoclast signaling axis.",
+        "Incorrect \u2014 OPG is produced by osteoblasts, not osteoclasts, and works to inhibit rather than stimulate osteoclast-mediated processes."
       ],
-      "overview": "Sj\u00f6gren's syndrome is a lymphocyte-mediated (type IV hypersensitivity) autoimmune destruction of salivary and lacrimal glands causing sicca symptoms (xerostomia, keratoconjunctivitis sicca). Patients have a significantly increased risk of B-cell lymphoma, which can present as a persistent, unilateral salivary gland swelling.",
-      "id": "2026-09-10-08"
+      "overview": "Bone turnover is regulated by the RANK/RANK-L/OPG system: osteoblasts express RANK-L, which binds RANK on osteoclast precursors to stimulate osteoclast differentiation and bone resorption, while osteoblast-secreted osteoprotegerin (OPG) acts as a decoy receptor that binds RANK-L and blocks this interaction, inhibiting osteoclast activity. Conditions like menopause (increased RANK-L, decreased OPG) and glucocorticoid use shift this balance toward increased bone resorption.",
+      "id": "2026-09-12-03"
     },
     {
       "format": "vignette5",
-      "stem": "A 27-year-old man presents 2 weeks after an episode of bloody diarrhea with new-onset asymmetric swelling and pain in his left knee and right ankle. He also reports eye redness and pain with urination. He denies any sexual activity. Stool culture obtained during his diarrheal illness grew Campylobacter jejuni. Which of the following is the most likely diagnosis?",
+      "stem": "A 3-week-old female infant born via breech vaginal delivery is brought in for a well-child visit. On exam, the examiner flexes the hips to 90 degrees and applies posterior pressure while adducting the thighs, producing a palpable clunk as the femoral head slips out of the acetabulum posteriorly. Which of the following best describes this maneuver and the underlying diagnosis?",
       "options": [
-        "Rheumatoid arthritis",
-        "Septic arthritis from disseminated Campylobacter",
-        "Systemic lupus erythematosus",
-        "Reactive arthritis",
-        "Gonococcal arthritis"
+        "Thomas test; slipped capital femoral epiphysis",
+        "Trendelenburg test; superior gluteal nerve injury",
+        "Ortolani maneuver; developmental dysplasia of the hip",
+        "Galeazzi sign; Legg-Calve-Perthes disease",
+        "Barlow maneuver; developmental dysplasia of the hip"
       ],
-      "correctIndex": 3,
+      "correctIndex": 4,
       "explanations": [
-        "Incorrect - RA causes symmetric polyarthritis of small joints (hands), not asymmetric lower extremity oligoarthritis following GI infection.",
-        "Incorrect - The joint symptoms represent a post-infectious autoimmune reaction, not direct joint infection by the organism.",
-        "Incorrect - SLE does not typically follow a GI infection and would show other systemic/serologic findings (ANA, malar rash, etc.).",
-        "Correct - Reactive arthritis is a form of seronegative spondyloarthritis occurring 1-4 weeks after a GI (Campylobacter, Salmonella, Shigella, Yersinia, C. diff) or urogenital (Chlamydia) infection, presenting with asymmetric oligoarthritis (often knees), conjunctivitis, and urethritis.",
-        "Incorrect - Gonococcal arthritis follows sexual exposure with disseminated gonococcemia, not a preceding diarrheal illness; the patient denies sexual activity."
+        "Incorrect \u2014 the Thomas test assesses hip flexion contracture, and SCFE is a growth plate fracture in obese adolescents, not diagnosed by this maneuver in a neonate.",
+        "Incorrect \u2014 the Trendelenburg test assesses hip abductor weakness in a standing, weight-bearing patient, not applicable to a supine neonatal exam.",
+        "Incorrect \u2014 the Ortolani maneuver reduces an already-dislocated hip by abducting the thighs while lifting the femoral head anteriorly, producing a clunk as the hip reduces, not provoking dislocation as described here.",
+        "Incorrect \u2014 the Galeazzi sign compares knee heights to detect limb length discrepancy from hip dislocation, not the maneuver described; Legg-Calve-Perthes is idiopathic avascular necrosis presenting later in childhood, not in a neonate.",
+        "Correct \u2014 the Barlow maneuver applies posterior pressure while adducting flexed hips to provoke/dislocate an unstable hip; a palpable clunk indicates a positive test, consistent with DDH, especially with the breech delivery risk factor."
       ],
-      "overview": "Reactive arthritis is a seronegative spondyloarthropathy triggered by antecedent GI (Salmonella, Shigella, Yersinia, Campylobacter, C. difficile) or genitourinary (Chlamydia trachomatis) infections, presenting days to weeks later with asymmetric oligoarthritis of the lower extremities, often with conjunctivitis, urethritis, enthesitis, and dactylitis. Most cases resolve within 6-12 months.",
-      "id": "2026-09-10-09"
-    },
-    {
-      "format": "simple4",
-      "stem": "Superantigens, such as toxic shock syndrome toxin-1 from Staphylococcus aureus, cause massive systemic inflammation by which mechanism?",
-      "options": [
-        "Directly lysing T cells through pore formation",
-        "Inhibiting regulatory T-cell function selectively",
-        "Binding to B-cell receptors to trigger polyclonal antibody production",
-        "Nonspecifically cross-linking MHC class II and T-cell receptors outside the normal antigen-binding groove, activating a large percentage of T cells"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect - Superantigens activate T cells rather than lyse them directly.",
-        "Incorrect - The described mechanism is nonspecific, massive T-cell activation, not selective inhibition of regulatory T cells.",
-        "Incorrect - Superantigens act on T cells via MHC II/TCR cross-linking, not by directly engaging B-cell receptors.",
-        "Correct - Superantigens bypass normal, highly specific antigen presentation by cross-linking MHC class II on APCs with the T-cell receptor outside the peptide-binding groove, activating up to 20% of T cells (compared to <1% with normal antigen), causing massive cytokine release and shock."
-      ],
-      "overview": "Superantigens are bacterial toxins (e.g., Staph aureus TSST-1, Strep pyogenes pyrogenic exotoxin A/C) that cause toxic shock syndrome by nonspecifically cross-linking MHC class II and T-cell receptors, activating a vastly larger percentage of T cells than normal antigen presentation, resulting in a massive cytokine surge and systemic vasodilation/shock.",
-      "id": "2026-09-10-10"
+      "overview": "DDH results from abnormal acetabular development leading to hip instability, with risk factors including breech presentation, female sex, and family history. The Ortolani maneuver reduces a dislocated hip (abduction plus anterior lift), while the Barlow maneuver provokes dislocation (adduction plus posterior pressure); diagnosis is confirmed with ultrasound before 4-6 months of age, and treatment includes the Pavlik harness for younger infants.",
+      "id": "2026-09-12-04"
     },
     {
       "format": "vignette5",
-      "stem": "A 4-year-old boy with pale skin, light blond hair, and pale blue eyes presents with recurrent skin abscesses caused by Staphylococcus aureus. His parents note that he has become increasingly clumsy and now has difficulty walking. Neurologic exam reveals peripheral sensory and motor deficits. A peripheral blood smear shows giant cytoplasmic granules within neutrophils. Which of the following is the underlying defect?",
+      "stem": "A 35-year-old competitive cyclist presents with chronic buttock pain that worsens with prolonged sitting and cycling. He also notes he cannot sit on his wallet in his back pocket without significant discomfort. Straight leg raise testing reproduces his pain. Which of the following is the most likely mechanism of his symptoms?",
       "options": [
-        "Failure of lysosomes to fuse with phagosomes due to a microtubule dysfunction",
-        "Deficient IL-12 receptor signaling in T cells",
-        "Absence of NADPH oxidase activity in phagocytes",
-        "Defective CD18 integrin subunit impairing leukocyte adhesion",
-        "Failure of class switching due to defective CD40 ligand"
+        "Compression of the sciatic nerve by the piriformis muscle",
+        "Compression of the lower brachial plexus trunk between the clavicle and first rib",
+        "Compression of the common peroneal nerve at the fibular neck",
+        "Entrapment of the pudendal nerve at the ischial spine",
+        "Herniation of the L5/S1 intervertebral disc compressing the S1 nerve root"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Chediak-Higashi syndrome is caused by a mutation in the LYST (lysosomal trafficking regulator) gene, causing microtubule dysfunction and failure of lysosomes to fuse with phagosomes; this produces giant granules, recurrent Staph/Strep infections, oculocutaneous albinism, and progressive peripheral neuropathy.",
-        "Incorrect - IL-12 receptor deficiency impairs Th1 differentiation, causing disseminated mycobacterial infections, not this presentation.",
-        "Incorrect - Absent NADPH oxidase activity describes chronic granulomatous disease, which causes catalase-positive organism infections but not albinism or giant granules.",
-        "Incorrect - Defective CD18 describes leukocyte adhesion deficiency, presenting with delayed cord separation and omphalitis, not albinism/neuropathy with giant granules.",
-        "Incorrect - Defective CD40L causes Hyper-IgM syndrome with recurrent bacterial and opportunistic infections, not albinism, giant granules, or neuropathy."
+        "Correct \u2014 piriformis syndrome results from compression of the sciatic nerve by the piriformis muscle, often from overuse (cycling, running) or prolonged sitting, producing buttock pain worsened by sitting (the wallet sign) and a positive straight leg raise test.",
+        "Incorrect \u2014 thoracic outlet syndrome involves compression of the lower brachial plexus trunk and subclavian vessels in the upper extremity, unrelated to buttock and sciatic symptoms.",
+        "Incorrect \u2014 common peroneal nerve compression at the fibular neck causes foot drop and lateral shin/dorsal foot sensory loss, not buttock pain.",
+        "Incorrect \u2014 pudendal nerve entrapment causes perineal pain and sexual/urinary dysfunction, not the buttock pain and wallet sign described here.",
+        "Incorrect \u2014 L5/S1 disc herniation causes radiculopathy with pain radiating down the leg and specific motor/reflex findings (weak plantar flexion, absent ankle reflex), rather than buttock pain from direct piriformis compression of the nerve."
       ],
-      "overview": "Chediak-Higashi syndrome results from a LYST gene mutation causing microtubule dysfunction and failure of phagolysosome fusion, leading to recurrent bacterial (Staph, Strep) infections, oculocutaneous albinism, giant cytoplasmic granules in leukocytes, and, in survivors, progressive peripheral neuropathy.",
-      "id": "2026-09-10-11"
+      "overview": "Piriformis syndrome occurs when the piriformis muscle compresses the underlying sciatic nerve, often due to overuse from running, cycling, or prolonged sitting. It presents with buttock pain aggravated by sitting (classically the wallet sign) and a positive straight leg raise test, and is managed with rest and activity modification.",
+      "id": "2026-09-12-05"
     },
     {
       "format": "simple4",
-      "stem": "The \"pencil-in-cup\" deformity seen on hand radiographs in psoriatic arthritis classically affects which joint?",
+      "stem": "A postmenopausal woman is started on oral alendronate for osteoporosis. What is the mechanism of action of this class of drugs?",
       "options": [
-        "Metacarpophalangeal (MCP) joint",
-        "Wrist joint",
-        "Proximal interphalangeal (PIP) joint",
-        "Distal interphalangeal (DIP) joint"
+        "They stimulate osteoblasts to increase new bone formation",
+        "They block RANK-L binding to RANK on osteoclast precursors",
+        "They inhibit 1-alpha hydroxylase in the kidney to reduce active vitamin D production",
+        "They are taken up by osteoclasts and inhibit their bone-resorbing activity"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - MCP joints are classically involved in RA (with ulnar deviation), not the site of the pencil-in-cup deformity.",
-        "Incorrect - The wrist can be involved in various arthritides but is not the classic site of the pencil-in-cup deformity.",
-        "Incorrect - PIP involvement with swan neck deformity is more characteristic of rheumatoid arthritis, not the classic pencil-in-cup finding.",
-        "Correct - Psoriatic arthritis classically causes DIP joint arthritis, with the 'pencil-in-cup' deformity being a classic radiographic finding at this joint."
+        "Incorrect \u2014 teriparatide (recombinant PTH), not bisphosphonates, is the therapy that primarily increases osteoblast-mediated bone formation.",
+        "Incorrect \u2014 denosumab, a monoclonal antibody against RANK-L, works by this mechanism, not bisphosphonates, which act directly on osteoclasts after being incorporated into bone.",
+        "Incorrect \u2014 bisphosphonates do not affect vitamin D hydroxylation; this is unrelated to their mechanism of action.",
+        "Correct \u2014 bisphosphonates are pyrophosphate analogs that bind calcium in bone, accumulate at sites of high turnover, and are taken up by osteoclasts, inhibiting their resorptive activity through various mechanisms depending on the specific side chains."
       ],
-      "overview": "Psoriatic arthritis is a seronegative spondyloarthropathy occurring in a minority of psoriasis patients, often with nail changes (pitting, onycholysis), dactylitis, and sacroiliitis. A hallmark feature is DIP joint arthritis with the classic 'pencil-in-cup' deformity on imaging.",
-      "id": "2026-09-10-12"
+      "overview": "Bisphosphonates (e.g., alendronate, zoledronate) are first-line osteoporosis therapy that act as pyrophosphate analogs, binding calcium in bone matrix and accumulating at sites of high bone turnover where they are taken up by osteoclasts and inhibit bone resorption. Adverse effects include GI upset with oral agents, flu-like symptoms with IV infusions, and rare but serious atypical femur fractures and jaw osteonecrosis with long-term use.",
+      "id": "2026-09-12-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 68-year-old woman reports bilateral shoulder and hip girdle stiffness and pain, worse in the morning, with difficulty dressing. Strength testing is normal, and creatine kinase is normal, but ESR and CRP are markedly elevated. Which of the following is most likely?",
+      "options": [
+        "Polymyalgia rheumatica",
+        "Fibromyalgia",
+        "Polymyositis",
+        "Dermatomyositis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 polymyalgia rheumatica presents in older patients with bilateral proximal muscle stiffness and pain (shoulders, hips) worse in the morning, with normal strength and CK but elevated ESR/CRP, and responds well to low-dose glucocorticoids.",
+        "Incorrect \u2014 fibromyalgia is a chronic pain syndrome with normal inflammatory markers (ESR/CRP), unlike this patient's markedly elevated ESR/CRP.",
+        "Incorrect \u2014 polymyositis causes true proximal muscle weakness with elevated CK, not merely pain/stiffness with normal strength as in this patient.",
+        "Incorrect \u2014 dermatomyositis also causes true muscle weakness with elevated CK plus characteristic skin findings (heliotrope rash, Gottron papules), not present here."
+      ],
+      "overview": "Polymyalgia rheumatica is an inflammatory disorder of older adults causing bilateral proximal muscle stiffness and pain (shoulders, hips) worse in the morning, with elevated ESR/CRP but normal strength and creatine kinase, distinguishing it from the true muscle weakness seen in inflammatory myopathies. It responds well to low-dose glucocorticoids and is often associated with temporal arteritis.",
+      "id": "2026-09-12-07"
     },
     {
       "format": "vignette5",
-      "stem": "A 72-year-old woman presents with a 3-week history of throbbing headache localized to her right temple and pain in her jaw that worsens while chewing. She has also noticed transient episodes of blurred vision in her right eye. Erythrocyte sedimentation rate is markedly elevated. Which of the following is the most appropriate next step in management?",
+      "stem": "A 45-year-old man with no significant past medical history presents with acute onset of severe pain, warmth, and swelling of the right knee over the past 12 hours, accompanied by fever and chills. Arthrocentesis reveals turbid synovial fluid with a WBC count of 80,000/mm^3 and a positive gram stain for gram-positive cocci in clusters. Which of the following is the most appropriate immediate management?",
       "options": [
-        "Start colchicine for suspected pseudogout",
-        "Initiate high-dose corticosteroids immediately, without waiting for biopsy results",
-        "Obtain an angiogram to look for pulseless disease",
-        "Begin methotrexate for suspected rheumatoid arthritis",
-        "Await temporal artery biopsy results before starting any treatment"
+        "Physical therapy and weight loss counseling",
+        "Antibiotics and joint aspiration/drainage",
+        "Colchicine and allopurinol",
+        "NSAIDs and observation",
+        "Intraarticular glucocorticoid injection"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - Colchicine is used for gout/pseudogout, not vasculitis affecting the temporal artery.",
-        "Correct - Temporal (giant cell) arteritis carries a risk of irreversible blindness from ophthalmic artery occlusion; treatment with high-dose steroids should begin immediately based on clinical suspicion, without waiting for biopsy confirmation.",
-        "Incorrect - Angiography for pulseless disease describes Takayasu arteritis, a large-vessel vasculitis of the aortic arch typically in younger Asian women, not this presentation.",
-        "Incorrect - The presentation (jaw claudication, headache, elevated ESR in an elderly patient) is classic for temporal arteritis, not RA.",
-        "Incorrect - Delaying treatment for biopsy risks permanent vision loss; biopsy can still be performed after starting steroids since inflammatory changes persist for some time."
+        "Incorrect \u2014 physical therapy and weight loss are appropriate for chronic osteoarthritis management, not for an acute septic joint requiring emergent treatment.",
+        "Correct \u2014 septic arthritis, suggested by acute monoarthritis with WBC >50,000/mm^3 and positive gram stain (here consistent with S. aureus), requires prompt antibiotics plus aspiration/drainage to prevent joint destruction and sepsis.",
+        "Incorrect \u2014 colchicine and allopurinol are used for gout management, not appropriate given the positive gram stain indicating bacterial infection rather than crystal arthropathy.",
+        "Incorrect \u2014 NSAIDs alone with observation is inadequate for septic arthritis, a medical emergency that can rapidly destroy the joint and cause sepsis if untreated.",
+        "Incorrect \u2014 intraarticular steroids are used for osteoarthritis pain relief, not appropriate for an infected joint, which could worsen infection."
       ],
-      "overview": "Temporal (giant cell) arteritis is a granulomatous large-vessel vasculitis affecting the temporal artery system, classically in elderly women, presenting with headache and jaw claudication with an elevated ESR. Because untreated disease can cause blindness via ophthalmic artery occlusion, high-dose steroids should be started empirically without waiting for confirmatory temporal artery biopsy.",
-      "id": "2026-09-10-13"
+      "overview": "Septic arthritis is an acute monoarthritis medical emergency, often caused by S. aureus or S. pneumoniae via hematogenous seeding, or N. gonorrhoeae in sexually active patients, presenting with fever, chills, and a single swollen joint. Synovial fluid WBC counts exceeding 50,000/mm^3 with a positive gram stain and culture confirm the diagnosis, and treatment requires prompt antibiotics plus aspiration/drainage to prevent osteomyelitis, chronic damage, or sepsis.",
+      "id": "2026-09-12-08"
     },
     {
       "format": "simple4",
-      "stem": "The paracortex of a lymph node is characterized by which two features?",
+      "stem": "A patient develops muscle rigidity and fever shortly after receiving succinylcholine and halothane during surgery. Dantrolene is administered. What is the mechanism of action of this drug?",
       "options": [
-        "T cells activated by dendritic cells, and high endothelial venules allowing lymphocyte entry",
-        "B cells undergoing class switching within germinal centers",
-        "Plasma cells secreting antibodies into medullary cords",
-        "Macrophages filtering lymph within medullary sinuses"
+        "Blocks L-type calcium channels on the cell surface",
+        "Antagonizes ryanodine receptors, blocking calcium release from the sarcoplasmic reticulum",
+        "Activates SERCA to increase calcium reuptake into the sarcoplasmic reticulum",
+        "Inhibits acetylcholinesterase at the neuromuscular junction"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanations": [
-        "Correct - The paracortex contains T cells activated by dendritic cells presenting antigen, and it contains high endothelial venules, specialized vessels that allow circulating B and T cells to enter the lymph node; the paracortex is underdeveloped in T-cell deficiency disorders like DiGeorge syndrome.",
-        "Incorrect - Germinal centers with B-cell class switching are found in the lymphoid follicles of the cortex, not the paracortex.",
-        "Incorrect - Plasma cells secreting antibodies are found in the medullary cords, not the paracortex.",
-        "Incorrect - Macrophages filtering lymph are found in the medullary sinuses, not the paracortex."
+        "Incorrect \u2014 dantrolene acts on ryanodine receptors within the sarcoplasmic reticulum, not on surface L-type (dihydropyridine) calcium channels.",
+        "Correct \u2014 dantrolene is a muscle relaxant that antagonizes ryanodine receptors, blocking the excessive calcium release from the sarcoplasmic reticulum responsible for malignant hyperthermia, thereby reducing cytoplasmic calcium available for contraction.",
+        "Incorrect \u2014 dantrolene blocks calcium release rather than activating SERCA-mediated calcium reuptake, though the net effect in both cases would lower cytoplasmic calcium.",
+        "Incorrect \u2014 dantrolene does not affect acetylcholinesterase or neuromuscular transmission; its action is directly on intracellular calcium release channels."
       ],
-      "overview": "Lymph node architecture is organized by function: cortical follicles are the site of B-cell activation (with germinal centers in secondary follicles), the paracortex contains T cells activated by dendritic cells along with high endothelial venules for lymphocyte entry, and the medulla contains macrophage-filled sinuses and plasma cell-containing cords. The paracortex is characteristically underdeveloped in T-cell deficiencies such as DiGeorge syndrome.",
-      "id": "2026-09-10-14"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient who underwent splenectomy after trauma is at greatest increased risk for fulminant sepsis from which organism?",
-      "options": [
-        "Streptococcus pneumoniae",
-        "Bacteroides fragilis",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus epidermidis"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Streptococcus pneumoniae is the predominant pathogen causing overwhelming post-splenectomy sepsis, with mortality exceeding 50% in affected patients, due to loss of splenic marginal zone macrophage-mediated clearance and reduced opsonization of encapsulated organisms.",
-        "Incorrect - Bacteroides fragilis is an anaerobic gut organism associated with intra-abdominal infections, not classically the predominant post-splenectomy sepsis pathogen.",
-        "Incorrect - Pseudomonas is not the predominant organism associated with post-splenectomy sepsis; encapsulated organisms (S. pneumoniae, H. influenzae, N. meningitidis) predominate.",
-        "Incorrect - Staphylococcus epidermidis is a low-virulence skin commensal, not a classic cause of post-splenectomy sepsis."
-      ],
-      "overview": "The spleen's marginal zone macrophages and splenic B cells are critical for phagocytosis and opsonization (IgM/IgG and complement C3b) of encapsulated bacteria. Loss of splenic function (splenectomy, sickle cell disease with functional asplenia) predisposes to fulminant sepsis, most commonly from Streptococcus pneumoniae, with mortality over 50%, as well as H. influenzae and N. meningitidis.",
-      "id": "2026-09-10-15"
-    },
-    {
-      "format": "simple4",
-      "stem": "Certain pathogens, including Streptococcus pneumoniae, Haemophilus influenzae, and Neisseria species, produce an enzyme that cleaves the secretory component of IgA. What is the primary consequence of this enzymatic activity?",
-      "options": [
-        "Enhanced ability of the pathogen to colonize mucosal surfaces",
-        "Conversion of IgA into a more effective opsonin",
-        "Stimulation of mast cell degranulation",
-        "Increased complement activation at the mucosal surface"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - IgA protease cleaves the secretory component of IgA, disabling its ability to coat and neutralize pathogens at mucosal surfaces, thereby allowing these organisms to colonize mucosal surfaces more effectively.",
-        "Incorrect - Cleavage of IgA disables rather than enhances its function; IgA is not typically an opsonin even when intact.",
-        "Incorrect - IgA does not mediate mast cell degranulation (that is a function of IgE); IgA protease has no effect on mast cells.",
-        "Incorrect - IgA does not activate complement at baseline, and cleaving it would not increase complement activation; it removes a mucosal defense mechanism instead."
-      ],
-      "overview": "IgA is the dominant antibody at mucosal surfaces (GI tract, respiratory tract, saliva, tears), functioning to coat pathogens and prevent their adherence/invasion without activating complement. Certain bacteria (S. pneumoniae, H. influenzae, Neisseria) produce IgA protease, which cleaves the secretory component and allows these organisms to evade mucosal defenses and colonize the host.",
-      "id": "2026-09-10-16"
+      "overview": "Malignant hyperthermia is a rare, life-threatening reaction to anesthetics like halothane and succinylcholine, caused by abnormal ryanodine receptors leading to excessive calcium release, muscle rigidity, fever, and elevated creatine kinase. Dantrolene treats this condition by directly antagonizing ryanodine receptors and blocking further calcium release from the sarcoplasmic reticulum.",
+      "id": "2026-09-12-09"
     },
     {
       "format": "vignette5",
-      "stem": "A newborn is found to have a conotruncal cardiac defect on echocardiogram and develops tetany with seizure-like activity on day 2 of life. Serum calcium is low. Chest x-ray shows absence of the thymic shadow. Genetic testing reveals a 22q11 deletion. Which of the following sets of infections is this infant at greatest risk for?",
+      "stem": "A 45-year-old obese man reports burning pain and tingling over the anterolateral aspect of his right thigh for the past two months. He notes that the symptoms worsen when he wears a tight tool belt for work. Sensory exam shows decreased sensation over the lateral thigh, with normal motor strength and reflexes. Which nerve is most likely affected?",
       "options": [
-        "Omphalitis due to defective neutrophil migration",
-        "Recurrent encapsulated bacterial sinopulmonary infections due to absent B cells",
-        "Disseminated candidiasis due to neutropenia",
-        "Viral, fungal, and intracellular bacterial infections due to T-cell deficiency",
-        "Recurrent Neisseria infections due to terminal complement deficiency"
+        "Genitofemoral nerve",
+        "Femoral nerve",
+        "Ilioinguinal nerve",
+        "Lateral femoral cutaneous nerve",
+        "Obturator nerve"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - Omphalitis with delayed cord separation is characteristic of leukocyte adhesion deficiency, not DiGeorge syndrome.",
-        "Incorrect - B cells and antibody production are typically preserved in DiGeorge syndrome (it is a primary T-cell disorder), unlike Bruton's agammaglobulinemia.",
-        "Incorrect - Neutropenia is not a feature of DiGeorge syndrome; the defect is in T-cell development, not granulocytes.",
-        "Correct - DiGeorge syndrome results from failure of the 3rd/4th pharyngeal pouches to develop, causing thymic aplasia (loss of T cells), parathyroid aplasia (hypocalcemia/tetany), and conotruncal cardiac defects; the T-cell deficiency predisposes to viral, fungal, protozoal, and intracellular bacterial infections.",
-        "Incorrect - Recurrent Neisseria infections occur with terminal complement (C5-C9) deficiency, unrelated to DiGeorge syndrome."
+        "Incorrect \u2014 genitofemoral nerve injury affects the cremasteric reflex and sensation of the anterior scrotum/mons pubis and upper anterior thigh, not isolated lateral thigh sensation.",
+        "Incorrect \u2014 femoral nerve injury causes motor weakness of hip flexion/knee extension and an absent patellar reflex, not an isolated sensory syndrome of the lateral thigh.",
+        "Incorrect \u2014 the classic isolated lateral thigh sensory syndrome from compression under the inguinal ligament is meralgia paresthetica due to lateral femoral cutaneous nerve entrapment, not the ilioinguinal nerve.",
+        "Correct \u2014 the lateral femoral cutaneous nerve is a pure sensory nerve that courses under the inguinal ligament and is compressed by tight clothing, obesity, or pregnancy, producing meralgia paresthetica with burning pain, paresthesia, and hypoesthesia of the outer thigh.",
+        "Incorrect \u2014 obturator nerve injury causes weak thigh adduction and numbness of the medial thigh, not the lateral thigh sensory changes described."
       ],
-      "overview": "DiGeorge syndrome results from a 22q11 deletion causing failure of the 3rd and 4th pharyngeal pouches to develop, producing the classic triad of thymic aplasia (T-cell deficiency, recurrent viral/fungal/intracellular infections), parathyroid aplasia (hypocalcemia, tetany), and conotruncal cardiac defects. Chest x-ray characteristically shows an absent thymic shadow.",
-      "id": "2026-09-10-17"
+      "overview": "Meralgia paresthetica is a purely sensory neuropathy of the lateral femoral cutaneous nerve caused by compression under the inguinal ligament, often from tight clothing, obesity, or pregnancy. It presents with burning pain, paresthesia, and hypoesthesia over the outer thigh without motor weakness, since the nerve carries no motor fibers.",
+      "id": "2026-09-12-10"
     },
     {
-      "format": "simple4",
-      "stem": "Th17 cells are a distinct subset of CD4+ T cells important for mucosal immunity in the GI tract. Loss of Th17 function classically leads to increased susceptibility to which type of infection?",
+      "format": "vignette5",
+      "stem": "A 52-year-old man presents with low back pain radiating down the back of his right leg after lifting a heavy box. On exam, he has weakness of plantar flexion and cannot stand on his toes on the affected side. The ankle reflex is absent. Which of the following best localizes the level of disc herniation?",
       "options": [
-        "Chronic mucocutaneous candidiasis only",
-        "Enteric gram-negative bacteria entering the bloodstream (e.g., E. coli)",
-        "Recurrent Neisseria meningitidis infection",
-        "Disseminated mycobacterial infection"
+        "L2/L3 disc herniation affecting the femoral nerve",
+        "L5/S1 disc herniation affecting the S1 nerve root",
+        "L3/L4 disc herniation affecting the obturator nerve",
+        "L4/L5 disc herniation affecting the L5 nerve root",
+        "T12/L1 disc herniation affecting the iliohypogastric nerve"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - The classic described consequence of loss of Th17 cells in these notes is enteric gram-negative bacteremia, not candidiasis specifically.",
-        "Correct - Th17 cells produce IL-17, which recruits neutrophils and macrophages to mucosal surfaces; loss of Th17 function impairs containment of GI flora, allowing translocation of enteric gram-negative organisms into the bloodstream.",
-        "Incorrect - Recurrent Neisseria infections are associated with terminal complement (C5-C9) deficiency, not Th17 dysfunction.",
-        "Incorrect - Disseminated mycobacterial infection is classically associated with defects in the IL-12/IFN-\u03b3 (Th1) axis, not Th17 deficiency."
+        "Incorrect \u2014 L2/L3/L4 radiculopathy affects the femoral nerve, causing anterior thigh/knee pain, weak hip flexion/knee extension, and a reduced patellar (not ankle) reflex.",
+        "Correct \u2014 L5/S1 disc herniation affects the S1 nerve root (via the tibial nerve), causing pain down the back of the leg, weakness of plantar flexion, difficulty standing on toes, and loss of the ankle reflex, exactly as described.",
+        "Incorrect \u2014 the obturator nerve arises from L2-L4 and causes weak thigh adduction and medial thigh numbness, not posterior leg symptoms with absent ankle reflex.",
+        "Incorrect \u2014 L5 radiculopathy from L4/L5 herniation causes weak dorsiflexion and difficulty walking on heels, not the weak plantar flexion and absent ankle reflex described here.",
+        "Incorrect \u2014 the iliohypogastric nerve (T12-L1) provides sensation to the suprapubic region and motor to abdominal wall muscles, unrelated to leg pain and ankle reflex loss."
       ],
-      "overview": "Th17 cells are a CD4+ T-cell subset distinct from Th1/Th2 that secretes IL-17 to recruit neutrophils and macrophages, playing a key role in mucosal immunity, especially in the GI tract. Loss of Th17 function predisposes to translocation of enteric gram-negative bacteria into the bloodstream and has emerging links to autoimmune disease.",
-      "id": "2026-09-10-18"
+      "overview": "Lumbar radiculopathy from herniated discs most commonly affects the L5 nerve root (L4/L5 herniation, causing weak dorsiflexion and difficulty heel-walking) or the S1 nerve root (L5/S1 herniation, causing weak plantar flexion, difficulty toe-walking, and loss of the ankle reflex). Higher lumbar disc herniations (L2-L4) instead affect the femoral nerve, causing anterior thigh pain and a diminished patellar reflex.",
+      "id": "2026-09-12-11"
     },
     {
       "format": "simple4",
-      "stem": "Paroxysmal nocturnal hemoglobinuria results from an acquired deficiency of which membrane proteins, leading to unchecked complement-mediated red cell lysis?",
+      "stem": "A young man punches a wall with a closed fist and presents with pain and swelling at the base of his fifth finger with limited hand movement. X-ray shows a fracture at the neck of the fifth metacarpal. Which of the following is the most appropriate initial treatment?",
       "options": [
-        "Mannose-binding lectin",
-        "Decay accelerating factor (CD55) and MAC inhibitory protein (CD59)",
-        "C1 inhibitor",
-        "Factor H"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - Mannose-binding lectin is involved in initiating the lectin complement pathway, not in protecting host cells from complement-mediated lysis.",
-        "Correct - PNH results from deficiency of the membrane proteins that normally protect host cells from complement \u2014 decay accelerating factor (DAF/CD55), which disrupts C3b attachment, and CD59, which disrupts membrane attack complex formation \u2014 leading to unchecked complement-mediated hemolysis.",
-        "Incorrect - C1 inhibitor deficiency causes hereditary angioedema (via unregulated bradykinin), not PNH.",
-        "Incorrect - Factor H deficiency would lead to uncontrolled alternative pathway activation generally, but the classic PNH mechanism is loss of CD55/CD59, not Factor H."
-      ],
-      "overview": "Paroxysmal nocturnal hemoglobinuria is caused by loss of the GPI-anchored complement regulatory proteins DAF (CD55) and CD59 on blood cells, leading to complement-mediated intravascular hemolysis (classically at night), hemoglobinuria, and an increased risk of thrombosis (often in unusual sites like the portal or hepatic veins), the leading cause of death.",
-      "id": "2026-09-10-19"
-    },
-    {
-      "format": "simple4",
-      "stem": "Sirolimus (rapamycin), used in kidney transplantation and drug-eluting stents, exerts its immunosuppressive effect through which mechanism?",
-      "options": [
-        "Binding cyclophilin and inhibiting calcineurin, thereby blocking NFAT-mediated cytokine transcription",
-        "Inhibiting inosine monophosphate dehydrogenase to block purine synthesis in lymphocytes",
-        "Alkylating DNA to cross-link strands and block replication",
-        "Binding FK-binding protein and inhibiting mTOR, blocking the response to IL-2 and arresting the cell cycle"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect - Binding cyclophilin and inhibiting calcineurin describes the mechanism of cyclosporine, not sirolimus.",
-        "Incorrect - Inhibition of IMP dehydrogenase describes the mechanism of mycophenolic acid, not sirolimus.",
-        "Incorrect - DNA alkylation and cross-linking describes the mechanism of cyclophosphamide, not sirolimus.",
-        "Correct - Sirolimus binds FK-binding protein (the same target as tacrolimus) but, unlike tacrolimus, does not inhibit calcineurin; instead, the complex inhibits mTOR, blocking the cellular response to IL-2 and arresting T and B cells in the G1-S phase of the cell cycle."
-      ],
-      "overview": "Sirolimus (rapamycin) is used in kidney transplantation and drug-eluting coronary stents; it binds FK-binding protein (like tacrolimus) but inhibits mTOR rather than calcineurin, blocking IL-2 signaling and arresting lymphocyte proliferation in the G1-S phase. Its side effects include cytopenias, hyperlipidemia, and hyperglycemia, distinct from the nephrotoxicity seen with calcineurin inhibitors.",
-      "id": "2026-09-10-20"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with selective IgA deficiency develops an anaphylactic reaction during a blood transfusion. What is the most likely explanation for this reaction?",
-      "options": [
-        "Preformed antibodies against IgA present in donor blood products",
-        "Activation of the alternative complement pathway by transfused platelets",
-        "Excess IgE in the donor plasma triggering mast cell degranulation",
-        "Cross-reactivity between IgA and ABO blood group antigens"
+        "Buddy taping to an adjacent finger and avoidance of weight-bearing activities",
+        "Long-arm cast immobilization for 8 weeks",
+        "Immediate physical therapy without immobilization",
+        "Emergency surgical fixation"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - Patients with selective IgA deficiency can develop antibodies against IgA; when transfused with blood products containing IgA (a normal blood component), these antibodies can trigger an anaphylactic reaction.",
-        "Incorrect - The described mechanism in IgA deficiency-related transfusion reactions is antibody-mediated (anti-IgA), not complement activation by platelets.",
-        "Incorrect - The mechanism involves anti-IgA antibodies in the recipient, not excess IgE in the donor plasma.",
-        "Incorrect - The reaction is due to anti-IgA antibodies, not cross-reactivity with ABO antigens."
+        "Correct \u2014 a boxer's fracture (metacarpal neck fracture, most often of the fifth metacarpal) from a direct impact with a closed fist is typically treated conservatively with buddy taping to an adjacent finger, avoidance of weight-bearing activities, and pain management with cold compresses.",
+        "Incorrect \u2014 prolonged long-arm casting is not indicated for this distal hand fracture; simpler buddy taping is the typical approach.",
+        "Incorrect \u2014 some period of protection/immobilization (buddy taping) is appropriate initially, rather than immediate unrestricted physical therapy.",
+        "Incorrect \u2014 emergency surgical fixation is not the standard initial treatment for an uncomplicated boxer's fracture, which usually heals well with conservative management."
       ],
-      "overview": "Selective IgA deficiency is a common (~1 in 600) immunodeficiency, usually asymptomatic, but symptomatic patients can have recurrent sinopulmonary and GI (giardiasis) infections, increased rates of SLE/RA, a false-positive \u03b2-HCG test, and anaphylactic transfusion reactions due to antibodies against IgA present in transfused blood products.",
-      "id": "2026-09-10-21"
+      "overview": "A boxer's fracture is a fracture of the metacarpal neck, most often the fifth metacarpal, caused by direct impact with a closed fist, presenting with pain and swelling at the base of the affected finger and limited movement. Treatment is typically conservative with buddy taping to an adjacent finger, avoidance of weight-bearing activities, and pain management with cold compresses.",
+      "id": "2026-09-12-12"
     },
     {
       "format": "simple4",
-      "stem": "Probenecid is used for the prevention of recurrent gout attacks. What is its mechanism of action?",
+      "stem": "A postural muscle of the spine relies heavily on sustained low-level contraction and resistance to fatigue. Which fiber type predominates in this muscle?",
       "options": [
-        "Converting uric acid to the more water-soluble allantoin",
-        "Inhibiting microtubule polymerization to block neutrophil migration into joints",
-        "Inhibiting xanthine oxidase, decreasing uric acid production",
-        "Blocking proximal tubule reabsorption of uric acid, increasing its urinary excretion"
+        "Type II (fast-twitch) fibers, with abundant glycogen and glycolytic enzymes",
+        "Type II fibers, with abundant myoglobin and mitochondria",
+        "Type I fibers, with few mitochondria and primarily glycolytic metabolism",
+        "Type I (slow-twitch) fibers, with abundant myoglobin and mitochondria"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - Conversion of uric acid to allantoin describes the mechanism of the uricase drugs pegloticase and rasburicase, not probenecid.",
-        "Incorrect - Inhibition of microtubule polymerization and neutrophil migration describes the mechanism of colchicine, not probenecid.",
-        "Incorrect - Xanthine oxidase inhibition describes the mechanism of allopurinol and febuxostat, not probenecid.",
-        "Correct - Probenecid is a uricosuric drug that blocks proximal tubule reabsorption of uric acid, thereby promoting its excretion in urine and lowering serum uric acid levels; it can also block penicillin secretion in the urine."
+        "Incorrect \u2014 Type II (fast-twitch, white) fibers primarily use glycolysis and glycogen stores, fatigue more quickly, and are suited for rapid, brief contractions (e.g., eye muscles), not sustained postural tone.",
+        "Incorrect \u2014 Type II fibers are characterized by fewer mitochondria and less myoglobin, not abundant amounts as in Type I fibers.",
+        "Incorrect \u2014 Type I fibers actually have abundant mitochondria and rely on oxidative metabolism, not few mitochondria with primarily glycolytic metabolism as stated.",
+        "Correct \u2014 Type I (slow-twitch, red) fibers contain abundant myoglobin and mitochondria, favor oxidative phosphorylation and fatty acid metabolism, and resist fatigue, making them predominant in postural muscles requiring sustained tone."
       ],
-      "overview": "Probenecid is a uricosuric agent that lowers serum uric acid by blocking proximal tubular reabsorption of uric acid, increasing its urinary excretion; it can precipitate uric acid kidney stones and, as a sulfa drug, was originally developed to reduce renal secretion of penicillin and thereby prolong its effect.",
-      "id": "2026-09-10-22"
+      "overview": "Skeletal muscle fibers are classified as Type I (slow-twitch, red) fibers, rich in myoglobin and mitochondria, favoring oxidative phosphorylation and fatigue resistance, ideal for sustained postural muscles, versus Type II (fast-twitch, white) fibers, which rely on glycolysis and glycogen stores for rapid but fatigable contractions, as seen in eye muscles. Most muscles contain a mixture of both fiber types.",
+      "id": "2026-09-12-13"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 28-year-old woman presents with several months of dull knee pain. X-ray reveals a lytic lesion with a \"soap bubble\" appearance located in the epiphysis of the distal femur, extending to the subchondral bone. Biopsy shows numerous multinucleated giant cells resembling osteoclasts admixed with mononuclear stromal cells. Which of the following best describes the pathogenesis of this tumor?",
+      "options": [
+        "Chondrocytes proliferate abnormally, forming a cartilage cap over a bony stalk",
+        "Stromal cells express high levels of RANK-L, driving osteoclast activity within the tumor",
+        "Fusion of EWSR1 and FLI1 genes drives proliferation of primitive neuroectodermal cells",
+        "APC gene mutation leads to osteoma formation in the skull",
+        "Malignant osteoblasts produce disorganized osteoid, lifting the periosteum"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 this describes osteochondroma, a benign cartilage-capped bony projection arising at the metaphysis near the growth plate, not the epiphyseal giant cell tumor described.",
+        "Correct \u2014 giant cell tumor (osteoclastoma) stromal tumor cells express high levels of RANK-L, driving osteoclast activity and formation of the characteristic multinucleated giant cells; it typically occurs in the epiphysis, classically at the knee, with a soap bubble X-ray appearance.",
+        "Incorrect \u2014 this describes Ewing sarcoma, involving small round blue cells and the EWSR1-FLI1 translocation, occurring in the diaphysis, not this epiphyseal giant cell lesion.",
+        "Incorrect \u2014 this describes Gardner syndrome-associated osteomas, unrelated to the epiphyseal giant cell lesion with soap-bubble appearance described here.",
+        "Incorrect \u2014 this describes osteosarcoma, a malignant tumor of osteoblasts with pleomorphic cells and irregular osteoid, occurring in the metaphysis, not an epiphyseal giant cell tumor."
+      ],
+      "overview": "Giant cell tumor of bone (osteoclastoma) is a usually benign but locally aggressive tumor occurring in the epiphysis, most commonly at the knee (distal femur/proximal tibia), producing a characteristic soap bubble appearance on X-ray. Stromal tumor cells express high RANK-L, recruiting and activating osteoclasts to form the multinucleated giant cells that give the tumor its name.",
+      "id": "2026-09-12-14"
     },
     {
       "format": "simple4",
-      "stem": "Factor H is a plasma glycoprotein that protects host cells from inappropriate complement activation via which mechanism?",
+      "stem": "A 68-year-old woman with chronic knee pain that worsens with activity and improves with rest undergoes arthrocentesis showing a WBC count of 800/mm^3. X-ray shows joint space narrowing, subchondral sclerosis, and osteophytes. Which of the following best characterizes this condition?",
       "options": [
-        "Binding C1q to prevent classical pathway activation",
-        "Blocking mannose-binding lectin from binding microbial surfaces",
-        "Accelerating decay of the alternative pathway C3 convertase (C3bBb) and inactivating C3b",
-        "Cleaving C5 to prevent membrane attack complex formation"
+        "A crystal-induced arthritis from monosodium urate deposition",
+        "A non-inflammatory arthritis caused by chondrocyte-driven cartilage breakdown",
+        "A bacterial infection requiring emergent drainage",
+        "An autoimmune inflammatory arthritis with pannus formation"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 gout also has synovial WBC in the 2,000-50,000/mm^3 range with monosodium urate crystals, higher than this patient's count, and does not typically show the X-ray triad described.",
+        "Correct \u2014 osteoarthritis is a non-inflammatory arthritis (synovial WBC 200-2000/mm^3) caused by abnormal chondrocytes proliferating and secreting proteases/cytokines that break down hyaline cartilage, producing the classic X-ray triad of joint space narrowing, subchondral sclerosis, and osteophytes.",
+        "Incorrect \u2014 septic arthritis has a synovial WBC typically greater than 50,000/mm^3 and requires emergent drainage; this patient's much lower WBC count is inconsistent with infection.",
+        "Incorrect \u2014 rheumatoid arthritis is an autoimmune condition with much higher synovial WBC counts (2,000-50,000/mm^3) and different systemic features, not matching this patient's low WBC count and mechanical symptom pattern."
+      ],
+      "overview": "Osteoarthritis is a non-inflammatory arthritis from hyaline cartilage breakdown driven by proliferating chondrocytes that secrete proteases and cytokines, with synovial fluid WBC typically 200-2000/mm^3. Classic X-ray findings include joint space narrowing, subchondral sclerosis, osteophytes, and subchondral cysts, and pain classically worsens with joint use and improves with rest.",
+      "id": "2026-09-12-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 12-year-old presents with a painful, enlarging mass in the diaphysis of the femur with an \"onion skin\" periosteal reaction on X-ray. Biopsy shows sheets of small round blue cells. Genetic testing is most likely to reveal which of the following?",
+      "options": [
+        "Mutation in the RB1 gene",
+        "Fusion of EWSR1 and FLI1 genes on chromosomes 22 and 11",
+        "Mutation in the FGFR3 gene",
+        "Mutation in the APC gene"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 RB1 mutation (familial retinoblastoma) is associated with increased risk of osteosarcoma, not Ewing sarcoma.",
+        "Correct \u2014 approximately 85% of Ewing sarcoma cases are associated with a translocation fusing the EWSR1 gene (chromosome 22) to the FLI1 gene (chromosome 11), detectable by FISH, consistent with this diaphyseal small round blue cell tumor with onion-skin periosteal reaction.",
+        "Incorrect \u2014 FGFR3 mutation causes achondroplasia, a skeletal dysplasia unrelated to this malignant bone tumor.",
+        "Incorrect \u2014 APC gene mutation causes familial adenomatous polyposis and its variant Gardner syndrome (associated with osteomas), not Ewing sarcoma."
+      ],
+      "overview": "Ewing sarcoma is an aggressive malignant bone tumor of undifferentiated neuroectodermal cells, occurring most often in the diaphysis of long bones in patients under 20 years old. About 85% of cases harbor a characteristic EWSR1-FLI1 gene fusion from a t(11;22) translocation, and histology shows sheets of small round blue cells with an onion skin periosteal reaction on imaging.",
+      "id": "2026-09-12-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 17-year-old boy is found to have an incidental slow-growing, stalk-like bony projection capped with cartilage near the metaphysis of his distal femur. Which of the following best describes this lesion?",
+      "options": [
+        "Most common benign bone tumor, arising from the growth plate",
+        "Malignant tumor of osteoblasts with Codman triangle on X-ray",
+        "Fluid-filled cyst with fibrous lining found in the metaphysis",
+        "Undifferentiated small round blue cell tumor with onion-skin periosteal reaction"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 osteochondroma is the most common benign bone tumor, a cartilage-capped bony projection (exostosis) arising from the growth plate at the metaphysis, more common in males, and treated with simple excision if symptomatic.",
+        "Incorrect \u2014 this describes osteosarcoma, a malignant tumor with Codman triangle/sunburst pattern, distinct from the benign cartilage-capped lesion described.",
+        "Incorrect \u2014 this describes a simple (unicameral) bone cyst, a fluid-filled lesion without a cartilage cap, distinct from osteochondroma.",
+        "Incorrect \u2014 this describes Ewing sarcoma, a diaphyseal malignant tumor with onion-skin periosteal reaction, not the described benign metaphyseal lesion."
+      ],
+      "overview": "Osteochondroma is the most common benign bone tumor, a slow-growing cartilage-capped bony projection arising from the growth plate at the metaphysis, typically in adolescent males. It stops growing when the growth plate closes and rarely undergoes malignant transformation to chondrosarcoma.",
+      "id": "2026-09-12-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 30-year-old man with multiple colonic polyps is found to have painless, palpable bony growths on his skull. Genetic testing reveals an APC gene mutation. Which of the following best describes the bony lesions?",
+      "options": [
+        "Osteomas",
+        "Giant cell tumors",
+        "Osteochondromas",
+        "Osteosarcomas"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Gardner syndrome, a variant of familial adenomatous polyposis caused by APC gene mutations, is associated with osteomas (benign bone growths), usually in the skull or mandible, that are often painless and palpable and may precede colonic symptoms.",
+        "Incorrect \u2014 giant cell tumors occur in the epiphysis of long bones and are unrelated to APC mutations or Gardner syndrome.",
+        "Incorrect \u2014 osteochondromas are cartilage-capped bony projections at the metaphysis of long bones, unrelated to Gardner syndrome or APC mutations.",
+        "Incorrect \u2014 osteosarcomas are malignant tumors associated with Rb and p53 mutations or Paget's disease, not the benign skull lesions of Gardner syndrome."
+      ],
+      "overview": "Gardner syndrome is a variant of familial adenomatous polyposis (FAP) caused by APC gene mutations, featuring colonic polyps along with extra-colonic manifestations including osteomas, typically in the skull or mandible. These osteomas are usually painless and palpable and may be detected before the onset of colonic symptoms.",
+      "id": "2026-09-12-18"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old postmenopausal woman falls from standing height and sustains a wrist fracture. She has no history of major trauma. Dual-energy X-ray absorptiometry (DXA) of the hip shows a T-score of -2.8. Which of the following best describes her diagnosis and the meaning of this T-score?",
+      "options": [
+        "Paget's disease; focal area of increased bone turnover",
+        "Osteomalacia; defective mineralization of osteoid matrix",
+        "Osteopenia; bone mineral density between 1.0 and 2.5 standard deviations below a young healthy adult",
+        "Osteopetrosis; defective osteoclast activity causing increased bone density",
+        "Osteoporosis; bone mineral density 2.5 or more standard deviations below a young healthy adult"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect \u2014 Paget's disease is a focal disorder of excessive bone remodeling with a characteristic mosaic bone pattern and elevated alkaline phosphatase, not diagnosed by a T-score.",
+        "Incorrect \u2014 osteomalacia is a defect in mineralization of osteoid due to vitamin D or calcium deficiency, diagnosed by pseudofractures/Looser zones and abnormal calcium/PTH/phosphate labs, not by DXA T-score criteria alone.",
+        "Incorrect \u2014 osteopenia corresponds to a T-score between -1.0 and -2.5, a less severe reduction in bone density than this patient's -2.8, and does not by itself confirm the diagnosis given her fragility fracture.",
+        "Incorrect \u2014 osteopetrosis is a rare disorder of defective osteoclast activity causing increased (not decreased) bone density, the opposite of what is described by this patient's low T-score.",
+        "Correct \u2014 a T-score of -2.5 or lower defines osteoporosis, and combined with her fragility fracture (fall from standing height), this confirms the diagnosis of markedly decreased bone mass with increased fracture risk."
+      ],
+      "overview": "Osteoporosis is defined by a DXA T-score of -2.5 or lower, reflecting markedly decreased bone mass compared to a healthy young adult, and can also be diagnosed by a fragility fracture (fall from standing height or less) at sites like the hip, spine, wrist, or humerus. Osteopenia (T-score -1.0 to -2.5) represents a milder reduction in bone density, and screening DXA is recommended for women over 65.",
+      "id": "2026-09-12-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 45-year-old man with an iron overload disorder presents with joint pain and minimal swelling. Which joint is most commonly involved in this arthropathy?",
+      "options": [
+        "First carpometacarpal joint",
+        "Metacarpophalangeal joints",
+        "Proximal interphalangeal joints only",
+        "Distal interphalangeal joints"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 the first carpometacarpal joint is a classic site for osteoarthritis, not hemochromatosis arthropathy.",
+        "Correct \u2014 hemochromatosis arthropathy most commonly involves the metacarpophalangeal (MCP) joints, typically presenting with pain and minimal swelling in a younger patient with elevated serum ferritin.",
+        "Incorrect \u2014 PIP involvement (Bouchard's nodes) is associated with osteoarthritis, not the classic MCP-predominant pattern of hemochromatosis.",
+        "Incorrect \u2014 DIP joint involvement (Heberden's nodes) is characteristic of osteoarthritis, not hemochromatosis arthropathy."
+      ],
+      "overview": "Hemochromatosis, an iron overload disorder, can present with arthritis most commonly involving the MCP joints, often with pain but minimal swelling in a younger patient. This distribution helps distinguish it from osteoarthritis, which classically spares the MCP joints and instead affects the DIP, PIP, and first CMC joints.",
+      "id": "2026-09-12-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 50-year-old obese woman who stands for long periods at work reports stabbing heel pain that is worst with her first steps in the morning and improves somewhat with continued activity. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Iliotibial band syndrome",
+        "Plantar fasciitis",
+        "Tarsal tunnel syndrome",
+        "Medial tibial stress syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 iliotibial band syndrome causes lateral knee pain from friction against the lateral femoral epicondyle, not heel pain.",
+        "Correct \u2014 plantar fasciitis is inflammation of the plantar aponeurosis, associated with obesity and prolonged standing, presenting with stabbing heel pain that is worst after periods of inactivity (e.g., first steps in the morning) and tenderness at the base of the heel.",
+        "Incorrect \u2014 tarsal tunnel syndrome (distal tibial nerve compression) causes sensory symptoms on the sole of the foot, but is not specifically characterized by the classic morning stabbing pain pattern of plantar fasciitis.",
+        "Incorrect \u2014 medial tibial stress syndrome (shin splints) causes pain in the lower shin from overuse (e.g., running), not stabbing heel pain worse in the morning."
+      ],
+      "overview": "Plantar fasciitis is inflammation of the plantar aponeurosis, associated with risk factors including obesity, prolonged standing, jumping, and flat feet, and classically presents as stabbing heel pain that is worse after periods of inactivity, such as the first steps in the morning. Heel spurs often coexist, and treatment includes rest, ice, NSAIDs, proper footwear, stretching, and night splints.",
+      "id": "2026-09-12-21"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 7-year-old boy falls onto an outstretched hand while playing on monkey bars and presents with severe elbow pain and swelling. X-ray confirms a supracondylar humeral fracture. On exam, the radial pulse is diminished, and he has weakness of thumb and index finger flexion with decreased sensation over the palmar aspect of the lateral three and a half fingers. Which structures are most likely injured together in this classic presentation?",
+      "options": [
+        "Axillary nerve and posterior circumflex humeral artery",
+        "Median nerve and brachial artery",
+        "Ulnar nerve and ulnar artery",
+        "Musculocutaneous nerve and brachial artery",
+        "Radial nerve and profunda brachii artery"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 the axillary nerve and posterior circumflex humeral artery are injured with proximal humeral fractures or anterior shoulder dislocation, not supracondylar elbow fractures.",
+        "Correct \u2014 the median nerve travels with the brachial artery near the elbow, and this combination is the most common neurovascular injury in pediatric supracondylar humeral fractures, explaining the diminished radial pulse and median nerve sensory/motor deficits.",
+        "Incorrect \u2014 ulnar nerve injury would cause weakness of the intrinsic hand muscles and sensory loss on the little finger side, not the thumb-side motor/sensory findings described.",
+        "Incorrect \u2014 the musculocutaneous nerve supplies the biceps and lateral forearm sensation and is not the nerve classically injured with the brachial artery in supracondylar fractures.",
+        "Incorrect \u2014 radial nerve injury above the elbow causes wrist drop and posterior arm/hand sensory loss, and its associated artery is not classically implicated in supracondylar fractures."
+      ],
+      "overview": "Supracondylar fracture is the most common pediatric elbow fracture, typically from a fall on an outstretched arm. The brachial artery and median nerve travel together near the fracture site and are the most commonly injured neurovascular structures, though the ulnar nerve (near the medial epicondyle) and radial nerve (wrapping laterally around the humerus) can also be affected.",
+      "id": "2026-09-12-22"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old boy presents with a limp and left hip pain that has progressed over several weeks. He has no history of trauma. Exam shows limited internal rotation and abduction of the left hip. Initial hip X-ray is normal. A bone scan shows decreased perfusion to the left femoral head. Which of the following best characterizes this condition?",
+      "options": [
+        "Autoimmune destruction of synovium with pannus formation",
+        "Genetic mutation in FGFR3 causing impaired endochondral ossification",
+        "Idiopathic avascular necrosis of the femoral head in a child, more common in males",
+        "Fracture through the femoral growth plate in an obese adolescent",
+        "Bacterial seeding of the joint requiring emergent drainage"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - Factor H acts on the alternative pathway C3 convertase, not on C1q or the classical pathway.",
-        "Incorrect - Factor H does not interact with mannose-binding lectin, which is part of the lectin pathway.",
-        "Correct - Factor H is a liver-synthesized glycoprotein that protects host cells by accelerating the decay of the alternative pathway C3 convertase (C3bBb) and promoting cleavage/inactivation of C3b; some pathogens (H. influenzae, N. meningitidis, streptococci, Pseudomonas) hijack Factor H to evade the alternative pathway.",
-        "Incorrect - Factor H acts upstream at the level of C3 convertase, not by cleaving C5."
+        "Incorrect \u2014 this describes rheumatoid arthritis pathophysiology, not an avascular necrosis process with decreased perfusion on bone scan.",
+        "Incorrect \u2014 this describes achondroplasia, a distinct genetic skeletal dysplasia unrelated to avascular necrosis of the femoral head.",
+        "Correct \u2014 Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head occurring in children aged 4-8, more common in males (4:1), presenting with hip pain/limp and initially normal X-ray with decreased perfusion on bone scan.",
+        "Incorrect \u2014 this describes slipped capital femoral epiphysis, which occurs in obese adolescents (12-14 years), not a 6-year-old with normal initial imaging.",
+        "Incorrect \u2014 septic arthritis presents acutely with fever, marked swelling, and very high synovial WBC count, not a gradually progressive limp with normal initial X-ray."
       ],
-      "overview": "In the alternative complement pathway, spontaneously generated C3b is normally rapidly destroyed unless stabilized on a pathogen surface, where it forms the C3 convertase (C3bBb) that amplifies C3b deposition. Factor H is a host-protective regulatory protein that accelerates decay of this convertase and inactivates C3b on host cells; several pathogens exploit Factor H binding to evade complement-mediated killing.",
-      "id": "2026-09-10-23"
+      "overview": "Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head in children aged 4-8 years, more common in boys, presenting with hip pain and limp. Initial X-rays are often normal, while bone scan or MRI reveals decreased femoral head perfusion early in the disease course, distinguishing it from SCFE, which occurs in older, obese adolescents.",
+      "id": "2026-09-12-23"
     },
     {
       "format": "simple4",
-      "stem": "A patient with rheumatoid arthritis develops a swelling behind the knee that later ruptures, causing calf pain and swelling that mimics a deep vein thrombosis. This describes which of the following?",
+      "stem": "Acetylcholine-mediated vasodilation of vascular smooth muscle occurs through which of the following sequences?",
       "options": [
-        "Tophus",
-        "Ganglion cyst",
-        "Baker's (popliteal) cyst",
-        "Rheumatoid nodule"
+        "Acetylcholine directly opens L-type calcium channels on smooth muscle cells to increase contraction",
+        "Acetylcholine stimulates endothelial cells to release nitric oxide, which activates guanylyl cyclase to increase cGMP and activate myosin light chain phosphatase",
+        "Acetylcholine increases cAMP directly in smooth muscle to activate myosin light chain kinase",
+        "Acetylcholine stimulates release of RANK-L from endothelial cells to activate osteoclasts"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 acetylcholine does not directly act on smooth muscle L-type calcium channels; its vasodilatory effect requires an intact endothelium to generate nitric oxide.",
+        "Correct \u2014 acetylcholine acts indirectly on vascular smooth muscle by stimulating endothelial cells to synthesize nitric oxide (EDRF), which diffuses into smooth muscle, activates guanylyl cyclase to raise cGMP, and increases myosin light chain phosphatase activity, causing relaxation.",
+        "Incorrect \u2014 cAMP does increase in some smooth muscle relaxation pathways but inhibits, rather than activates, myosin light chain kinase; this is also not the acetylcholine-nitric oxide pathway described.",
+        "Incorrect \u2014 RANK-L/osteoclast signaling pertains to bone remodeling, unrelated to smooth muscle relaxation via nitric oxide."
+      ],
+      "overview": "Acetylcholine causes vasodilation indirectly by stimulating endothelial cells to synthesize nitric oxide (EDRF) from L-arginine; nitric oxide diffuses into adjacent smooth muscle cells and activates guanylyl cyclase, raising cGMP levels. Increased cGMP activates myosin light chain phosphatase, dephosphorylating myosin and causing smooth muscle relaxation.",
+      "id": "2026-09-12-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "Muscle biopsy in a patient with proximal muscle weakness shows perimysial inflammation predominantly composed of CD4+ T-cells. Which diagnosis is most consistent with this finding?",
+      "options": [
+        "Dermatomyositis",
+        "Fibromyalgia",
+        "Polymyalgia rheumatica",
+        "Polymyositis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 dermatomyositis shows perimysial inflammation with CD4+ T-cells as the predominant cell type on muscle biopsy, along with characteristic skin findings such as heliotrope rash and Gottron papules.",
+        "Incorrect \u2014 fibromyalgia biopsy shows no inflammation or muscle damage, unlike the perimysial CD4+ infiltrate described.",
+        "Incorrect \u2014 polymyalgia rheumatica does not have a characteristic inflammatory myopathy biopsy pattern and does not cause true muscle weakness.",
+        "Incorrect \u2014 polymyositis shows endomysial inflammation predominantly composed of CD8+ T-cells, not the perimysial CD4+ pattern described."
+      ],
+      "overview": "Inflammatory myopathies are distinguished on muscle biopsy by the location and type of infiltrate: polymyositis shows endomysial inflammation with predominant CD8+ T-cells, while dermatomyositis shows perimysial inflammation with predominant CD4+ T-cells. Dermatomyositis is also distinguished clinically by pathognomonic skin findings like the heliotrope rash and Gottron papules.",
+      "id": "2026-09-12-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A tennis player develops pain over the lateral elbow that worsens with resisted wrist extension. Tenderness is noted at the lateral epicondyle. Which structures classically originate at this site?",
+      "options": [
+        "Pronator muscles",
+        "Wrist flexor muscles",
+        "Wrist extensor muscles",
+        "Elbow flexor muscles"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - A tophus is a uric acid deposit seen in chronic gout, not a synovial cyst of the knee.",
-        "Incorrect - A ganglion cyst is a distinct, generally non-inflammatory cystic swelling near joints/tendons, not the classic RA-associated popliteal cyst described.",
-        "Correct - A Baker's (popliteal) cyst is a synovium-lined sac continuous with the joint space at the back of the knee, commonly seen in RA; rupture can produce symptoms mimicking a DVT.",
-        "Incorrect - Rheumatoid nodules are subcutaneous nodules typically on the elbow, associated with RF-positive RA, not fluid-filled popliteal masses."
+        "Incorrect \u2014 pronator muscles (e.g., pronator teres) originate near the medial epicondyle, not the lateral epicondyle, and are unrelated to this presentation.",
+        "Incorrect \u2014 wrist flexor muscles originate at the medial epicondyle, and their overuse causes medial epicondylitis (golfer's elbow), not the lateral pain described.",
+        "Correct \u2014 the lateral epicondyle is the origin of the wrist extensor muscles; overuse causes lateral epicondylitis (tennis elbow), presenting with lateral elbow tenderness and pain worsened by resisted wrist extension.",
+        "Incorrect \u2014 elbow flexors (e.g., biceps, brachialis) do not originate at the lateral epicondyle and are not implicated in epicondylitis."
       ],
-      "overview": "A Baker's (popliteal) cyst is a synovium-lined sac at the back of the knee that communicates with the joint space, commonly occurring in rheumatoid arthritis due to increased synovial fluid production; rupture can mimic the presentation of a deep vein thrombosis.",
-      "id": "2026-09-10-24"
+      "overview": "Epicondylitis is a form of chronic tendinosis from overuse, distinguished by the epicondyle involved: lateral epicondylitis (tennis elbow) affects the origin of wrist extensor muscles and causes pain with resisted wrist extension, while medial epicondylitis (golfer's elbow) affects wrist flexor origins and causes pain with resisted wrist flexion.",
+      "id": "2026-09-12-26"
     },
     {
       "format": "simple4",
-      "stem": "Primary biliary cirrhosis, characterized by T-cell mediated destruction of small bile ducts, is most strongly associated with which rheumatologic condition?",
+      "stem": "A patient undergoes pelvic surgery involving trocar placement and subsequently develops weakness of thigh adduction and numbness of the medial thigh. Which nerve was most likely injured?",
       "options": [
-        "Polyarteritis nodosa",
-        "Limited (CREST) scleroderma",
-        "Ankylosing spondylitis",
-        "Diffuse scleroderma"
+        "Genitofemoral nerve",
+        "Femoral nerve",
+        "Pudendal nerve",
+        "Obturator nerve"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect - Polyarteritis nodosa is a medium-vessel vasculitis associated with hepatitis B, not PBC.",
-        "Correct - Primary biliary cirrhosis is associated with limited scleroderma, with 5-15% of PBC patients having limited scleroderma (also associated with Sj\u00f6gren's, lupus, RA, and Hashimoto's thyroiditis).",
-        "Incorrect - Ankylosing spondylitis is a seronegative spondyloarthropathy with no described association with PBC.",
-        "Incorrect - The described association in the notes is specifically with limited (not diffuse) scleroderma."
+        "Incorrect \u2014 genitofemoral nerve injury affects the cremasteric reflex and sensation of the anterior scrotum/thigh, not thigh adduction strength.",
+        "Incorrect \u2014 femoral nerve injury causes weak hip flexion/knee extension and an absent patellar reflex, not isolated adductor weakness and medial thigh numbness.",
+        "Incorrect \u2014 pudendal nerve injury affects perineal sensation and continence, not thigh adduction or medial thigh sensation.",
+        "Correct \u2014 the obturator nerve (L2-L4) supplies the thigh adductor muscles and sensation to the medial thigh; it courses through the posterior pelvis and is vulnerable to injury during pelvic surgery (e.g., trocar placement), causing weak adduction and medial thigh numbness."
       ],
-      "overview": "Primary biliary cirrhosis is a T-cell mediated autoimmune destruction of small bile ducts leading to cholestasis (elevated conjugated bilirubin and alkaline phosphatase), pruritus, and potential progression to cirrhosis. It shows a notable association with limited scleroderma, as well as Sj\u00f6gren's syndrome, SLE, RA, and Hashimoto's thyroiditis.",
-      "id": "2026-09-10-25"
+      "overview": "The obturator nerve (L2-L4) innervates the thigh adductor muscles (adductor longus, brevis, magnus, gracilis, obturator externus) and provides sensation to the medial thigh. It courses through the posterior pelvis, making it vulnerable to injury during pelvic surgery, resulting in weak thigh adduction and medial thigh numbness.",
+      "id": "2026-09-12-27"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following metabolic conditions is most classically associated with calcium pyrophosphate deposition disease (CPPD)?",
+      "stem": "A 14-year-old presents with an asymptomatic lytic lesion in the diaphysis of the femur, found incidentally. Biopsy shows irregular trabeculae of woven bone surrounded by fibrous connective tissue stroma. Which of the following best describes this condition?",
       "options": [
-        "Von Gierke disease",
-        "Hemochromatosis",
-        "Wilson disease",
-        "Lesch-Nyhan syndrome"
+        "Chondrosarcoma, a malignant tumor of chondrocytes",
+        "Fibrous dysplasia, a benign tumor of woven bone and fibroblasts",
+        "Osteosarcoma, a malignant tumor of osteoblasts",
+        "Giant cell tumor, composed of multinucleated osteoclast-like cells"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - Von Gierke disease (glucose-6-phosphatase deficiency) is associated with gout via lactic acidosis-driven uric acid retention, not CPPD.",
-        "Correct - Hemochromatosis, a hereditary iron overload disorder, is classically associated with CPPD, with calcium pyrophosphate deposition seen in up to two-thirds of hemochromatosis patients along with iron deposition in synovial tissue; hyperparathyroidism and joint trauma are other associated conditions.",
-        "Incorrect - Wilson disease (copper overload) is not among the associated conditions for CPPD described in these notes.",
-        "Incorrect - Lesch-Nyhan syndrome (HGPRT deficiency) causes excess uric acid production and gout, not CPPD."
+        "Incorrect \u2014 chondrosarcoma is a malignant cartilage tumor in older adults, typically in the pelvis or proximal femur/humerus, not matching this benign adolescent diaphyseal lesion.",
+        "Correct \u2014 fibrous dysplasia is a benign bone tumor composed of woven bone surrounded by fibroblastic stroma, occurring in early adolescence in the medulla/diaphysis, often asymptomatic but capable of causing pain or fracture, and growth stops when the growth plate closes.",
+        "Incorrect \u2014 osteosarcoma is malignant, occurs in the metaphysis, shows pleomorphic cells with irregular osteoid, and classically presents with a painful enlarging mass, not the benign incidental lesion described.",
+        "Incorrect \u2014 giant cell tumor shows multinucleated giant cells in the epiphysis, not the fibrous stroma with woven bone trabeculae described in this diaphyseal lesion."
       ],
-      "overview": "Calcium pyrophosphate deposition disease (CPPD) causes asymptomatic chondrocalcinosis, acute pseudogout attacks (rhomboid, positively birefringent crystals), or chronic pseudo-osteoarthritis, typically in older patients. It is associated with joint trauma, hyperparathyroidism, and hemochromatosis, the last of which causes CPPD via associated iron deposition in synovial tissue.",
-      "id": "2026-09-10-26"
+      "overview": "Fibrous dysplasia is a benign bone tumor of woven bone surrounded by fibrous connective tissue stroma, occurring in the medulla/diaphysis during early adolescence and growing until the growth plate closes. It is often asymptomatic but can cause pain or pathologic fractures, appearing as a lytic lesion in the diaphysis on X-ray.",
+      "id": "2026-09-12-28"
     },
     {
       "format": "simple4",
-      "stem": "The Schirmer test, used in the evaluation of suspected Sj\u00f6gren's syndrome, directly measures which of the following?",
+      "stem": "A competitive swimmer develops shoulder pain with overhead activity. Exam shows pain with resisted abduction when the arms are positioned at 90 degrees of abduction and 30 degrees of forward flexion with thumbs pointing down. Which structure is most likely impinged, and between what two structures does this occur?",
       "options": [
-        "Salivary flow rate",
-        "Radionuclide uptake by the salivary glands",
-        "Reflex tear production",
-        "Serum anti-SSA/SSB antibody titers"
+        "Supraspinatus tendon; between the humeral head and acromion process",
+        "Long head of biceps tendon; between the clavicle and first rib",
+        "Infraspinatus tendon; between the humeral head and coracoid process",
+        "Subscapularis tendon; between the scapula and rib cage"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - Salivary flow is assessed by whole sialometry (collecting and weighing saliva), a separate test from the Schirmer test.",
-        "Incorrect - Radionuclide uptake is assessed by salivary gland scintigraphy, not the Schirmer test.",
-        "Correct - The Schirmer test uses filter paper placed near the lower eyelid to measure the amount of tear wetting over 5 minutes, assessing reflex tear production, which is reduced in Sj\u00f6gren's syndrome.",
-        "Incorrect - Antibody titers are measured by serologic testing, not the Schirmer test, which is a physical/functional ocular test."
+        "Correct \u2014 the supraspinatus tendon is compressed in the subacromial space between the humeral head and acromion process, producing impingement (swimmer's shoulder/thrower's shoulder); the empty can test (thumbs down) reproduces pain by increasing this impingement.",
+        "Incorrect \u2014 thoracic outlet syndrome, not biceps tendon impingement, involves compression between the clavicle and ribs; the empty/full can test specifically evaluates the supraspinatus.",
+        "Incorrect \u2014 the infraspinatus assists external rotation and is not the classic tendon compressed against the acromion in impingement syndrome, nor is the coracoid process the site of the described impingement.",
+        "Incorrect \u2014 the subscapularis mediates internal rotation and is not compressed against the rib cage; scapular winging against the rib cage relates to long thoracic nerve/serratus anterior dysfunction, not rotator cuff impingement."
       ],
-      "overview": "Sj\u00f6gren's syndrome causes lymphocytic destruction of lacrimal and salivary glands, producing dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia). Diagnostic criteria include objective measures of these deficits \u2014 the Schirmer test for tear production and salivary scintigraphy/sialometry for salivary flow \u2014 alongside anti-SSA/SSB antibodies or biopsy showing lymphocytic sialadenitis.",
-      "id": "2026-09-10-27"
+      "overview": "Supraspinatus impingement is the most common rotator cuff injury, resulting from tendon compression in the subacromial space between the humeral head and acromion process, commonly seen in swimmers and throwers. The empty can test (arms abducted 90\u00b0, thumbs down) and full can test (thumbs up) help identify supraspinatus pathology, with pain suggesting tendinopathy or tear.",
+      "id": "2026-09-12-29"
     },
     {
       "format": "simple4",
-      "stem": "The heavy chain V, D, and J gene segments that rearrange to generate B-cell receptor diversity are located on which chromosome?",
+      "stem": "Which of the following correctly distinguishes the structural relationship between the sarcoplasmic reticulum and T-tubules in cardiac muscle compared to skeletal muscle?",
       "options": [
-        "Chromosome 6",
-        "Chromosome 14",
-        "Chromosome 11",
-        "Chromosome 22"
+        "Both cardiac and skeletal muscle form triads with two terminal cisternae per T-tubule",
+        "Cardiac muscle forms dyads (one T-tubule with one terminal cisterna), while skeletal muscle forms triads (one T-tubule with two terminal cisternae)",
+        "Cardiac muscle forms triads, while skeletal muscle forms dyads",
+        "Neither cardiac nor skeletal muscle contains specialized T-tubule/SR junctions"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - Chromosome 6 harbors the HLA/MHC genes, not the immunoglobulin heavy chain locus.",
-        "Correct - The immunoglobulin heavy chain V, D, and J gene segments are located on chromosome 14, and their combinatorial rearrangement, along with light chain rearrangement, generates the enormous diversity of B-cell receptors from a limited number of genes.",
-        "Incorrect - Chromosome 11 is not the site of heavy chain gene rearrangement described in these notes (it is associated with the ATM gene in ataxia telangiectasia).",
-        "Incorrect - Chromosome 22 is associated with the 22q11 deletion in DiGeorge syndrome, not the immunoglobulin heavy chain locus."
+        "Incorrect \u2014 only skeletal muscle forms triads with two terminal cisternae per T-tubule; cardiac muscle has the simpler dyad arrangement.",
+        "Correct \u2014 cardiac muscle has a less extensive sarcoplasmic reticulum and forms dyads (one T-tubule paired with one terminal cisterna), whereas skeletal muscle forms triads (one T-tubule flanked by two terminal cisternae).",
+        "Incorrect \u2014 this reverses the correct pairing; dyads are characteristic of cardiac muscle, and triads are characteristic of skeletal muscle.",
+        "Incorrect \u2014 both muscle types have specialized T-tubule/SR junctions essential for excitation-contraction coupling, just with different structural arrangements (dyads vs. triads)."
       ],
-      "overview": "B-cell receptor diversity arises not from one gene per receptor but from combinatorial VDJ rearrangement of a limited set of variable (~50), diversity (~25), and joining (~6) gene segments on chromosome 14 for the heavy chain, combined with light chain V/J rearrangement, generating millions of unique antigen receptors.",
-      "id": "2026-09-10-28"
-    },
-    {
-      "format": "simple4",
-      "stem": "Conjugate vaccines against encapsulated bacteria (e.g., Hib, Neisseria meningitidis, Streptococcus pneumoniae) improve immunogenicity primarily by which mechanism?",
-      "options": [
-        "Using a live attenuated form of the polysaccharide-encapsulated organism",
-        "Linking the polysaccharide antigen to a protein carrier, enabling T-cell help and stronger B-cell memory",
-        "Directly stimulating B cells without any antigen presentation",
-        "Bypassing the need for antibody production entirely"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - Conjugate vaccines are not live attenuated organisms; they combine a purified polysaccharide antigen with a protein carrier.",
-        "Correct - Polysaccharide antigens alone activate B cells in a T-cell-independent manner, producing a weak, short-lived, mostly IgM response with poor memory; conjugating the polysaccharide to a protein carrier allows the protein to be presented to T cells, which provide help to B cells, producing a stronger, class-switched, memory response.",
-        "Incorrect - The mechanism specifically involves T-cell-dependent activation via the conjugated protein, not purely direct B-cell stimulation.",
-        "Incorrect - The goal of vaccination, including conjugate vaccines, is to generate a strong, durable antibody (and memory) response, not to bypass antibody production."
-      ],
-      "overview": "Polysaccharide capsule antigens activate B cells independent of T-cell help, generating a weak, transient IgM-predominant response without memory. Conjugate vaccines attach the polysaccharide to a protein carrier so that T cells can be recruited to help B cells, producing a stronger, longer-lasting, class-switched antibody response with immunologic memory.",
-      "id": "2026-09-10-29"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 48-year-old woman has a 3-year history of limited cutaneous systemic sclerosis with skin involvement confined to the fingers and face, calcinosis, and telangiectasias. She now presents with progressive dyspnea on exertion. Echocardiogram shows right ventricular enlargement and elevated pulmonary artery pressure. Which of the following is the most likely explanation for her current presentation?",
-      "options": [
-        "Myocarditis with conduction system disease",
-        "Pulmonary hypertension, the leading cause of death in limited scleroderma",
-        "Primary biliary cirrhosis causing hepatopulmonary syndrome",
-        "Scleroderma renal crisis with malignant hypertension",
-        "Esophageal dysmotility causing aspiration pneumonia"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - Myocarditis/conduction disease is described with diffuse scleroderma, not the limited/CREST form.",
-        "Correct - In limited scleroderma (CREST), pulmonary hypertension (and interstitial lung disease) is the main risk and leading cause of death, even though the disease course is otherwise more benign than diffuse disease.",
-        "Incorrect - PBC is associated with limited scleroderma but causes cholestatic liver disease, not primary pulmonary hypertension.",
-        "Incorrect - Scleroderma renal crisis is a complication of diffuse, not limited, scleroderma, and presents with acute renal failure and marked hypertension, not isolated pulmonary hypertension.",
-        "Incorrect - Esophageal dysmotility is part of CREST but causes reflux/dysphagia, not right heart strain and pulmonary hypertension."
-      ],
-      "overview": "Limited (CREST) scleroderma generally has a more benign course than diffuse disease and rarely involves the heart or kidneys, but pulmonary complications \u2014 particularly pulmonary hypertension and interstitial lung disease \u2014 are the leading cause of death. Routine monitoring includes echocardiography to detect early pulmonary hypertension.",
-      "id": "2026-09-10-30"
+      "overview": "Cardiac and skeletal muscle share sarcomeric structure but differ in their T-tubule/sarcoplasmic reticulum arrangement: cardiac muscle has a less extensive SR forming dyads (one T-tubule with one terminal cisterna), while skeletal muscle forms triads (one T-tubule flanked by two terminal cisternae). Cardiac muscle also uniquely depends on extracellular calcium influx through L-type channels to trigger calcium-induced calcium release during phase 2 of its action potential.",
+      "id": "2026-09-12-30"
     }
   ]
 }
