@@ -1943,66 +1943,246 @@
       }
     ],
     "Neurology": [
-      "A patient with chronic alcohol use has a wide-based, unsteady gait but no limb dysmetria or intentio",
-      "A 78-year-old woman has a two-year history of gradually worsening memory, difficulty managing her fi",
-      "A farmer presents with wheezing, diarrhea, urinary incontinence, pinpoint pupils, and profuse sweati",
-      "A 38-year-old man presents with progressive chorea, irritability, and early psychiatric symptoms. Ge",
-      "Which thalamic nucleus relays pain, temperature, touch, proprioception, and vibration information fr",
-      "A 58-year-old man presents with sudden-onset vertigo, nausea, and vomiting. He also reports hoarsene",
-      "A patient recently started on both an SSRI and an MAOI develops agitation, diaphoresis, hyperthermia",
-      "Activation of D1 receptors on striatal neurons stimulates the direct pathway of the basal ganglia. W",
-      "A patient has unilateral hearing loss. The Weber test lateralizes to the affected ear, and the Rinne",
-      "A 45-year-old woman presents with sudden onset of the 'worst headache of her life,' photophobia, and",
-      "A patient can comprehend spoken language normally but produces short, halting, effortful speech and ",
-      "A patient with vertigo has purely vertical nystagmus that changes direction with gaze, along with sk",
-      "A 29-year-old woman experiences sudden painful monocular vision loss that worsens with eye movement,",
-      "A 62-year-old man is found unresponsive after a fall. Head CT shows a large right temporal epidural ",
-      "Stroking the sole of the foot produces dorsiflexion of the great toe with fanning of the other toes ",
-      "A 19-year-old man living in a college dormitory presents with fever, severe headache, neck stiffness",
-      "A patient with cocaine intoxication presents with chest pain, tachycardia, and hypertension. Why sho",
-      "A 34-year-old woman presents with three months of progressive diplopia and ptosis that worsen throug",
-      "A patient has increased muscle tone, hyperreflexia, a positive Babinski sign, and no muscle atrophy ",
-      "A 45-year-old man presents with two days of progressive symmetric ascending weakness that began in h",
-      "A 6-year-old girl has multiple daily brief episodes of staring and eyelid fluttering lasting a few s",
-      "A 70-year-old man with longstanding, poorly controlled hypertension develops sudden dense right-side",
-      "Which structure lies outside the blood-brain barrier and functions as the chemoreceptor trigger zone",
-      "Fibers of the dorsal column-medial lemniscus pathway carrying vibration and proprioception decussate",
-      "Epinephrine is the drug of choice for anaphylaxis primarily because of which combination of receptor",
-      "Which glial cell type myelinates multiple CNS axons and is destroyed in multiple sclerosis?",
-      "Which G-protein subtype is coupled to alpha-1 and M3 receptors, mediating smooth muscle contraction ",
-      "Following a moderate peripheral nerve crush injury (axonotmesis), the axon and myelin sheath distal ",
-      "A patient has contralateral hemiparesis of the face, arm, and leg, contralateral loss of vibration/p",
-      "A 68-year-old woman develops sudden right-sided weakness of the face, arm, and leg. On examination h",
-      "A 74-year-old man presents with a several-month history of progressive gait disturbance described as",
-      "A neonate with a lumbosacral myelomeningocele is found to have downward displacement of the cerebell",
-      "Triptans abort acute migraine attacks primarily by which mechanism?",
-      "A 22-year-old college student reports excessive daytime sleepiness for the past 6 months, with episo",
-      "Which of the following best describes the classic triad of Meniere's disease?",
-      "Riluzole, used to modestly slow disease progression in amyotrophic lateral sclerosis, works primaril",
-      "A 50-year-old man with chronic alcohol use disorder presents to the emergency department with confus",
-      "A patient with tertiary neurosyphilis has pupils that constrict with accommodation but fail to react",
-      "Nicotinic acetylcholine receptors are best classified as which type of receptor?",
-      "A mass compressing the cavernous sinus would be expected to affect all of the following cranial nerv",
-      "A 58-year-old man presents with a 2-year history of progressive personality changes, social disinhib",
-      "A 55-year-old man presents with severe low back pain, bilateral leg weakness, numbness in the perine",
-      "Carbidopa is combined with levodopa in the treatment of Parkinson disease primarily to accomplish wh",
-      "A 52-year-old man develops sudden unilateral facial weakness including inability to raise his eyebro",
-      "Bilateral damage to the amygdala, as can occur with HSV-1 encephalitis, classically produces which s",
-      "Ethosuximide, the drug of choice for childhood absence seizures, exerts its anticonvulsant effect th",
-      "A 45-year-old woman with paroxysmal headaches, palpitations, and diaphoresis is found to have an adr",
-      "Uncal herniation classically causes early ipsilateral compression of which structure, resulting in a",
-      "Clonidine lowers blood pressure primarily through which mechanism?",
-      "Which sensory receptor is a rapidly adapting structure located deep in the skin, joints, and ligamen",
-      "A 68-year-old woman reports recurrent episodes of severe, unilateral, shock-like facial pain lasting",
-      "A patient found to have bilateral vestibular schwannomas along with multiple meningiomas most likely",
-      "A 63-year-old man with a 40-pack-year smoking history presents with progressive proximal muscle weak",
-      "Which brainstem structure is the primary source of norepinephrine in the brain and is activated duri",
-      "A 14-year-old boy presents with progressive gait ataxia, dysarthria, decreased deep tendon reflexes,",
-      "An 8-year-old boy presents with headaches, short stature, and progressive bitemporal visual field lo",
-      "A patient on long-term phenytoin therapy for seizures develops gum overgrowth. This adverse effect i",
-      "At low doses, dopamine acts primarily on which receptor to produce renal vasodilation?",
-      "Which EEG finding is classically associated with Creutzfeldt-Jakob disease?",
-      "Overly rapid correction of severe hyponatremia places a patient at risk for which complication?"
+      {
+        "topic": "Alcoholic cerebellar degeneration",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Alzheimer disease",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Organophosphate poisoning",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Huntington disease",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Ventral posterolateral (VPL) thalamic nucleus",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Lateral medullary (Wallenberg) syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Serotonin syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Basal ganglia direct pathway",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Conductive hearing loss",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Subarachnoid hemorrhage (berry aneurysm)",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Broca aphasia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Central vertigo",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Multiple sclerosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Uncal herniation (Kernohan notch phenomenon)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Babinski sign",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Meningococcal meningitis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Cocaine intoxication",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Myasthenia gravis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Upper motor neuron lesion",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Guillain-Barre syndrome",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Absence seizures",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Hypertensive intracerebral hemorrhage",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Area postrema",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Dorsal column-medial lemniscus pathway",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Epinephrine",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Oligodendrocytes",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Gq-coupled receptors",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Wallerian degeneration",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Medial medullary syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Weber syndrome (midbrain stroke)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Normal pressure hydrocephalus",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Chiari II malformation",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Triptans",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Narcolepsy",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Meniere disease",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Riluzole",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Wernicke encephalopathy",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Argyll Robertson pupil",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Nicotinic acetylcholine receptor",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Cavernous sinus syndrome",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Frontotemporal dementia",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Cauda equina syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Carbidopa-levodopa",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Bell palsy",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Kluver-Bucy syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Ethosuximide",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Phenoxybenzamine",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Uncal herniation",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Clonidine",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Pacinian corpuscle",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Trigeminal neuralgia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Neurofibromatosis type 2",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Lambert-Eaton myasthenic syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Locus coeruleus",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Friedreich ataxia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Craniopharyngioma",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Phenytoin-induced gingival hyperplasia",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Dopamine",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Creutzfeldt-Jakob disease",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osmotic demyelination syndrome",
+        "angle": "complications"
+      }
     ],
     "Ophthalmology": [
       {

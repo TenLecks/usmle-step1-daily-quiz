@@ -18,7 +18,9 @@
         "Correct \u2014 the vermis (midline cerebellar structure) controls trunk and gait; its degeneration, classically from chronic alcohol use, produces truncal/gait ataxia (a wide-based, unsteady gait) without limb dysmetria, since the lateral hemispheres controlling the limbs are relatively spared."
       ],
       "overview": "The cerebellum is functionally divided into midline structures (vermis and flocculonodular lobe), which control trunk/gait/eye movements, and lateral hemispheres, which control ipsilateral limb coordination. Vermis degeneration (classically from chronic alcohol use) causes truncal/gait ataxia without limb findings, while lateral lesions cause ipsilateral dysmetria, intention tremor, and dysdiadochokinesia.",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Alcoholic cerebellar degeneration",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -39,7 +41,9 @@
         "Alpha-synuclein Lewy bodies in the cortex characterize dementia with Lewy bodies, which typically features fluctuating cognition, visual hallucinations, and parkinsonism, not this isolated gradual memory-predominant pattern."
       ],
       "overview": "Alzheimer's disease is the most common cause of dementia and is pathologically defined by extracellular beta-amyloid plaques (from abnormal APP cleavage, worsened by ApoE4 and protected by ApoE2) and intracellular neurofibrillary tangles of hyperphosphorylated tau, with degeneration of cholinergic neurons in the basal nucleus of Meynert and hippocampal atrophy. Clinically it causes gradual, irreversible decline in short-term memory and executive function with a normal EEG, distinguishing it from delirium.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Alzheimer disease",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -58,7 +62,9 @@
         "Correct \u2014 atropine is a muscarinic antagonist and first-line therapy for organophosphate (cholinergic) toxicity, rapidly reversing bradycardia, bronchorrhea, and hypotension; it has no effect at nicotinic receptors."
       ],
       "overview": "Organophosphate poisoning inhibits acetylcholinesterase, causing accumulation of acetylcholine and a cholinergic toxidrome remembered as DUMBELS (Defecation, Urination, Miosis, Bronchospasm/Bradycardia, Emesis, Lacrimation, Salivation). First-line treatment is atropine (a muscarinic antagonist), followed by pralidoxime, which reactivates acetylcholinesterase.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Organophosphate poisoning",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Loss of dopaminergic substantia nigra neurons describes Parkinson disease, which causes hypokinesia (bradykinesia, rigidity) \u2014 the opposite pattern of chorea."
       ],
       "overview": "Huntington disease is an autosomal dominant disorder caused by CAG trinucleotide repeat expansion in the HTT gene, leading to degeneration of striatal (caudate/putamen) GABAergic and cholinergic neurons. Loss of the indirect pathway's inhibitory tone disinhibits the thalamus, producing chorea, along with progressive psychiatric symptoms and dementia; genetic anticipation causes earlier and worse onset in successive generations.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Huntington disease",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "The VPM nucleus relays facial sensation and taste (via trigeminal and gustatory afferents), not body sensation."
       ],
       "overview": "The thalamus serves as the sensory (and motor) relay to the cortex; the VPL nucleus relays body somatosensory information via the spinothalamic and dorsal column-medial lemniscus pathways, while VPM relays facial sensation/taste, LGN relays vision, and MGN relays hearing \u2014 each projecting to its respective primary cortical area.",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Ventral posterolateral (VPL) thalamic nucleus",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -117,7 +127,9 @@
         "Correct \u2014 a left PICA stroke causes left lateral medullary (Wallenberg) syndrome: ipsilateral Horner's syndrome (descending sympathetic tract), ipsilateral facial pain/temperature loss (spinal trigeminal nucleus), contralateral body pain/temperature loss (spinothalamic tract), ipsilateral hoarseness/dysphagia (nucleus ambiguus), and vertigo/nystagmus (vestibular nuclei)."
       ],
       "overview": "Lateral medullary (Wallenberg) syndrome results from PICA occlusion, damaging the vestibular nuclei, spinothalamic tract, spinal trigeminal nucleus, nucleus ambiguus, and descending sympathetic fibers, while sparing the medially located motor pathways. This produces ipsilateral face plus contralateral body sensory loss, ipsilateral Horner's syndrome, ipsilateral bulbar weakness (hoarseness, dysphagia), and vertigo/ataxia \u2014 remembered as 'Don't PICA a horse that can't eat.'",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Lateral medullary (Wallenberg) syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Correct \u2014 clonus and hyperreflexia are characteristic neuromuscular findings of serotonin syndrome (from excess serotonergic activity), whereas neuroleptic malignant syndrome (from dopamine blockade) classically presents with 'lead-pipe' rigidity rather than clonus."
       ],
       "overview": "Serotonin syndrome results from excess serotonergic activity (e.g., combining SSRIs, SNRIs, MAOIs, or TCAs) and presents with the triad of mental status changes, autonomic hyperactivity, and neuromuscular abnormalities including clonus and hyperreflexia; it is distinguished from neuroleptic malignant syndrome (caused by dopamine blockade, with 'lead-pipe' rigidity and elevated CK) by the presence of clonus. Treatment of serotonin syndrome is cyproheptadine.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Serotonin syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Decreased movement via thalamic inhibition describes the (dopamine-suppressed) indirect pathway, not the D1-activated direct pathway."
       ],
       "overview": "Dopamine promotes movement by simultaneously activating the direct pathway (via D1 receptors, which disinhibits the thalamus and stimulates the motor cortex) and inhibiting the indirect pathway (via D2 receptors, which would otherwise inhibit the thalamus). Loss of dopaminergic neurons, as in Parkinson disease, tips the balance toward indirect pathway dominance, causing hypokinesia.",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Basal ganglia direct pathway",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -174,7 +190,9 @@
         "In sensorineural hearing loss, Weber lateralizes to the good ear, and Rinne shows air conduction greater than bone conduction (though both reduced) \u2014 the opposite of this presentation."
       ],
       "overview": "The Weber test (tuning fork on the forehead) and Rinne test (comparing bone vs. air conduction) distinguish conductive from sensorineural hearing loss: conductive loss causes Weber to lateralize to the bad ear and bone conduction greater than air conduction (Rinne) in that ear, while sensorineural loss causes Weber to lateralize to the good ear with air conduction remaining greater than bone conduction.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Conductive hearing loss",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -195,7 +213,9 @@
         "Charcot-Bouchard aneurysms are microscopic, associated with hypertension, and cause intraparenchymal (not subarachnoid) hemorrhage with focal deficits, not this presentation."
       ],
       "overview": "Subarachnoid hemorrhage is most often caused by rupture of a berry (saccular) aneurysm, classically at the anterior communicating artery, presenting with sudden 'thunderclap' headache, meningismus, and photophobia, with usually preserved neurologic function since blood flow to brain tissue is maintained. CT is most sensitive within 6 hours; if negative but suspicion remains high, LP showing xanthochromia confirms the diagnosis. Berry aneurysms are associated with ADPKD, Ehlers-Danlos syndrome, and aortic coarctation.",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Subarachnoid hemorrhage (berry aneurysm)",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "Bilateral frontal injury (e.g., Phineas Gage) causes personality change and disinhibition, not isolated expressive aphasia."
       ],
       "overview": "Broca's area (left frontal lobe) governs speech production; its destruction causes non-fluent (expressive) aphasia with preserved comprehension but halting, effortful speech. Wernicke's area (left temporal lobe) governs speech comprehension; its destruction causes fluent but meaningless (receptive) aphasia. Damage to both produces global aphasia, often from a large MCA stroke.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Broca aphasia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "Correct \u2014 purely vertical nystagmus, direction-changing nystagmus with gaze, and skew deviation are red flags for central vertigo (a brainstem or cerebellar lesion, e.g., stroke), distinguishing it from peripheral causes."
       ],
       "overview": "Distinguishing central from peripheral vertigo is critical: central vertigo (brainstem/cerebellar lesion) features purely vertical or direction-changing nystagmus, skew deviation, immediate-onset positional nystagmus, and other CNS signs (dysmetria, weakness), while peripheral vertigo (BPPV, vestibular neuritis, Meniere's) features horizontal/torsional nystagmus, delayed and fatigable positional nystagmus, and no other neurologic findings.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Central vertigo",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -254,7 +278,9 @@
         "Correct \u2014 this patient's optic neuritis (painful monocular vision loss, color desaturation, afferent pupillary defect) followed by internuclear ophthalmoplegia (failure of adduction of one eye with nystagmus of the contralateral abducting eye, from medial longitudinal fasciculus demyelination) with periventricular white matter lesions on MRI is classic for multiple sclerosis."
       ],
       "overview": "Multiple sclerosis is a CNS autoimmune demyelinating disease of young adults (female predominance) presenting with episodic neurologic deficits separated in time and space; classic presentations include optic neuritis (painful monocular vision loss with an afferent pupillary defect) and internuclear ophthalmoplegia (impaired adduction of one eye with nystagmus of the contralateral abducting eye from medial longitudinal fasciculus demyelination). MRI shows periventricular white matter plaques (Dawson's fingers), and CSF often shows oligoclonal bands.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Multiple sclerosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -275,7 +301,9 @@
         "ACA compression under the falx cerebri occurs in subfalcine herniation, which causes contralateral leg weakness, not a blown pupil."
       ],
       "overview": "Uncal (transtentorial) herniation is a classic complication of an expanding mass like an epidural hematoma; the medial temporal lobe (uncus) pushes through the tentorial notch, compressing the ipsilateral CN III (an early sign is a 'blown,' dilated, nonreactive pupil with ptosis) and the cerebral peduncle, usually causing contralateral hemiparesis (though late compression against the tentorium can cause ipsilateral weakness \u2014 Kernohan's phenomenon).",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "Uncal herniation (Kernohan notch phenomenon)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -294,7 +322,9 @@
         "The spinothalamic tract carries pain/temperature sensation and is not responsible for producing or suppressing the Babinski reflex."
       ],
       "overview": "The Babinski sign (dorsiflexion of the great toe with fanning of the other toes upon plantar stimulation) is a sign of upper motor neuron/corticospinal tract dysfunction in adults; it is physiologically present in infants under 12 months due to incomplete corticospinal myelination and becomes pathologic once it persists or reappears later in life.",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Babinski sign",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -315,7 +345,9 @@
         "S. pneumoniae is a gram-positive, lancet-shaped diplococcus in pairs, not the gram-negative diplococcus described, and vancomycin should be added empirically to cover possible cephalosporin resistance."
       ],
       "overview": "Neisseria meningitidis is a gram-negative diplococcus transmitted by respiratory droplets that causes outbreaks in crowded settings (dorms, barracks) and can progress to meningococcemia with a petechial/purpuric rash, DIC, and Waterhouse-Friderichsen syndrome (adrenal hemorrhage). Bacterial meningitis CSF shows elevated opening pressure, PMN pleocytosis, high protein, and low glucose; empiric treatment in adolescents/young adults is ceftriaxone plus vancomycin.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "Meningococcal meningitis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -334,7 +366,9 @@
         "Beta-blockers do not affect dopamine reuptake; cocaine itself blocks reuptake of dopamine, norepinephrine, and serotonin."
       ],
       "overview": "Cocaine blocks presynaptic reuptake of norepinephrine, dopamine, and serotonin, causing generalized sympathetic activation with tachycardia, hypertension, and coronary vasospasm; beta-blockers are avoided because blocking beta-2-mediated vasodilation leaves alpha-1 vasoconstriction unopposed, worsening hypertension and cardiac ischemia. First-line treatment for cocaine toxicity is benzodiazepines.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Cocaine intoxication",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -355,7 +389,9 @@
         "Albuminocytologic dissociation (elevated CSF protein with a normal cell count) is characteristic of Guillain-Barre syndrome, not myasthenia gravis."
       ],
       "overview": "Myasthenia gravis is an autoimmune disorder caused by antibodies against postsynaptic nicotinic acetylcholine receptors, producing fatigable weakness that worsens with repeated muscle use (a decremental response on repetitive nerve stimulation) and classically presenting with ptosis/diplopia and bulbar symptoms. It is strongly associated with thymic hyperplasia or thymoma, and thymectomy often improves symptoms.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Myasthenia gravis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Anterior horn cell (LMN) damage causes flaccid weakness, hyporeflexia, muscle atrophy, and fasciculations \u2014 the opposite of the pattern described."
       ],
       "overview": "Upper motor neuron lesions (cortex, internal capsule, corticospinal tract) cause spastic paralysis: increased tone, hyperreflexia, a positive Babinski sign, and no atrophy or fasciculations. Lower motor neuron lesions (anterior horn cell, nerve root, peripheral nerve) cause flaccid paralysis: decreased tone, hyporeflexia/areflexia, muscle atrophy, and fasciculations \u2014 a key distinction for localizing neurologic lesions.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Upper motor neuron lesion",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -395,7 +433,9 @@
         "Treating the preceding Campylobacter infection does not alter the course of GBS, which is already immune-mediated by the time neurologic symptoms appear."
       ],
       "overview": "Guillain-Barre syndrome is an acute inflammatory demyelinating polyradiculoneuropathy, often triggered by molecular mimicry after infections like Campylobacter jejuni, causing ascending flaccid paralysis, areflexia, and autonomic instability with CSF albuminocytologic dissociation (elevated protein, normal cell count). Respiratory failure from diaphragmatic weakness is the most feared complication, so vital capacity should be monitored serially, and treatment is plasmapheresis or IVIG (not steroids).",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "Guillain-Barre syndrome",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -414,7 +454,9 @@
         "Carbamazepine is used for partial/generalized tonic-clonic seizures and trigeminal neuralgia; it is not first-line for absence seizures and can worsen some generalized seizure types."
       ],
       "overview": "Childhood absence epilepsy presents with brief (5-15 second) staring spells, eyelid fluttering, and no postictal confusion, with a classic 3-Hz spike-and-wave EEG pattern; it results from abnormal thalamic T-type calcium channel activity, and ethosuximide (a T-type calcium channel blocker) is the first-line treatment.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Absence seizures",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -435,7 +477,9 @@
         "Berry aneurysms at the AComm cause subarachnoid hemorrhage presenting with sudden severe headache and meningismus, not a basal ganglia parenchymal bleed with hemiparesis."
       ],
       "overview": "Charcot-Bouchard microaneurysms arise from chronic hypertension-induced lipohyalinosis of small penetrating arteries (classically lenticulostriate branches of the MCA) and are the most common cause of hypertensive intraparenchymal hemorrhage, most often in the basal ganglia/internal capsule. Because the internal capsule carries all descending motor fibers together, these bleeds cause 'dense,' equal face/arm/leg weakness, unlike cortical strokes.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Hypertensive intracerebral hemorrhage",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -454,7 +498,9 @@
         "Correct \u2014 the area postrema, at the caudal end of the 4th ventricle, is a circumventricular organ outside the BBB that serves as the chemoreceptor trigger zone, detecting circulating toxins/chemotherapy agents and signaling the medullary vomiting center."
       ],
       "overview": "Circumventricular organs (area postrema, OVLT, subfornical organ, median eminence) lack a blood-brain barrier, allowing them to sense or secrete substances directly into or from the bloodstream. The area postrema specifically acts as the chemoreceptor trigger zone, detecting circulating toxins (including chemotherapy agents) and triggering vomiting via the medullary vomiting center.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Area postrema",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -473,7 +519,9 @@
         "Correct \u2014 posterior column fibers ascend ipsilaterally in the spinal cord and synapse in the nucleus gracilis/cuneatus of the medulla, where second-order neurons decussate before ascending as the medial lemniscus to the thalamus."
       ],
       "overview": "The dorsal column-medial lemniscus pathway (vibration, proprioception, fine touch) ascends ipsilaterally in the spinal cord and decussates in the medulla at the nucleus gracilis/cuneatus, whereas the spinothalamic tract (pain, temperature, crude touch) decussates immediately at the spinal cord level of entry \u2014 both tracts cross, but at different levels, which is key for localizing spinal cord versus brainstem lesions.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Dorsal column-medial lemniscus pathway",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -492,7 +540,9 @@
         "Beta-2 mediated vasodilation would worsen hypotension; epinephrine's alpha-1 effect counteracts this in the vasculature while beta-2 dilates airways."
       ],
       "overview": "Epinephrine is the treatment of choice for anaphylaxis because at treatment doses it acts on both beta-2 receptors (bronchodilation, reversing wheezing) and alpha-1 receptors (vasoconstriction, reversing hypotension and vasodilation), simultaneously treating the two life-threatening features of anaphylactic shock.",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Epinephrine",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -511,7 +561,9 @@
         "Schwann cells myelinate peripheral axons (one cell per axon) and are destroyed in Guillain-Barre syndrome, not multiple sclerosis."
       ],
       "overview": "Oligodendrocytes myelinate CNS axons (each myelinating multiple axons) and are destroyed in multiple sclerosis, while Schwann cells myelinate PNS axons (one axon per cell) and are destroyed in Guillain-Barre syndrome; myelin increases conduction velocity via saltatory conduction, allowing depolarization to jump between the Nodes of Ranvier.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "Oligodendrocytes",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Gs-coupled receptors (beta-1, beta-2) stimulate adenylyl cyclase, raising cAMP, causing cardiac stimulation or smooth muscle relaxation, not contraction via IP3."
       ],
       "overview": "G-protein coupled adrenergic and muscarinic receptors fall into three main classes: Gq (alpha-1, M1, M3) activates phospholipase C to raise IP3/calcium and contract smooth muscle; Gs (beta-1, beta-2, D1) stimulates adenylyl cyclase to raise cAMP; and Gi (alpha-2, M2, D2) inhibits adenylyl cyclase to lower cAMP, generally producing inhibitory effects like decreased heart rate.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Gq-coupled receptors",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -549,7 +603,9 @@
         "Correct \u2014 Wallerian degeneration is the process by which the axon and myelin sheath degenerate distal to (and slightly proximal to) a site of axonal injury; regrowth may occur if the Schwann cell basal lamina remains intact."
       ],
       "overview": "After axonal injury (axonotmesis or worse), the axon and myelin distal to the lesion undergo Wallerian degeneration, while the cell body undergoes chromatolysis (edema, peripheral nucleus, dispersed Nissl substance) as it ramps up protein synthesis for repair; regrowth is possible if Schwann cells maintain their basal lamina scaffold.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "Wallerian degeneration",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "Correct \u2014 this is medial medullary syndrome, caused by anterior spinal artery occlusion, damaging the corticospinal tract (contralateral hemiparesis), medial lemniscus (contralateral vibration/proprioception loss), and CN XII (ipsilateral flaccid tongue paralysis, deviating toward the lesion)."
       ],
       "overview": "By the 'Rule of 4s,' midline (medial) brainstem structures include the motor pathway (corticospinal tract, causing contralateral weakness), medial lemniscus (contralateral vibration/proprioception loss), and cranial nerve nuclei divisible by 12 (III, IV, VI, XII), which cause ipsilateral cranial nerve weakness. Medial medullary syndrome (CN XII plus corticospinal/lemniscal involvement) results from anterior spinal artery occlusion.",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Medial medullary syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "An MCA stroke produces cortical signs (aphasia, neglect) and face/arm-predominant weakness, not an oculomotor nerve palsy."
       ],
       "overview": "Weber syndrome is a ventral midbrain stroke (PCA branches) that damages the exiting oculomotor nerve fibers (ipsilateral CN III palsy: eye down-and-out, ptosis, dilated pupil) and the corticospinal tract in the cerebral peduncle (contralateral hemiparesis). It contrasts with Benedikt syndrome, which involves the more dorsal red nucleus and causes contralateral tremor/ataxia instead of hemiparesis.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Weber syndrome (midbrain stroke)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -610,7 +670,9 @@
         "Correct \u2014 normal pressure hydrocephalus (the \"wet, wobbly, wacky\" triad) is treated by removing CSF via large-volume lumbar puncture, and definitively with a ventriculoperitoneal shunt, which can improve symptoms, especially gait.",
         "Anticoagulation is not indicated for normal pressure hydrocephalus, as there is no thrombotic mechanism involved."
       ],
-      "id": "2026-09-13-01"
+      "id": "2026-09-13-01",
+      "topic": "Normal pressure hydrocephalus",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -629,7 +691,9 @@
         "Chiari I malformation involves only displacement of the cerebellar tonsils (not the vermis or brainstem) and typically presents later in adolescence or adulthood, not associated with myelomeningocele.",
         "Dandy-Walker malformation involves hypoplasia/agenesis of the cerebellar vermis with cystic dilation of the fourth ventricle, a distinct anomaly from the myelomeningocele-associated findings described."
       ],
-      "id": "2026-09-13-02"
+      "id": "2026-09-13-02",
+      "topic": "Chiari II malformation",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -648,7 +712,9 @@
         "CGRP receptor antagonism describes gepants (e.g., ubrogepant, rimegepant), a different drug class from triptans.",
         "Dopamine D2 receptor blockade describes antiemetics like prochlorperazine used adjunctively in migraine, not triptans."
       ],
-      "id": "2026-09-13-03"
+      "id": "2026-09-13-03",
+      "topic": "Triptans",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -669,7 +735,9 @@
         "Loss of substantia nigra dopaminergic neurons causes Parkinson disease, not narcolepsy.",
         "Autoimmune destruction of acetylcholine receptors describes myasthenia gravis, unrelated to narcolepsy's sleep pathophysiology."
       ],
-      "id": "2026-09-13-04"
+      "id": "2026-09-13-04",
+      "topic": "Narcolepsy",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -688,7 +756,9 @@
         "Ataxia, dysarthria, and nystagmus describe cerebellar (central) dysfunction, not the peripheral vestibular triad of Meniere's disease.",
         "Vertical nystagmus, diplopia, and dysmetria are features of central vertigo, not Meniere's disease, which is peripheral."
       ],
-      "id": "2026-09-13-05"
+      "id": "2026-09-13-05",
+      "topic": "Meniere disease",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -707,7 +777,9 @@
         "Riluzole does not target acetylcholine receptor antibodies; that mechanism pertains to myasthenia gravis, not ALS.",
         "Riluzole's mechanism is not primarily through GABA receptor enhancement."
       ],
-      "id": "2026-09-13-06"
+      "id": "2026-09-13-06",
+      "topic": "Riluzole",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -728,7 +800,9 @@
         "Damage to the mammillary bodies in Wernicke's is due to thiamine deficiency, not direct osmotic injury from glucose.",
         "Central pontine myelinolysis results from overly rapid correction of hyponatremia, not glucose administration in this scenario."
       ],
-      "id": "2026-09-13-07"
+      "id": "2026-09-13-07",
+      "topic": "Wernicke encephalopathy",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -747,7 +821,9 @@
         "Adie's tonic pupil is a unilaterally dilated pupil with sluggish, prolonged response to light and accommodation, a different mechanism from Argyll Robertson pupils.",
         "Horner's syndrome causes miosis along with ptosis and anhidrosis due to sympathetic disruption, not the light-near dissociation described."
       ],
-      "id": "2026-09-13-08"
+      "id": "2026-09-13-08",
+      "topic": "Argyll Robertson pupil",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -766,7 +842,9 @@
         "Nicotinic receptors are not receptor tyrosine kinases; they are ionotropic channels.",
         "Gs-coupled receptors describe beta-1/beta-2 receptors, not nicotinic receptors."
       ],
-      "id": "2026-09-13-09"
+      "id": "2026-09-13-09",
+      "topic": "Nicotinic acetylcholine receptor",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -785,7 +863,9 @@
         "CN VI travels through the cavernous sinus and is commonly affected, often causing lateral rectus palsy.",
         "CN III travels through the cavernous sinus and is commonly affected in cavernous sinus syndrome."
       ],
-      "id": "2026-09-13-10"
+      "id": "2026-09-13-10",
+      "topic": "Cavernous sinus syndrome",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -804,7 +884,9 @@
         "Vascular dementia typically has a stepwise decline associated with vascular risk factors and multiple infarcts, not this gradual behavioral presentation.",
         "Alzheimer's disease typically presents with early short-term memory loss as the predominant feature, not early personality or behavioral changes."
       ],
-      "id": "2026-09-13-11"
+      "id": "2026-09-13-11",
+      "topic": "Frontotemporal dementia",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -825,7 +907,9 @@
         "Correct \u2014 cauda equina syndrome compresses lumbosacral nerve roots (lower motor neuron fibers only), producing flaccid paralysis, hyporeflexia/areflexia, and absent ankle jerk (S1), along with saddle anesthesia and bowel/bladder dysfunction.",
         "Spastic paralysis with hyperreflexia and a Babinski sign indicates an upper motor neuron lesion, not the lower motor neuron pattern seen in cauda equina syndrome."
       ],
-      "id": "2026-09-13-12"
+      "id": "2026-09-13-12",
+      "topic": "Cauda equina syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -844,7 +928,9 @@
         "MAO-B inhibition describes selegiline/rasagiline, not carbidopa's mechanism.",
         "Carbidopa does not act as a peripheral dopamine receptor blocker; it inhibits an enzyme (dopa decarboxylase), not receptors."
       ],
-      "id": "2026-09-13-13"
+      "id": "2026-09-13-13",
+      "topic": "Carbidopa-levodopa",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -865,7 +951,9 @@
         "The hypoglossal nerve controls tongue movement, not facial muscles, taste, or hyperacusis.",
         "Correct \u2014 Bell's palsy is an idiopathic LMN facial nerve palsy affecting the entire ipsilateral face (forehead included), plus stapedius (hyperacusis) and chorda tympani (taste) function."
       ],
-      "id": "2026-09-13-14"
+      "id": "2026-09-13-14",
+      "topic": "Bell palsy",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -884,7 +972,9 @@
         "Kleine-Levin syndrome is a rare disorder of recurrent hypersomnia and behavioral disturbances, not specifically linked to amygdala damage or this symptom complex.",
         "Correct \u2014 Kluver-Bucy syndrome results from bilateral amygdala (temporal lobe) damage, causing hyperorality, hyperphagia, inappropriate sexual behavior, and visual agnosia, classically as a rare complication of HSV-1 encephalitis."
       ],
-      "id": "2026-09-13-15"
+      "id": "2026-09-13-15",
+      "topic": "Kluver-Bucy syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -903,7 +993,9 @@
         "Binding to SV2A describes levetiracetam's mechanism, not ethosuximide's.",
         "Sodium channel blockade describes drugs like phenytoin, carbamazepine, and lamotrigine, not ethosuximide's primary mechanism."
       ],
-      "id": "2026-09-13-16"
+      "id": "2026-09-13-16",
+      "topic": "Ethosuximide",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -924,7 +1016,9 @@
         "Correct \u2014 phenoxybenzamine is an irreversible, nonselective alpha blocker classically used preoperatively in pheochromocytoma to prevent hypertensive crisis.",
         "Prazosin is a reversible, selective alpha-1 blocker mainly used for BPH/hypertension, not the classic irreversible pheochromocytoma drug."
       ],
-      "id": "2026-09-13-17"
+      "id": "2026-09-13-17",
+      "topic": "Phenoxybenzamine",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -943,7 +1037,9 @@
         "Correct \u2014 uncal herniation compresses the ipsilateral oculomotor nerve as it passes near the tentorial notch, causing a dilated (\"blown\"), nonreactive pupil, ptosis, and the eye positioned down and out.",
         "Abducens nerve palsy causes medial eye deviation and is more generally associated with increased intracranial pressure, not the hallmark early sign of uncal herniation."
       ],
-      "id": "2026-09-13-18"
+      "id": "2026-09-13-18",
+      "topic": "Uncal herniation",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -962,7 +1058,9 @@
         "Correct \u2014 clonidine is a centrally acting alpha-2 agonist that inhibits norepinephrine release, reducing sympathetic outflow and lowering blood pressure, with sedation as a major side effect.",
         "Clonidine does not work via nitric oxide-mediated vasodilation."
       ],
-      "id": "2026-09-13-19"
+      "id": "2026-09-13-19",
+      "topic": "Clonidine",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -981,7 +1079,9 @@
         "Free nerve endings sense pain and temperature via C and A-delta fibers, not vibration.",
         "Merkel's disks are slowly adapting pressure/position receptors that provide continuous information rather than detecting vibration."
       ],
-      "id": "2026-09-13-20"
+      "id": "2026-09-13-20",
+      "topic": "Pacinian corpuscle",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -1002,7 +1102,9 @@
         "High-flow oxygen is the acute treatment for cluster headache, not trigeminal neuralgia.",
         "Sumatriptan is used for abortive migraine treatment, not trigeminal neuralgia."
       ],
-      "id": "2026-09-13-21"
+      "id": "2026-09-13-21",
+      "topic": "Trigeminal neuralgia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -1021,7 +1123,9 @@
         "NF1 mutations cause neurofibromatosis type 1, characterized by neurofibromas, caf\u00e9-au-lait spots, and Lisch nodules, not bilateral schwannomas.",
         "VHL mutations cause von Hippel-Lindau disease, associated with hemangioblastomas, renal cell carcinoma, and pheochromocytomas, not bilateral schwannomas."
       ],
-      "id": "2026-09-13-22"
+      "id": "2026-09-13-22",
+      "topic": "Neurofibromatosis type 2",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -1042,7 +1146,9 @@
         "Antibodies against postsynaptic acetylcholine receptors describe myasthenia gravis, which worsens (rather than improves) with repeated use, unlike this patient's presentation.",
         "Demyelination via molecular mimicry describes Guillain-Barre syndrome, not LEMS."
       ],
-      "id": "2026-09-13-23"
+      "id": "2026-09-13-23",
+      "topic": "Lambert-Eaton myasthenic syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1061,7 +1167,9 @@
         "Correct \u2014 the locus ceruleus, located in the posterior pons, is the main source of norepinephrine in the brain and is activated during stress and opiate withdrawal.",
         "The substantia nigra pars compacta is the main source of dopamine, not norepinephrine."
       ],
-      "id": "2026-09-13-24"
+      "id": "2026-09-13-24",
+      "topic": "Locus coeruleus",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -1082,7 +1190,9 @@
         "Hypocretin deficiency causes narcolepsy, unrelated to this presentation.",
         "Dystrophin deficiency causes Duchenne muscular dystrophy, not Friedreich's ataxia."
       ],
-      "id": "2026-09-13-25"
+      "id": "2026-09-13-25",
+      "topic": "Friedreich ataxia",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -1103,7 +1213,9 @@
         "Correct \u2014 craniopharyngioma arises from remnants of Rathke's pouch (the ectodermal invagination forming the anterior pituitary), explaining the suprasellar location, calcifications, and keratin/cholesterol-rich cyst contents.",
         "Neural crest cells give rise to schwannomas and other tumors, not craniopharyngioma."
       ],
-      "id": "2026-09-13-26"
+      "id": "2026-09-13-26",
+      "topic": "Craniopharyngioma",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1122,7 +1234,9 @@
         "Correct \u2014 phenytoin causes gingival hyperplasia, thought to result from increased PDGF activity in gum tissue, along with other adverse effects like hirsutism and coarse facial features.",
         "VEGF is involved in angiogenesis and is not the mechanism implicated in phenytoin-induced gingival hyperplasia."
       ],
-      "id": "2026-09-13-27"
+      "id": "2026-09-13-27",
+      "topic": "Phenytoin-induced gingival hyperplasia",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1141,7 +1255,9 @@
         "Correct \u2014 at low doses, dopamine acts on D1 receptors in the renal vasculature, causing vasodilation and increased renal blood flow.",
         "Beta-2 receptors are not the primary target of low-dose dopamine; the low-dose renal effect is mediated via D1 receptors."
       ],
-      "id": "2026-09-13-28"
+      "id": "2026-09-13-28",
+      "topic": "Dopamine",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1160,7 +1276,9 @@
         "Sleep spindles and K complexes are normal features of stage N2 sleep, not associated with Creutzfeldt-Jakob disease.",
         "Correct \u2014 Creutzfeldt-Jakob disease classically shows periodic sharp wave complexes on EEG, occurring at regular intervals (0.5-2 seconds), reflecting the rapidly progressive spongiform encephalopathy."
       ],
-      "id": "2026-09-13-29"
+      "id": "2026-09-13-29",
+      "topic": "Creutzfeldt-Jakob disease",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1179,7 +1297,9 @@
         "Wernicke encephalopathy results from thiamine deficiency, not sodium correction.",
         "Guillain-Barre syndrome is an autoimmune demyelinating polyradiculoneuropathy typically following infection, unrelated to osmotic shifts."
       ],
-      "id": "2026-09-13-30"
+      "id": "2026-09-13-30",
+      "topic": "Osmotic demyelination syndrome",
+      "angle": "complications"
     }
   ]
 }
