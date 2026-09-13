@@ -18,7 +18,9 @@
         "Correct - acetazolamide, a carbonic anhydrase inhibitor, decreases aqueous humor production by the ciliary epithelium, acting as a diuretic to reduce intraocular pressure; it is also used in acute angle-closure glaucoma."
       ],
       "overview": "Acetazolamide is an oral carbonic anhydrase inhibitor that decreases aqueous humor production by the ciliary epithelium, used in both chronic glaucoma management and as emergency treatment for acute angle-closure glaucoma alongside mannitol.",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Acetazolamide",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -39,7 +41,9 @@
         "Correct - proliferative diabetic retinopathy results from retinal ischemia (from microvascular damage) that stimulates VEGF-driven neovascularization, producing friable new vessels on the retinal surface that can cause vitreous hemorrhage and retinal detachment."
       ],
       "overview": "Proliferative diabetic retinopathy develops when chronic retinal ischemia (from pericyte loss and microaneurysms) drives VEGF-mediated neovascularization; these new vessels are fragile and can bleed into the vitreous or cause tractional retinal detachment. Treatment includes laser photocoagulation, anti-VEGF injections, and vitrectomy, making regular screening essential in diabetics.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Proliferative diabetic retinopathy",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -58,7 +62,9 @@
         "Incorrect - the cavernous sinus is where the third-order neuron travels alongside the internal carotid artery, not a synaptic site."
       ],
       "overview": "Pupillary dilation (mydriasis) is mediated by a three-neuron sympathetic chain: from the hypothalamus to the ciliospinal center of Budge (C8-T2), then to the superior cervical ganglion (exiting at T1, crossing the lung apex), then along the internal carotid artery through the cavernous sinus to the dilator pupillae. Disruption anywhere along this pathway causes Horner syndrome.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Oculosympathetic (pupillary dilation) pathway",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Correct - the optic chiasm, located at the base of the brain beneath the hypothalamus and above the pituitary gland, contains crossing fibers from the medial (nasal) retina of both eyes; compression here (e.g., by a pituitary tumor) causes bitemporal hemianopsia."
       ],
       "overview": "The optic chiasm carries crossing fibers from the nasal (medial) retina of both eyes, which correspond to the temporal visual fields; compression at the chiasm, classically by a pituitary tumor, craniopharyngioma, or anterior communicating artery aneurysm, produces bitemporal hemianopsia.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Optic chiasm compression by pituitary adenoma",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Incorrect - drusen accumulation is characteristic of dry AMD, not wet AMD."
       ],
       "overview": "Age-related macular degeneration has two forms: dry AMD (more common, ~80%), characterized by drusen accumulation and slowly progressive RPE atrophy, and wet AMD (~10-15%), characterized by VEGF-driven neovascularization through a break in Bruch's membrane, causing rapid vision changes treated with anti-VEGF therapy.",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Age-related macular degeneration",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -117,7 +127,9 @@
         "Incorrect - optic nerve compression would cause vision loss or an afferent pupillary defect, not the classic Horner triad."
       ],
       "overview": "Horner syndrome results from disruption of the three-neuron oculosympathetic pathway to the face and eye, producing ptosis (loss of superior tarsal muscle), miosis (unopposed parasympathetic constriction), and anhidrosis. Common causes include apical lung (Pancoast) tumors, carotid/aortic dissection, and lateral medullary (PICA) stroke. Cocaine drops fail to dilate the affected pupil, while apraclonidine paradoxically dilates it due to denervation supersensitivity.",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Horner syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect - pupillary constriction is mediated by parasympathetic fibers traveling with CN III, not CN IV."
       ],
       "overview": "The trochlear nerve (CN IV) innervates the superior oblique muscle, which turns the eye downward and inward (intorsion). CN IV palsy causes vertical diplopia and difficulty with downward gaze (e.g., reading, stairs), often compensated by tilting the head away from the affected side.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Trochlear nerve (CN IV) palsy",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Correct - prostaglandin analogues like latanoprost increase aqueous humor outflow via the uveoscleral pathway and are known to cause darkening of the iris as a side effect."
       ],
       "overview": "Prostaglandin analogues (bimatoprost, latanoprost, tafluprost, travoprost) treat glaucoma by increasing aqueous humor outflow through the uveoscleral pathway; a distinctive side effect is darkening/pigmentation of the iris, unlike other glaucoma drug classes.",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Latanoprost",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -174,7 +190,9 @@
         "Correct - amblyopia ('lazy eye') is decreased visual acuity due to abnormal development of the visual cortex from abnormal visual experience early in life, such as untreated strabismus; it is the basis for pediatric eye screening."
       ],
       "overview": "Amblyopia is decreased visual acuity resulting from abnormal development of the visual cortex due to abnormal visual experience in early childhood, commonly caused by uncorrected strabismus. Early detection through pediatric eye screening and treatment is important to prevent permanent visual impairment.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Amblyopia",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -195,7 +213,9 @@
         "Incorrect - a right PPRF lesion would cause an ipsilateral gaze palsy (inability to look right with both eyes), not isolated adduction failure of one eye."
       ],
       "overview": "Internuclear ophthalmoplegia results from a lesion of the medial longitudinal fasciculus, causing weak adduction of the ipsilateral eye on contralateral gaze with nystagmus of the abducting eye, while convergence remains intact. It is commonly seen in multiple sclerosis due to the high myelin content of the MLF, and the affected side is identified as the side that cannot adduct.",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Internuclear ophthalmoplegia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "Incorrect - the sclera is composed of different collagen and is not the classic site of abnormality in Alport syndrome."
       ],
       "overview": "The lens capsule is composed of type IV collagen, and abnormalities in this collagen (as in Alport syndrome, which also causes hereditary nephritis and sensorineural hearing loss) can lead to lens problems.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Alport syndrome",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "Incorrect - uveal melanoma typically presents in adults, arising from the iris, ciliary body, or choroid, and is associated with light eye color, not leukocoria with RB1 mutations in a young child."
       ],
       "overview": "Retinoblastoma is the most common intraocular malignancy in children, caused by mutations in both copies of the RB1 tumor suppressor gene on chromosome 13 (sporadic or familial), and classically presents as leukocoria (white pupillary reflex) on flash photography or exam in children under age 3.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Retinoblastoma",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -254,7 +278,9 @@
         "Incorrect - giant cell arteritis causes arteritic anterior ischemic optic neuropathy (painless vision loss), not an isolated pupil-involving CN III palsy."
       ],
       "overview": "Oculomotor (CN III) nerve palsy causes an eye positioned down and out, ptosis, and possible pupillary dilation depending on etiology. Pupil involvement (dilation) suggests compression, classically from a posterior communicating artery aneurysm, since parasympathetic fibers run superficially and are vulnerable to external compression, whereas pupil-sparing CN III palsy suggests ischemic causes such as diabetes, which spares the superficial fibers.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Oculomotor nerve (CN III) palsy from PCOM aneurysm",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -275,7 +301,9 @@
         "Correct - optic neuritis presents with painful monocular vision loss worsened by eye movement, decreased color vision, and a relative afferent pupillary defect (Marcus Gunn pupil); it is commonly caused by multiple sclerosis, an inflammatory demyelinating disorder of the optic nerve."
       ],
       "overview": "Optic neuritis is inflammation and demyelination of the optic nerve causing monocular vision loss (central more than peripheral), eye pain worsened by movement, decreased color vision, and a relative afferent pupillary defect (positive swinging flashlight test). It is classically associated with multiple sclerosis, diagnosed with OCT and MRI showing optic nerve enhancement, and treated with steroids.",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "Optic neuritis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -294,7 +322,9 @@
         "Incorrect - Argyll Robertson pupil is bilateral, small (miotic), and also shows light-near dissociation but with a constricted rather than dilated pupil; it is associated with neurosyphilis."
       ],
       "overview": "Adie's tonic pupil is a dilated pupil with sluggish or absent light reaction but relatively preserved accommodation response, usually idiopathic and caused by disorders of the ciliary ganglion (tumor, inflammation, trauma). It contrasts with Argyll Robertson pupil, which is small/miotic with the same light-near dissociation pattern.",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Adie tonic pupil",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -315,7 +345,9 @@
         "Correct - idiopathic intracranial hypertension (pseudotumor cerebri) is characterized by elevated intracranial pressure without an identifiable structural cause; lumbar puncture reveals elevated opening pressure with otherwise normal CSF, which is used for both diagnosis and short-term treatment."
       ],
       "overview": "Idiopathic intracranial hypertension classically affects overweight women of childbearing age, presenting with headache, pulsatile tinnitus, papilledema, and sometimes CN VI palsy causing diplopia/esotropia; MRI often shows venous sinus stenosis but no mass, and lumbar puncture shows elevated opening pressure with normal CSF. Treatment includes acetazolamide, weight loss, and in refractory cases, shunting or optic nerve sheath fenestration to preserve vision.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "Idiopathic intracranial hypertension",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -334,7 +366,9 @@
         "Incorrect - the central retinal vein drains blood from the inner retina, unrelated to aqueous humor outflow."
       ],
       "overview": "Aqueous humor flows from the posterior chamber through the pupil into the anterior chamber, then drains through the trabecular meshwork into the canal of Schlemm. Increased resistance to this outflow is the mechanism of open-angle glaucoma, while angle closure physically obstructs this pathway.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Aqueous humor outflow (trabecular meshwork/canal of Schlemm)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -355,7 +389,9 @@
         "Correct - sudden painless monocular vision loss with a cherry-red spot at the macula surrounded by pale, ischemic retina is classic for central retinal artery occlusion, most commonly caused by embolism from carotid atherosclerosis."
       ],
       "overview": "Central retinal artery occlusion causes sudden, painless monocular vision loss with a pale retina and a cherry-red spot at the macula (also seen in Tay-Sachs and Niemann-Pick disease), most commonly due to embolism from carotid atherosclerosis. It is a retinal ischemic emergency requiring urgent evaluation for embolic sources.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Central retinal artery occlusion",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Incorrect - S. aureus is a common cause of bacterial conjunctivitis, not the classic organism for contact lens-associated keratitis."
       ],
       "overview": "Keratitis is inflammation of the cornea that can be bacterial, viral, or fungal, and is a sight-threatening emergency presenting with pain, photophobia, red eye, and blurred vision. Contact lens wearers are classically at risk for Pseudomonas aeruginosa keratitis, requiring prompt treatment with appropriate antibiotic eye drops.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Pseudomonas keratitis (contact lens-associated)",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -395,7 +433,9 @@
         "Incorrect - cataracts cause gradual painless vision loss without floaters or curtain defects."
       ],
       "overview": "Rhegmatogenous retinal detachment, the most common type, results from a retinal tear often associated with posterior vitreous detachment and is a risk in high myopia due to a stretched, thinned retina. Classic symptoms are floaters, light flashes, and a painless curtain-like shadow over the visual field, and it is a surgical emergency to prevent permanent vision loss from photoreceptor hypoxia.",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "Retinal detachment",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -414,7 +454,9 @@
         "Incorrect - a cup-to-disc ratio greater than 0.6 is an abnormal finding consistent with glaucomatous damage, not a normal variant."
       ],
       "overview": "Open-angle glaucoma causes chronic, painless increased intraocular pressure from increased resistance to aqueous outflow through the trabecular meshwork, leading to progressive optic nerve damage seen as an increased cup-to-disc ratio (disc cupping) on fundoscopy (normal ~0.3, glaucomatous >0.6), with peripheral vision loss preceding central loss.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Open-angle glaucoma (optic disc cupping)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -435,7 +477,9 @@
         "Correct - this presentation (elderly woman, headache, jaw claudication, elevated ESR, sudden painless vision loss with a swollen pale disc) is classic for giant cell arteritis causing arteritic anterior ischemic optic neuropathy (AAION); diagnosis is confirmed with temporal artery biopsy, but high-dose steroids should be started immediately without waiting for biopsy results to prevent further vision loss and stroke."
       ],
       "overview": "Giant cell (temporal) arteritis is a vasculitis in women over 50 causing headache, temporal artery tenderness, jaw claudication, and elevated ESR/CRP; its feared complication is arteritic anterior ischemic optic neuropathy (AAION), presenting as sudden painless monocular vision loss with a swollen, pale optic disc. Treatment with high-dose steroids should begin immediately, before biopsy confirmation, to prevent irreversible blindness and stroke.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Giant cell arteritis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -454,7 +498,9 @@
         "Incorrect - mild discomfort with tearing and no discharge is characteristic of episcleritis, not scleritis."
       ],
       "overview": "Episcleritis is inflammation of the episcleral layer causing mild redness and discomfort with tearing but no discharge, usually idiopathic and self-limited. Scleritis is deeper inflammation of the sclera causing severe boring pain worsened by eye movement, is potentially blinding, and is often associated with systemic rheumatologic disease requiring treatment.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Scleritis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -473,7 +519,9 @@
         "Incorrect - a convex/converging lens is used to correct hyperopia (farsightedness), not myopia."
       ],
       "overview": "Myopia (nearsightedness) occurs when the eye is too long or the cornea too curved, placing the focal point in front of the retina; it is corrected with a concave (diverging) lens. This contrasts with hyperopia, where the focal point falls behind the retina and is corrected with a convex (converging) lens.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Myopia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -492,7 +540,9 @@
         "Incorrect - the retinal pigment epithelium supports photoreceptors and absorbs light; it does not produce aqueous humor."
       ],
       "overview": "The ciliary body, part of the uvea, has two key functions: its epithelium secretes aqueous humor into the posterior chamber (which flows through the pupil to the anterior chamber and drains via the trabecular meshwork/canal of Schlemm), and its smooth muscle changes lens shape for accommodation. Disruption of aqueous humor dynamics underlies glaucoma.",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Ciliary body",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -511,7 +561,9 @@
         "Correct - hyphema is blood in the anterior chamber (between cornea and iris), commonly caused by trauma and can lead to vision problems and permanent vision loss if severe."
       ],
       "overview": "Hyphema refers to blood in the anterior chamber, usually resulting from blunt trauma, and can cause vision problems or permanent vision loss. It is distinguished from hypopyon, which is an inflammatory (not hemorrhagic) infiltrate in the same anatomic space, typically due to keratitis or uveitis.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "Hyphema",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Incorrect - the pupillary light reflex is a subcortical reflex that does not involve the visual cortex."
       ],
       "overview": "The pupillary light reflex is a subcortical, bilateral reflex: light input reaches the pretectal nucleus, which projects to both Edinger-Westphal nuclei, producing simultaneous constriction of both pupils regardless of which eye is illuminated. This pathway is tested clinically with the swinging flashlight test to detect a relative afferent pupillary defect.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Pupillary light reflex",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -549,7 +603,9 @@
         "Incorrect - Adie's tonic pupil is dilated (mydriatic), not small, and is usually idiopathic rather than associated with neurosyphilis."
       ],
       "overview": "Argyll Robertson pupil is a classic finding in tertiary neurosyphilis, characterized by bilateral small pupils that show light-near dissociation (poor constriction to light but normal constriction with accommodation), thought to involve the pretectal nucleus, which is part of the light reflex pathway but not the accommodation pathway.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "Argyll Robertson pupil",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "Correct - Marfan syndrome, an autosomal dominant fibrillin defect causing tall stature and long wingspan, is the most common systemic condition associated with ectopia lentis, classically causing upward and outward lens dislocation."
       ],
       "overview": "Ectopia lentis (lens dislocation) is most commonly associated with Marfan syndrome, where it classically occurs upward and outward, in contrast to homocystinuria, where lens dislocation is classically downward and inward; both are due to underlying connective tissue/enzyme defects (fibrillin defect in Marfan, cystathionine beta synthase deficiency in homocystinuria).",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Marfan syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "Correct - epinephrine causes mydriasis, which would further close the angle and worsen acute angle-closure glaucoma; it is contraindicated in this condition."
       ],
       "overview": "Acute angle-closure glaucoma occurs when the peripheral iris obstructs the trabecular meshwork, causing an abrupt severe rise in intraocular pressure with pain, halos, nausea/vomiting, and a fixed mid-dilated pupil; it is an ophthalmologic emergency. Mydriatic agents (sympathomimetics, anticholinergics) worsen angle closure by further narrowing the drainage angle and are contraindicated, while treatment includes acetazolamide, mannitol, timolol, and pilocarpine.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Acute angle-closure glaucoma",
+      "angle": "treatment"
     }
   ]
 }
