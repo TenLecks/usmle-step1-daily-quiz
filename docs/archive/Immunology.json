@@ -18,7 +18,9 @@
         "Correct. Anti-centromere antibody (ACA) is associated with limited scleroderma (CREST syndrome)\u2014centromere corresponds to the 'C' in CREST as a mnemonic."
       ],
       "overview": "Systemic sclerosis presents in diffuse (early visceral organ involvement, associated with anti-Scl-70 and anti-RNA polymerase III antibodies, risk of renal crisis) and limited/CREST (calcinosis, Raynaud, esophageal dysmotility, sclerodactyly, telangiectasias; associated with anti-centromere antibody) forms. Limited disease generally has a more benign course, with pulmonary hypertension and interstitial lung disease as the leading causes of death.",
-      "id": "2026-08-29-01"
+      "id": "2026-08-29-01",
+      "topic": "CREST syndrome (limited cutaneous systemic sclerosis)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Incorrect. This describes T-cell-dependent activation, which requires protein antigens, MHC class II presentation to T cells, and CD40-CD40L interaction, resulting in class switching and memory formation."
       ],
       "overview": "B cells can be activated by T-cell-dependent (protein antigen, requires MHC II/CD40-CD40L/B7-CD28 interactions with T cells, produces class switching and memory) or T-cell-independent (non-protein antigens like bacterial polysaccharides, weaker response, mostly IgM, no memory) pathways. This distinction underlies the rationale for conjugate vaccines, which link polysaccharide antigens to protein carriers to recruit T-cell help.",
-      "id": "2026-08-29-02"
+      "id": "2026-08-29-02",
+      "topic": "T-cell-independent B-cell activation",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -58,7 +62,9 @@
         "Correct. This is Wiskott-Aldrich syndrome, an X-linked disorder of the WAS gene; the resulting WAS protein (WASp) is necessary for T-cell cytoskeletal maintenance and immunologic synapse formation, producing the triad of immune dysfunction, thrombocytopenia, and eczema, often with elevated IgE and IgA."
       ],
       "overview": "Wiskott-Aldrich syndrome is an X-linked disorder caused by mutation of the WAS gene, whose protein product is required for T-cell cytoskeletal function and immunologic synapse formation with antigen-presenting cells. Classic presentation is a male infant around 6 months of age with the triad of eczema, thrombocytopenia (bleeding/petechiae), and recurrent infections, often with elevated IgE and IgA.",
-      "id": "2026-08-29-03"
+      "id": "2026-08-29-03",
+      "topic": "Wiskott-Aldrich syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -79,7 +85,9 @@
         "Incorrect. Rheumatoid factor targets the Fc portion of IgG in rheumatoid arthritis; this is unrelated to the anti-GBM disease described here."
       ],
       "overview": "Goodpasture syndrome is a type II hypersensitivity disease caused by antibodies against the alpha-3 chain of type IV collagen in the glomerular and alveolar basement membranes, producing the classic combination of hemoptysis and nephritic syndrome (hematuria) in a young adult male. Immunofluorescence shows a characteristic linear pattern of IgG and C3 deposition along the basement membrane.",
-      "id": "2026-08-29-04"
+      "id": "2026-08-29-04",
+      "topic": "Goodpasture syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -98,7 +106,9 @@
         "Incorrect. Probenecid is a uricosuric agent that promotes renal excretion of uric acid; it does not inhibit microtubule function."
       ],
       "overview": "Colchicine is a microtubule inhibitor used for acute gout attacks (as well as pericarditis and familial Mediterranean fever), working by binding tubulin to block neutrophil migration and phagocytosis. Its main adverse effects are gastrointestinal (diarrhea, nausea, vomiting, abdominal pain).",
-      "id": "2026-08-29-05"
+      "id": "2026-08-29-05",
+      "topic": "Colchicine",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -117,7 +127,9 @@
         "Incorrect. Type IV hypersensitivity is T-cell mediated and typically occurs 24-72 hours after exposure without antibody or complement involvement, unlike the immune complex/complement pattern described here."
       ],
       "overview": "The Arthus reaction is a localized type III hypersensitivity response occurring hours after antigen injection into a person with preformed circulating antibodies, producing local immune complex formation, complement activation, edema, and tissue necrosis. It is distinguished from generalized type III disease (serum sickness) by its localized nature and from type I reactions by its delayed (hours, not minutes) onset.",
-      "id": "2026-08-29-06"
+      "id": "2026-08-29-06",
+      "topic": "Arthus reaction (type III hypersensitivity)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect. BTK mutations cause X-linked agammaglobulinemia, a B-cell maturation defect, not a thymic negative selection defect."
       ],
       "overview": "In the thymus, positive selection (cortex) tests T cells for binding to self MHC, while negative selection (medulla) eliminates T cells that bind too strongly to self-antigens, a process promoted by the AIRE gene, which drives ectopic expression of self-antigens by medullary epithelial and dendritic cells. AIRE mutations cause chronic mucocutaneous candidiasis with associated hypoparathyroidism and adrenal insufficiency due to both loss of Candida defense and autoimmune destruction of endocrine glands.",
-      "id": "2026-08-29-07"
+      "id": "2026-08-29-07",
+      "topic": "AIRE gene",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -157,7 +171,9 @@
         "Incorrect. Proton pump inhibitors are used for scleroderma-related esophageal reflux/GI symptoms, not for the renal crisis described here."
       ],
       "overview": "Diffuse systemic sclerosis carries early risk of visceral organ involvement, most dangerously scleroderma renal crisis, a life-threatening complication with acute renal failure and marked hypertension that responds to ACE inhibitors. This contrasts with limited scleroderma (CREST), where pulmonary disease rather than renal or cardiac involvement is the leading cause of death.",
-      "id": "2026-08-29-08"
+      "id": "2026-08-29-08",
+      "topic": "Scleroderma renal crisis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -176,7 +192,9 @@
         "Incorrect. CD3 is part of the T-cell receptor signaling complex, not involved in LPS recognition by macrophages."
       ],
       "overview": "Innate immune cells recognize pathogen-associated molecular patterns (PAMPs) via pattern recognition receptors such as Toll-like receptors (TLRs). LPS binds LPS-binding protein, then CD14 on macrophages, triggering TLR4 and cytokine production (IL-1, IL-6, IL-8, TNF), a key step in the innate response to gram-negative bacterial infection.",
-      "id": "2026-08-29-09"
+      "id": "2026-08-29-09",
+      "topic": "CD14 (LPS receptor)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -197,7 +215,9 @@
         "Incorrect. While beta-blockers can worsen bronchospasm in some patients, this is not the specific life-threatening interaction described for hereditary angioedema; the critical contraindication is ACE inhibitors."
       ],
       "overview": "Hereditary angioedema is caused by deficiency of C1 inhibitor, a protein that normally breaks down bradykinin; deficiency leads to high bradykinin levels and recurrent episodes of nonpruritic swelling of skin, GI tract, and upper airway (potentially fatal) without urticaria. Diagnosis is supported by a low C4 level, and ACE inhibitors must never be given because they further raise bradykinin levels.",
-      "id": "2026-08-29-10"
+      "id": "2026-08-29-10",
+      "topic": "Hereditary angioedema",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -216,7 +236,9 @@
         "Incorrect. 25% is not the figure given in the notes for HLA-B27 association with ankylosing spondylitis."
       ],
       "overview": "HLA-B27 is strongly associated with the seronegative spondyloarthritides, being present in about 90% of ankylosing spondylitis patients and about 50% of psoriatic arthritis patients, although most HLA-B27-positive individuals never develop disease. Seronegative spondyloarthritis is characterized by asymmetric oligoarthritis, axial spine/sacroiliac involvement, dactylitis, and enthesitis, in contrast to the symmetric polyarthritis of rheumatoid arthritis.",
-      "id": "2026-08-29-11"
+      "id": "2026-08-29-11",
+      "topic": "Ankylosing spondylitis",
+      "angle": "epidemiology"
     },
     {
       "format": "vignette5",
@@ -237,7 +259,9 @@
         "Incorrect. Coronary artery aneurysm is the feared complication of Kawasaki disease, a medium-vessel vasculitis in children, not ankylosing spondylitis."
       ],
       "overview": "Ankylosing spondylitis is the classic seronegative spondyloarthritis, presenting with inflammatory back pain (worse with rest, improved with exercise), sacroiliitis progressing to a 'bamboo spine,' enthesitis (heel pain), and dactylitis. It is strongly associated with HLA-B27 (about 90% of cases) and can cause uveitis, aortitis leading to aortic regurgitation, and restrictive lung disease.",
-      "id": "2026-08-29-12"
+      "id": "2026-08-29-12",
+      "topic": "Ankylosing spondylitis",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -256,7 +280,9 @@
         "Incorrect. Allopurinol is a xanthine oxidase inhibitor used for gout and to prevent tumor lysis syndrome; it does not reverse methotrexate myelosuppression and can dangerously interact with azathioprine/6-MP."
       ],
       "overview": "Methotrexate inhibits dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate needed for thymidylate synthesis, causing myelosuppression and mucositis. Leucovorin (folinic acid) bypasses this block by being converted directly to tetrahydrofolate, allowing 'leucovorin rescue' from methotrexate toxicity.",
-      "id": "2026-08-29-13"
+      "id": "2026-08-29-13",
+      "topic": "Methotrexate toxicity",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -277,7 +303,9 @@
         "Incorrect. Type I hypersensitivity is an immediate IgE-mediated reaction (e.g., anaphylaxis, allergic rhinitis) and does not describe RA pathogenesis."
       ],
       "overview": "Rheumatoid arthritis is an autoimmune disorder causing symmetric inflammatory polyarthritis of the MCP and PIP joints (sparing DIP), driven by TNF and IL-6 overproduction and synovial pannus formation via a type III hypersensitivity mechanism. Rheumatoid factor is sensitive but nonspecific, while anti-citrullinated protein antibodies (ACPA/anti-CCP) are up to 80% sensitive and highly specific for RA and correlate with HLA-DR4.",
-      "id": "2026-08-29-14"
+      "id": "2026-08-29-14",
+      "topic": "Rheumatoid arthritis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -296,7 +324,9 @@
         "Incorrect. Adenosine deaminase deficiency causes a form of SCID via toxic dATP accumulation impairing lymphocyte function, unrelated to NADPH oxidase or the NBT test."
       ],
       "overview": "Chronic granulomatous disease results from NADPH oxidase deficiency, preventing the respiratory burst needed to generate hydrogen peroxide, leaving phagocytes unable to kill catalase-positive organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) since these organisms degrade their own H2O2; catalase-negative organisms are still handled because phagocytes can use the pathogen's own H2O2. Diagnosis is supported by a negative nitroblue tetrazolium test.",
-      "id": "2026-08-29-15"
+      "id": "2026-08-29-15",
+      "topic": "Chronic granulomatous disease",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -317,7 +347,9 @@
         "Incorrect. ACE inhibitors are used for scleroderma renal crisis, not for Kawasaki disease."
       ],
       "overview": "Kawasaki disease is a medium-vessel vasculitis occurring mainly in children, presenting with fever, conjunctivitis, strawberry tongue/oral mucosal changes, extremity changes (later desquamation), rash, and cervical lymphadenopathy. Its feared complication is coronary artery aneurysm, which can rupture and cause myocardial infarction; treatment is IV immunoglobulin and aspirin.",
-      "id": "2026-08-29-16"
+      "id": "2026-08-29-16",
+      "topic": "Kawasaki disease",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -336,7 +368,9 @@
         "Incorrect. Anti-centromere and anti-Scl-70 are scleroderma-associated antibodies, unrelated to neonatal lupus."
       ],
       "overview": "Neonatal lupus results from transplacental transfer of maternal anti-SSA (Ro) or anti-SSB (La) antibodies, seen in mothers with SLE or Sj\u00f6gren's syndrome, and can cause a rash and congenital complete heart block in the newborn, the latter often unresponsive to steroids.",
-      "id": "2026-08-29-17"
+      "id": "2026-08-29-17",
+      "topic": "Neonatal lupus / congenital heart block",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -355,7 +389,9 @@
         "Correct. IL-12 from macrophages drives differentiation of CD4+ T cells into Th1 cells, which activate CD8 T cells and macrophages to fight intracellular pathogens such as M. tuberculosis."
       ],
       "overview": "CD4+ T cells differentiate into Th1 cells (cell-mediated immunity, driven by macrophage-derived IL-12, producing IFN-\u03b3 to activate macrophages and CD8 T cells) or Th2 cells (humoral immunity, driven by IL-4, promoting IgE/IgA antibody production via B cells). This balance is important in diseases such as tuberculosis (requires strong Th1) and leprosy (tuberculoid = Th1-dominant; lepromatous = Th2-dominant).",
-      "id": "2026-08-29-18"
+      "id": "2026-08-29-18",
+      "topic": "IL-12",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Incorrect. IgG (especially IgG1 and IgG3) is the primary opsonin for encapsulated bacteria in the bloodstream; IgA does not fix complement and is a weak systemic opsonin."
       ],
       "overview": "IgA is the major antibody of mucosal immunity, secreted as a dimer linked by a joining segment and secretory component that allows transport across epithelial cells; it coats mucosal pathogens to block invasion without activating complement, avoiding local inflammation, and is also secreted into breast milk to protect the infant GI tract.",
-      "id": "2026-08-29-19"
+      "id": "2026-08-29-19",
+      "topic": "IgA",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -393,7 +431,9 @@
         "Incorrect. HIF-1\u03b1 is not the transcription factor targeted by glucocorticoids in this mechanism; it is not discussed in this context in the notes."
       ],
       "overview": "Glucocorticoids diffuse across the cell membrane and bind the glucocorticoid receptor, which translocates to the nucleus and inactivates NF-\u03baB, a key transcription factor mediating TNF-\u03b1 responses and inflammatory mediator synthesis (COX-2, phospholipase A2, lipoxygenase). This produces broad immunosuppressive effects but carries side effects such as osteoporosis, hyperglycemia, cataracts, myopathy, avascular necrosis, and adrenal insufficiency with abrupt discontinuation.",
-      "id": "2026-08-29-20"
+      "id": "2026-08-29-20",
+      "topic": "Glucocorticoids",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -412,7 +452,9 @@
         "Incorrect. Microscopic polyangiitis presents similarly but without sinusitis or granulomas, and is associated with p-ANCA (myeloperoxidase), not c-ANCA/PR3."
       ],
       "overview": "ANCA-associated vasculitides include granulomatosis with polyangiitis (c-ANCA/PR3, sinusitis + pulmonary + renal disease with granulomas), microscopic polyangiitis (p-ANCA/MPO, pulmonary-renal without sinusitis or granulomas), and Churg-Strauss (p-ANCA/MPO, with asthma and eosinophilia). All three cause pauci-immune crescentic glomerulonephritis with minimal immunoglobulin deposition on immunofluorescence.",
-      "id": "2026-08-29-21"
+      "id": "2026-08-29-21",
+      "topic": "Granulomatosis with polyangiitis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -431,7 +473,9 @@
         "Incorrect. ANA is a nonspecific marker seen in many autoimmune diseases, most notably SLE, and is not the specific test for RA."
       ],
       "overview": "Rheumatoid factor (anti-Fc IgG antibody) is present in ~80% of RA patients but is poorly specific, while anti-citrullinated protein antibodies (ACPA/anti-CCP) target citrulline\u2014a non-standard amino acid incorporated into proteins during inflammation\u2014and are a highly specific marker for RA, also present in up to 80% of patients.",
-      "id": "2026-08-29-22"
+      "id": "2026-08-29-22",
+      "topic": "Anti-CCP antibody",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -450,7 +494,9 @@
         "Incorrect. Anti-Sm is also specific for SLE but is not described as tracking with disease activity or specifically associated with renal flares."
       ],
       "overview": "In SLE, ANA is sensitive but not specific, while anti-dsDNA and anti-Smith antibodies are both specific for the diagnosis. Anti-dsDNA additionally correlates with disease activity and flares and is associated with lupus nephritis, making it useful for monitoring disease.",
-      "id": "2026-08-29-23"
+      "id": "2026-08-29-23",
+      "topic": "Anti-dsDNA antibody",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -469,7 +515,9 @@
         "Incorrect. IgG4 is not the antibody class described in the notes as mediating Henoch-Sch\u00f6nlein purpura."
       ],
       "overview": "Henoch-Sch\u00f6nlein purpura is the most common childhood systemic vasculitis, typically following an upper respiratory infection, and is mediated by IgA immune complex deposition in small vessels (with C3), causing palpable purpura on the buttocks/legs, abdominal pain with melena, and nephritis (overlapping with IgA nephropathy). It is usually self-limited, though renal failure is the feared outcome.",
-      "id": "2026-08-29-24"
+      "id": "2026-08-29-24",
+      "topic": "IgA vasculitis (Henoch-Sch\u00f6nlein purpura)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -490,7 +538,9 @@
         "Incorrect. Progressive fibrosis describes chronic rejection, which develops over months to years, not minutes."
       ],
       "overview": "Hyperacute transplant rejection occurs within minutes due to preformed recipient antibodies against donor ABO or HLA antigens, causing vessel spasm and intravascular coagulation ('white rejection'); it is prevented by cross-matching but is rare and generally not treatable. This contrasts with acute rejection (weeks-months, cell-mediated, treatable with immunosuppression) and chronic rejection (months-years, fibrosis).",
-      "id": "2026-08-29-25"
+      "id": "2026-08-29-25",
+      "topic": "Hyperacute transplant rejection",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -511,7 +561,9 @@
         "Incorrect. Defective CD40L causes Hyper-IgM syndrome, in which B cells are present but fail to class switch, producing elevated IgM with low IgG/IgA/IgE rather than absent B cells and pan-hypogammaglobulinemia."
       ],
       "overview": "X-linked agammaglobulinemia (Bruton's) results from a defect in the BTK gene that blocks B-cell precursor maturation into B cells, leading to absence of light chains and antibodies of all classes. It presents around 6 months of age, once maternal antibody protection wanes, with recurrent encapsulated bacterial infections (otitis media, sinusitis, pneumonia) and susceptibility to enteroviruses and Giardia; treatment is IVIG.",
-      "id": "2026-08-29-26"
+      "id": "2026-08-29-26",
+      "topic": "X-linked agammaglobulinemia (Bruton)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Incorrect. The terminal (membrane attack complex) pathway is the common final step of all three pathways, formed from C5b through C9, and occurs downstream of C3 convertase formation, not as the initiating event."
       ],
       "overview": "All three complement pathways\u2014classical (antibody-antigen via C1), lectin (mannose-binding lectin), and alternative (spontaneous C3 hydrolysis stabilized on pathogen surfaces by factors B and D)\u2014converge on formation of C3 convertase, generating C3b that leads to the membrane attack complex (C5b-C9) and bacterial cell lysis. Host cells are protected from inappropriate complement activation by regulatory proteins such as Factor H, DAF (CD55), and CD59.",
-      "id": "2026-08-29-27"
+      "id": "2026-08-29-27",
+      "topic": "Alternative complement pathway",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -551,7 +605,9 @@
         "Incorrect. Aspirin is specifically noted as not used for pain control in gout; at low doses it can actually reduce uric acid excretion and worsen hyperuricemia."
       ],
       "overview": "Acute gout results from monosodium urate crystal deposition in joints (classically the first MTP joint, or podagra), producing needle-shaped, negatively birefringent crystals on polarized microscopy. Acute attacks are treated with NSAIDs, glucocorticoids, or colchicine, while urate-lowering therapies (allopurinol, febuxostat, probenecid, pegloticase) are used for chronic prevention and can precipitate attacks if started acutely without anti-inflammatory coverage.",
-      "id": "2026-08-29-28"
+      "id": "2026-08-29-28",
+      "topic": "Gout",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -570,7 +626,9 @@
         "Correct. Pseudogout, caused by calcium pyrophosphate deposition, classically shows rhomboid-shaped, positively birefringent crystals (blue when parallel to the light axis), commonly affecting the knee in older patients."
       ],
       "overview": "CPPD (pseudogout) typically occurs in older patients (average age 72) and produces rhomboid-shaped, positively birefringent calcium pyrophosphate crystals on polarized light microscopy, in contrast to the needle-shaped, negatively birefringent monosodium urate crystals of gout. CPPD is associated with joint trauma, hyperparathyroidism, and hemochromatosis.",
-      "id": "2026-08-29-29"
+      "id": "2026-08-29-29",
+      "topic": "Calcium pyrophosphate deposition disease (pseudogout)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -589,7 +647,9 @@
         "Incorrect. Howell-Jolly bodies are an abnormal finding indicating impaired splenic clearance, not a normal maturation feature."
       ],
       "overview": "The spleen normally filters and removes nuclear remnants from circulating red blood cells; when splenic function is lost (splenectomy, sickle cell-induced functional asplenia), Howell-Jolly bodies appear on peripheral smear. Splenic dysfunction also predisposes patients to overwhelming infection with encapsulated organisms, most notably Streptococcus pneumoniae.",
-      "id": "2026-08-29-30"
+      "id": "2026-08-29-30",
+      "topic": "Howell-Jolly bodies",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -610,7 +670,9 @@
         "Incorrect - Anti-Sm is specific for SLE but is directed against snRNPs and is not linked to thrombosis or false-positive syphilis testing."
       ],
       "overview": "Antiphospholipid syndrome, seen in association with SLE or as a primary disorder, is caused by antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22 glycoprotein) against phospholipid-binding proteins, leading to increased venous/arterial thrombosis risk, recurrent fetal loss, a falsely elevated PTT, and a false-positive syphilis serology.",
-      "id": "2026-09-10-01"
+      "id": "2026-09-10-01",
+      "topic": "Antiphospholipid syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -629,7 +691,9 @@
         "Incorrect - IgE, not IgM, mediates mast cell degranulation in type I hypersensitivity reactions."
       ],
       "overview": "IgM is the first antibody produced during an immune response and exists as a pentamer with ten antigen-binding sites, giving it the highest avidity and making it an excellent activator of the classical complement pathway, though it is a poor opsonin and cannot cross the placenta.",
-      "id": "2026-09-10-02"
+      "id": "2026-09-10-02",
+      "topic": "IgM",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -650,7 +714,9 @@
         "Incorrect - IgA-mediated leukocytoclastic vasculitis of small vessels describes Henoch-Sch\u00f6nlein purpura, typically in children following a URI."
       ],
       "overview": "Polyarteritis nodosa is a medium-vessel, immune complex-mediated vasculitis classically associated with hepatitis B, causing transmural fibrinoid necrosis with aneurysm formation in renal, mesenteric, and hepatic arteries. Clinical features include mononeuritis multiplex, skin nodules/purpura, and renal failure; diagnosis is by angiography or tissue biopsy, and treatment is corticosteroids plus cyclophosphamide.",
-      "id": "2026-09-10-03"
+      "id": "2026-09-10-03",
+      "topic": "Polyarteritis nodosa",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -671,7 +737,9 @@
         "Incorrect - This describes chronic rejection, which occurs over months to years with fibrosis, not an acute lymphocytic infiltrate at 6 weeks."
       ],
       "overview": "Transplant rejection is classified by timing and mechanism: hyperacute (minutes, preformed antibodies, untreatable), acute (weeks-months, cell-mediated/CD8 T-cell response to donor HLA, treatable with immunosuppression), and chronic (months-years, fibrosis and vascular narrowing, poorly understood and largely irreversible).",
-      "id": "2026-09-10-04"
+      "id": "2026-09-10-04",
+      "topic": "Acute cellular transplant rejection",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -690,7 +758,9 @@
         "Incorrect - IL-4 is a Th2 cytokine that promotes IgE production and Th2 differentiation, not a mechanism used by CD8 T cells to kill infected cells."
       ],
       "overview": "CD8+ cytotoxic T cells recognize antigen presented on MHC class I (found on all nucleated cells) and kill virus-infected or tumor cells via perforin/granzyme-mediated pore formation and apoptosis induction, as well as Fas ligand engagement of Fas (CD95) on target cells, triggering the extrinsic apoptotic pathway with minimal surrounding inflammation.",
-      "id": "2026-09-10-05"
+      "id": "2026-09-10-05",
+      "topic": "Cytotoxic CD8+ T cells",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -709,7 +779,9 @@
         "Incorrect - Because the parasites are too large for phagocytosis, the mechanism is direct extracellular cytotoxicity, not opsonization for phagocytosis."
       ],
       "overview": "Eosinophils are granulocytes activated by IgE and IL-5 (from Th2 cells) that play a key role in antiparasitic defense, particularly against helminths too large to be phagocytosed. Their granules contain cytotoxic proteins, including major basic protein, eosinophil cationic protein, eosinophil peroxidase, and eosinophil-derived neurotoxin, released directly onto the parasite surface.",
-      "id": "2026-09-10-06"
+      "id": "2026-09-10-06",
+      "topic": "Eosinophil major basic protein",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -730,7 +802,9 @@
         "Incorrect - Drug-induced lupus presents with rash, arthritis, penias, and anti-histone antibodies after specific drugs (INH, hydralazine, procainamide), not this pattern."
       ],
       "overview": "Felty syndrome is a triad of splenomegaly, neutropenia, and rheumatoid arthritis, occurring in patients with severe, longstanding, seropositive RA, often with joint deformity and extra-articular disease. It generally improves with RA-directed therapy and predisposes to bacterial infection due to neutropenia.",
-      "id": "2026-09-10-07"
+      "id": "2026-09-10-07",
+      "topic": "Felty syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -751,7 +825,9 @@
         "Incorrect - Bacterial sialadenitis would typically be painful, acute, and associated with signs of infection (fever, purulent discharge), not a persistent painless mass."
       ],
       "overview": "Sj\u00f6gren's syndrome is a lymphocyte-mediated (type IV hypersensitivity) autoimmune destruction of salivary and lacrimal glands causing sicca symptoms (xerostomia, keratoconjunctivitis sicca). Patients have a significantly increased risk of B-cell lymphoma, which can present as a persistent, unilateral salivary gland swelling.",
-      "id": "2026-09-10-08"
+      "id": "2026-09-10-08",
+      "topic": "Sj\u00f6gren syndrome",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -772,7 +848,9 @@
         "Incorrect - Gonococcal arthritis follows sexual exposure with disseminated gonococcemia, not a preceding diarrheal illness; the patient denies sexual activity."
       ],
       "overview": "Reactive arthritis is a seronegative spondyloarthropathy triggered by antecedent GI (Salmonella, Shigella, Yersinia, Campylobacter, C. difficile) or genitourinary (Chlamydia trachomatis) infections, presenting days to weeks later with asymmetric oligoarthritis of the lower extremities, often with conjunctivitis, urethritis, enthesitis, and dactylitis. Most cases resolve within 6-12 months.",
-      "id": "2026-09-10-09"
+      "id": "2026-09-10-09",
+      "topic": "Reactive arthritis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -791,7 +869,9 @@
         "Correct - Superantigens bypass normal, highly specific antigen presentation by cross-linking MHC class II on APCs with the T-cell receptor outside the peptide-binding groove, activating up to 20% of T cells (compared to <1% with normal antigen), causing massive cytokine release and shock."
       ],
       "overview": "Superantigens are bacterial toxins (e.g., Staph aureus TSST-1, Strep pyogenes pyrogenic exotoxin A/C) that cause toxic shock syndrome by nonspecifically cross-linking MHC class II and T-cell receptors, activating a vastly larger percentage of T cells than normal antigen presentation, resulting in a massive cytokine surge and systemic vasodilation/shock.",
-      "id": "2026-09-10-10"
+      "id": "2026-09-10-10",
+      "topic": "Superantigens",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -812,7 +892,9 @@
         "Incorrect - Defective CD40L causes Hyper-IgM syndrome with recurrent bacterial and opportunistic infections, not albinism, giant granules, or neuropathy."
       ],
       "overview": "Chediak-Higashi syndrome results from a LYST gene mutation causing microtubule dysfunction and failure of phagolysosome fusion, leading to recurrent bacterial (Staph, Strep) infections, oculocutaneous albinism, giant cytoplasmic granules in leukocytes, and, in survivors, progressive peripheral neuropathy.",
-      "id": "2026-09-10-11"
+      "id": "2026-09-10-11",
+      "topic": "Chediak-Higashi syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -831,7 +913,9 @@
         "Correct - Psoriatic arthritis classically causes DIP joint arthritis, with the 'pencil-in-cup' deformity being a classic radiographic finding at this joint."
       ],
       "overview": "Psoriatic arthritis is a seronegative spondyloarthropathy occurring in a minority of psoriasis patients, often with nail changes (pitting, onycholysis), dactylitis, and sacroiliitis. A hallmark feature is DIP joint arthritis with the classic 'pencil-in-cup' deformity on imaging.",
-      "id": "2026-09-10-12"
+      "id": "2026-09-10-12",
+      "topic": "Psoriatic arthritis",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -852,7 +936,9 @@
         "Incorrect - Delaying treatment for biopsy risks permanent vision loss; biopsy can still be performed after starting steroids since inflammatory changes persist for some time."
       ],
       "overview": "Temporal (giant cell) arteritis is a granulomatous large-vessel vasculitis affecting the temporal artery system, classically in elderly women, presenting with headache and jaw claudication with an elevated ESR. Because untreated disease can cause blindness via ophthalmic artery occlusion, high-dose steroids should be started empirically without waiting for confirmatory temporal artery biopsy.",
-      "id": "2026-09-10-13"
+      "id": "2026-09-10-13",
+      "topic": "Giant cell (temporal) arteritis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -871,7 +957,9 @@
         "Incorrect - Macrophages filtering lymph are found in the medullary sinuses, not the paracortex."
       ],
       "overview": "Lymph node architecture is organized by function: cortical follicles are the site of B-cell activation (with germinal centers in secondary follicles), the paracortex contains T cells activated by dendritic cells along with high endothelial venules for lymphocyte entry, and the medulla contains macrophage-filled sinuses and plasma cell-containing cords. The paracortex is characteristically underdeveloped in T-cell deficiencies such as DiGeorge syndrome.",
-      "id": "2026-09-10-14"
+      "id": "2026-09-10-14",
+      "topic": "Lymph node paracortex",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -890,7 +978,9 @@
         "Incorrect - Staphylococcus epidermidis is a low-virulence skin commensal, not a classic cause of post-splenectomy sepsis."
       ],
       "overview": "The spleen's marginal zone macrophages and splenic B cells are critical for phagocytosis and opsonization (IgM/IgG and complement C3b) of encapsulated bacteria. Loss of splenic function (splenectomy, sickle cell disease with functional asplenia) predisposes to fulminant sepsis, most commonly from Streptococcus pneumoniae, with mortality over 50%, as well as H. influenzae and N. meningitidis.",
-      "id": "2026-09-10-15"
+      "id": "2026-09-10-15",
+      "topic": "Post-splenectomy sepsis",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -909,7 +999,9 @@
         "Incorrect - IgA does not activate complement at baseline, and cleaving it would not increase complement activation; it removes a mucosal defense mechanism instead."
       ],
       "overview": "IgA is the dominant antibody at mucosal surfaces (GI tract, respiratory tract, saliva, tears), functioning to coat pathogens and prevent their adherence/invasion without activating complement. Certain bacteria (S. pneumoniae, H. influenzae, Neisseria) produce IgA protease, which cleaves the secretory component and allows these organisms to evade mucosal defenses and colonize the host.",
-      "id": "2026-09-10-16"
+      "id": "2026-09-10-16",
+      "topic": "IgA protease",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -930,7 +1022,9 @@
         "Incorrect - Recurrent Neisseria infections occur with terminal complement (C5-C9) deficiency, unrelated to DiGeorge syndrome."
       ],
       "overview": "DiGeorge syndrome results from a 22q11 deletion causing failure of the 3rd and 4th pharyngeal pouches to develop, producing the classic triad of thymic aplasia (T-cell deficiency, recurrent viral/fungal/intracellular infections), parathyroid aplasia (hypocalcemia, tetany), and conotruncal cardiac defects. Chest x-ray characteristically shows an absent thymic shadow.",
-      "id": "2026-09-10-17"
+      "id": "2026-09-10-17",
+      "topic": "DiGeorge syndrome",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -949,7 +1043,9 @@
         "Incorrect - Disseminated mycobacterial infection is classically associated with defects in the IL-12/IFN-\u03b3 (Th1) axis, not Th17 deficiency."
       ],
       "overview": "Th17 cells are a CD4+ T-cell subset distinct from Th1/Th2 that secretes IL-17 to recruit neutrophils and macrophages, playing a key role in mucosal immunity, especially in the GI tract. Loss of Th17 function predisposes to translocation of enteric gram-negative bacteria into the bloodstream and has emerging links to autoimmune disease.",
-      "id": "2026-09-10-18"
+      "id": "2026-09-10-18",
+      "topic": "Th17 cells",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -968,7 +1064,9 @@
         "Incorrect - Factor H deficiency would lead to uncontrolled alternative pathway activation generally, but the classic PNH mechanism is loss of CD55/CD59, not Factor H."
       ],
       "overview": "Paroxysmal nocturnal hemoglobinuria is caused by loss of the GPI-anchored complement regulatory proteins DAF (CD55) and CD59 on blood cells, leading to complement-mediated intravascular hemolysis (classically at night), hemoglobinuria, and an increased risk of thrombosis (often in unusual sites like the portal or hepatic veins), the leading cause of death.",
-      "id": "2026-09-10-19"
+      "id": "2026-09-10-19",
+      "topic": "Paroxysmal nocturnal hemoglobinuria",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -987,7 +1085,9 @@
         "Correct - Sirolimus binds FK-binding protein (the same target as tacrolimus) but, unlike tacrolimus, does not inhibit calcineurin; instead, the complex inhibits mTOR, blocking the cellular response to IL-2 and arresting T and B cells in the G1-S phase of the cell cycle."
       ],
       "overview": "Sirolimus (rapamycin) is used in kidney transplantation and drug-eluting coronary stents; it binds FK-binding protein (like tacrolimus) but inhibits mTOR rather than calcineurin, blocking IL-2 signaling and arresting lymphocyte proliferation in the G1-S phase. Its side effects include cytopenias, hyperlipidemia, and hyperglycemia, distinct from the nephrotoxicity seen with calcineurin inhibitors.",
-      "id": "2026-09-10-20"
+      "id": "2026-09-10-20",
+      "topic": "Sirolimus",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1006,7 +1106,9 @@
         "Incorrect - The reaction is due to anti-IgA antibodies, not cross-reactivity with ABO antigens."
       ],
       "overview": "Selective IgA deficiency is a common (~1 in 600) immunodeficiency, usually asymptomatic, but symptomatic patients can have recurrent sinopulmonary and GI (giardiasis) infections, increased rates of SLE/RA, a false-positive \u03b2-HCG test, and anaphylactic transfusion reactions due to antibodies against IgA present in transfused blood products.",
-      "id": "2026-09-10-21"
+      "id": "2026-09-10-21",
+      "topic": "Selective IgA deficiency",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1025,7 +1127,9 @@
         "Correct - Probenecid is a uricosuric drug that blocks proximal tubule reabsorption of uric acid, thereby promoting its excretion in urine and lowering serum uric acid levels; it can also block penicillin secretion in the urine."
       ],
       "overview": "Probenecid is a uricosuric agent that lowers serum uric acid by blocking proximal tubular reabsorption of uric acid, increasing its urinary excretion; it can precipitate uric acid kidney stones and, as a sulfa drug, was originally developed to reduce renal secretion of penicillin and thereby prolong its effect.",
-      "id": "2026-09-10-22"
+      "id": "2026-09-10-22",
+      "topic": "Probenecid",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1044,7 +1148,9 @@
         "Incorrect - Factor H acts upstream at the level of C3 convertase, not by cleaving C5."
       ],
       "overview": "In the alternative complement pathway, spontaneously generated C3b is normally rapidly destroyed unless stabilized on a pathogen surface, where it forms the C3 convertase (C3bBb) that amplifies C3b deposition. Factor H is a host-protective regulatory protein that accelerates decay of this convertase and inactivates C3b on host cells; several pathogens exploit Factor H binding to evade complement-mediated killing.",
-      "id": "2026-09-10-23"
+      "id": "2026-09-10-23",
+      "topic": "Factor H",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1063,7 +1169,9 @@
         "Incorrect - Rheumatoid nodules are subcutaneous nodules typically on the elbow, associated with RF-positive RA, not fluid-filled popliteal masses."
       ],
       "overview": "A Baker's (popliteal) cyst is a synovium-lined sac at the back of the knee that communicates with the joint space, commonly occurring in rheumatoid arthritis due to increased synovial fluid production; rupture can mimic the presentation of a deep vein thrombosis.",
-      "id": "2026-09-10-24"
+      "id": "2026-09-10-24",
+      "topic": "Baker cyst (popliteal cyst) rupture",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -1082,7 +1190,9 @@
         "Incorrect - The described association in the notes is specifically with limited (not diffuse) scleroderma."
       ],
       "overview": "Primary biliary cirrhosis is a T-cell mediated autoimmune destruction of small bile ducts leading to cholestasis (elevated conjugated bilirubin and alkaline phosphatase), pruritus, and potential progression to cirrhosis. It shows a notable association with limited scleroderma, as well as Sj\u00f6gren's syndrome, SLE, RA, and Hashimoto's thyroiditis.",
-      "id": "2026-09-10-25"
+      "id": "2026-09-10-25",
+      "topic": "Primary biliary cirrhosis",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -1101,7 +1211,9 @@
         "Incorrect - Lesch-Nyhan syndrome (HGPRT deficiency) causes excess uric acid production and gout, not CPPD."
       ],
       "overview": "Calcium pyrophosphate deposition disease (CPPD) causes asymptomatic chondrocalcinosis, acute pseudogout attacks (rhomboid, positively birefringent crystals), or chronic pseudo-osteoarthritis, typically in older patients. It is associated with joint trauma, hyperparathyroidism, and hemochromatosis, the last of which causes CPPD via associated iron deposition in synovial tissue.",
-      "id": "2026-09-10-26"
+      "id": "2026-09-10-26",
+      "topic": "Calcium pyrophosphate deposition disease (CPPD)",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -1120,7 +1232,9 @@
         "Incorrect - Antibody titers are measured by serologic testing, not the Schirmer test, which is a physical/functional ocular test."
       ],
       "overview": "Sj\u00f6gren's syndrome causes lymphocytic destruction of lacrimal and salivary glands, producing dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia). Diagnostic criteria include objective measures of these deficits \u2014 the Schirmer test for tear production and salivary scintigraphy/sialometry for salivary flow \u2014 alongside anti-SSA/SSB antibodies or biopsy showing lymphocytic sialadenitis.",
-      "id": "2026-09-10-27"
+      "id": "2026-09-10-27",
+      "topic": "Schirmer test",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1139,7 +1253,9 @@
         "Incorrect - Chromosome 22 is associated with the 22q11 deletion in DiGeorge syndrome, not the immunoglobulin heavy chain locus."
       ],
       "overview": "B-cell receptor diversity arises not from one gene per receptor but from combinatorial VDJ rearrangement of a limited set of variable (~50), diversity (~25), and joining (~6) gene segments on chromosome 14 for the heavy chain, combined with light chain V/J rearrangement, generating millions of unique antigen receptors.",
-      "id": "2026-09-10-28"
+      "id": "2026-09-10-28",
+      "topic": "Immunoglobulin heavy chain gene locus",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1158,7 +1274,9 @@
         "Incorrect - The goal of vaccination, including conjugate vaccines, is to generate a strong, durable antibody (and memory) response, not to bypass antibody production."
       ],
       "overview": "Polysaccharide capsule antigens activate B cells independent of T-cell help, generating a weak, transient IgM-predominant response without memory. Conjugate vaccines attach the polysaccharide to a protein carrier so that T cells can be recruited to help B cells, producing a stronger, longer-lasting, class-switched antibody response with immunologic memory.",
-      "id": "2026-09-10-29"
+      "id": "2026-09-10-29",
+      "topic": "Conjugate vaccines",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1179,7 +1297,9 @@
         "Incorrect - Esophageal dysmotility is part of CREST but causes reflux/dysphagia, not right heart strain and pulmonary hypertension."
       ],
       "overview": "Limited (CREST) scleroderma generally has a more benign course than diffuse disease and rarely involves the heart or kidneys, but pulmonary complications \u2014 particularly pulmonary hypertension and interstitial lung disease \u2014 are the leading cause of death. Routine monitoring includes echocardiography to detect early pulmonary hypertension.",
-      "id": "2026-09-10-30"
+      "id": "2026-09-10-30",
+      "topic": "Limited cutaneous systemic sclerosis (CREST syndrome)",
+      "angle": "complications"
     }
   ]
 }
