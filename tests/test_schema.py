@@ -11,6 +11,8 @@ def make_question(fmt="simple4", correct=0):
         "correctIndex": correct,
         "explanations": [f"Explanation {i}" for i in range(n)],
         "overview": "High-yield overview of the underlying disease and mechanism.",
+        "topic": "Amoxicillin",
+        "angle": "mechanism",
     }
 
 
@@ -67,4 +69,32 @@ def test_blank_overview_raises():
     payload = make_valid_payload()
     payload["questions"][0]["overview"] = "   "
     with pytest.raises(ValueError, match="overview"):
+        validate_questions(payload)
+
+
+def test_missing_topic_raises():
+    payload = make_valid_payload()
+    del payload["questions"][0]["topic"]
+    with pytest.raises(ValueError, match="topic"):
+        validate_questions(payload)
+
+
+def test_blank_topic_raises():
+    payload = make_valid_payload()
+    payload["questions"][0]["topic"] = "  "
+    with pytest.raises(ValueError, match="topic"):
+        validate_questions(payload)
+
+
+def test_invalid_angle_raises():
+    payload = make_valid_payload()
+    payload["questions"][0]["angle"] = "trivia"
+    with pytest.raises(ValueError, match="angle"):
+        validate_questions(payload)
+
+
+def test_missing_angle_raises():
+    payload = make_valid_payload()
+    del payload["questions"][0]["angle"]
+    with pytest.raises(ValueError, match="angle"):
         validate_questions(payload)

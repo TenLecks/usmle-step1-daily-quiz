@@ -2,6 +2,17 @@ REQUIRED_VIGNETTE5 = 10
 REQUIRED_SIMPLE4 = 20
 FORMAT_OPTION_COUNTS = {"vignette5": 5, "simple4": 4}
 
+# Controlled vocabulary for a question's "angle" — which aspect of its topic
+# it tests. Fixed rather than free text so "mechanism" always means the same
+# thing across questions and can be compared for exact-match duplicate
+# detection (see lib/dedup.py); a free-text angle would let the model drift
+# between e.g. "mechanism" / "mechanism of action" / "MOA" for the same idea.
+ANGLES = (
+    "mechanism", "pathophysiology", "clinical_presentation", "diagnosis",
+    "treatment", "complications", "risk_factors", "epidemiology",
+    "prognosis", "prevention", "anatomy_histology", "other",
+)
+
 
 def validate_questions(data):
     """Validate the parsed Claude output. Raises ValueError with a specific
@@ -42,6 +53,14 @@ def validate_questions(data):
         overview = q.get("overview")
         if not isinstance(overview, str) or not overview.strip():
             raise ValueError(f"question {i}: overview must be a non-empty string")
+
+        topic = q.get("topic")
+        if not isinstance(topic, str) or not topic.strip():
+            raise ValueError(f"question {i}: topic must be a non-empty string")
+
+        angle = q.get("angle")
+        if angle not in ANGLES:
+            raise ValueError(f"question {i}: angle must be one of {ANGLES}, got {angle!r}")
 
         stem = q.get("stem")
         if not isinstance(stem, str) or not stem.strip():

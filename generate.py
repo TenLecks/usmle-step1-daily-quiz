@@ -8,10 +8,11 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from lib.rotation import next_subject
-from lib.schema import validate_questions
+from lib.schema import validate_questions, ANGLES
 from lib.prompt import build_prompt
 from lib.extract import extract_subject_text
 from lib.shuffle import shuffle_question_options
+from lib.dedup import find_repeated_pairs
 
 REPO_ROOT = Path(__file__).parent
 PDF_ROOT = Path(r"C:\Users\Omer\Desktop\BoardAndBeyond_PDFs")
@@ -20,8 +21,11 @@ QUESTIONS_PATH = REPO_ROOT / "docs" / "questions.json"
 ARCHIVE_DIR = REPO_ROOT / "docs" / "archive"
 ARCHIVE_INDEX_PATH = ARCHIVE_DIR / "index.json"
 CLAUDE_TIMEOUT_SECONDS = 900  # 15 min ceiling for a single headless run
-HISTORY_PER_SUBJECT_CAP = 200
-AVOID_STEMS_IN_PROMPT = 60
+# Per-subject topic+angle pairs are tiny (a few words each) compared to full
+# question stems, so the entire history is sent in the avoid-list every run
+# instead of a recent-window slice — this cap just bounds state.json's
+# long-term size, it isn't a prompt-cost tradeoff.
+TOPIC_ANGLE_CAP = 1000
 # Text-only generation (no agentic PDF reading) costs well under $1-2 per
 # subject in practice. This is a hard ceiling, not an expected cost — it
 # exists so a misbehaving run fails loudly and cheaply instead of silently
@@ -46,8 +50,13 @@ QUESTIONS_SCHEMA = {
                     "correctIndex": {"type": "integer"},
                     "explanations": {"type": "array", "items": {"type": "string"}},
                     "overview": {"type": "string"},
+                    "topic": {"type": "string"},
+                    "angle": {"type": "string", "enum": list(ANGLES)},
                 },
-                "required": ["format", "stem", "options", "correctIndex", "explanations", "overview"],
+                "required": [
+                    "format", "stem", "options", "correctIndex", "explanations",
+                    "overview", "topic", "angle",
+                ],
             },
         }
     },
@@ -144,13 +153,28 @@ def main():
     folder_path = PDF_ROOT / subject
 
     history = state.setdefault("history", {})
-    avoid_stems = history.get(subject, [])[-AVOID_STEMS_IN_PROMPT:]
+    # Pre-dedup-feature history stored raw stem strings, which this feature
+    # doesn't use — they're dropped here rather than migrated (no cheap way
+    # to retroactively topic/angle-tag already-generated questions).
+    subject_history = [
+        p for p in history.get(subject, [])
+        if isinstance(p, dict) and "topic" in p and "angle" in p
+    ]
 
     extracted_text = extract_subject_text(folder_path)
-    prompt = build_prompt(subject, extracted_text, avoid_stems)
+    prompt = build_prompt(subject, extracted_text, subject_history)
     raw_stdout = call_claude_headless(prompt)
     payload = parse_claude_output(raw_stdout)
     questions = validate_questions(payload)
+
+    today_pairs = [{"topic": q["topic"], "angle": q["angle"]} for q in questions]
+    repeats = find_repeated_pairs(today_pairs, subject_history)
+    if repeats:
+        # Non-fatal: the model ignored the avoid-list instruction for these,
+        # but there's no retry here (that would mean another live call/cost)
+        # — just surface it in the log so it's visible.
+        described = ", ".join(f"{p['topic']} ({p['angle']})" for p in repeats)
+        print(f"WARNING: {len(repeats)} question(s) repeat an already-used topic+angle: {described}")
 
     rng = random.Random(today)
     rng.shuffle(questions)
@@ -169,8 +193,7 @@ def main():
     )
     update_archive(subject, questions)
 
-    history.setdefault(subject, []).extend(q["stem"][:100] for q in questions)
-    history[subject] = history[subject][-HISTORY_PER_SUBJECT_CAP:]
+    history[subject] = (subject_history + today_pairs)[-TOPIC_ANGLE_CAP:]
     save_state(state)
 
     subprocess.run(

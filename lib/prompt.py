@@ -1,13 +1,16 @@
+from lib.schema import ANGLES
+
+
 def _flatten(text):
     # Collapses \n, \r, \t and repeated whitespace to single spaces. Applied
-    # to every value interpolated into the prompt below (LLM-generated stems
-    # in avoid_stems especially) so a value that happens to contain a literal
-    # newline can't reintroduce the exact bug the single-line prompt exists
-    # to prevent.
+    # to every value interpolated into the prompt below (LLM-generated
+    # topic/angle tags in avoid_pairs especially) so a value that happens to
+    # contain a literal newline can't reintroduce the exact bug the
+    # single-line prompt exists to prevent.
     return " ".join(str(text).split())
 
 
-def build_prompt(subject, extracted_text, avoid_stems):
+def build_prompt(subject, extracted_text, avoid_pairs):
     # This entire prompt is deliberately built as ONE LINE with no embedded
     # newline characters. claude.cmd is a Windows batch-file wrapper, and
     # batch-file argument passing is line-oriented: a multi-line -p prompt
@@ -27,12 +30,24 @@ def build_prompt(subject, extracted_text, avoid_stems):
     subject = _flatten(subject)
     extracted_text = _flatten(extracted_text)
     avoid_block = ""
-    if avoid_stems:
-        joined = "; ".join(_flatten(s) for s in avoid_stems)
-        avoid_block = (
-            f" Do NOT repeat these previously-used question topics/stems "
-            f"(paraphrase to something new instead): {joined}."
+    if avoid_pairs:
+        # avoid_pairs holds {topic, angle} dicts, not raw question stems —
+        # this targets repeated CONCEPTS (same topic tested the same way),
+        # not repeated wording, and stays cheap to send in full every time
+        # since each pair is a few words instead of a full stem.
+        joined = "; ".join(
+            f"{_flatten(p['topic'])} ({_flatten(p['angle'])})" for p in avoid_pairs
         )
+        avoid_block = (
+            " Do NOT write another question whose topic and angle both match "
+            f"any of these already-used combinations: {joined}. A different "
+            "angle on an already-used topic is fine — e.g. if a prior "
+            "question already tested a drug's mechanism, a new question on "
+            "that same drug's treatment indication or adverse effects is "
+            "still allowed, just not another mechanism question about it."
+        )
+
+    angles_list = ", ".join(ANGLES)
 
     return (
         "You are writing USMLE Step 1 practice questions for a solo medical "
@@ -56,7 +71,12 @@ def build_prompt(subject, extracted_text, avoid_stems):
         "testing, covering the key facts a student would need to know for "
         "Step 1 — not a restatement of the question or answer choices, but "
         "the general topic overview a student should walk away remembering. "
-        "Base every question "
+        "For every question, also write a \"topic\" string naming the "
+        "specific drug, disease, or concept the question is centered on "
+        "(e.g. \"Amoxicillin\", \"Duchenne muscular dystrophy\"), and an "
+        f"\"angle\" string that must be exactly one of: {angles_list} — "
+        "whichever best describes which aspect of that topic the question "
+        "is testing. Base every question "
         "strictly on the content of the notes provided above. Do not invent "
         "facts that aren't supported by the notes. Vary difficulty and "
         "sub-topics across the notes rather than clustering on one source "
