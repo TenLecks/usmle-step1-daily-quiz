@@ -733,66 +733,246 @@
       }
     ],
     "Gastroenterology": [
-      "Long-term PPI use can lead to vitamin B12 deficiency. What is the mechanism?",
-      "A newborn is found to have intestines herniating through the umbilical cord, covered by a peritoneal",
-      "A 48-year-old man with alcohol use disorder presents with severe epigastric pain radiating to the ba",
-      "A 52-year-old woman presents with fatigue and pruritus that is worse at night for several months. Sh",
-      "A 68-year-old man presents with painless jaundice and a palpable, non-tender, enlarged gallbladder o",
-      "Which enzyme is responsible for the initial activation of trypsinogen to trypsin in the small intest",
-      "A healthy 22-year-old develops mild scleral icterus during final exams week and after a viral illnes",
-      "A 17-year-old presents with new-onset tremor, dysarthria, and behavioral changes along with elevated",
-      "During emergency surgery for liver trauma, a surgeon clamps a ligament connecting the liver to the d",
-      "A 60-year-old woman with a known metastatic small intestinal carcinoid tumor to the liver presents w",
-      "A child presents with chronic diarrhea, bloating, and failure to thrive. Duodenal biopsy shows blunt",
-      "A 55-year-old man reports several months of progressive difficulty swallowing both solids and liquid",
-      "A young adult has hundreds of colonic adenomatous polyps on colonoscopy and a strong family history ",
-      "A 72-year-old woman with atrial fibrillation (not on anticoagulation) presents with sudden-onset sev",
-      "A newborn fails to pass meconium within 48 hours and has abdominal distention. Rectal suction biopsy",
-      "A 45-year-old man has recurrent peptic ulcers in the distal duodenum and jejunum, refractory to stan",
-      "A structure located above the pectinate line drains lymphatically to which of the following?",
-      "A 60-year-old man who smokes presents with a painless, mobile mass in the parotid gland. Biopsy show",
-      "A 7-year-old with a recent influenza B infection is given aspirin for fever and subsequently develop",
-      "A patient with cirrhosis undergoes paracentesis for new ascites. Serum albumin is 3.5 g/dL and ascit",
-      "Long-standing GERD leads to a histologic change in the distal esophagus in which the normal epitheli",
-      "H. pylori is able to survive in the acidic gastric environment primarily through which mechanism?",
-      "A patient with recent massive weight loss develops postprandial abdominal pain, nausea, and vomiting",
-      "Which of the following increases the risk of cholesterol gallstone formation primarily through incre",
-      "A 68-year-old man presents with fever, right upper quadrant pain, and jaundice. He is also confused ",
-      "A 3-year-old boy presents with painless rectal bleeding. Physical exam is otherwise unremarkable. A ",
-      "Which of the following is an established risk factor for hepatocellular carcinoma?",
-      "A 24-year-old woman presents with several months of crampy right lower quadrant pain and non-bloody ",
-      "A patient with ulcerative colitis develops fatigue, pruritus, and cholestatic liver enzymes. Cholang",
-      "A hernia is found to originate lateral to the inferior epigastric vessels and is covered by all thre",
-      "A 42-year-old woman presents with several weeks of fatigue and vague right upper quadrant discomfort",
-      "A patient with a history of chronic alcohol use presents with severe chest pain after an episode of ",
-      "A 19-year-old is brought to the emergency department after ingesting a large quantity of acetaminoph",
-      "A 28-year-old nonsmoker presents with progressive dyspnea and is found to have panacinar emphysema p",
-      "Which tumor marker is most useful for monitoring treatment response and detecting relapse in pancrea",
-      "What is the most common tumor of the salivary glands?",
-      "A patient with chronic hemolytic anemia is found to have gallstones that are radiopaque on abdominal",
-      "Which gastric cell type is responsible for secreting pepsinogen?",
-      "A direct inguinal hernia protrudes through which anatomic landmark?",
-      "A 34-year-old woman with polycythemia vera presents with acute abdominal pain, distention, and a rap",
-      "In the diagnosis of acute pancreatitis, which pancreatic enzyme is considered more specific for panc",
-      "A femoral hernia protrudes through the femoral ring in which anatomic position relative to the femor",
-      "A middle-aged woman presents with dysphagia, a smooth, beefy red tongue, and is found to have iron d",
-      "Brunner's glands, which secrete alkaline fluid to protect against acidic chyme, are located in the s",
-      "A 30-year-old woman with a known history of ulcerative colitis presents with severe abdominal pain, ",
-      "Which hepatic cell type, normally a storage site for vitamin A, becomes activated in chronic liver d",
-      "In the chromosomal instability pathway of colorectal cancer development, mutation of which gene is t",
-      "A 68-year-old woman presents with 2 days of left lower quadrant pain, fever, and constipation. Exam ",
-      "Failure of duodenal recanalization during embryonic development is most strongly associated with whi",
-      "A neonate presents with jaundice, dark urine, and acholic (pale) stools. Ultrasound shows an absent ",
-      "Which location in the colon is most vulnerable to ischemia during a hypotensive episode due to poor ",
-      "A 45-year-old woman presents with 6 months of large-volume, watery, tea-colored diarrhea unresponsiv",
-      "The marginal artery of Drummond forms a collateral connection between which two arteries?",
-      "A 50-year-old woman presents with early satiety and unintentional weight loss. Endoscopy reveals dif",
-      "A patient with a large intracranial hemorrhage and elevated intracranial pressure develops acute gas",
-      "A congenital anomaly in which pancreatic tissue forms a ring around the duodenum, potentially causin",
-      "An 80-year-old man presents with several months of difficulty swallowing, regurgitation of undigeste",
-      "A colonoscopy in an asymptomatic 60-year-old reveals a small rectosigmoid polyp with a characteristi",
-      "Which of the following organs receives its primary arterial blood supply from the celiac trunk?",
-      "A 55-year-old man presents with fatigue, new-onset diabetes mellitus, bronze skin discoloration, and"
+      {
+        "topic": "Vitamin B12 deficiency (PPI-induced)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Omphalocele",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Acute pancreatitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Primary biliary cholangitis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Courvoisier sign (pancreatic cancer)",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Trypsinogen activation",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Gilbert syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Wilson disease",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hepatoduodenal ligament (Pringle maneuver)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Carcinoid syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Celiac disease",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Achalasia",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Familial adenomatous polyposis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Acute mesenteric ischemia",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Hirschsprung disease",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Zollinger-Ellison syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Anal canal lymphatic drainage",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Warthin tumor",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Reye syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Serum-ascites albumin gradient (SAAG)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Barrett esophagus",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Helicobacter pylori",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Superior mesenteric artery syndrome",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Cholesterol gallstones",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Ascending cholangitis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Meckel diverticulum",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hepatocellular carcinoma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Crohn disease",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Primary sclerosing cholangitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Indirect inguinal hernia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Autoimmune hepatitis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Boerhaave syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "N-acetylcysteine (acetaminophen toxicity)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Alpha-1 antitrypsin deficiency",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Pancreatic adenocarcinoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Pleomorphic adenoma",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Pigment gallstones",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Chief cells",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Direct inguinal hernia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Budd-Chiari syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Acute pancreatitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Femoral hernia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Plummer-Vinson syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Brunner glands",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Toxic megacolon",
+        "angle": "complications"
+      },
+      {
+        "topic": "Hepatic stellate cells",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Colorectal cancer (chromosomal instability pathway)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Diverticulitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Duodenal atresia",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Biliary atresia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Colonic watershed areas",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "VIPoma",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Marginal artery of Drummond",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Signet ring cell carcinoma (linitis plastica)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Cushing ulcer",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Annular pancreas",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Zenker diverticulum",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Hyperplastic polyp",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Celiac trunk",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Hereditary hemochromatosis",
+        "angle": "treatment"
+      }
     ],
     "Genetics": [
       "A mother with a mitochondrial DNA mutation causing a myopathy has children who all inherit the mutat",

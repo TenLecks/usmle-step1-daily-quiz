@@ -18,7 +18,9 @@
         "Correct \u2014 hydrogen ion (gastric acid) is required to cleave vitamin B12 from dietary proteins before it can be absorbed; by suppressing acid secretion, PPIs impair this step and can lead to B12 deficiency with long-term use."
       ],
       "overview": "Long-term PPI use can cause several nutrient deficiencies through reduced gastric acidity: B12 deficiency (acid is needed to cleave B12 from dietary proteins), hypomagnesemia (reduced absorption), and increased hip fracture risk (reduced calcium absorption), as well as increased risk of C. difficile infection and pneumonia from loss of the acid barrier against pathogens.",
-      "id": "2026-08-29-01"
+      "id": "2026-08-29-01",
+      "topic": "Vitamin B12 deficiency (PPI-induced)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Incorrect \u2014 this describes gastroschisis, which typically has poor GI function but a good prognosis once function is restored and has few associated congenital anomalies."
       ],
       "overview": "Omphalocele is persistence of the normal physiologic midgut herniation, with bowel covered by a peritoneal membrane through the umbilical cord, normal GI function, and strong associations with trisomies and congenital heart, orofacial, and neural tube defects. Gastroschisis is a paraumbilical abdominal wall defect (usually right-sided) with exposed, uncovered bowel, often poor GI function but few associated anomalies, and a good prognosis once bowel function is restored.",
-      "id": "2026-08-29-02"
+      "id": "2026-08-29-02",
+      "topic": "Omphalocele",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -58,7 +62,9 @@
         "Incorrect \u2014 trypsin activates other pancreatic proenzymes and drives autodigestion, but it is not described as directly chelating calcium."
       ],
       "overview": "Acute pancreatitis complications include fat necrosis, which can cause hypocalcemia through saponification \u2014 free fatty acids released by lipase-mediated triglyceride breakdown bind calcium to form insoluble calcium soaps. A low calcium level is a poor prognostic sign, suggesting extensive peripancreatic fat involvement, and hypocalcemia is one component tracked in severity scoring systems like Ranson's criteria.",
-      "id": "2026-08-29-03"
+      "id": "2026-08-29-03",
+      "topic": "Acute pancreatitis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -79,7 +85,9 @@
         "Incorrect \u2014 anti-tissue transglutaminase antibody is used to diagnose celiac disease, an unrelated small bowel disorder."
       ],
       "overview": "Primary biliary cirrhosis is an autoimmune disease with T-cell attack on small intralobular bile ducts, typically presenting in women with fatigue and pruritus (often worse at night) before jaundice develops. Diagnosis relies on markedly elevated alkaline phosphatase, positive anti-mitochondrial antibodies (~95% of patients), and imaging that excludes extrahepatic biliary obstruction; treatment is ursodeoxycholic acid.",
-      "id": "2026-08-29-04"
+      "id": "2026-08-29-04",
+      "topic": "Primary biliary cholangitis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -98,7 +106,9 @@
         "Incorrect \u2014 PBC is an intrahepatic process and does not classically produce a palpable, enlarged gallbladder."
       ],
       "overview": "Pancreatic adenocarcinoma, most commonly arising in the pancreatic head, classically presents with \"painless jaundice\" due to slow, gradual bile duct obstruction, along with Courvoisier's sign (a palpable, non-tender, distended gallbladder) and sometimes Trousseau's syndrome (migratory superficial thrombophlebitis from a hypercoagulable state). Prognosis is very poor, and CA-19-9 is a tumor marker used to monitor disease rather than for initial diagnosis.",
-      "id": "2026-08-29-05"
+      "id": "2026-08-29-05",
+      "topic": "Courvoisier sign (pancreatic cancer)",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -117,7 +127,9 @@
         "Correct \u2014 trypsinogen is secreted by the pancreas in an inactive form and is normally activated at the intestinal brush border by enterokinase (enteropeptidase); once activated, trypsin then activates all the other pancreatic protein-digesting proenzymes (chymotrypsinogen, proelastase, procarboxypeptidase) as well as more trypsinogen."
       ],
       "overview": "Pancreatic acinar cells secrete protein-digesting enzymes as inactive zymogens to prevent autodigestion of the pancreas. Trypsinogen is the key zymogen, activated at the intestinal brush border by enterokinase; the resulting trypsin then activates chymotrypsinogen, proelastase, and procarboxypeptidase, as well as additional trypsinogen \u2014 and dysregulated premature activation of this cascade within the pancreas is the central mechanism of acute pancreatitis.",
-      "id": "2026-08-29-06"
+      "id": "2026-08-29-06",
+      "topic": "Trypsinogen activation",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect \u2014 defective excretion of conjugated bilirubin into bile describes Dubin-Johnson syndrome, which causes conjugated hyperbilirubinemia, not the mild unconjugated hyperbilirubinemia seen here."
       ],
       "overview": "Gilbert's syndrome is a common, benign condition caused by a mild reduction in UDP-glucuronyltransferase activity, leading to mild unconjugated hyperbilirubinemia (usually under 3 mg/dL) that becomes more apparent during fasting, illness, stress, or exertion. It has no serious clinical consequences, in contrast to Crigler-Najjar syndrome, which involves severely reduced or absent enzyme activity and can cause kernicterus.",
-      "id": "2026-08-29-07"
+      "id": "2026-08-29-07",
+      "topic": "Gilbert syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -157,7 +171,9 @@
         "Incorrect \u2014 defective multidrug resistance protein causes Dubin-Johnson syndrome (impaired conjugated bilirubin excretion), not copper accumulation."
       ],
       "overview": "Wilson's disease is an autosomal recessive disorder caused by mutation of ATP7B, the hepatic copper transport protein, resulting in impaired biliary copper excretion and reduced incorporation of copper into ceruloplasmin. Copper accumulates in the liver (cirrhosis, risk of HCC) and deposits in the brain (basal ganglia \u2014 causing Parkinsonian movement disorders, dysarthria, dementia) and cornea (Kayser-Fleischer rings); diagnosis relies on low ceruloplasmin and high urinary copper excretion, and treatment is penicillamine.",
-      "id": "2026-08-29-08"
+      "id": "2026-08-29-08",
+      "topic": "Wilson disease",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -176,7 +192,9 @@
         "Incorrect \u2014 the portal vein is one of the three structures contained within the hepatoduodenal ligament."
       ],
       "overview": "The hepatoduodenal ligament, part of the lesser omentum, contains the proper hepatic artery, portal vein, and common bile duct. The Pringle maneuver \u2014 clamping this ligament \u2014 is used to control liver hemorrhage; if bleeding persists despite clamping, the source is likely the IVC or hepatic veins, which lie outside the ligament.",
-      "id": "2026-08-29-09"
+      "id": "2026-08-29-09",
+      "topic": "Hepatoduodenal ligament (Pringle maneuver)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -197,7 +215,9 @@
         "Incorrect \u2014 metanephrines are also catecholamine metabolites used for pheochromocytoma diagnosis, not carcinoid syndrome."
       ],
       "overview": "Carcinoid tumors are neuroendocrine tumors, most commonly arising in the small intestine, that secrete serotonin; carcinoid syndrome (flushing, diarrhea, fibrotic valvular heart disease) only occurs once tumor secretions bypass hepatic and pulmonary metabolism, typically after liver metastasis. Diagnosis relies on elevated urinary 5-HIAA (a serotonin metabolite), and right-sided (tricuspid/pulmonic) valve lesions predominate because serotonin is inactivated in the lungs before reaching the left heart; treatment includes surgical resection and octreotide.",
-      "id": "2026-08-29-10"
+      "id": "2026-08-29-10",
+      "topic": "Carcinoid syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -216,7 +236,9 @@
         "Incorrect \u2014 anti-smooth muscle antibody is associated with autoimmune hepatitis, not celiac disease."
       ],
       "overview": "Celiac disease is a T-cell-mediated (type IV hypersensitivity) autoimmune reaction to deamidated gliadin, associated with HLA-DQ2/DQ8, that causes villous blunting, crypt hyperplasia, and lamina propria lymphocytosis, most prominently in the duodenum. IgA anti-tissue transglutaminase (and anti-endomysial) antibodies have the highest diagnostic accuracy, and treatment is a lifelong gluten-free diet; dermatitis herpetiformis is an associated skin finding.",
-      "id": "2026-08-29-11"
+      "id": "2026-08-29-11",
+      "topic": "Celiac disease",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -237,7 +259,9 @@
         "Incorrect \u2014 this describes autoimmune (pernicious anemia) gastritis, an unrelated condition affecting vitamin B12 absorption, not esophageal motility."
       ],
       "overview": "Achalasia is caused by loss of ganglion cells in the myenteric plexus, leading to failure of LES relaxation and increased LES tone; causes include idiopathic disease and Chagas disease. It presents with dysphagia to both solids and liquids (distinguishing it from mechanical obstruction), and is diagnosed by barium swallow (\"bird's beak\") and manometry, which shows increased LES tone \u2014 the opposite of the decreased tone seen in scleroderma.",
-      "id": "2026-08-29-12"
+      "id": "2026-08-29-12",
+      "topic": "Achalasia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -256,7 +280,9 @@
         "Incorrect \u2014 the DCC gene is a tumor suppressor frequently mutated in advanced colorectal cancers, not the causative germline mutation in FAP."
       ],
       "overview": "Familial adenomatous polyposis is an autosomal dominant disorder caused by a germline APC gene mutation, leading to hundreds of colonic adenomatous polyps and essentially universal progression to colon cancer, necessitating colectomy. It follows the chromosomal instability (adenoma-carcinoma sequence) pathway, in which APC loss is followed by K-RAS mutation and then p53 loss \u2014 distinct from the microsatellite instability pathway underlying Lynch syndrome (HNPCC).",
-      "id": "2026-08-29-13"
+      "id": "2026-08-29-13",
+      "topic": "Familial adenomatous polyposis",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -277,7 +303,9 @@
         "Correct \u2014 embolism is the most common cause of acute mesenteric ischemia, often originating from a cardiac source such as a left atrial appendage thrombus in atrial fibrillation, and it often affects the jejunum via the SMA."
       ],
       "overview": "Acute mesenteric ischemia is most commonly caused by arterial embolism, often from a cardiac source (LV thrombus, atrial fibrillation), and classically affects the jejunum via the SMA. Other causes include arterial thrombosis at atherosclerotic sites, mesenteric venous thrombosis (hypercoagulable states), and non-occlusive ischemia from shock (affecting colonic watershed areas). The classic exam finding is pain out of proportion to exam, with only mild tenderness and no peritoneal signs, plus elevated lactate and leukocytosis.",
-      "id": "2026-08-29-14"
+      "id": "2026-08-29-14",
+      "topic": "Acute mesenteric ischemia",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -296,7 +324,9 @@
         "Correct \u2014 Hirschsprung's disease results from failure of neural crest cell migration to the distal colon, leading to absence of ganglion cells in the submucosal (Meissner's) and myenteric (Auerbach's) plexuses, causing loss of peristalsis and functional obstruction; the rectum is always involved, so diagnosis requires rectal suction biopsy."
       ],
       "overview": "Hirschsprung's disease is a congenital motor disorder of the colon caused by failure of neural crest cell migration, resulting in absence of ganglion cells in the myenteric and submucosal plexuses of the distal colon (always including the rectum), which prevents normal peristalsis. It presents with failure to pass meconium and abdominal distention, is associated with Down syndrome, and is diagnosed by rectal suction biopsy showing absent ganglion cells, with treatment by surgical resection of the aganglionic segment.",
-      "id": "2026-08-29-15"
+      "id": "2026-08-29-15",
+      "topic": "Hirschsprung disease",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -317,7 +347,9 @@
         "Incorrect \u2014 somatostatinoma is not associated with elevated gastrin or ulcer disease in these notes."
       ],
       "overview": "Zollinger-Ellison syndrome results from a gastrin-secreting tumor (gastrinoma) of the duodenum or pancreas, causing excessive acid secretion that leads to refractory ulcers (often distal to the duodenal bulb or in the jejunum), diarrhea, and mucosal hypertrophy. Diagnosis relies on a markedly elevated fasting gastrin level and a secretin stimulation test, which paradoxically increases gastrin in gastrinoma (unlike normal G cells, which are suppressed by secretin).",
-      "id": "2026-08-29-16"
+      "id": "2026-08-29-16",
+      "topic": "Zollinger-Ellison syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -336,7 +368,9 @@
         "Incorrect \u2014 celiac nodes drain foregut structures, not the anorectal region above the pectinate line."
       ],
       "overview": "The pectinate (dentate) line divides the anal canal into a hindgut-derived proximal portion (columnar epithelium, superior rectal artery, internal iliac lymph nodes, visceral/painless innervation, internal hemorrhoids, adenocarcinoma risk) and an ectoderm-derived distal portion (stratified squamous epithelium, inferior rectal artery, superficial inguinal lymph nodes, somatic/painful innervation, external hemorrhoids, squamous cell carcinoma risk). This distinction explains why internal hemorrhoids are painless while external hemorrhoids are painful.",
-      "id": "2026-08-29-17"
+      "id": "2026-08-29-17",
+      "topic": "Anal canal lymphatic drainage",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -355,7 +389,9 @@
         "Incorrect \u2014 pleomorphic adenoma is the most common salivary tumor overall, composed of epithelial and stromal (sometimes cartilage) tissue, not the cystic/lymphoid histology described."
       ],
       "overview": "Warthin's tumor (papillary cystadenoma lymphomatosum) is the second most common salivary gland tumor, occurring almost exclusively in the parotid gland, with smoking as a strong risk factor (8-fold increase). Histologically it shows fluid-filled cysts surrounded by dense lymphoid tissue with germinal centers, distinguishing it from pleomorphic adenoma (epithelial and stromal/cartilage tissue) and mucoepidermoid carcinoma (mixed squamous and mucous cells, associated with radiation exposure).",
-      "id": "2026-08-29-18"
+      "id": "2026-08-29-18",
+      "topic": "Warthin tumor",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Incorrect \u2014 Wilson's disease is a chronic inherited disorder of copper metabolism, not an acute illness triggered by aspirin and viral infection."
       ],
       "overview": "Reye's syndrome is a rare, often fatal cause of acute liver failure and encephalopathy in children who take aspirin during a viral infection (classically varicella or influenza B); aspirin is thought to inhibit mitochondrial beta-oxidation, causing fatty liver changes, vomiting, and progression to coma. This is why aspirin is avoided in children except for specific indications like Kawasaki disease.",
-      "id": "2026-08-29-19"
+      "id": "2026-08-29-19",
+      "topic": "Reye syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -393,7 +431,9 @@
         "Incorrect \u2014 a SAAG greater than 1.1 g/dL indicates portal hypertension, not malignancy; malignant ascites is associated with a SAAG below 1.1 g/dL due to leaky vasculature allowing albumin into the peritoneal fluid."
       ],
       "overview": "The serum-ascites albumin gradient (SAAG) helps distinguish the cause of new or worsening ascites: a SAAG greater than 1.1 g/dL reflects a high-pressure state (portal hypertension) driving protein-poor fluid into the peritoneum, while a SAAG less than 1.1 g/dL suggests leaky vasculature from malignancy, allowing albumin to enter the ascitic fluid alongside water.",
-      "id": "2026-08-29-20"
+      "id": "2026-08-29-20",
+      "topic": "Serum-ascites albumin gradient (SAAG)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -412,7 +452,9 @@
         "Incorrect \u2014 this describes the reverse of the actual direction of metaplasia seen in Barrett's esophagus."
       ],
       "overview": "Barrett's esophagus develops from long-standing GERD, in which chronic acid exposure causes metaplasia of the normal non-keratinized squamous esophageal epithelium into intestinal-type columnar epithelium with goblet cells. It is a precursor lesion for esophageal adenocarcinoma (typically in the lower third of the esophagus), so patients undergo surveillance endoscopy with biopsy.",
-      "id": "2026-08-29-21"
+      "id": "2026-08-29-21",
+      "topic": "Barrett esophagus",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -431,7 +473,9 @@
         "Correct \u2014 H. pylori is urease-positive, hydrolyzing urea to produce ammonium, which locally neutralizes stomach acid and protects the bacteria, though the resulting ammonium chloride is itself damaging to the gastric mucosa; this urease activity is also exploited diagnostically in the urea breath test."
       ],
       "overview": "H. pylori is a gram-negative, urease-positive rod that colonizes the gastric antrum, causing acute and chronic gastritis and peptic ulcer disease. Its urease enzyme hydrolyzes urea into ammonium, which neutralizes local gastric acid to allow bacterial survival (while also damaging the mucosa), and this same reaction is exploited by the diagnostic urea breath test; H. pylori is treated with triple therapy (PPI plus two antibiotics).",
-      "id": "2026-08-29-22"
+      "id": "2026-08-29-22",
+      "topic": "Helicobacter pylori",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -450,7 +494,9 @@
         "Incorrect \u2014 the second portion of the duodenum is not compressed in SMA syndrome; it is the third portion that lies between the aorta and SMA."
       ],
       "overview": "SMA syndrome is a rare cause of bowel obstruction in which the distal third of the duodenum, sandwiched between the aorta and the overlying SMA, becomes compressed. It classically occurs after massive, rapid weight loss, which depletes the mesenteric fat pad that normally cushions the duodenum from the artery, causing postprandial pain, nausea, and vomiting.",
-      "id": "2026-08-29-23"
+      "id": "2026-08-29-23",
+      "topic": "Superior mesenteric artery syndrome",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -469,7 +515,9 @@
         "Correct \u2014 estrogen (from female gender, pregnancy, or multiparity) increases cholesterol synthesis and contributes to cholesterol gallstone formation; progesterone additionally slows gallbladder emptying."
       ],
       "overview": "Cholesterol gallstones form when the delicate balance of bile components is disrupted, and risk factors fall into three categories: excess estrogen (increases cholesterol synthesis; female gender, pregnancy), excess cholesterol (obesity, rapid weight loss), and loss of bile salts (cirrhosis, Crohn's disease, cystic fibrosis, bile acid resins). Risk is classically highest around age 40, and these stones are usually radiolucent on X-ray.",
-      "id": "2026-08-29-24"
+      "id": "2026-08-29-24",
+      "topic": "Cholesterol gallstones",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -490,7 +538,9 @@
         "Incorrect \u2014 Courvoisier's sign (painless jaundice with a palpable, non-tender gallbladder) is classic for pancreatic cancer, not choledocholithiasis, and this patient has pain and systemic infection, not painless obstruction."
       ],
       "overview": "Ascending cholangitis occurs when a biliary stone obstructs bile flow, allowing gut bacteria (E. coli, Klebsiella) to ascend the biliary tree and cause infection. Charcot's triad (fever, abdominal pain, jaundice) reflects cholestasis with infection, while the addition of confusion and hypotension (Reynolds pentad) signals sepsis and shock; treatment requires antibiotics and biliary drainage (endoscopic sphincterotomy).",
-      "id": "2026-08-29-25"
+      "id": "2026-08-29-25",
+      "topic": "Ascending cholangitis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -511,7 +561,9 @@
         "Correct \u2014 this is a Meckel's diverticulum, the most common congenital GI anomaly, a true diverticulum from a persistent vitelline duct remnant, often containing ectopic gastric tissue that can ulcerate and bleed; it is classically diagnosed with a technetium scan that detects the ectopic gastric mucosa."
       ],
       "overview": "Meckel's diverticulum is the most common congenital GI anomaly, a true diverticulum arising from a persistent vitelline (omphalomesenteric) duct remnant, often containing ectopic gastric (or pancreatic) tissue that can cause ulceration, painless bleeding, or serve as a lead point for intussusception. The \"Rule of 2's\" summarizes its epidemiology (2% of population, 2:1 male predominance, within 2 feet of the ileocecal valve, about 2 inches long, often presenting before age 2), and it is diagnosed with a technetium scan that detects ectopic gastric mucosa.",
-      "id": "2026-08-29-26"
+      "id": "2026-08-29-26",
+      "topic": "Meckel diverticulum",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Incorrect \u2014 gallstone disease (particularly porcelain gallbladder) is a risk factor for gallbladder carcinoma, not hepatocellular carcinoma."
       ],
       "overview": "Hepatocellular carcinoma is the most common primary liver tumor and typically arises as a consequence of chronic liver disease \u2014 chronic hepatitis B or C, alcoholic cirrhosis, Wilson's disease, hemochromatosis, and alpha-1 antitrypsin deficiency are established risk factors, along with dietary aflatoxin exposure from Aspergillus-contaminated food. Alpha-fetoprotein (AFP) is used to aid diagnosis and monitor high-risk patients, though imaging and biopsy are often needed for confirmation.",
-      "id": "2026-08-29-27"
+      "id": "2026-08-29-27",
+      "topic": "Hepatocellular carcinoma",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -551,7 +605,9 @@
         "Incorrect \u2014 diverticulitis presents with acute LLQ pain and fever from an inflamed diverticulum, not chronic RLQ symptoms with granulomatous skip lesions."
       ],
       "overview": "Crohn's disease is a Th1-mediated autoimmune disease that can affect any part of the GI tract (\"mouth to anus\") with transmural inflammation, non-caseating granulomas, skip lesions, and frequent rectal sparing; the terminal ileum is a common site, leading to B12 malabsorption and non-bloody diarrhea. This contrasts with ulcerative colitis, which is Th2-mediated, always involves the rectum, spreads continuously, is limited to the mucosa/submucosa, and lacks granulomas.",
-      "id": "2026-08-29-28"
+      "id": "2026-08-29-28",
+      "topic": "Crohn disease",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -570,7 +626,9 @@
         "Correct \u2014 PSC is an autoimmune disorder involving inflammation, fibrosis, and strictures of both intrahepatic and extrahepatic bile ducts, strongly associated with ulcerative colitis (~90% of PSC patients have IBD, usually UC), and shows \"beading\" of ducts on cholangiogram."
       ],
       "overview": "Primary sclerosing cholangitis is an autoimmune disease causing inflammation, fibrosis, and strictures (\"beading\" on cholangiogram, \"onion-skin\" fibrosis on histology) of both intra- and extrahepatic bile ducts, strongly linked to ulcerative colitis. It differs from primary biliary cirrhosis (intrahepatic ducts only, associated with Sjogren's, anti-mitochondrial antibody positive), and patients with PSC require annual screening for cholangiocarcinoma.",
-      "id": "2026-08-29-29"
+      "id": "2026-08-29-29",
+      "topic": "Primary sclerosing cholangitis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -589,7 +647,9 @@
         "Incorrect \u2014 a femoral hernia occurs medial to the femoral vessels, through the femoral ring below the inguinal ligament, unrelated to the inguinal canal or epigastric vessel landmarks."
       ],
       "overview": "Indirect inguinal hernias arise lateral to the inferior epigastric vessels, follow the path of testicular descent through the internal and external inguinal rings, and are covered by all three spermatic fascial layers due to a persistent processus vaginalis \u2014 this is the most common type of inguinal hernia in both sexes. Direct inguinal hernias arise medial to the epigastric vessels through a weakened Hesselbach's triangle floor (transversalis fascia), typically in older men, and are covered only by external spermatic fascia.",
-      "id": "2026-08-29-30"
+      "id": "2026-08-29-30",
+      "topic": "Indirect inguinal hernia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -610,7 +670,9 @@
         "Incorrect - phlebotomy treats hemochromatosis, not autoimmune hepatitis."
       ],
       "overview": "Autoimmune hepatitis is an immune-mediated liver inflammation most common in women in their 40s-50s, presenting along a spectrum from asymptomatic disease to acute liver failure or cirrhosis. ANA is the most sensitive but least specific marker, while anti-smooth muscle antibody is more specific; first-line treatment is corticosteroids with immunosuppressants.",
-      "id": "2026-09-06-01"
+      "id": "2026-09-06-01",
+      "topic": "Autoimmune hepatitis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -629,7 +691,9 @@
         "Incorrect - Plummer-Vinson syndrome is a triad of iron deficiency anemia, esophageal web, and glossitis, unrelated to esophageal rupture."
       ],
       "overview": "Boerhaave syndrome is a full-thickness (transmural) esophageal rupture, classically caused by severe, forceful vomiting or retching, distinguishing it from the mucosal-only tear of Mallory-Weiss syndrome. Air escapes into the mediastinum and subcutaneous tissue, producing pneumomediastinum and subcutaneous emphysema, a surgical emergency.",
-      "id": "2026-09-06-02"
+      "id": "2026-09-06-02",
+      "topic": "Boerhaave syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -650,7 +714,9 @@
         "Incorrect - NAC does not act as a chelator; it restores glutathione for hepatic detoxification."
       ],
       "overview": "Acetaminophen overdose causes acute liver failure via accumulation of the toxic metabolite NAPQI, normally detoxified by conjugation with glutathione. At high doses, glutathione stores are depleted, allowing NAPQI to cause hepatocellular necrosis with markedly elevated transaminases; N-acetylcysteine treats overdose by replenishing glutathione.",
-      "id": "2026-09-06-03"
+      "id": "2026-09-06-03",
+      "topic": "N-acetylcysteine (acetaminophen toxicity)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -671,7 +737,9 @@
         "Incorrect - this describes cystic fibrosis pathophysiology, not alpha-1 antitrypsin deficiency."
       ],
       "overview": "Alpha-1 antitrypsin (AAT) deficiency is an autosomal co-dominant disorder causing panacinar emphysema via unchecked neutrophil elastase activity in the lungs, and liver cirrhosis via toxic accumulation of misfolded AAT polymers in hepatocyte endoplasmic reticulum. Liver biopsy classically shows PAS-positive, diastase-resistant globules, distinguishing the deposits from glycogen.",
-      "id": "2026-09-06-04"
+      "id": "2026-09-06-04",
+      "topic": "Alpha-1 antitrypsin deficiency",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -690,7 +758,9 @@
         "Incorrect - hCG is not a marker discussed for pancreatic cancer in these notes."
       ],
       "overview": "CA-19-9 is the primary tumor marker associated with pancreatic adenocarcinoma, with sensitivity and specificity around 70-90%, but it is not reliable for screening or diagnosis since it can be falsely negative in small tumors. It is most useful for monitoring disease burden and detecting relapse after treatment.",
-      "id": "2026-09-06-05"
+      "id": "2026-09-06-05",
+      "topic": "Pancreatic adenocarcinoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -709,7 +779,9 @@
         "Incorrect - adenoid cystic carcinoma is not discussed as the most common tumor and is less common than pleomorphic adenoma."
       ],
       "overview": "Pleomorphic adenoma is the most common salivary gland tumor overall, usually benign, composed of both epithelial (glandular) and stromal (cartilage-like) tissue, and classically presents as a painless, mobile mass at the angle of the jaw. It has a tendency for local recurrence due to irregular margins and can rarely undergo malignant transformation.",
-      "id": "2026-09-06-06"
+      "id": "2026-09-06-06",
+      "topic": "Pleomorphic adenoma",
+      "angle": "epidemiology"
     },
     {
       "format": "simple4",
@@ -728,7 +800,9 @@
         "Incorrect - uric acid stones are a type of kidney stone, not a gallstone composition discussed in these notes."
       ],
       "overview": "Gallstones are classified as cholesterol stones (radiolucent, associated with estrogen excess, obesity, rapid weight loss, or reduced bile salts) or pigment stones (composed of calcium bilirubinate, radiopaque, associated with conditions causing excess unconjugated bilirubin such as chronic hemolysis or cirrhosis).",
-      "id": "2026-09-06-07"
+      "id": "2026-09-06-07",
+      "topic": "Pigment gallstones",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -747,7 +821,9 @@
         "Incorrect - parietal cells secrete hydrochloric acid and intrinsic factor, not pepsinogen."
       ],
       "overview": "Gastric glands contain specialized cell types: parietal cells (HCl and intrinsic factor), chief cells (pepsinogen), mucous neck cells (mucus), and G cells (gastrin, found in the antrum). Chief cells are located deeper in the gland and appear basophilic, releasing pepsinogen which is converted to active pepsin by the acidic gastric environment.",
-      "id": "2026-09-06-08"
+      "id": "2026-09-06-08",
+      "topic": "Chief cells",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -766,7 +842,9 @@
         "Incorrect - the femoral ring is the site of femoral hernias, not direct inguinal hernias."
       ],
       "overview": "Direct inguinal hernias arise medial to the inferior epigastric vessels, bulging directly through a weakened transversalis fascia within Hesselbach's triangle, typically in older men from years of connective tissue stress. This contrasts with indirect inguinal hernias, which pass laterally through the deep inguinal ring along the path of testicular descent and are covered by all three layers of spermatic fascia.",
-      "id": "2026-09-06-09"
+      "id": "2026-09-06-09",
+      "topic": "Direct inguinal hernia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -787,7 +865,9 @@
         "Incorrect - micronodular fibrosis describes chronic cirrhosis broadly, not the acute histologic hallmark of Budd-Chiari syndrome."
       ],
       "overview": "Budd-Chiari syndrome results from thrombosis of the hepatic veins, commonly due to myeloproliferative disorders (polycythemia vera, essential thrombocythemia), hepatocellular carcinoma, hypercoagulable states, or OCP/pregnancy use. It presents with the classic triad of abdominal pain, ascites, and hepatomegaly, with histology showing zone 3 congestion, necrosis, and hemorrhage from impaired venous outflow.",
-      "id": "2026-09-06-10"
+      "id": "2026-09-06-10",
+      "topic": "Budd-Chiari syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -806,7 +886,9 @@
         "Incorrect - alkaline phosphatase reflects biliary/cholestatic processes, not pancreatic acinar injury."
       ],
       "overview": "Acute pancreatitis is diagnosed using two of three criteria: epigastric pain, amylase/lipase elevated more than three times normal, and characteristic imaging findings. While both amylase and lipase rise in pancreatitis, lipase is more specific for pancreatic damage, as amylase elevation occurs in a broader range of conditions.",
-      "id": "2026-09-06-11"
+      "id": "2026-09-06-11",
+      "topic": "Acute pancreatitis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -825,7 +907,9 @@
         "Incorrect - structures lateral to the femoral vein within the femoral sheath include the femoral artery, not the site of femoral hernia."
       ],
       "overview": "Femoral hernias protrude through the femoral ring, located medial to the femoral vein within the femoral sheath (following the 'NAVeL' lateral-to-medial order: nerve, artery, vein, lymphatics). They are more common in women than men, though indirect inguinal hernia remains the most common hernia type overall, and femoral hernias carry a high incarceration risk due to the narrow opening.",
-      "id": "2026-09-06-12"
+      "id": "2026-09-06-12",
+      "topic": "Femoral hernia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -844,7 +928,9 @@
         "Incorrect - Zenker's diverticulum presents with dysphagia and halitosis from food regurgitation, not anemia and glossitis."
       ],
       "overview": "Plummer-Vinson syndrome is a rare condition of poorly understood etiology characterized by the triad of iron deficiency anemia, a beefy red tongue (glossitis), and an esophageal web, typically occurring in middle-aged white women and causing dysphagia due to the web's obstruction.",
-      "id": "2026-09-06-13"
+      "id": "2026-09-06-13",
+      "topic": "Plummer-Vinson syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -863,7 +949,9 @@
         "Correct - Brunner's glands are found exclusively in the submucosa of the duodenum, secreting alkaline fluid to neutralize acidic chyme; their thickness increases in peptic ulcer disease."
       ],
       "overview": "Brunner's glands are unique to the duodenal submucosa and secrete alkaline mucus to protect against acidic gastric chyme; their hypertrophy is a feature of peptic ulcer disease. In contrast, the ileum is characterized by Peyer's patches, while the jejunum has neither distinguishing feature.",
-      "id": "2026-09-06-14"
+      "id": "2026-09-06-14",
+      "topic": "Brunner glands",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -884,7 +972,9 @@
         "Incorrect - ischemic colitis is a separate entity related to hypoperfusion of watershed areas, not the acute feared complication of toxic megacolon."
       ],
       "overview": "Toxic megacolon is a rare, life-threatening complication of ulcerative colitis (or infectious colitis) characterized by cessation of colonic peristalsis and rapid colonic dilation, driven partly by nitric oxide-mediated inhibition of smooth muscle tone. The thinned colonic wall is at high risk for perforation, making prompt recognition and treatment critical.",
-      "id": "2026-09-06-15"
+      "id": "2026-09-06-15",
+      "topic": "Toxic megacolon",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -903,7 +993,9 @@
         "Incorrect - Kupffer cells are resident liver macrophages involved in immune surveillance, not primarily fibrosis production."
       ],
       "overview": "Hepatic stellate cells reside in the perisinusoidal space and normally store vitamin A metabolites. In chronic liver injury, they become activated, transforming into myofibroblast-like cells that secrete TGF-\u03b2 and deposit collagen/fibrous tissue, making them the major cellular driver of hepatic fibrosis and cirrhosis.",
-      "id": "2026-09-06-16"
+      "id": "2026-09-06-16",
+      "topic": "Hepatic stellate cells",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -922,7 +1014,9 @@
         "Incorrect - p53 loss is the third and final step in the classic sequence, driving progression from polyp to invasive colon cancer."
       ],
       "overview": "The chromosomal instability (adenoma-carcinoma) pathway to colorectal cancer follows a stepwise sequence of genetic mutations over 10-40 years: APC (tumor suppressor) loss first predisposes to polyp formation, followed by K-RAS (oncogene) mutation driving polyp growth, and finally p53 loss enabling progression to invasive carcinoma. This pathway is more common in left-sided colon cancers.",
-      "id": "2026-09-06-17"
+      "id": "2026-09-06-17",
+      "topic": "Colorectal cancer (chromosomal instability pathway)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -943,7 +1037,9 @@
         "Correct - CT scan is the diagnostic imaging modality of choice for suspected diverticulitis, showing colonic wall thickening and pericolonic inflammation."
       ],
       "overview": "Diverticulitis is inflammation of a colonic diverticulum, most commonly in the sigmoid colon, presenting as 'left-sided appendicitis' with left lower quadrant pain, fever, and leukocytosis. CT scan is the diagnostic study of choice, and treatment is typically antibiotics, with surgery reserved for complications like abscess, fistula, obstruction, or perforation.",
-      "id": "2026-09-06-18"
+      "id": "2026-09-06-18",
+      "topic": "Diverticulitis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -962,7 +1058,9 @@
         "Incorrect - Turner syndrome is not classically associated with duodenal atresia."
       ],
       "overview": "Duodenal atresia results from failure of the normally solid duodenal lumen to recanalize during early development, leading to complete obstruction. It presents with polyhydramnios in utero and bilious vomiting in the newborn, with the classic 'double bubble' sign on imaging, and is strongly associated with Down syndrome.",
-      "id": "2026-09-06-19"
+      "id": "2026-09-06-19",
+      "topic": "Duodenal atresia",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -981,7 +1079,9 @@
         "Incorrect - liver transplantation may eventually be needed if the Kasai procedure fails, but it is not the first-line/definitive initial surgical treatment."
       ],
       "overview": "Biliary atresia is an idiopathic obstructive cholangiopathy of neonates in which the biliary ducts fail to form or degenerate early in life, presenting with jaundice, dark urine, and acholic stools, and confirmed by absence of the gallbladder/common bile duct on ultrasound without other causes of obstruction. The Kasai procedure creates a bile drainage conduit using bowel and is the standard surgical treatment.",
-      "id": "2026-09-06-20"
+      "id": "2026-09-06-20",
+      "topic": "Biliary atresia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -1000,7 +1100,9 @@
         "Incorrect - the mid-transverse colon is not the classic watershed zone; the splenic flexure (SMA-IMA border) is."
       ],
       "overview": "Watershed areas of the colon lie at the border between two major arterial territories and receive the least collateral flow, making them most susceptible to ischemia during hypotension or shock. The splenic flexure is the most vulnerable, followed by the rectosigmoid junction, and ischemia here often presents as ischemic colitis that may resolve spontaneously.",
-      "id": "2026-09-06-21"
+      "id": "2026-09-06-21",
+      "topic": "Colonic watershed areas",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -1021,7 +1123,9 @@
         "Incorrect - hypercalcemia with renal stones is not part of the VIPoma (WDHA) syndrome."
       ],
       "overview": "VIPomas are rare pancreatic islet cell tumors secreting vasoactive intestinal peptide, producing WDHA (watery diarrhea, hypokalemia, achlorhydria) syndrome, also called 'pancreatic cholera.' VIP stimulates pancreatic/intestinal bicarbonate and water secretion while inhibiting gastric acid secretion, distinguishing it from gastrin-secreting tumors. Initial treatment includes fluid/electrolyte replacement and octreotide.",
-      "id": "2026-09-06-22"
+      "id": "2026-09-06-22",
+      "topic": "VIPoma",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -1040,7 +1144,9 @@
         "Incorrect - the IMA and internal iliac artery connect via the superior and middle rectal arteries in the rectum."
       ],
       "overview": "The abdominal aorta's mesenteric branches have important collateral connections: celiac-SMA via pancreaticoduodenal arteries, SMA-IMA via the marginal artery of Drummond, and IMA-internal iliac via rectal arteries. These collaterals protect against ischemia if one major vessel is occluded, though watershed zones between collaterals remain vulnerable.",
-      "id": "2026-09-06-23"
+      "id": "2026-09-06-23",
+      "topic": "Marginal artery of Drummond",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -1061,7 +1167,9 @@
         "Incorrect - anti-mitochondrial antibodies are associated with primary biliary cirrhosis, unrelated to gastric carcinoma."
       ],
       "overview": "Diffuse-type gastric carcinoma is characterized by signet ring cells (mucin pushing the nucleus to the periphery) infiltrating the stomach wall diffusely, producing the thickened, non-distensible 'linitis plastica' appearance. Unlike intestinal-type gastric cancer, it is not strongly linked to H. pylori or intestinal metaplasia, and it classically metastasizes bilaterally to the ovaries, forming a Krukenberg tumor.",
-      "id": "2026-09-06-24"
+      "id": "2026-09-06-24",
+      "topic": "Signet ring cell carcinoma (linitis plastica)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1080,7 +1188,9 @@
         "Correct - Cushing's ulcers occur due to increased intracranial pressure causing increased vagal tone, leading to excess acetylcholine stimulation of the stomach and excess acid production, resulting in gastritis/ulcers."
       ],
       "overview": "Acute gastritis and ulcers have multiple distinct mechanisms depending on clinical context: Curling's ulcers occur in burn patients from hypovolemia-induced mucosal hypoperfusion, Cushing's ulcers occur from increased intracranial pressure driving excess vagal (acetylcholine)-mediated acid secretion, and stress ulcers occur in critically ill patients from shock-related mucosal hypoperfusion, often prevented with prophylactic PPIs in the ICU.",
-      "id": "2026-09-06-25"
+      "id": "2026-09-06-25",
+      "topic": "Cushing ulcer",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1099,7 +1209,9 @@
         "Incorrect - the dorsal bud forms most of the pancreatic body, tail, and accessory duct; it is not the origin of annular pancreas."
       ],
       "overview": "The pancreas develops from a ventral bud (part of the head, uncinate process, and main pancreatic duct) and a dorsal bud (rest of the head, body, tail, and accessory duct). Annular pancreas occurs when the two components of the ventral bud fail to fuse normally and instead encircle the duodenum, which can cause bowel obstruction.",
-      "id": "2026-09-06-26"
+      "id": "2026-09-06-26",
+      "topic": "Annular pancreas",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1120,7 +1232,9 @@
         "Incorrect - autoimmune smooth muscle destruction is not the mechanism; Zenker's is caused by increased intraluminal pressure against a functional obstruction."
       ],
       "overview": "Zenker's diverticulum is an acquired false diverticulum (mucosa/submucosa only) forming at Killian's triangle, a weak point in the posterior pharyngeal wall above the upper esophageal sphincter, due to failure of the cricopharyngeus muscle to relax normally. Classic presentation includes dysphagia, halitosis, and regurgitation of undigested food.",
-      "id": "2026-09-06-27"
+      "id": "2026-09-06-27",
+      "topic": "Zenker diverticulum",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1139,7 +1253,9 @@
         "Incorrect - juvenile polyps are hamartomas typically found in children, not associated with a saw-tooth serrated histologic pattern."
       ],
       "overview": "Colonic polyps are classified as either non-neoplastic (e.g., hyperplastic polyps, the most common type, showing a serrated 'saw-tooth' pattern with no dysplasia and minimal cancer risk) or neoplastic/adenomatous (tubular or villous, which carry malignant potential proportional to size, villous histology, and degree of dysplasia).",
-      "id": "2026-09-06-28"
+      "id": "2026-09-06-28",
+      "topic": "Hyperplastic polyp",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1158,7 +1274,9 @@
         "Incorrect - the ascending colon is a midgut structure supplied by the SMA."
       ],
       "overview": "The abdominal aorta's three unpaired branches supply the gut according to embryologic origin: celiac trunk for the foregut (stomach, liver, spleen, proximal duodenum, pancreas), SMA for the midgut (distal duodenum through proximal two-thirds of transverse colon), and IMA for the hindgut (distal transverse colon through rectum).",
-      "id": "2026-09-06-29"
+      "id": "2026-09-06-29",
+      "topic": "Celiac trunk",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -1179,7 +1297,9 @@
         "Incorrect - penicillamine chelates copper and is used for Wilson's disease, not iron overload."
       ],
       "overview": "Hereditary hemochromatosis is an autosomal recessive disorder most commonly caused by the C282Y mutation in HFE, causing unregulated intestinal iron absorption with accumulation in liver, pancreas, heart, skin, and joints ('bronze diabetes'). Diagnosis is supported by elevated ferritin and transferrin saturation and confirmed genetically; first-line treatment is repeated phlebotomy.",
-      "id": "2026-09-06-30"
+      "id": "2026-09-06-30",
+      "topic": "Hereditary hemochromatosis",
+      "angle": "treatment"
     }
   ]
 }
