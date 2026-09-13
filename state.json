@@ -1111,36 +1111,246 @@
       "A 26-year-old woman has had several episodes over the past 2 months of sudden intense fear with palp"
     ],
     "Pulmonary": [
-      "Reactivation tuberculosis characteristically involves the lung apices (zone 1). Which combination of",
-      "A newborn fails to pass meconium within the first 48 hours of life and develops abdominal distension",
-      "Using the Bohr equation for physiologic dead space (Vd/Vt = [PaCO2 - PeCO2]/PaCO2), which finding in",
-      "A trauma patient develops sudden hypotension, distended neck veins, and absent breath sounds on the ",
-      "Pulmonary function testing in a patient with idiopathic pulmonary fibrosis would most likely show wh",
-      "A 34-year-old man is brought to the ED after being found unconscious in his garage with the car engi",
-      "A 32-year-old woman with ptosis, diplopia, and fatigable muscle weakness is found to have an anterio",
-      "In contrast to the systemic circulation, how does the pulmonary circulation respond to a decrease in",
-      "According to the Law of Laplace (collapsing pressure = 2 x surface tension / radius), why are smalle",
-      "A 35-year-old African American woman presents with dry cough and dyspnea. She also reports tender re",
-      "A pathology specimen from a patient with chronic bronchitis shows hypertrophy of the submucosal muco",
-      "A patient with community-acquired pneumonia develops a pleural effusion. Thoracentesis reveals a ple",
-      "A 66-year-old man with a 50-pack-year smoking history presents with cough, weight loss, and confusio",
-      "A male infant is born at 32 weeks gestation via emergency cesarean section to a mother with poorly c",
-      "Fetal hemoglobin (HbF, alpha2gamma2) has a left-shifted oxygen dissociation curve compared to adult ",
-      "A 60-year-old man with a history of latent tuberculosis infection, now on a TNF-alpha inhibitor for ",
-      "During venous blood transport of CO2, which ion moves into red blood cells to maintain electrical ne",
-      "A 55-year-old woman who underwent hip replacement surgery 5 days ago develops sudden-onset pleuritic",
-      "A patient with idiopathic pulmonary fibrosis has hypoxemia that improves with supplemental oxygen an",
-      "A 45-year-old man with sepsis from a urinary source develops acute hypoxemic respiratory failure req",
-      "A child with recurrent sinopulmonary infections, bronchiectasis, and situs inversus is diagnosed wit",
-      "A 28-year-old woman presents with progressive exertional dyspnea over several months. She has no his",
-      "A patient on room air develops hypoventilation from opioid overdose, with a resulting PaCO2 of 70 mm",
-      "A patient with chronic asthma and nasal polyposis develops acute bronchospasm and rhinorrhea after t",
-      "Which of the following statements best describes the Haldane effect?",
-      "A patient with COPD living at high altitude develops chronically elevated 2,3-bisphosphoglycerate (2",
-      "A right shift of the oxygen-hemoglobin dissociation curve, as occurs with increased CO2, decreased p",
-      "A patient undergoes pulmonary function testing including measurement of diffusing capacity of the lu",
-      "A 42-year-old nonsmoker presents with progressive dyspnea. Imaging shows emphysematous changes predo",
-      "A 68-year-old man undergoes upper endoscopy with benzocaine topical spray for throat anesthesia. Sho"
+      {
+        "topic": "Foreign body aspiration (right mainstem bronchus anatomy)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Bohr effect",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Aspirin-exacerbated respiratory disease",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Pulmonary embolism",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Physiologic (alveolar) dead space",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Fetal hemoglobin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "CFTR protein",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Tension pneumothorax",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Chloride shift",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Sarcoidosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Chronic bronchitis (Reid index)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Methemoglobinemia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Hypoxia in heart failure (stagnant hypoxia)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Carbon monoxide poisoning",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Emphysema (smoking-related, centriacinar)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Neonatal respiratory distress syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "CO2 transport in blood",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "2,3-bisphosphoglycerate (2,3-BPG)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "DLCO (diffusing capacity)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "High-altitude hypoxemia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "West lung zones (Zone 1 pulmonary blood flow)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Type II pneumocytes (surfactant production)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Haldane effect",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Pulmonary surfactant (Law of Laplace)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Alpha-1 antitrypsin deficiency",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Primary ciliary dyskinesia (Kartagener syndrome)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Ghon complex (primary tuberculosis)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "ARDS",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Bohr equation (physiologic dead space)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Oxygen-hemoglobin dissociation curve",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Reactivation tuberculosis (apical predilection)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Cystic fibrosis (meconium ileus)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Physiologic dead space (Bohr equation)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Tension pneumothorax",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Idiopathic pulmonary fibrosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Carbon monoxide poisoning",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Thymoma (myasthenia gravis)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hypoxic pulmonary vasoconstriction",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Law of Laplace (alveolar collapse)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Sarcoidosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Chronic bronchitis (Reid index)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Light's criteria (pleural effusion)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Small cell lung cancer (SIADH)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Neonatal respiratory distress syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Fetal hemoglobin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Reactivation tuberculosis (apical predilection)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Chloride shift",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Pulmonary embolism",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Idiopathic pulmonary fibrosis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "ARDS",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Primary ciliary dyskinesia (Kartagener syndrome)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Idiopathic pulmonary arterial hypertension",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Alveolar gas equation (hypoventilation)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Aspirin-exacerbated respiratory disease",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Haldane effect",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "2,3-bisphosphoglycerate (2,3-BPG)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Oxygen-hemoglobin dissociation curve",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "DLCO (diffusing capacity)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Alpha-1 antitrypsin deficiency",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Methemoglobinemia",
+        "angle": "mechanism"
+      }
     ],
     "Reproductive": [
       "hCG shares an identical alpha subunit with which of the following hormones?",

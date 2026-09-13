@@ -17,7 +17,9 @@
         "Correct: the right mainstem bronchus is wider and has a more vertical path with less angulation from the trachea, making it the more common site of foreign body aspiration.",
         "Incorrect: this describes the opposite of the actual anatomy; the right bronchus is wider, not narrower, and has less angle."
       ],
-      "id": "2026-08-29-01"
+      "id": "2026-08-29-01",
+      "topic": "Foreign body aspiration (right mainstem bronchus anatomy)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -35,7 +37,9 @@
         "Incorrect: decreased temperature does cause a left shift, but this is a general cause of left shift, not the Bohr effect specifically.",
         "Incorrect: this describes the Haldane effect, not the Bohr effect."
       ],
-      "id": "2026-08-29-02"
+      "id": "2026-08-29-02",
+      "topic": "Bohr effect",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -55,7 +59,9 @@
         "Incorrect: this reaction (AERD/Samter's triad) is not classic IgE-mediated type I hypersensitivity.",
         "Incorrect: AERD is not a T-cell mediated delayed hypersensitivity reaction."
       ],
-      "id": "2026-08-29-03"
+      "id": "2026-08-29-03",
+      "topic": "Aspirin-exacerbated respiratory disease",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -75,7 +81,9 @@
         "Incorrect: S1Q3T3 reflects acute right heart strain, not chronic left ventricular hypertrophy.",
         "Correct: S1Q3T3 is a classic (though rare) EKG finding indicating acute right heart strain from PE, caused by acute RV dilation from increased pulmonary vascular resistance."
       ],
-      "id": "2026-08-29-04"
+      "id": "2026-08-29-04",
+      "topic": "Pulmonary embolism",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -93,7 +101,9 @@
         "Incorrect: the base of the lung has the highest blood flow and ventilation, contributing least to dead space.",
         "Correct: the apex of the lung has the lowest perfusion relative to ventilation and is the largest contributor to alveolar (and thus physiologic) dead space."
       ],
-      "id": "2026-08-29-05"
+      "id": "2026-08-29-05",
+      "topic": "Physiologic (alveolar) dead space",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -111,7 +121,9 @@
         "Correct: 2,3-BPG binds poorly to the gamma chains of HbF (compared to avid binding to beta chains in HbA), resulting in less BPG-mediated reduction in oxygen affinity and a left-shifted curve.",
         "Incorrect: iron content per heme group is the same in fetal and adult hemoglobin; this is not the reason for the affinity difference."
       ],
-      "id": "2026-08-29-06"
+      "id": "2026-08-29-06",
+      "topic": "Fetal hemoglobin",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -129,7 +141,9 @@
         "Incorrect: CFTR's effect on water follows ion transport (NaCl movement); it is not a direct water pump.",
         "Correct: CFTR is an ATP-gated chloride channel that secretes chloride out of epithelial cells while inhibiting the ENaC sodium channel, resulting in net NaCl (and water) movement out of the cell to hydrate mucosal surfaces; loss of this function causes the thick secretions of CF."
       ],
-      "id": "2026-08-29-07"
+      "id": "2026-08-29-07",
+      "topic": "CFTR protein",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -149,7 +163,9 @@
         "Incorrect: 100% oxygen alone is the treatment for spontaneous pneumothorax reabsorption, not tension pneumothorax, which requires emergent decompression.",
         "Correct: tension pneumothorax causes obstructive shock (compressed veins, decreased venous return/cardiac output) and requires emergent needle decompression/chest tube placement."
       ],
-      "id": "2026-08-29-08"
+      "id": "2026-08-29-08",
+      "topic": "Tension pneumothorax",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -167,7 +183,9 @@
         "Incorrect: potassium movement is not part of the chloride shift mechanism described.",
         "Incorrect: H+ remains inside the red blood cell, buffered by deoxyhemoglobin; it does not leave the cell."
       ],
-      "id": "2026-08-29-09"
+      "id": "2026-08-29-09",
+      "topic": "Chloride shift",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -187,7 +205,9 @@
         "Incorrect: there is no indication of excess dietary vitamin D intake; the vignette points to sarcoidosis pathophysiology instead.",
         "Incorrect: hypercalcemia in sarcoidosis is not due to elevated PTH, which is typically suppressed by the elevated calcium."
       ],
-      "id": "2026-08-29-10"
+      "id": "2026-08-29-10",
+      "topic": "Sarcoidosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -205,7 +225,9 @@
         "Incorrect: less than 0.4 is the normal range, not the diagnostic threshold for chronic bronchitis.",
         "Incorrect: a Reid index less than 0.2 would still fall under the normal range, not the diagnostic threshold."
       ],
-      "id": "2026-08-29-11"
+      "id": "2026-08-29-11",
+      "topic": "Chronic bronchitis (Reid index)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -225,7 +247,9 @@
         "Incorrect: bicarbonate does not correct the oxidation state of iron in hemoglobin.",
         "Incorrect: naloxone reverses opioid effects and has no role in methemoglobinemia."
       ],
-      "id": "2026-08-29-12"
+      "id": "2026-08-29-12",
+      "topic": "Methemoglobinemia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -243,7 +267,9 @@
         "Incorrect: SaO2 remains normal in heart failure without lung disease.",
         "Correct: heart failure causes hypoxia through decreased cardiac output/blood flow, not through decreased oxygen content of blood; PaO2 and SaO2 remain normal if the lungs are unaffected."
       ],
-      "id": "2026-08-29-13"
+      "id": "2026-08-29-13",
+      "topic": "Hypoxia in heart failure (stagnant hypoxia)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -263,7 +289,9 @@
         "Incorrect: oxygen is the treatment for CO poisoning and should be started immediately regardless of PaO2, which is typically normal in this condition.",
         "Correct: diagnosis of CO poisoning requires directly measuring carboxyhemoglobin level (normal <3%, smokers 10-15%, >15% suggests poisoning)."
       ],
-      "id": "2026-08-29-14"
+      "id": "2026-08-29-14",
+      "topic": "Carbon monoxide poisoning",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -281,7 +309,9 @@
         "Incorrect: panacinar damage in the lower lobes describes alpha-1 antitrypsin deficiency, not smoking-related emphysema.",
         "Incorrect: smoking-related emphysema affects the upper lobes, not the lower lobes."
       ],
-      "id": "2026-08-29-15"
+      "id": "2026-08-29-15",
+      "topic": "Emphysema (smoking-related, centriacinar)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -301,7 +331,9 @@
         "Correct: prematurity and maternal diabetes (high fetal insulin decreases surfactant production) both increase risk for neonatal RDS, caused by surfactant deficiency leading to high surface tension, atelectasis, decreased compliance, and poor oxygenation.",
         "Incorrect: congenital diaphragmatic hernia causes pulmonary hypoplasia but is not suggested by this history or imaging."
       ],
-      "id": "2026-08-29-16"
+      "id": "2026-08-29-16",
+      "topic": "Neonatal respiratory distress syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -319,7 +351,9 @@
         "Correct: more than 90% of CO2 is transported as bicarbonate, the major carrier form of CO2 in blood.",
         "Incorrect: 3% is the fraction bound to hemoglobin as carbaminohemoglobin."
       ],
-      "id": "2026-08-29-17"
+      "id": "2026-08-29-17",
+      "topic": "CO2 transport in blood",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -337,7 +371,9 @@
         "Correct: 2,3-BPG increases in chronic hypoxia (COPD, high altitude, chronic anemia) and acts as a negative allosteric effector, decreasing hemoglobin's oxygen affinity to promote greater oxygen release to tissues.",
         "Incorrect: 2,3-BPG has a significant right-shifting effect on hemoglobin and is driven by chronic hypoxia, not hypercapnia per se."
       ],
-      "id": "2026-08-29-18"
+      "id": "2026-08-29-18",
+      "topic": "2,3-bisphosphoglycerate (2,3-BPG)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -355,7 +391,9 @@
         "Incorrect: chronic bronchitis, an obstructive disease, is not typically associated with the diffusion-limiting parenchymal changes that lower DLCO.",
         "Incorrect: asthma is an obstructive disease that classically does not reduce DLCO."
       ],
-      "id": "2026-08-29-19"
+      "id": "2026-08-29-19",
+      "topic": "DLCO (diffusing capacity)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -373,7 +411,9 @@
         "Incorrect: hypoventilation is a separate cause of normal A-a gradient hypoxemia, but it is not the mechanism specifically described for high altitude, which is due to low PIO2.",
         "Correct: at high altitude, low inspired PO2 (PIO2) directly lowers alveolar PO2 (PAO2), producing hypoxemia with a normal A-a gradient since both alveolar and arterial oxygen fall proportionally."
       ],
-      "id": "2026-08-29-20"
+      "id": "2026-08-29-20",
+      "topic": "High-altitude hypoxemia",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -391,7 +431,9 @@
         "Correct: in Zone 1 (apex), alveolar pressure (PA) exceeds arterial (Pa) and venous (Pv) pressure, resulting in minimal, low blood flow; this zone can become dead space if arterial pressure falls further (e.g., hemorrhage, positive pressure ventilation).",
         "Incorrect: this pattern (flow driven by Pa-Pv difference, similar to systemic circulation) describes Zone 3, not Zone 1."
       ],
-      "id": "2026-08-29-21"
+      "id": "2026-08-29-21",
+      "topic": "West lung zones (Zone 1 pulmonary blood flow)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -409,7 +451,9 @@
         "Incorrect: type 1 pneumocytes are thin cells specialized for gas exchange, not surfactant production.",
         "Incorrect: club cells secrete protective proteins and contain P450 enzymes in the bronchioles, not surfactant."
       ],
-      "id": "2026-08-29-22"
+      "id": "2026-08-29-22",
+      "topic": "Type II pneumocytes (surfactant production)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -427,7 +471,9 @@
         "Correct: the Haldane effect describes how oxygen binding to hemoglobin decreases its affinity for CO2, allowing more CO2 unloading in the lungs and more CO2 loading in tissues.",
         "Incorrect: this describes the Bohr effect, not the Haldane effect."
       ],
-      "id": "2026-08-29-23"
+      "id": "2026-08-29-23",
+      "topic": "Haldane effect",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -445,7 +491,9 @@
         "Correct: surfactant reduces surface tension, which according to the Law of Laplace (Collapsing Pressure = 2 x surface tension / radius) lowers collapsing pressure and helps keep alveoli, especially small ones, open.",
         "Incorrect: surfactant's role relates to alveolar surface tension, not airway resistance."
       ],
-      "id": "2026-08-29-24"
+      "id": "2026-08-29-24",
+      "topic": "Pulmonary surfactant (Law of Laplace)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -465,7 +513,9 @@
         "Incorrect: diffuse alveolar damage with hyaline membranes describes ARDS, not this chronic obstructive picture.",
         "Incorrect: non-caseating granulomas describe sarcoidosis, not alpha-1 antitrypsin deficiency."
       ],
-      "id": "2026-08-29-25"
+      "id": "2026-08-29-25",
+      "topic": "Alpha-1 antitrypsin deficiency",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -485,7 +535,9 @@
         "Incorrect: elastase itself is not deficient here; the defect is in ciliary dynein, which is a distinct protein from a generic elastase inhibitor.",
         "Correct: this presentation of bronchiectasis, recurrent sinus/ear infections, and situs inversus is Kartagener's syndrome, a variant of primary ciliary dyskinesia caused by dynein mutations impairing ciliary motor function."
       ],
-      "id": "2026-08-29-26"
+      "id": "2026-08-29-26",
+      "topic": "Primary ciliary dyskinesia (Kartagener syndrome)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -503,7 +555,9 @@
         "Correct: a Ghon complex consists of a Ghon focus (a subpleural granulomatous lesion, usually mid to lower lung) plus ipsilateral hilar lymph node involvement; a calcified Ghon complex is called a Ranke complex.",
         "Incorrect: miliary nodules and pericarditis describe disseminated (miliary) TB, not the primary Ghon complex."
       ],
-      "id": "2026-08-29-27"
+      "id": "2026-08-29-27",
+      "topic": "Ghon complex (primary tuberculosis)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -523,7 +577,9 @@
         "Incorrect: chronic bronchitis is a chronic condition unrelated to this acute sepsis-triggered presentation.",
         "Correct: this presentation meets ARDS diagnostic criteria (bilateral infiltrates, PaO2/FiO2 <300, onset within a week of sepsis, not explained by heart failure); ARDS pathophysiology involves cytokine-mediated neutrophil recruitment causing capillary endothelial and alveolar epithelial damage with hyaline membrane formation."
       ],
-      "id": "2026-08-29-28"
+      "id": "2026-08-29-28",
+      "topic": "ARDS",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -541,7 +597,9 @@
         "Incorrect: inspired PCO2 is essentially zero and is not part of the Bohr dead space calculation.",
         "Incorrect: the Bohr equation does not use mixed venous PCO2; it compares arterial and exhaled CO2."
       ],
-      "id": "2026-08-29-29"
+      "id": "2026-08-29-29",
+      "topic": "Bohr equation (physiologic dead space)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -559,7 +617,9 @@
         "Correct: increased 2,3-BPG decreases hemoglobin's oxygen affinity, shifting the curve right and promoting oxygen release to tissues.",
         "Incorrect: decreased temperature causes a left shift (increased affinity), not a right shift."
       ],
-      "id": "2026-08-29-30"
+      "id": "2026-08-29-30",
+      "topic": "Oxygen-hemoglobin dissociation curve",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -578,7 +638,9 @@
         "Incorrect: A V/Q ratio near 1 with high flow and ventilation describes more the base or matched zones, not the apex."
       ],
       "overview": "Gravity creates uneven ventilation and perfusion in the upright lung, divided into three zones: zone 1 (apex) has lowest blood flow and highest V/Q ratio (oxygen-rich), zone 3 (base) has highest blood flow and lowest V/Q ratio, and zone 2 has ventilation best matched to perfusion. Because M. tuberculosis is an obligate aerobe, reactivation TB classically localizes to the oxygen-rich apices.",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Reactivation tuberculosis (apical predilection)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -599,7 +661,9 @@
         "Correct: This describes meconium ileus, a classic neonatal presentation of cystic fibrosis. The CFTR gene on chromosome 7 encodes an ATP-gated chloride channel; defective CFTR decreases NaCl and water secretion, producing abnormally thick, sticky secretions including meconium and causing bowel obstruction."
       ],
       "overview": "Cystic fibrosis is an autosomal recessive disease caused by mutations (most commonly delta F508) in the CFTR gene on chromosome 7, encoding a chloride channel. Defective CFTR causes thick, dehydrated secretions in the lungs (recurrent Pseudomonas/Staph infections, bronchiectasis) and GI tract (meconium ileus, pancreatic insufficiency with fat-soluble vitamin malabsorption); diagnosis uses elevated sweat chloride, and newborn screening uses immunoreactive trypsinogen.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Cystic fibrosis (meconium ileus)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -618,7 +682,9 @@
         "Incorrect: Increased alveolar ventilation without a perfusion change would improve gas exchange efficiency, tending to decrease the dead space fraction, not increase it."
       ],
       "overview": "Physiologic dead space refers to ventilated but poorly/non-perfused lung regions, measured using the Bohr equation from tidal volume, arterial CO2, and exhaled CO2. As dead space increases, exhaled CO2 falls (approaching zero) because less gas exchange occurs, widening the gap from arterial CO2 and driving hypercapnia and increased respiratory rate.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Physiologic dead space (Bohr equation)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -637,7 +703,9 @@
         "Correct: This presentation is classic for tension pneumothorax, usually from trauma; air enters the pleural space but cannot escape, causing progressive pressure buildup that compresses the vena cava and reduces venous return, producing obstructive shock \u2014 a medical emergency requiring immediate decompression."
       ],
       "overview": "Tension pneumothorax, usually from trauma, occurs when air enters the pleural space but cannot exit, causing progressive pressure buildup that compresses the great veins, reduces venous return and cardiac output, and causes hypotension, JVD, and tracheal deviation away from the affected side; it is a medical emergency treated with emergent needle decompression or chest tube placement.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Tension pneumothorax",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -656,7 +724,9 @@
         "Correct: Restrictive lung disease reduces both FEV1 and FVC roughly proportionally, so the FEV1/FVC ratio remains normal or increased (not reduced, the obstructive hallmark)."
       ],
       "overview": "Restrictive lung diseases reduce lung volumes and cause proportional reductions in FEV1 and FVC, so the FEV1/FVC ratio remains normal (>0.70) \u2014 the key distinguishing feature from obstructive disease, where FEV1 falls more than FVC. Residual volume, FRC, and TLC are all decreased in restriction (increased in obstruction).",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Idiopathic pulmonary fibrosis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -677,7 +747,9 @@
         "Incorrect: CO actually causes a LEFT shift of the dissociation curve, increasing affinity for remaining O2 and worsening tissue delivery, not a right shift."
       ],
       "overview": "CO poisoning causes headache, malaise, cherry-red lips, and a normal PaO2 with normal/near-normal pulse oximetry despite significant hypoxia, because standard pulse oximeters cannot distinguish carboxyhemoglobin from oxyhemoglobin. Diagnosis requires co-oximetry measuring carboxyhemoglobin level; treatment is 100% oxygen.",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Carbon monoxide poisoning",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -696,7 +768,9 @@
         "Incorrect: Esophageal lesions are found in the posterior mediastinum, unrelated to myasthenia gravis."
       ],
       "overview": "The mediastinum is divided into anterior, middle, and posterior compartments with characteristic masses: anterior includes thymoma (associated with myasthenia gravis), teratoma/germ cell tumors, and thyroid masses; middle mediastinal masses are typically lymphadenopathy; posterior masses are neurogenic tumors arising from nerve/ganglion tissue.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Thymoma (myasthenia gravis)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -715,7 +789,9 @@
         "Correct: Unlike systemic vessels, pulmonary vessels vasoconstrict in response to low alveolar oxygen ('hypoxic vasoconstriction'), redirecting blood flow toward better-ventilated regions and optimizing V/Q matching; this is also critical for keeping pulmonary vascular resistance high in fetal circulation."
       ],
       "overview": "The pulmonary circulation is a low-pressure, high-compliance system that, uniquely, vasoconstricts in response to local alveolar hypoxia, redirecting blood flow toward well-ventilated regions. This mechanism is essential in fetal life and becomes pathologic when generalized, as in COPD or high altitude, where diffuse hypoxia causes pulmonary hypertension.",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Hypoxic pulmonary vasoconstriction",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -734,7 +810,9 @@
         "Incorrect: Wall thickness/rupture susceptibility is not the mechanism described by the Law of Laplace."
       ],
       "overview": "Surfactant, produced by type II pneumocytes, reduces alveolar surface tension and thus collapsing pressure per the Law of Laplace; without adequate surfactant, small alveoli generate disproportionately high collapsing pressure and are prone to atelectasis, as in neonatal respiratory distress syndrome.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Law of Laplace (alveolar collapse)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -755,7 +833,9 @@
         "Incorrect: PTHrP-mediated hypercalcemia is classic for squamous cell lung carcinoma, not sarcoidosis."
       ],
       "overview": "Sarcoidosis is an immune-mediated multisystem disease with widespread non-caseating granulomas, classically causing bilateral hilar lymphadenopathy, erythema nodosum, uveitis, and hypercalcemia from macrophage-derived 1-alpha-hydroxylase increasing calcitriol production. It is driven by TH1 CD4+ T cells secreting IL-2 and interferon-gamma, and treatment is corticosteroids or other immunosuppressants.",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Sarcoidosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -774,7 +854,9 @@
         "Incorrect: DLCO is characteristically reduced in emphysema (loss of alveolar-capillary surface area), not used to quantify mucous gland hypertrophy in chronic bronchitis."
       ],
       "overview": "Chronic bronchitis is defined clinically as a productive cough for at least 3 months over two consecutive years, strongly associated with smoking. Pathologically it features submucosal mucous gland hypertrophy quantified by the Reid index (diagnostic if >0.4), along with epithelial metaplasia from ciliated columnar to stratified squamous and mucous plugging.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Chronic bronchitis (Reid index)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -793,7 +875,9 @@
         "Incorrect: A ratio of 0.6 is above the 0.5 threshold, and meeting even one Light's criterion classifies the effusion as exudative."
       ],
       "overview": "Pleural effusions are classified as transudative (increased hydrostatic pressure or decreased oncotic pressure, e.g., heart failure) or exudative (increased capillary permeability, e.g., pneumonia, malignancy); Light's criteria distinguish exudates, which generally require drainage, from transudates, typically managed by treating the underlying cause.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Light's criteria (pleural effusion)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -814,7 +898,9 @@
         "Incorrect: Labs show normal adrenal function, arguing against adrenal insufficiency; the mechanism is inappropriate ADH secretion, not adrenal invasion."
       ],
       "overview": "Small cell lung cancer is a highly aggressive, centrally located neuroendocrine tumor (Kulchitsky cell origin, positive for chromogranin A/synaptophysin/neuron-specific enolase) strongly associated with smoking. It is well known for paraneoplastic syndromes including SIADH, ectopic ACTH (Cushing syndrome), and Lambert-Eaton myasthenic syndrome, and is generally not amenable to surgical resection.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Small cell lung cancer (SIADH)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -835,7 +921,9 @@
         "Incorrect: Meconium aspiration typically occurs in term/post-term infants with meconium-stained fluid, not preterm infants, and causes patchy obstruction rather than diffuse ground-glass opacities."
       ],
       "overview": "Neonatal RDS results from surfactant deficiency (type II pneumocytes mature around 35 weeks), increasing alveolar surface tension and causing collapse per the Law of Laplace. Risk factors include prematurity, maternal diabetes, and cesarean delivery; prevention uses antenatal maternal glucocorticoids, treatment is exogenous surfactant, and fetal lung maturity is assessed via the amniotic fluid lecithin/sphingomyelin ratio.",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "Neonatal respiratory distress syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -854,7 +942,9 @@
         "Incorrect: HbF is composed of two alpha and two gamma chains, not four alpha chains."
       ],
       "overview": "Fetal hemoglobin (HbF, alpha2gamma2) predominates from 8 weeks gestation to several months after birth and has a left-shifted oxygen dissociation curve because its gamma chains bind 2,3-BPG poorly compared to beta chains; this is essential because fetal PaO2 is only ~40 mmHg, requiring higher affinity to load oxygen from maternal blood.",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Fetal hemoglobin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -875,7 +965,9 @@
         "Correct: M. tuberculosis is an obligate aerobe that prefers the upper lobes/apices, which have higher oxygen tension. Reactivation TB classically shows upper lobe cavitary lesions with caseous and liquefactive necrosis and hemoptysis from vascular erosion. TNF-alpha inhibitors are a well-known risk factor for reactivation of latent TB."
       ],
       "overview": "Reactivation TB occurs when immune suppression (HIV, TNF-alpha inhibitors, transplant) allows dormant M. tuberculosis to reactivate, classically causing upper lobe cavitary lesions with caseous/liquefactive necrosis, hemoptysis, fever, night sweats, and weight loss. This obligate aerobe preferentially localizes to the oxygen-rich apices (zone 1, high V/Q), in contrast to primary TB which favors the Ghon focus in the mid-to-lower lung with ipsilateral lymph node involvement.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "Reactivation tuberculosis (apical predilection)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -894,7 +986,9 @@
         "Incorrect: Potassium is not the ion exchanged for bicarbonate in this process."
       ],
       "overview": "Bicarbonate is the major form of CO2 transport in blood (>90%), generated in RBCs by carbonic anhydrase; as HCO3- exits RBCs into plasma, chloride ions enter to preserve electrical neutrality (the 'chloride shift'), while H+ produced in the reaction is buffered by deoxyhemoglobin to prevent a dangerous fall in intracellular pH.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Chloride shift",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -915,7 +1009,9 @@
         "Incorrect: PE decreases LV preload due to obstructed flow through pulmonary vessels, and PA pressure rises rather than falls."
       ],
       "overview": "PE most often arises from DVT embolizing to the pulmonary arteries, causing V/Q mismatch and hypoxemia, hyperventilation-induced hypocapnia, increased pulmonary vascular resistance leading to RV strain (S1Q3T3 pattern), and decreased LV preload/cardiac output with compensatory sympathetic activation. CT angiogram is the preferred diagnostic test; treatment is anticoagulation, or thrombolysis/embolectomy if shock is present.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Pulmonary embolism",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -934,7 +1030,9 @@
         "Correct: Pulmonary fibrosis increases the diffusion distance between alveolar air and capillary blood, impairing oxygen diffusion per Fick's law. This causes hypoxemia with an elevated A-a gradient that typically improves with supplemental oxygen."
       ],
       "overview": "Diffusion limitation occurs when increased alveolar membrane thickness (fibrosis, edema) or decreased surface area (emphysema) impairs oxygen transfer; it produces hypoxemia with an elevated A-a gradient that improves with supplemental oxygen (unlike shunt), and is assessed clinically using DLCO, which is reduced in these conditions.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Idiopathic pulmonary fibrosis",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -955,7 +1053,9 @@
         "Incorrect: Epiglottitis causes upper airway obstruction with stridor, not bilateral infiltrates and hypoxemic respiratory failure from sepsis."
       ],
       "overview": "ARDS is triggered by conditions like sepsis, aspiration, trauma, or pancreatitis, causing neutrophil-mediated diffuse alveolar damage, non-cardiogenic pulmonary edema, hyaline membrane formation, and shunting. Diagnosis requires bilateral infiltrates, PaO2/FiO2 <300 within one week of an inciting event, and exclusion of cardiogenic edema; treatment centers on lung-protective mechanical ventilation with low tidal volumes.",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "ARDS",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -974,7 +1074,9 @@
         "Incorrect: Alpha-1 antitrypsin deficiency causes panacinar emphysema, unrelated to ciliary structure or situs inversus."
       ],
       "overview": "Kartagener syndrome is a variant of primary ciliary dyskinesia caused by autosomal recessive mutations affecting dynein arm structure/function, impairing ciliary beating; this causes bronchiectasis and chronic sinopulmonary infections, male infertility, and situs inversus from dysfunctional nodal cilia disrupting normal embryonic left-right axis determination.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Primary ciliary dyskinesia (Kartagener syndrome)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -995,7 +1097,9 @@
         "Incorrect: Non-caseating granulomas are the hallmark of sarcoidosis, which typically shows hilar lymphadenopathy on imaging, not idiopathic PAH."
       ],
       "overview": "Idiopathic PAH (WHO Group 1) classically affects young women and results from high pulmonary vascular resistance from increased vasoconstrictors (endothelin) and decreased vasodilators (nitric oxide), with plexiform lesions on pathology and BMPR2 mutations in a substantial subset. Normal pulmonary capillary wedge pressure distinguishes it from PH due to left heart disease; treatments include prostacyclin analogs, endothelin receptor antagonists, PDE-5 inhibitors, and soluble guanylate cyclase stimulators.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Idiopathic pulmonary arterial hypertension",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1014,7 +1118,9 @@
         "Correct: As PaCO2 rises with hypoventilation, PAO2 falls proportionally per the alveolar gas equation. Because alveolar and arterial oxygen fall together with otherwise normal lungs, the A-a gradient remains normal \u2014 the classic pattern for hypoventilation-induced hypoxemia."
       ],
       "overview": "Hypoxemia with a normal A-a gradient occurs only with high altitude (low PIO2) and hypoventilation (elevated PaCO2 reduces PAO2), neither involving primary lung pathology, and both improve with supplemental oxygen. Hypoxemia with an elevated A-a gradient signals diffusion limitation, shunt, or V/Q mismatch, reflecting actual lung disease.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Alveolar gas equation (hypoventilation)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1033,7 +1139,9 @@
         "Incorrect: AERD is not a classic IgE-mediated type I hypersensitivity reaction; it results from dysregulated arachidonic acid metabolism."
       ],
       "overview": "Aspirin-exacerbated respiratory disease (Samter's triad) features chronic asthma/rhinosinusitis with nasal polyps and acute bronchospasm after aspirin/NSAID ingestion; the mechanism involves cyclooxygenase inhibition shunting arachidonic acid toward leukotriene overproduction, treated with leukotriene receptor antagonists like montelukast or zafirlukast.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Aspirin-exacerbated respiratory disease",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1052,7 +1160,9 @@
         "Incorrect: This is a general fact about CO2 transport (bicarbonate >90%) but does not describe the Haldane effect specifically."
       ],
       "overview": "The Haldane effect and Bohr effect are reciprocal allosteric phenomena: the Bohr effect describes how CO2/H+ affects O2 affinity (right shift with increased CO2/H+), while the Haldane effect describes how O2 affects CO2-carrying capacity (deoxyhemoglobin carries more CO2). Together they optimize gas exchange at tissues and lungs.",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Haldane effect",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1071,7 +1181,9 @@
         "Correct: 2,3-BPG is a negative allosteric effector produced in response to chronic hypoxia; it decreases hemoglobin's oxygen affinity, shifting the curve rightward and increasing P50, allowing greater oxygen release to tissues."
       ],
       "overview": "2,3-BPG is produced in RBCs (diverted from glycolysis at the cost of ATP) and acts as a negative allosteric effector of hemoglobin, decreasing oxygen affinity and shifting the dissociation curve rightward; levels rise in chronic hypoxia states (COPD, high altitude, chronic anemia) to increase oxygen delivery to tissues.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "2,3-bisphosphoglycerate (2,3-BPG)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1090,7 +1202,9 @@
         "Incorrect: A right shift decreases, not increases, hemoglobin's affinity for oxygen, and P50 increases, not decreases."
       ],
       "overview": "The Bohr effect describes how increased CO2, decreased pH, and increased temperature \u2014 markers of increased tissue metabolism \u2014 shift the oxygen-hemoglobin curve rightward, favoring the low-affinity taut form of hemoglobin and increasing oxygen unloading to tissues; P50 increases with a right shift.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Oxygen-hemoglobin dissociation curve",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1109,7 +1223,9 @@
         "Incorrect: Obesity causes restriction from poor breathing mechanics (extrapulmonary), typically with a normal DLCO."
       ],
       "overview": "DLCO measures gas transfer via diffusion-limited CO uptake; it is reduced in conditions destroying alveolar surface area (emphysema) or increasing diffusion distance (fibrosis, edema), but normal in extrapulmonary restrictive causes (obesity, neuromuscular weakness) and in asthma, where obstruction rather than diffusion is the primary problem.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "DLCO (diffusing capacity)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1128,7 +1244,9 @@
         "Correct: Alpha-1 antitrypsin deficiency causes a protease-antiprotease imbalance resulting in panacinar emphysema, destroying the entire acinus, characteristically affecting the lower lobes."
       ],
       "overview": "Emphysema results from destruction of alveolar walls due to protease-antiprotease imbalance; smoking causes excess protease production, producing centriacinar emphysema predominantly in the upper lobes, while alpha-1 antitrypsin deficiency causes panacinar emphysema predominantly in the lower lobes. AAT deficiency patients should never smoke, as smoking accelerates lung damage.",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Alpha-1 antitrypsin deficiency",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -1149,7 +1267,9 @@
         "Incorrect: ARDS shows bilateral infiltrates and an abnormal PaO2/FiO2 ratio, not normal PaO2 with brown blood."
       ],
       "overview": "Methemoglobinemia results from oxidation of hemoglobin's iron from Fe2+ to Fe3+, which cannot bind oxygen, producing functional anemia with normal PaO2 but low SaO2, 'chocolate brown' blood, and oxygen-refractory cyanosis. Classic triggers include benzocaine, nitrites/nitric oxide, and dapsone; treatment is methylene blue, a reducing agent.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Methemoglobinemia",
+      "angle": "mechanism"
     }
   ]
 }
