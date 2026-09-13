@@ -18,7 +18,9 @@
         "Incorrect: there is no true factor deficiency in APS; the prolonged aPTT is a laboratory artifact from antibody interference with the phospholipid reagent."
       ],
       "overview": "Antiphospholipid syndrome is an acquired hypercoagulable state from antiphospholipid antibodies (lupus anticoagulant, anticardiolipin, anti-\u03b22-glycoprotein) causing venous and arterial thrombosis and recurrent pregnancy loss. Despite a prolonged aPTT (a 'misnomer' laboratory artifact from antibody interference with the phospholipid-dependent assay), patients are hypercoagulable in vivo; antibodies also cause false-positive syphilis (RPR/VDRL) testing, and a mixing study fails to correct the prolonged aPTT.",
-      "id": "2026-08-29-01"
+      "id": "2026-08-29-01",
+      "topic": "Antiphospholipid syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Incorrect: leucovorin's rescue mechanism is metabolic bypass, not enhanced renal clearance of methotrexate."
       ],
       "overview": "Methotrexate inhibits dihydrofolate reductase, blocking conversion of folate to tetrahydrofolate and thus thymidine synthesis, arresting rapidly dividing cells in S phase. Leucovorin (folinic acid) can be converted directly to THF without requiring dihydrofolate reductase, allowing 'rescue' of normal cells from methotrexate's myelosuppressive and mucositis effects while chemotherapy continues to act on tumor cells.",
-      "id": "2026-08-29-02"
+      "id": "2026-08-29-02",
+      "topic": "Leucovorin rescue",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -58,7 +62,9 @@
         "Incorrect: ristocetin cofactor testing evaluates vWF function/Bernard-Soulier syndrome, not hereditary spherocytosis."
       ],
       "overview": "Hereditary spherocytosis is typically an autosomal dominant disorder of RBC membrane cytoskeletal proteins (spectrin, ankyrin, band proteins), producing spherical, poorly deformable red cells that undergo chronic extravascular hemolysis in the spleen. Diagnosis is supported by a negative Coombs test, increased osmotic fragility, and the EMA binding test; treatment is splenectomy, after which Howell-Jolly bodies appear.",
-      "id": "2026-08-29-03"
+      "id": "2026-08-29-03",
+      "topic": "Hereditary spherocytosis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -79,7 +85,9 @@
         "Incorrect: hypercalcemia contributes to renal injury via volume contraction and decreased GFR but works together with light chains rather than being unrelated to them."
       ],
       "overview": "Multiple myeloma is a plasma cell malignancy producing monoclonal immunoglobulin and excess light chains, diagnosed via CRAB criteria (hyperCalcemia, Renal failure, Anemia, Bone lesions) plus clonal bone marrow plasma cells. Renal injury classically results from light-chain cast nephropathy in the distal tubule, compounded by hypercalcemia, while lytic 'punched-out' bone lesions result from osteoclast activation via RANKL/IL-6.",
-      "id": "2026-08-29-04"
+      "id": "2026-08-29-04",
+      "topic": "Multiple myeloma",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -98,7 +106,9 @@
         "Incorrect: cyclooxygenase is inhibited by aspirin/NSAIDs, not warfarin."
       ],
       "overview": "Warfarin inhibits hepatic vitamin K epoxide reductase, preventing regeneration of active (reduced) vitamin K, which is required as a cofactor for \u03b3-carboxylation of clotting factors II, VII, IX, and X, plus anticoagulant proteins C and S. Monitoring is via PT/INR (most sensitive to short-half-life factor VII), and warfarin should be avoided in pregnancy due to fetal warfarin syndrome risk.",
-      "id": "2026-08-29-05"
+      "id": "2026-08-29-05",
+      "topic": "Warfarin",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -117,7 +127,9 @@
         "Incorrect: dexrazoxane (an iron chelator) is used to limit anthracycline-induced cardiotoxicity, not trastuzumab-induced cardiotoxicity."
       ],
       "overview": "Trastuzumab, a monoclonal antibody against HER2, can cause cardiomyopathy (usually asymptomatic decreased LVEF) through blockade of HER2 signaling in myocytes. Unlike anthracycline cardiotoxicity (free-radical-mediated myocyte necrosis, often dose-dependent and irreversible), trastuzumab cardiotoxicity is generally not dose-dependent, often reversible, and biopsy shows no necrosis, allowing re-challenge after LVEF recovery.",
-      "id": "2026-08-29-06"
+      "id": "2026-08-29-06",
+      "topic": "Trastuzumab cardiotoxicity",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect: ADAMTS13 relates to TTP, not PNH."
       ],
       "overview": "Paroxysmal nocturnal hemoglobinuria arises from an acquired PIGA gene mutation in a hematopoietic stem cell, causing loss of GPI-anchored complement-inhibitory proteins (CD55/CD59) on blood cells, leading to complement-mediated intravascular hemolysis, hemoglobinuria (classically dark morning urine), thrombosis, and cytopenias. Eculizumab/ravulizumab, anti-C5 monoclonal antibodies, block membrane attack complex formation and reduce intravascular hemolysis, though mild extravascular hemolysis from C3 opsonization may persist.",
-      "id": "2026-08-29-07"
+      "id": "2026-08-29-07",
+      "topic": "Eculizumab/ravulizumab (complement inhibitors)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -157,7 +171,9 @@
         "Incorrect: fluid restriction would worsen, not prevent, cisplatin nephrotoxicity; hydration/diuresis is protective."
       ],
       "overview": "Platinum agents (cisplatin, carboplatin, oxaliplatin) crosslink DNA like alkylating agents and are used for various solid tumors. Cisplatin's dose-limiting toxicity is nephrotoxicity, presenting as AKI, minimized with IV normal saline hydration (and amifostine in select cases); all platinum agents can also cause peripheral sensory neuropathy, ototoxicity, and significant nausea/vomiting.",
-      "id": "2026-08-29-08"
+      "id": "2026-08-29-08",
+      "topic": "Cisplatin nephrotoxicity",
+      "angle": "prevention"
     },
     {
       "format": "simple4",
@@ -176,7 +192,9 @@
         "Incorrect: G1 arrest is not the mechanism described for bleomycin."
       ],
       "overview": "Bleomycin generates free radicals causing single/double-strand DNA breaks; because this damage occurs during S phase, affected cells arrest and die in G2 phase, unable to progress to mitosis. Its dose-limiting toxicity is pulmonary fibrosis/pneumonitis, particularly in older patients, due to low bleomycin hydrolase activity in lung tissue.",
-      "id": "2026-08-29-09"
+      "id": "2026-08-29-09",
+      "topic": "Bleomycin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -197,7 +215,9 @@
         "Correct: Reed-Sternberg (and lacunar variant) cells of Hodgkin lymphoma are large, usually B-cell derived, and characteristically CD15+ and CD30+ but typically negative for other B-cell markers; the nodular sclerosing subtype (most common, especially in young women) shows collagen bands and lacunar cell variants."
       ],
       "overview": "Hodgkin lymphoma is characterized by Reed-Sternberg cells (large, binucleate 'owl-eyed' cells, usually B-cell derived, CD15+/CD30+) within a background of reactive inflammatory cells. Nodular sclerosing is the most common subtype, often in young women, showing collagen bands and lacunar cell variants, typically presenting with cervical or mediastinal lymphadenopathy and orderly, contiguous nodal spread with generally good prognosis.",
-      "id": "2026-08-29-10"
+      "id": "2026-08-29-10",
+      "topic": "Hodgkin lymphoma (nodular sclerosis)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -216,7 +236,9 @@
         "Correct: deletion of three alpha genes causes HbH disease, where excess unpaired beta chains form unstable HbH (\u03b24) tetramers that damage red cells, causing chronic extravascular hemolysis."
       ],
       "overview": "Alpha thalassemia results from deletion of one to four of the four alpha-globin genes, with increasing severity as more genes are deleted. Three-gene deletion (HbH disease) causes excess unstable beta-chain tetramers (HbH) that damage red cells, causing chronic hemolytic anemia with splenomegaly, target cells, and susceptibility to oxidative hemolytic crises, while four-gene deletion (Hgb Barts) is incompatible with life.",
-      "id": "2026-08-29-11"
+      "id": "2026-08-29-11",
+      "topic": "Alpha-thalassemia (HbH disease)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -237,7 +259,9 @@
         "Incorrect: this describes DIC, which would show prolonged PT/PTT and low fibrinogen from factor consumption, not present here."
       ],
       "overview": "TTP results from severe ADAMTS13 deficiency (usually due to an acquired autoantibody), preventing cleavage of ultra-large vWF multimers, which cause platelet aggregation and microthrombi in small vessels. The classic pentad is fever, neurologic symptoms, acute kidney injury, thrombocytopenia, and MAHA (schistocytes), with normal PT/PTT distinguishing it from DIC. First-line treatment is plasma exchange; platelet transfusion is contraindicated.",
-      "id": "2026-08-29-12"
+      "id": "2026-08-29-12",
+      "topic": "Thrombotic thrombocytopenic purpura",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -256,7 +280,9 @@
         "Correct: aspirin irreversibly inhibits COX-1 and COX-2, decreasing thromboxane A2 synthesis for the lifetime of the anucleate platelet (7-10 days), unlike other NSAIDs which reversibly inhibit COX and cause only transient platelet inhibition."
       ],
       "overview": "Aspirin irreversibly inhibits cyclooxygenase (COX-1 and COX-2), decreasing thromboxane A2 synthesis and platelet aggregation for the entire 7-10 day lifespan of the affected platelet, distinguishing it from other NSAIDs (which reversibly inhibit COX and cause only transient antiplatelet effects). It is used for secondary prevention of coronary and cerebrovascular events, with adverse effects including GI bleeding/ulcers, tinnitus, and Reye syndrome in children.",
-      "id": "2026-08-29-13"
+      "id": "2026-08-29-13",
+      "topic": "Aspirin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -277,7 +303,9 @@
         "Incorrect: protamine reverses heparin's anticoagulant effect but does not address the antibody-mediated process, and continuing heparin worsens HIT."
       ],
       "overview": "HIT type II is caused by IgG antibodies against heparin-platelet factor 4 complexes, causing platelet activation and paradoxical thrombosis with significant thrombocytopenia (>50% drop) 5-10 days after heparin exposure. Diagnosis uses the 4T score and serotonin release assay. Treatment: stop all heparin, start a direct thrombin inhibitor or factor Xa inhibitor, and delay warfarin until platelets recover to avoid skin necrosis.",
-      "id": "2026-08-29-14"
+      "id": "2026-08-29-14",
+      "topic": "Heparin-induced thrombocytopenia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -296,7 +324,9 @@
         "Incorrect: Hgb Barts (\u03b34) is seen in the most severe form of alpha thalassemia (four-gene deletion), not beta thalassemia."
       ],
       "overview": "Beta thalassemia results from point mutations reducing beta-globin synthesis, most often in patients of Mediterranean heritage. Beta thalassemia major (both genes severely affected) causes severe microcytic, hypochromic hemolytic anemia beginning in infancy as HbF production wanes, with electrophoresis showing decreased/absent HbA and increased HbA2 and HbF; patients become transfusion-dependent with risk of secondary iron overload requiring chelation therapy.",
-      "id": "2026-08-29-15"
+      "id": "2026-08-29-15",
+      "topic": "Beta-thalassemia major",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -317,7 +347,9 @@
         "Incorrect: acute chest syndrome is a medical emergency requiring active intervention given its high mortality risk, not observation."
       ],
       "overview": "Acute chest syndrome is a vaso-occlusive crisis of the pulmonary microvasculature in sickle cell disease, often triggered by infection, and is the leading cause of death in adult sickle cell patients. It presents with chest pain, dyspnea, hypoxia, and a new infiltrate resembling pneumonia. Management includes fluids, analgesia, oxygen, bronchodilators, antibiotics, and transfusion as needed to reduce the percentage of HbS.",
-      "id": "2026-08-29-16"
+      "id": "2026-08-29-16",
+      "topic": "Acute chest syndrome (sickle cell disease)",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -336,7 +368,9 @@
         "Incorrect: iron chelation to reduce free radical damage describes dexrazoxane's mechanism for anthracycline cardiotoxicity, not mesna's mechanism."
       ],
       "overview": "Cyclophosphamide and ifosfamide are prodrugs bioactivated by the liver; their toxic metabolite acrolein damages the bladder urothelium, causing hemorrhagic cystitis with hematuria. Mesna binds and inactivates acrolein within the urine, and adequate hydration further reduces this risk.",
-      "id": "2026-08-29-17"
+      "id": "2026-08-29-17",
+      "topic": "Mesna",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -355,7 +389,9 @@
         "Incorrect: hepatitis A reactivation is not a described risk of rituximab therapy."
       ],
       "overview": "Rituximab is a monoclonal antibody against CD20 that depletes B cells via ADCC, complement-dependent cytotoxicity, and direct apoptosis, and is used in B-cell malignancies (NHL, CLL), rheumatoid arthritis, and ITP. Its most serious adverse effect is hepatitis B reactivation (requiring pretreatment screening), along with opportunistic infection risks such as progressive multifocal leukoencephalopathy (JC virus) and PJP.",
-      "id": "2026-08-29-18"
+      "id": "2026-08-29-18",
+      "topic": "Rituximab",
+      "angle": "prevention"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Incorrect: adenosine deaminase relates to purine metabolism and hairy cell leukemia drug resistance mechanisms, not this hemolytic presentation."
       ],
       "overview": "G6PD deficiency is an X-linked recessive enzymopathy impairing the HMP shunt's production of NADPH, needed to maintain reduced glutathione and protect RBCs from oxidative damage. Hemolytic episodes are triggered by oxidative stressors (infections, sulfa drugs, dapsone, antimalarials, fava beans), producing Heinz bodies (oxidized precipitated hemoglobin) and bite cells (from splenic removal of Heinz bodies), with both intravascular and extravascular hemolysis.",
-      "id": "2026-08-29-19"
+      "id": "2026-08-29-19",
+      "topic": "G6PD deficiency",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -393,7 +431,9 @@
         "Incorrect: RhoGAM prevents maternal antibody formation; it does not induce it, and naturally forming Rh antibodies are IgG, not IgM (unlike ABO antibodies)."
       ],
       "overview": "In Rh(D)-negative mothers carrying a D-positive fetus, fetal red cells entering maternal circulation (typically at delivery) can trigger maternal IgG anti-D antibody formation, which may cross the placenta and cause hemolytic disease in a subsequent D-positive pregnancy. Anti-D immune globulin (RhoGAM), given prophylactically, causes rapid clearance of fetal D+ cells before maternal antibodies can form, preventing isoimmunization.",
-      "id": "2026-08-29-20"
+      "id": "2026-08-29-20",
+      "topic": "Anti-D immune globulin (RhoGAM)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -412,7 +452,9 @@
         "Incorrect: GPVI is not discussed as a deficiency causing a described platelet disorder."
       ],
       "overview": "Bernard-Soulier syndrome is an autosomal recessive disorder of deficient GPIb receptors, impairing platelet adhesion to von Willebrand factor; it features giant platelets, mild thrombocytopenia, prolonged bleeding time, and an abnormal ristocetin cofactor assay that does not correct with added vWF. This contrasts with Glanzmann thrombasthenia (GPIIb/IIIa deficiency, impaired aggregation, normal platelet count/size, normal ristocetin test but abnormal aggregometry).",
-      "id": "2026-08-29-21"
+      "id": "2026-08-29-21",
+      "topic": "Bernard-Soulier syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -431,7 +473,9 @@
         "Incorrect: antithrombin III deficiency is a separate inherited thrombophilia unrelated to Factor V Leiden."
       ],
       "overview": "Factor V Leiden is the most common inherited thrombophilia, caused by a point mutation in the factor V gene that renders factor Va resistant to inactivation by activated protein C, prolonging its procoagulant activity ('activated protein C resistance'). It is associated with venous thromboembolism and recurrent pregnancy loss, with normal PT, aPTT, and platelet counts, requiring specialized assays for diagnosis.",
-      "id": "2026-08-29-22"
+      "id": "2026-08-29-22",
+      "topic": "Factor V Leiden",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -450,7 +494,9 @@
         "Correct: vincristine's classic, dose-limiting toxicity is neurotoxicity (sensory/motor peripheral neuropathy, autonomic dysfunction including constipation/paralytic ileus and orthostatic hypotension) with relatively mild myelosuppression."
       ],
       "overview": "Vinca alkaloids (vincristine, vinblastine) bind \u03b2-tubulin and inhibit microtubule polymerization, arresting mitosis in metaphase. Vincristine's dose-limiting toxicity is neurotoxicity from loss of axonal transport (sensory/motor neuropathy, autonomic dysfunction), with only mild myelosuppression, whereas vinblastine causes severe myelosuppression with less neurotoxicity.",
-      "id": "2026-08-29-23"
+      "id": "2026-08-29-23",
+      "topic": "Vincristine neurotoxicity",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -469,7 +515,9 @@
         "Incorrect: spontaneous aggregation without ristocetin is not a described finding of vWD."
       ],
       "overview": "Von Willebrand disease is the most common inherited bleeding disorder, caused by deficient or dysfunctional von Willebrand factor, which normally links platelets to subendothelial collagen (via GPIb) and carries factor VIII. The ristocetin cofactor assay shows absent aggregation that corrects with added normal vWF (distinguishing vWD from Bernard-Soulier syndrome); patients may show prolonged bleeding time and variably prolonged PTT (from low factor VIII), and treatment includes desmopressin to release stored vWF/factor VIII.",
-      "id": "2026-08-29-24"
+      "id": "2026-08-29-24",
+      "topic": "Von Willebrand disease",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -490,7 +538,9 @@
         "Incorrect: cladribine is a purine analog used preferentially in hairy cell leukemia, not APL."
       ],
       "overview": "Acute promyelocytic leukemia (a subtype of AML) is defined by t(15;17), producing the PML-RARA fusion gene that blocks promyelocyte differentiation via an abnormal retinoic acid receptor. Promyelocytes are packed with Auer-rod-containing granules whose release classically triggers DIC (bleeding from IV sites, low fibrinogen, prolonged PT/PTT, elevated D-dimer). Treatment includes all-trans retinoic acid, which induces maturation of the malignant cells.",
-      "id": "2026-08-29-25"
+      "id": "2026-08-29-25",
+      "topic": "Acute promyelocytic leukemia",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -511,7 +561,9 @@
         "Incorrect: this patient was not on heparin; the mechanism is protein C depletion, not heparin cross-reactivity."
       ],
       "overview": "Warfarin inhibits vitamin K epoxide reductase, blocking \u03b3-carboxylation of factors II, VII, IX, X and proteins C and S. Because protein C (like factor VII) has a short half-life, early warfarin therapy causes a transient hypercoagulable state before the longer-half-life procoagulant factors fall, risking thrombosis \u2014 most dramatically as warfarin-induced skin necrosis in patients with protein C deficiency. This is why heparin bridging is used when initiating warfarin for acute thrombosis.",
-      "id": "2026-08-29-26"
+      "id": "2026-08-29-26",
+      "topic": "Warfarin-induced skin necrosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Correct: Burkitt lymphoma is driven by MYC overexpression (classically from t(8;14)), causing extremely rapid proliferation with a high rate of spontaneous apoptosis; tingible-body macrophages engulfing apoptotic debris create pale 'stars' against the dark 'sky' of densely packed malignant B cells."
       ],
       "overview": "Burkitt lymphoma is a highly aggressive B-cell non-Hodgkin lymphoma driven by MYC gene translocation (classically t(8;14)), causing extreme proliferation rates. Its 'starry sky' histologic appearance results from numerous tingible-body macrophages (pale stars) engulfing apoptotic tumor cell debris amid sheets of densely packed malignant lymphocytes (dark sky); it is strongly associated with EBV infection, especially in the endemic (African, jaw mass) form.",
-      "id": "2026-08-29-27"
+      "id": "2026-08-29-27",
+      "topic": "Burkitt lymphoma",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -551,7 +605,9 @@
         "Correct: in an adult or postmenopausal woman, iron deficiency anemia mandates a workup for occult blood loss, most importantly colon cancer."
       ],
       "overview": "Iron deficiency anemia is the most common cause of microcytic anemia, characterized by low serum iron, low ferritin (storage form), and elevated transferrin/TIBC (the body's response to seek more iron) with low percent saturation. In an adult or postmenopausal patient, new iron deficiency must prompt evaluation for a source of chronic blood loss, especially colorectal cancer, via colonoscopy.",
-      "id": "2026-08-29-28"
+      "id": "2026-08-29-28",
+      "topic": "Iron deficiency anemia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -570,7 +626,9 @@
         "Incorrect: direct thrombin active-site inhibition describes direct thrombin inhibitors (argatroban, bivalirudin, dabigatran), not heparin."
       ],
       "overview": "Unfractionated heparin binds antithrombin III, markedly accelerating its inactivation of thrombin (IIa) and factor Xa, as well as IXa, XIa, and XIIa, and is monitored via aPTT (most sensitive to the intrinsic pathway factors it affects). Its anticoagulant effect can be reversed with protamine sulfate, and it carries risk of heparin-induced thrombocytopenia.",
-      "id": "2026-08-29-29"
+      "id": "2026-08-29-29",
+      "topic": "Unfractionated heparin",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -589,7 +647,9 @@
         "Incorrect: PML-RARA from t(15;17) is the hallmark of acute promyelocytic leukemia, not CML."
       ],
       "overview": "Chronic myelogenous leukemia is a myeloproliferative disorder driven nearly universally by the Philadelphia chromosome, t(9;22), producing the BCR-ABL fusion tyrosine kinase. It classically presents with marked leukocytosis featuring a full spectrum of granulocyte maturation stages plus basophilia, low leukocyte alkaline phosphatase, and splenomegaly; tyrosine kinase inhibitors (imatinib) are first-line therapy, with progression to blast crisis (>20% blasts) representing transformation to acute leukemia.",
-      "id": "2026-08-29-30"
+      "id": "2026-08-29-30",
+      "topic": "Chronic myeloid leukemia",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -610,7 +670,9 @@
         "Osteomyelitis typically presents acutely with fever and bone tenderness, unlike this patient's chronic, afebrile, progressive pain."
       ],
       "overview": "Sickle cell disease causes chronic vaso-occlusion of small vessels, which in bone can lead to avascular necrosis, most commonly of the femoral head, presenting as chronic progressive hip or groin pain distinct from the acute, febrile presentation of osteomyelitis (often due to Salmonella in these patients).",
-      "id": "2026-09-08-01"
+      "id": "2026-09-08-01",
+      "topic": "Avascular necrosis (sickle cell disease)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -629,7 +691,9 @@
         "PML-RARA fusion from t(15;17) is specific to acute promyelocytic leukemia, not polycythemia vera."
       ],
       "overview": "Polycythemia vera is a myeloproliferative disorder driven by the JAK2 V617F mutation in nearly all cases, causing increased red cell mass (and often platelets/WBCs) with an appropriately low erythropoietin level, distinguishing it from secondary polycythemia due to hypoxia or EPO-secreting tumors (where EPO is elevated). Clinical features include facial plethora, aquagenic pruritus, erythromelalgia, and increased thrombosis risk (e.g., Budd-Chiari syndrome).",
-      "id": "2026-09-08-02"
+      "id": "2026-09-08-02",
+      "topic": "Polycythemia vera",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -650,7 +714,9 @@
         "Correct - In beta thalassemia major, severely deficient beta-globin production leads to ineffective erythropoiesis and chronic anemia, driving massive compensatory erythroid hyperplasia (marrow expansion causing skull changes) and extramedullary hematopoiesis in the liver and spleen (hepatosplenomegaly)."
       ],
       "overview": "Beta thalassemia major results from severely reduced or absent beta-globin synthesis, causing unstable excess alpha chains, ineffective erythropoiesis, and chronic hemolytic anemia. Compensatory erythropoietin drive produces massive bone marrow expansion (skeletal deformities, \"chipmunk facies,\" crew-cut skull) and extramedullary hematopoiesis (hepatosplenomegaly), and patients become transfusion-dependent, risking secondary iron overload.",
-      "id": "2026-09-08-03"
+      "id": "2026-09-08-03",
+      "topic": "Beta-thalassemia major",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -671,7 +737,9 @@
         "The ristocetin cofactor assay evaluates von Willebrand factor activity and is used to diagnose von Willebrand disease, not hereditary spherocytosis."
       ],
       "overview": "Hereditary spherocytosis is caused by defects in RBC membrane cytoskeletal proteins (spectrin, ankyrin, band proteins), producing small spherical RBCs that lack central pallor and undergo chronic extravascular hemolysis in the spleen. The Coombs test is negative (not immune-mediated), and the osmotic fragility test confirms the diagnosis by showing increased RBC lysis in hypotonic solution.",
-      "id": "2026-09-08-04"
+      "id": "2026-09-08-04",
+      "topic": "Hereditary spherocytosis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -692,7 +760,9 @@
         "Rituximab targets CD20 and is used for B-cell malignancies, not CML."
       ],
       "overview": "CML is a myeloproliferative disorder driven by the Philadelphia chromosome t(9;22), producing the BCR-ABL fusion tyrosine kinase. Chronic-phase blood findings include marked leukocytosis with a full spectrum of granulocyte precursors and increased basophils. Imatinib and other tyrosine kinase inhibitors (dasatinib, nilotinib) provide long-term disease control by inhibiting BCR-ABL.",
-      "id": "2026-09-08-05"
+      "id": "2026-09-08-05",
+      "topic": "Chronic myeloid leukemia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -711,7 +781,9 @@
         "The BCR-ABL fusion from t(9;22) is characteristic of CML, not follicular lymphoma."
       ],
       "overview": "Follicular lymphoma is an indolent B-cell malignancy of germinal center origin, characterized by the t(14;18) translocation that causes overexpression of the anti-apoptotic protein BCL2. Normal germinal center B cells are typically BCL2-negative and undergo apoptosis unless positively selected, so BCL2 overexpression is a key marker distinguishing lymphoma from reactive follicular hyperplasia.",
-      "id": "2026-09-08-06"
+      "id": "2026-09-08-06",
+      "topic": "Follicular lymphoma",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -730,7 +802,9 @@
         "An isolated P2Y12 defect would impair ADP-induced aggregation but would not typically abolish thrombin-induced aggregation, and is not a described inherited platelet disorder in these notes."
       ],
       "overview": "Glanzmann thrombasthenia is an autosomal recessive disorder caused by deficiency of the platelet GPIIb/IIIa receptor, which normally binds fibrinogen and von Willebrand factor to mediate platelet-platelet aggregation. Patients have normal platelet count and size but abnormal platelet aggregation testing with ADP or thrombin, while the ristocetin cofactor assay (testing GPIb-mediated adhesion) remains normal \u2014 the mirror image of Bernard-Soulier syndrome.",
-      "id": "2026-09-08-07"
+      "id": "2026-09-08-07",
+      "topic": "Glanzmann thrombasthenia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -749,7 +823,9 @@
         "Correct - ABO antibodies arise naturally in early infancy from exposure to structurally similar bacterial antigens during gut colonization and are IgM, which is too large to cross the placenta, explaining why ABO incompatibility does not typically cause severe hemolytic disease of the newborn like Rh incompatibility can."
       ],
       "overview": "Unlike Rh(D) antibodies, which require prior sensitizing exposure and are IgG (able to cross the placenta), ABO blood group antibodies occur naturally without prior transfusion or pregnancy exposure, arising from cross-reactivity with similar bacterial gut antigens, and are of the IgM class, which does not cross the placenta.",
-      "id": "2026-09-08-08"
+      "id": "2026-09-08-08",
+      "topic": "ABO blood group antibodies",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -768,7 +844,9 @@
         "Ineffective erythropoiesis reflects failure of red cell maturation in the marrow, not the plasma/urine findings of active intravascular red cell lysis."
       ],
       "overview": "Intravascular hemolysis (e.g., mechanical hemolysis, PNH, ABO transfusion reaction) releases free hemoglobin directly into plasma, causing markedly decreased haptoglobin, hemoglobinuria, and hemosiderinuria \u2014 findings not typically seen with extravascular hemolysis, where RBCs are phagocytosed by splenic/hepatic macrophages.",
-      "id": "2026-09-08-09"
+      "id": "2026-09-08-09",
+      "topic": "Intravascular hemolysis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -787,7 +865,9 @@
         "A mixing study is used to differentiate a factor deficiency from an inhibitor when PT or PTT is prolonged, which is not the case here."
       ],
       "overview": "Factor XIII cross-links fibrin monomers to form a stable, mechanically strong clot but is not measured by PT or aPTT, so its deficiency presents with normal coagulation screening tests. The classic presentation is umbilical stump bleeding in a newborn, diagnosed with a clot solubility test showing that the clot dissolves in solution.",
-      "id": "2026-09-08-10"
+      "id": "2026-09-08-10",
+      "topic": "Factor XIII deficiency",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -808,7 +888,9 @@
         "ADAMTS13 deficiency causes TTP, not PNH; the clinical picture here (nocturnal hemoglobinuria, unusual-site thrombosis, negative Coombs, CD55/CD59 deficiency) is classic for PNH."
       ],
       "overview": "Paroxysmal nocturnal hemoglobinuria arises from an acquired PIGA gene mutation that impairs GPI-anchor synthesis, causing loss of the complement-regulatory proteins CD55 and CD59 from blood cell membranes and resulting in complement-mediated intravascular hemolysis. Classic features include morning hemoglobinuria, unusual-site venous thromboses (e.g., portal, hepatic, cerebral veins), and a negative Coombs test; treatment is with anti-C5 antibodies (eculizumab/ravulizumab).",
-      "id": "2026-09-08-11"
+      "id": "2026-09-08-11",
+      "topic": "Paroxysmal nocturnal hemoglobinuria",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -827,7 +909,9 @@
         "Correct - Tissue factor is a subendothelial glycoprotein exposed by vascular injury; it complexes with factor VIIa to activate factor X, initiating the extrinsic pathway, the major physiologic trigger of coagulation in vivo."
       ],
       "overview": "Vascular injury exposes tissue factor, a subendothelial glycoprotein that binds factor VIIa to activate factor X, initiating the extrinsic pathway (measured by PT), which is the physiologically dominant trigger of clotting. The intrinsic/contact pathway (factor XII, prekallikrein, HMWK) is mainly relevant to the aPTT assay and not to in vivo hemostasis.",
-      "id": "2026-09-08-12"
+      "id": "2026-09-08-12",
+      "topic": "Coagulation cascade (tissue factor)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -848,7 +932,9 @@
         "AA amyloidosis derives from serum amyloid A and is associated with chronic inflammatory conditions (e.g., rheumatoid arthritis), not the renal mechanism described here."
       ],
       "overview": "Multiple myeloma is a plasma cell malignancy that produces monoclonal immunoglobulins (usually IgG) and free light chains, causing the CRAB features: hypercalcemia, renal failure, anemia, and lytic bone lesions/pathologic fractures. Renal injury classically results from light-chain (Bence Jones protein) cast nephropathy when proximal tubular reabsorptive capacity is exceeded.",
-      "id": "2026-09-08-13"
+      "id": "2026-09-08-13",
+      "topic": "Multiple myeloma",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -867,7 +953,9 @@
         "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, unrelated to lead toxicity."
       ],
       "overview": "Lead poisoning inhibits delta-aminolevulinic acid dehydratase and ferrochelatase in the heme synthesis pathway, causing microcytic, hypochromic anemia with basophilic stippling on smear. Clinical features include abdominal pain (\"lead colic\"), constipation, gum lead lines, neuropathy (wrist/foot drop), and neurodevelopmental effects in children.",
-      "id": "2026-09-08-14"
+      "id": "2026-09-08-14",
+      "topic": "Lead poisoning",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -888,7 +976,9 @@
         "Correct - Anthracyclines like doxorubicin generate free radicals via their quinone groups, causing oxidative damage and necrosis of myocytes, which leads to systolic heart failure with decreased LVEF."
       ],
       "overview": "Anthracyclines (doxorubicin, daunorubicin) cause dose-related cardiotoxicity through free radical generation via their quinone groups, leading to myocyte necrosis and systolic heart failure (decreased LVEF). Dexrazoxane, an iron chelator, can limit this toxicity, and periodic echocardiograms are used for screening.",
-      "id": "2026-09-08-15"
+      "id": "2026-09-08-15",
+      "topic": "Doxorubicin (anthracycline) cardiotoxicity",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -907,7 +997,9 @@
         "Correct - Antithrombin III is the endogenous target that heparin binds to accelerate inactivation of thrombin and factor Xa; a deficiency of antithrombin III blunts heparin's effect, producing \"heparin resistance\" with an escalating dose requirement and minimal aPTT rise."
       ],
       "overview": "Heparin is an indirect anticoagulant that works by binding and greatly accelerating the activity of antithrombin III against thrombin (IIa) and factor Xa. Antithrombin III deficiency (inherited or acquired, e.g., nephrotic syndrome) classically presents as venous thrombosis and heparin resistance, where escalating heparin doses fail to raise the aPTT appropriately.",
-      "id": "2026-09-08-16"
+      "id": "2026-09-08-16",
+      "topic": "Heparin resistance (antithrombin III deficiency)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -926,7 +1018,9 @@
         "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, which presents with photosensitive blistering skin lesions, not acute neurovisceral attacks."
       ],
       "overview": "Acute intermittent porphyria results from deficiency of porphobilinogen deaminase, causing accumulation of the neurotoxic precursors delta-ALA and porphobilinogen. Attacks are triggered by drugs that induce cytochrome P450 (increasing heme demand), alcohol, and fasting/caloric restriction, presenting with abdominal pain, autonomic and psychiatric symptoms, and urine that darkens on standing; treatment includes hemin and glucose to suppress ALA synthase.",
-      "id": "2026-09-08-17"
+      "id": "2026-09-08-17",
+      "topic": "Acute intermittent porphyria",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -947,7 +1041,9 @@
         "Correct - APML is defined by t(15;17), creating the PML-RARA fusion gene that blocks promyelocyte maturation; all-trans retinoic acid, a vitamin A derivative, induces differentiation of the abnormal promyelocytes."
       ],
       "overview": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion gene that arrests promyelocyte maturation and predisposes to DIC due to release of procoagulant material (including Auer rods) from the myeloperoxidase-rich cells. All-trans retinoic acid induces terminal differentiation of the malignant promyelocytes and is central to treatment alongside management of the associated coagulopathy.",
-      "id": "2026-09-08-18"
+      "id": "2026-09-08-18",
+      "topic": "Acute promyelocytic leukemia",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -968,7 +1064,9 @@
         "Cyclophosphamide classically causes hemorrhagic cystitis and SIADH, not pulmonary fibrosis with hyperpigmentation."
       ],
       "overview": "Busulfan is an alkylating agent used at high single doses for myeloablation prior to stem cell transplant. Classic toxicities are pulmonary fibrosis (\"busulfan lung\") and diffuse or patchy skin hyperpigmentation (\"busulfan tan\"), as well as seizures at high dosages.",
-      "id": "2026-09-08-19"
+      "id": "2026-09-08-19",
+      "topic": "Busulfan",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -987,7 +1085,9 @@
         "Correct - 5-FU is converted to 5-FdUMP, which inhibits thymidylate synthase, blocking dTMP synthesis and causing \"thymineless death\"; its effect is enhanced by leucovorin."
       ],
       "overview": "5-Fluorouracil is a pyrimidine analog converted to 5-FdUMP, which inhibits thymidylate synthase and blocks dTMP synthesis, producing \"thymineless death.\" It is used in colorectal and other solid tumors and topically for basal cell carcinoma, with toxicities including myelosuppression, mucositis, and hand-foot syndrome.",
-      "id": "2026-09-08-20"
+      "id": "2026-09-08-20",
+      "topic": "5-Fluorouracil",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1006,7 +1106,9 @@
         "Correct - Clopidogrel is a thienopyridine that irreversibly blocks the P2Y12 ADP receptor on platelets, preventing the conformational change of GPIIb/IIIa needed for platelet aggregation."
       ],
       "overview": "Thienopyridines (ticlopidine, clopidogrel, prasugrel) irreversibly block the P2Y12 ADP receptor on platelets, preventing the GPIIb/IIIa conformational activation required for platelet aggregation. They are often combined with aspirin (dual antiplatelet therapy) after coronary stenting or acute coronary syndrome, with bleeding as the main toxicity.",
-      "id": "2026-09-08-21"
+      "id": "2026-09-08-21",
+      "topic": "Clopidogrel",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1025,7 +1127,9 @@
         "There is no described anti-tubulin antibody-complement mechanism for paclitaxel reactions."
       ],
       "overview": "Taxols (paclitaxel, docetaxel) hyperstabilize microtubules, blocking mitotic spindle breakdown and arresting cells at the metaphase-anaphase transition. Hypersensitivity reactions occur in up to 30% of patients due to the delivery solvent rather than the drug itself, and albumin-bound paclitaxel formulations reduce this risk.",
-      "id": "2026-09-08-22"
+      "id": "2026-09-08-22",
+      "topic": "Paclitaxel hypersensitivity reaction",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1044,7 +1148,9 @@
         "Thrombin time is prolonged by heparin or direct thrombin inhibitors and by hypofibrinogenemia, not typically by vitamin K deficiency."
       ],
       "overview": "Vitamin K is required for gamma-carboxylation (via epoxide reductase) of clotting factors II, VII, IX, and X as well as proteins C and S. Because factor VII has the shortest half-life, PT/INR is the most sensitive and earliest-affected test in vitamin K deficiency, while aPTT and bleeding time are less reliably affected.",
-      "id": "2026-09-08-23"
+      "id": "2026-09-08-23",
+      "topic": "Vitamin K deficiency",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -1065,7 +1171,9 @@
         "G6PD deficiency causes episodic hemolysis triggered by oxidative stressors, not a diarrhea-associated thrombotic microangiopathy with thrombocytopenia and renal failure."
       ],
       "overview": "Hemolytic uremic syndrome classically follows infection with Shiga-toxin-producing E. coli O157:H7, causing endothelial damage and microthrombi in the kidney. It presents with the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury, typically without fever or neurologic symptoms (distinguishing it from TTP), and PT/PTT remain normal since clotting factors are not consumed.",
-      "id": "2026-09-08-24"
+      "id": "2026-09-08-24",
+      "topic": "Hemolytic uremic syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1084,7 +1192,9 @@
         "Beta-2 microglobulin composes dialysis-related amyloidosis, affecting joints and tendons, not RA-associated nephrotic syndrome."
       ],
       "overview": "Amyloidosis results from extracellular deposition of misfolded proteins forming beta-pleated sheets, detected by Congo red staining with apple-green birefringence under polarized light. AA (secondary) amyloidosis, composed of serum amyloid A, arises from chronic inflammatory conditions like rheumatoid arthritis and classically presents with nephrotic syndrome, in contrast to AL (primary) amyloidosis from light chains in plasma cell dyscrasias.",
-      "id": "2026-09-08-25"
+      "id": "2026-09-08-25",
+      "topic": "AA amyloidosis (secondary amyloidosis)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1103,7 +1213,9 @@
         "The hapten mechanism (drug binding RBC surface, generating antibodies to the drug-RBC complex) describes high-dose penicillin-induced hemolysis, not methyldopa."
       ],
       "overview": "Warm autoimmune hemolytic anemia is caused by IgG autoantibodies against RBC surface antigens, producing extravascular hemolysis (spherocytes, splenomegaly, positive direct Coombs test). Methyldopa is a classic drug trigger that induces autoantibodies against native RBC antigens like Rh, distinct from the hapten mechanism seen with high-dose penicillin.",
-      "id": "2026-09-08-26"
+      "id": "2026-09-08-26",
+      "topic": "Methyldopa-induced hemolytic anemia",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1122,7 +1234,9 @@
         "Alpha thalassemia trait results from two-gene deletions and is typically an asymptomatic, mild microcytic anemia."
       ],
       "overview": "Alpha thalassemia results from deletion of one or more of the four alpha-globin genes, with disease severity proportional to the number of genes deleted. Loss of all four genes prevents formation of HbA, HbA2, and HbF, producing Hgb Barts (gamma-globin tetramers), which is incompatible with life and causes hydrops fetalis, in contrast to milder single/two-gene deletions (silent carrier, trait) or three-gene deletion (HbH disease).",
-      "id": "2026-09-08-27"
+      "id": "2026-09-08-27",
+      "topic": "Hemoglobin Bart's (alpha-thalassemia major)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1141,7 +1255,9 @@
         "Correct - Andexanet alfa is a decoy factor Xa molecule that binds and sequesters direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban), reversing their anticoagulant effect."
       ],
       "overview": "Direct factor Xa inhibitors (rivaroxaban, apixaban, edoxaban) work without antithrombin, providing predictable oral anticoagulation without routine monitoring. Their only major toxicity is bleeding, and andexanet alfa reverses their effect by acting as a decoy that binds and sequesters the drug away from endogenous factor Xa.",
-      "id": "2026-09-08-28"
+      "id": "2026-09-08-28",
+      "topic": "Andexanet alfa",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1160,7 +1276,9 @@
         "Correct - Methotrexate is a folate analog that inhibits dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate and thereby reducing thymidine synthesis."
       ],
       "overview": "Methotrexate mimics folate and inhibits dihydrofolate reductase, preventing regeneration of tetrahydrofolate needed for thymidine synthesis and thereby blocking DNA synthesis in S phase. Myelosuppression can be rescued with leucovorin (folinic acid), which bypasses the DHFR block.",
-      "id": "2026-09-08-29"
+      "id": "2026-09-08-29",
+      "topic": "Methotrexate",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1179,7 +1297,9 @@
         "TdT and CD10 are markers seen in ALL lymphoblasts, not Reed-Sternberg cells."
       ],
       "overview": "Hodgkin lymphoma is diagnosed by the presence of Reed-Sternberg cells \u2014 large, often binucleate (\"owl-eye\") cells derived from B cells but typically CD15+ and CD30+ while lacking usual B-cell markers. These cells make up only a small minority of cells in the involved node, with the bulk being reactive lymphocytes, plasma cells, and macrophages recruited by RS-cell cytokine release.",
-      "id": "2026-09-08-30"
+      "id": "2026-09-08-30",
+      "topic": "Hodgkin lymphoma (Reed-Sternberg cells)",
+      "angle": "diagnosis"
     }
   ]
 }
