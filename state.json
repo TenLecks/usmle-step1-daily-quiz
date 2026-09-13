@@ -249,66 +249,246 @@
       }
     ],
     "Dermatology": [
-      "A pregnant woman develops symmetric, irregular tan-brown patches on her cheeks and forehead (melasma",
-      "A biopsy of a thickened, scaly skin plaque shows marked thickening of the stratum corneum without re",
-      "A newborn has white hair, very pale skin, and blue-gray irides. Genetic testing reveals a mutation c",
-      "A biopsy of a pearly papule with surface telangiectasias on the nose shows nests of dark basaloid ce",
-      "A patient presents with a painful, pink-purple papule beneath a fingernail that produces severe, epi",
-      "Which organism, an anaerobic component of normal skin flora, proliferates within obstructed piloseba",
-      "A 68-year-old woman has a pigmented lesion on her back that has become darker and more irregularly b",
-      "A newborn is noted to have a pink-red patch involving the right forehead and upper eyelid that does ",
-      "A patient has pruritic, violaceous, flat-topped papules on the wrists along with lacy white streaks ",
-      "A 72-year-old man presents with several weeks of intensely pruritic, tense bullae on an erythematous",
-      "Biopsy of a hyperkeratotic papule on a child's hand shows epidermal hyperplasia and keratinocytes wi",
-      "Which layer of the epidermis contains the stem cells responsible for continuous keratinocyte renewal",
-      "A 61-year-old man presents with several months of progressively darkening, velvety, thickened plaque",
-      "A 58-year-old man with poorly controlled diabetes develops rapidly spreading redness, swelling, and ",
-      "A child presents with pruritic vesicles and papules on the face that rupture and develop a golden, h",
-      "A dermatologist prescribes isotretinoin for a patient with severe nodulocystic acne. Which of the fo",
-      "A patient with a history of chronic diarrhea and weight loss develops intensely pruritic, grouped pa",
-      "A 26-year-old woman develops several tender, red, warm nodules on her anterior shins one week after ",
-      "A patient presents with greasy, red, scaly plaques on the scalp and nasolabial folds. This condition",
-      "A 45-year-old woman presents with 2 weeks of painful oral erosions followed by the development of fl",
-      "A child has six or more caf\u00e9-au-lait macules, axillary freckling, and multiple cutaneous neurofibrom",
-      "An 8-month-old infant presents with new-onset seizures characterized by sudden flexion spasms. On ex",
-      "Desmosomes anchor adjacent keratinocytes together through calcium-dependent adhesion proteins that a",
-      "Hemidesmosomes anchor basal keratinocytes to the underlying basement membrane via integrins. Autoant",
-      "A patient develops a single, oval, salmon-colored plaque on the chest, followed one week later by nu",
-      "Which histologic finding is the hallmark of acute eczema (atopic dermatitis)?",
-      "A 24-year-old woman started lamotrigine 10 days ago for new-onset seizures. She now presents with fe",
-      "A patient develops symmetric target lesions with dusky central areas and concentric red rings on the",
-      "A 34-year-old man presents with well-demarcated, salmon-colored plaques with silvery-white scale on ",
-      "A patient sustains a burn involving the entire epidermis and dermis with extension into subcutaneous",
-      "A 40-year-old man with end-stage AIDS presents with numerous red-purple papules and nodules on his s",
-      "Neurofibromin, the protein product of the NF1 gene, normally functions to restrict signaling through",
-      "The basal lamina layer of the basement membrane, secreted by epithelial cells, contains which of the",
-      "Which pair of proteins forms the structural basis of tight junctions, creating a barrier to paracell",
-      "Benzoyl peroxide, a topical acne treatment, exerts its therapeutic effect through which mechanisms?",
-      "The Breslow thickness, an important prognostic measurement in melanoma, is defined as which of the f",
-      "The sensitization phase of allergic contact dermatitis, which occurs 10-14 days after initial allerg",
-      "Psoriasis has a strong genetic association with which HLA allele, and approximately what proportion ",
-      "A benign tumor of cardiac muscle cells found in about 90% of tuberous sclerosis patients, sometimes ",
-      "Verruca plana, condyloma acuminatum, and verruca vulgaris are all cutaneous or mucosal manifestation",
-      "Hydroquinone, a topical skin-lightening agent used to treat melasma, works by inhibiting which enzym",
-      "A 34-year-old man is found to have a cerebellar mass composed of clumps of capillaries without invas",
-      "Gap junctions composed of connexin proteins allow passage of which of the following between adjacent",
-      "Seborrheic dermatitis, presenting with red, flaky plaques on the face and scalp, is associated with ",
-      "Which of the following environmental exposures, historically linked to contaminated drinking water, ",
-      "A 35-year-old previously healthy man cuts his forearm on a fence while gardening. Three days later h",
-      "A 5-day-old infant develops fever, diffuse erythema most pronounced in the skin folds, and areas whe",
-      "Which range of ultraviolet radiation wavelengths is most effective at causing sunburn?",
-      "Loss of which cell adhesion molecule is classically associated with promoting metastasis in certain ",
-      "A 55-year-old man is diagnosed with metastatic melanoma. Genetic testing of the tumor reveals a V600",
-      "The classic pathophysiology of urticaria (hives) involves which of the following mechanisms?",
-      "A 6-year-old girl develops sudden onset fever and chills followed by a bright red rash on her cheek ",
-      "The most frequent renal manifestation of tuberous sclerosis, characterized by proliferation of epith",
-      "A 74-year-old man presents with a purple, bruise-like nodule on his scalp that has been slowly enlar",
-      "A 38-year-old man with poorly controlled HIV infection (CD4 count 45 cells/mm3) presents with numero",
-      "Freckles (ephelides) are small, darkened macules that result from which of the following?",
-      "A patient with neurofibromatosis type 2 is most likely to develop which of the following tumors, occ",
-      "A 45-year-old woman presents with painful oral ulcerations that have made eating difficult for the p",
-      "In bullous impetigo, the S. aureus exfoliative toxin (exfoliatin) causes blister formation by which ",
-      "A 50-year-old man started allopurinol two weeks ago for gout. He now presents with fever, diffuse sk"
+      {
+        "topic": "Hydroquinone",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hyperkeratosis",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Oculocutaneous albinism",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Basal cell carcinoma",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Glomus tumor",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Cutibacterium acnes",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Melanoma (Breslow thickness)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Sturge-Weber syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Lichen planus",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Bullous pemphigoid",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Verruca vulgaris (HPV)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Epidermis (stratum basale)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Acanthosis nigricans",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Necrotizing fasciitis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Impetigo",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Isotretinoin",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Dermatitis herpetiformis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Erythema nodosum",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Seborrheic dermatitis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Pemphigus vulgaris",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Neurofibromatosis type 1",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Tuberous sclerosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Desmosomes",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Bullous pemphigoid",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Pityriasis rosea",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Atopic dermatitis",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Stevens-Johnson syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Erythema multiforme",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Psoriasis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Burn classification",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Bacillary angiomatosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Neurofibromin (NF1)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Basement membrane (basal lamina)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Tight junctions",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Benzoyl peroxide",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Melanoma (Breslow thickness)",
+        "angle": "other"
+      },
+      {
+        "topic": "Allergic contact dermatitis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Psoriasis",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Cardiac rhabdomyoma (tuberous sclerosis)",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Human papillomavirus",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Hydroquinone",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Von Hippel-Lindau disease",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Gap junctions",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Seborrheic dermatitis",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Squamous cell carcinoma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Necrotizing fasciitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Staphylococcal scalded skin syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Ultraviolet radiation (sunburn)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "E-cadherin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Vemurafenib",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Urticaria",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Erysipelas",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Angiomyolipoma (tuberous sclerosis)",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Angiosarcoma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Kaposi sarcoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Freckles (ephelides)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Neurofibromatosis type 2",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Pemphigus vulgaris",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Bullous impetigo",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Toxic epidermal necrolysis",
+        "angle": "diagnosis"
+      }
     ],
     "Endocrinology": [
       "In a pregnant woman with a normal thyroid gland, estrogen raises thyroxine-binding globulin (TBG) le",

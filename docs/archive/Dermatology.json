@@ -17,7 +17,9 @@
         "Correct: Hydroquinone is a skin-lightening agent that works by inhibiting tyrosinase, reducing melanin synthesis, and is used to treat melasma.",
         "Incorrect: Ketoconazole is an antifungal used to treat seborrheic dermatitis (targeting Malassezia), not melasma."
       ],
-      "id": "2026-08-27-01"
+      "id": "2026-08-27-01",
+      "topic": "Hydroquinone",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -35,7 +37,9 @@
         "Incorrect: Parakeratosis is hyperkeratosis with retained nuclei in the stratum corneum, indicating hyperproliferation; the question specifies no nuclear retention.",
         "Correct: Hyperkeratosis is thickening of the stratum corneum due to excess keratin, seen in psoriasis and in calluses from repeated pressure or friction."
       ],
-      "id": "2026-08-27-02"
+      "id": "2026-08-27-02",
+      "topic": "Hyperkeratosis",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -53,7 +57,9 @@
         "Incorrect: Tyrosine hydroxylase is involved in catecholamine synthesis, not melanin production, and is not the enzyme implicated in oculocutaneous albinism here.",
         "Incorrect: Homogentisate oxidase deficiency causes alkaptonuria, unrelated to melanin synthesis or albinism."
       ],
-      "id": "2026-08-27-03"
+      "id": "2026-08-27-03",
+      "topic": "Oculocutaneous albinism",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -71,7 +77,9 @@
         "Incorrect: Koilocytosis, perinuclear cytoplasmic vacuolization, is a feature of HPV-related verrucae, not basal cell carcinoma.",
         "Incorrect: 'Row of tombstones' describes the intact basal cell layer remaining after acantholysis in pemphigus vulgaris, not the palisading pattern of basal cell carcinoma."
       ],
-      "id": "2026-08-27-04"
+      "id": "2026-08-27-04",
+      "topic": "Basal cell carcinoma",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -89,7 +97,9 @@
         "Incorrect: Melanin production in response to UV exposure is a function of melanocytes, not the glomus body, and is unrelated to glomus tumor pathophysiology.",
         "Incorrect: Sweat production is a function of eccrine glands, not the glomus body, which is a vascular thermoregulatory structure."
       ],
-      "id": "2026-08-27-05"
+      "id": "2026-08-27-05",
+      "topic": "Glomus tumor",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -107,7 +117,9 @@
         "Correct: Cutibacterium acnes (formerly Propionibacterium acnes) is an anaerobic component of normal skin flora that proliferates in sebum-blocked follicles, contributing to acne inflammation.",
         "Incorrect: Staphylococcus aureus is not identified as the organism responsible for acne pathogenesis in this content; it is implicated in impetigo and scalded skin syndrome instead."
       ],
-      "id": "2026-08-27-06"
+      "id": "2026-08-27-06",
+      "topic": "Cutibacterium acnes",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -127,7 +139,9 @@
         "Incorrect: Invasion into the dermis (vertical growth phase) is described, not a purely radial (epidermal/superficial dermal) growth pattern, which would carry a better prognosis.",
         "Incorrect: Lentigo maligna is confined to the epidermis ('melanoma in situ'); this lesion has invaded the dermis with vertical growth, making it lentigo maligna melanoma or another invasive subtype, not lentigo maligna alone."
       ],
-      "id": "2026-08-27-07"
+      "id": "2026-08-27-07",
+      "topic": "Melanoma (Breslow thickness)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -147,7 +161,9 @@
         "Incorrect: Tuberous sclerosis involves germline TSC1/TSC2 mutations causing mTOR overactivity, presenting with ash-leaf spots, angiofibromas, and seizures, but not a facial port-wine stain or glaucoma as described here.",
         "Incorrect: Sturge-Weber syndrome is not caused by an X-linked mutation affecting melanocyte migration; it is a sporadic somatic GNAQ mutation affecting capillary development."
       ],
-      "id": "2026-08-27-08"
+      "id": "2026-08-27-08",
+      "topic": "Sturge-Weber syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -165,7 +181,9 @@
         "Incorrect: Spongiosis is the hallmark of eczema, unrelated to the Wickham striae of lichen planus.",
         "Incorrect: Acantholysis is the hallmark of pemphigus vulgaris, unrelated to the Wickham striae seen in lichen planus."
       ],
-      "id": "2026-08-27-09"
+      "id": "2026-08-27-09",
+      "topic": "Lichen planus",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -185,7 +203,9 @@
         "Incorrect: Antibodies against desmoglein 3 cause pemphigus vulgaris, which produces flaccid, easily ruptured intraepidermal bullae with oral involvement and a positive Nikolsky sign, not tense subepidermal bullae with eosinophils.",
         "Incorrect: A neutrophilic collection beneath the stratum corneum describes the superficial epidermal infection seen in impetigo, not an autoimmune subepidermal blistering disease."
       ],
-      "id": "2026-08-27-10"
+      "id": "2026-08-27-10",
+      "topic": "Bullous pemphigoid",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -203,7 +223,9 @@
         "Incorrect: Molluscum contagiosum produces umbilicated papules with Henderson-Patterson bodies, not koilocytosis.",
         "Correct: Verruca vulgaris (common wart) is caused by human papillomavirus and characteristically shows epidermal hyperplasia with koilocytosis, cytoplasmic vacuolization creating a halo around the nucleus."
       ],
-      "id": "2026-08-27-11"
+      "id": "2026-08-27-11",
+      "topic": "Verruca vulgaris (HPV)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -221,7 +243,9 @@
         "Incorrect: The stratum lucidum is a thin, clear layer of dead skin cells found in thick skin, not a site of stem cell activity.",
         "Incorrect: The stratum granulosum contains keratohyalin granules and is involved in the keratinization process, not stem cell renewal."
       ],
-      "id": "2026-08-27-12"
+      "id": "2026-08-27-12",
+      "topic": "Epidermis (stratum basale)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -241,7 +265,9 @@
         "Incorrect: Renal cell carcinoma is associated with von Hippel-Lindau disease, not with paraneoplastic acanthosis nigricans.",
         "Incorrect: Basal cell carcinoma is not associated with paraneoplastic acanthosis nigricans; it is a locally invasive skin cancer that rarely metastasizes."
       ],
-      "id": "2026-08-27-13"
+      "id": "2026-08-27-13",
+      "topic": "Acanthosis nigricans",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -261,7 +287,9 @@
         "Incorrect: The presence of crepitus, hypotension, fever, and progressive skin necrosis indicates a fulminant bacterial infection, not a self-limited viral process; delaying treatment could be fatal.",
         "Incorrect: Topical mupirocin is used for superficial infections like impetigo, not for a deep, life-threatening fascial infection with crepitus and systemic toxicity."
       ],
-      "id": "2026-08-27-14"
+      "id": "2026-08-27-14",
+      "topic": "Necrotizing fasciitis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -279,7 +307,9 @@
         "Incorrect: Streptococcus pneumoniae is not identified as a cause of impetigo in this content; it is a respiratory pathogen.",
         "Incorrect: Pseudomonas aeruginosa is not the classic organism associated with impetigo's honey-colored crusting."
       ],
-      "id": "2026-08-27-15"
+      "id": "2026-08-27-15",
+      "topic": "Impetigo",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -297,7 +327,9 @@
         "Incorrect: Nephrotoxicity requiring renal monitoring is not the key safety concern for isotretinoin; its major risk is teratogenicity, along with photosensitivity.",
         "Incorrect: Cardiotoxicity requiring echocardiographic monitoring is not the major risk associated with isotretinoin; teratogenicity is the primary safety concern described."
       ],
-      "id": "2026-08-27-16"
+      "id": "2026-08-27-16",
+      "topic": "Isotretinoin",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -315,7 +347,9 @@
         "Incorrect: Linear IgG deposition along the basement membrane is the immunofluorescence pattern of bullous pemphigoid, not dermatitis herpetiformis.",
         "Correct: Dermatitis herpetiformis, associated with celiac disease (explaining the chronic diarrhea and weight loss), classically shows IgA deposition at the tips of the dermal papillae on direct immunofluorescence."
       ],
-      "id": "2026-08-27-17"
+      "id": "2026-08-27-17",
+      "topic": "Dermatitis herpetiformis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -335,7 +369,9 @@
         "Incorrect: While erythema nodosum can be triggered by granulomatous diseases like sarcoidosis, the panniculitis itself is defined by septal inflammation, not by granuloma formation replacing the dermis.",
         "Incorrect: Acantholysis with an intraepidermal blister is the histologic hallmark of pemphigus vulgaris, an entirely different disease process involving the epidermis, not the subcutaneous fat."
       ],
-      "id": "2026-08-27-18"
+      "id": "2026-08-27-18",
+      "topic": "Erythema nodosum",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -353,7 +389,9 @@
         "Incorrect: Candida albicans is not the organism implicated in seborrheic dermatitis in this content.",
         "Incorrect: Dermatophytes such as Trichophyton cause tinea infections, not seborrheic dermatitis."
       ],
-      "id": "2026-08-27-19"
+      "id": "2026-08-27-19",
+      "topic": "Seborrheic dermatitis",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -373,7 +411,9 @@
         "Incorrect: Connexins form gap junctions that allow small molecule passage between cells; they are not the target of autoantibodies in any of the classic blistering disorders described in this content.",
         "Correct: Pemphigus vulgaris is caused by IgG autoantibodies against desmoglein 1 and 3, the desmosomal cadherins linking keratinocytes in the stratum spinosum, producing acantholysis, intraepidermal blisters, and a reticular IgG pattern on immunofluorescence."
       ],
-      "id": "2026-08-27-20"
+      "id": "2026-08-27-20",
+      "topic": "Pemphigus vulgaris",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -391,7 +431,9 @@
         "Incorrect: Merlin is the protein product of the NF2 gene, mutated in neurofibromatosis type 2, which causes bilateral schwannomas, not the caf\u00e9-au-lait spots and neurofibromas described here.",
         "Incorrect: Tuberin is encoded by TSC2, also implicated in tuberous sclerosis via mTOR pathway inhibition, not in neurofibromatosis type 1."
       ],
-      "id": "2026-08-27-21"
+      "id": "2026-08-27-21",
+      "topic": "Neurofibromatosis type 1",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -411,7 +453,9 @@
         "Incorrect: Neurofibromatosis type 2 is characterized by bilateral vestibular schwannomas and meningiomas, not the skin and cardiac findings described here.",
         "Correct: Infantile seizures, hypopigmented ash-leaf spots, facial angiofibromas, and a cardiac rhabdomyoma are the classic tetrad of tuberous sclerosis, caused by TSC1 (hamartin) or TSC2 (tuberin) mutations that normally inhibit the mTOR pathway; loss of function leads to uncontrolled cell growth."
       ],
-      "id": "2026-08-27-22"
+      "id": "2026-08-27-22",
+      "topic": "Tuberous sclerosis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -429,7 +473,9 @@
         "Correct: Desmogleins are a specific subtype of cadherins found in desmosomes that link adjacent keratinocytes via keratin intermediate filaments; they are the target of autoantibodies in pemphigus vulgaris.",
         "Incorrect: Connexins form the channel proteins of gap junctions that allow passage of small molecules between cells, unrelated to desmosomal adhesion."
       ],
-      "id": "2026-08-27-23"
+      "id": "2026-08-27-23",
+      "topic": "Desmosomes",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -447,7 +493,9 @@
         "Correct: Bullous pemphigoid is caused by autoantibodies against BP180 and BP230, hemidesmosomal proteins that anchor epithelial cells to the basement membrane, producing subepidermal blisters.",
         "Incorrect: Pemphigus vulgaris is caused by autoantibodies against desmogleins in desmosomes within the stratum spinosum, not hemidesmosomal proteins."
       ],
-      "id": "2026-08-27-24"
+      "id": "2026-08-27-24",
+      "topic": "Bullous pemphigoid",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -465,7 +513,9 @@
         "Incorrect: Wickham striae are the lacy white lines seen in lichen planus, not pityriasis rosea.",
         "Incorrect: A target lesion, with a dusky center and surrounding red rings, is characteristic of erythema multiforme, not pityriasis rosea."
       ],
-      "id": "2026-08-27-25"
+      "id": "2026-08-27-25",
+      "topic": "Pityriasis rosea",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -483,7 +533,9 @@
         "Correct: Spongiosis, fluid accumulation in the intercellular spaces of the epidermis, is the classic histologic finding in eczema/atopic dermatitis.",
         "Incorrect: Acantholysis, loss of connections between keratinocytes with rounded, detached cells, is the hallmark of pemphigus vulgaris, not eczema."
       ],
-      "id": "2026-08-27-26"
+      "id": "2026-08-27-26",
+      "topic": "Atopic dermatitis",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -503,7 +555,9 @@
         "Incorrect: Staphylococcal scalded skin syndrome occurs in neonates/young children due to a bacterial exfoliative toxin causing intraepidermal (not full-thickness) cleavage, and is not linked to anticonvulsant exposure.",
         "Incorrect: Bullous pemphigoid shows a subepidermal blister with eosinophils on biopsy, not full-thickness epidermal necrosis, and is not typically drug-triggered by anticonvulsants in this fulminant fashion."
       ],
-      "id": "2026-08-27-27"
+      "id": "2026-08-27-27",
+      "topic": "Stevens-Johnson syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -521,7 +575,9 @@
         "Incorrect: Streptococcus pyogenes is not identified as a trigger for erythema multiforme in this content; it is associated with impetigo, erysipelas, and erythema nodosum instead.",
         "Correct: Erythema multiforme, characterized by target lesions on the acral extensor surfaces, is most commonly triggered by herpes simplex virus infection, as illustrated by the preceding cold sore outbreak."
       ],
-      "id": "2026-08-27-28"
+      "id": "2026-08-27-28",
+      "topic": "Erythema multiforme",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -541,7 +597,9 @@
         "Correct: The clinical picture (well-demarcated plaques with silvery scale, Auspitz sign from pinpoint bleeding, nail pitting/onycholysis, and joint stiffness suggesting psoriatic arthritis) is classic psoriasis, whose key pathologic findings are acanthosis, parakeratotic scaling, and Munro microabscesses (neutrophils in the stratum corneum).",
         "Incorrect: Noncaseating granulomas are not a described histologic feature of psoriasis in this content."
       ],
-      "id": "2026-08-27-29"
+      "id": "2026-08-27-29",
+      "topic": "Psoriasis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -559,7 +617,9 @@
         "Correct: Full-thickness burns (third degree, or fourth degree if underlying tissue is involved) destroy the entire epidermis and dermis, are classically painless due to nerve destruction, and heal with scarring and wound contracture.",
         "Incorrect: A superficial partial-thickness burn involves the epidermis and some dermis, is painful, blanches with pressure, and typically blisters \u2014 unlike the insensate wound described."
       ],
-      "id": "2026-08-27-30"
+      "id": "2026-08-27-30",
+      "topic": "Burn classification",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -580,7 +640,9 @@
         "HPV and koilocytosis relate to warts, not bacillary angiomatosis."
       ],
       "overview": "Bacillary angiomatosis is a zoonotic infection by Bartonella quintana or henselae occurring in end-stage HIV/AIDS, presenting with numerous red-purple vascular nodules that mimic Kaposi sarcoma clinically. Biopsy differentiates the two: bacillary angiomatosis shows neutrophils and visible bacilli, whereas Kaposi sarcoma shows a lymphocytic infiltrate with angioproliferation from HHV-8.",
-      "id": "2026-09-04-01"
+      "id": "2026-09-04-01",
+      "topic": "Bacillary angiomatosis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -599,7 +661,9 @@
         "mTOR restriction is the function of hamartin/tuberin in tuberous sclerosis, not neurofibromin."
       ],
       "overview": "Neurofibromatosis type 1 is an autosomal dominant disorder with 100% penetrance but variable expressivity, caused by mutation of the NF1 tumor suppressor gene on chromosome 17, which encodes neurofibromin. Neurofibromin normally restricts RAS signaling; its loss causes RAS overactivity and uncontrolled cell growth, producing neurofibromas, caf\u00e9-au-lait spots, Lisch nodules, and optic gliomas.",
-      "id": "2026-09-04-02"
+      "id": "2026-09-04-02",
+      "topic": "Neurofibromin (NF1)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -618,7 +682,9 @@
         "Desmoglein and desmocollin are desmosomal cadherins, not basement membrane components."
       ],
       "overview": "The basement membrane has two layers: the basal lamina, an extracellular matrix secreted by epithelial cells containing laminin and type IV collagen (clinically relevant in Goodpasture's and Alport syndrome), and the reticular lamina, a net-like layer of reticular connective tissue that anchors the basal lamina to underlying connective tissue.",
-      "id": "2026-09-04-03"
+      "id": "2026-09-04-03",
+      "topic": "Basement membrane (basal lamina)",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -637,7 +703,9 @@
         "Cadherins form adherens junctions (belt desmosomes), not tight junctions."
       ],
       "overview": "Epithelial cells are joined by four junction types: tight junctions (occludin/claudin, apical barrier to paracellular movement), adherens junctions (cadherin, belt-like anchoring), desmosomes (desmoglein, spot-like attachment to intermediate filaments), and gap junctions (connexin, channels for small molecules). Each has a distinct protein basis and location relative to the apical membrane.",
-      "id": "2026-09-04-04"
+      "id": "2026-09-04-04",
+      "topic": "Tight junctions",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -656,7 +724,9 @@
         "Retinoic acid receptor blockade is the opposite of how retinoids (like isotretinoin) work, which bind and activate RAR/RXR; this is not benzoyl peroxide's mechanism."
       ],
       "overview": "Acne results from increased sebum and keratin blocking pilosebaceous ducts, allowing overgrowth of the anaerobic bacterium C. acnes (formerly P. acnes). Treatments include benzoyl peroxide (comedolytic and bactericidal), topical/oral antibiotics (clindamycin, erythromycin) to reduce bacterial colonization, and retinoids like isotretinoin, which bind RAR/RXR receptors to decrease keratin production.",
-      "id": "2026-09-04-05"
+      "id": "2026-09-04-05",
+      "topic": "Benzoyl peroxide",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -675,7 +745,9 @@
         "Lymphatic spread distance is not how Breslow thickness is defined; it measures vertical tumor depth."
       ],
       "overview": "Melanoma initially grows radially along the epidermis and upper dermis before shifting to a vertical growth phase invading the dermis. Breslow thickness, the distance from the granular epidermis to the deepest tumor cells, increases with depth of invasion and directly correlates with metastatic risk, guiding prognosis and treatment (wide excision margins).",
-      "id": "2026-09-04-06"
+      "id": "2026-09-04-06",
+      "topic": "Melanoma (Breslow thickness)",
+      "angle": "other"
     },
     {
       "format": "simple4",
@@ -694,7 +766,9 @@
         "Desmoglein autoantibodies describe pemphigus, unrelated to contact dermatitis."
       ],
       "overview": "Contact dermatitis is a type IV hypersensitivity reaction with two phases: sensitization (10-14 days, haptens presented to T cells, no lesions) and elicitation (1-3 days, on reexposure sensitized T cells release cytokines like IFN-gamma, recruiting eosinophils, mast cells, and macrophages, causing dermal edema and spongiosis). Classic triggers include poison ivy, nickel, and laundry detergents.",
-      "id": "2026-09-04-07"
+      "id": "2026-09-04-07",
+      "topic": "Allergic contact dermatitis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -713,7 +787,9 @@
         "HLA-DR4 is not the allele described for psoriasis association in the notes, and one-tenth is not the stated proportion."
       ],
       "overview": "Psoriasis is a chronic inflammatory skin disorder believed to be autoimmune with a strong HLA-C association, producing well-demarcated, salmon-colored plaques with silvery scale on extensor surfaces. About one-third of patients develop psoriatic arthritis (a seronegative spondyloarthropathy), more common with nail involvement (pitting, onycholysis), and patients may also develop uveitis, conjunctivitis, or blepharitis.",
-      "id": "2026-09-04-08"
+      "id": "2026-09-04-08",
+      "topic": "Psoriasis",
+      "angle": "epidemiology"
     },
     {
       "format": "simple4",
@@ -732,7 +808,9 @@
         "Correct - Cardiac rhabdomyomas are benign tumors of muscle cells that occur in about 90% of tuberous sclerosis cases, are sometimes detected prenatally, and are embedded in the ventricular wall, rarely causing symptoms from obstruction or arrhythmia."
       ],
       "overview": "Tuberous sclerosis involves widespread hamartoma formation from TSC1/TSC2 mutations causing mTOR overactivity. Cardiac rhabdomyomas (benign muscle cell tumors) occur in about 90% of patients and are often detected prenatally, while renal angiomyolipomas are the most frequent renal manifestation, and CNS tubers/subependymal giant cell astrocytomas cause the classic presenting symptom of seizures.",
-      "id": "2026-09-04-09"
+      "id": "2026-09-04-09",
+      "topic": "Cardiac rhabdomyoma (tuberous sclerosis)",
+      "angle": "epidemiology"
     },
     {
       "format": "simple4",
@@ -751,7 +829,9 @@
         "Correct - All three are manifestations of HPV infection: verruca vulgaris (most common skin wart), verruca plana (flat wart), and condyloma acuminatum (venereal wart)."
       ],
       "overview": "Warts are caused by HPV infection and have several subtypes: verruca vulgaris (most common, on skin, especially hands), verruca plana (flat wart), and condyloma acuminatum (venereal warts). Histology of cutaneous warts shows epidermal hyperplasia with koilocytosis, cytoplasmic vacuolization creating a halo around the nucleus of infected keratinocytes.",
-      "id": "2026-09-04-10"
+      "id": "2026-09-04-10",
+      "topic": "Human papillomavirus",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -770,7 +850,9 @@
         "5-alpha reductase is unrelated to melanin synthesis or melasma treatment per the notes."
       ],
       "overview": "Melasma is acquired facial hyperpigmentation triggered by UV light in susceptible individuals, often with pregnancy or oral contraceptive use due to increased estrogen ('mask of pregnancy'). Treatment includes sun protection and skin lighteners such as hydroquinone, which inhibits tyrosinase to reduce melanin synthesis.",
-      "id": "2026-09-04-11"
+      "id": "2026-09-04-11",
+      "topic": "Hydroquinone",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -791,7 +873,9 @@
         "This describes hemidesmosome/integrin function, unrelated to VHL."
       ],
       "overview": "Von Hippel-Lindau disease is a genetic cancer syndrome from mutation of the VHL tumor suppressor gene on chromosome 3, which normally ubiquitinates HIF for degradation; loss of function causes pseudohypoxic signaling and angiogenesis. Classic findings include CNS/retinal hemangioblastomas, renal cysts and bilateral renal cell carcinomas, pancreatic cysts, and pheochromocytomas, requiring lifelong surveillance.",
-      "id": "2026-09-04-12"
+      "id": "2026-09-04-12",
+      "topic": "Von Hippel-Lindau disease",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -810,7 +894,9 @@
         "Melanosome transfer to keratinocytes occurs by a separate mechanism, not through gap junctions."
       ],
       "overview": "Gap junctions are intercellular channels formed by connexin proteins that assemble into a structure called a connexon. They allow direct passage of small molecules and ions between adjacent cells for coordinated cellular activity, but are too small to permit passage of proteins or nucleic acids.",
-      "id": "2026-09-04-13"
+      "id": "2026-09-04-13",
+      "topic": "Gap junctions",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -829,7 +915,9 @@
         "C. acnes and PCOS relate to acne pathophysiology, not seborrheic dermatitis."
       ],
       "overview": "Seborrheic dermatitis produces red, scaly plaques in sebaceous gland-rich areas (face, scalp) without true sebaceous gland inflammation, and is associated with the fungus Malassezia. It is more common in patients with Parkinson's disease and HIV infection, and is treated with ketoconazole and corticosteroids.",
-      "id": "2026-09-04-14"
+      "id": "2026-09-04-14",
+      "topic": "Seborrheic dermatitis",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -848,7 +936,9 @@
         "HHV-8 causes Kaposi sarcoma, not squamous cell carcinoma."
       ],
       "overview": "Squamous cell carcinoma is the second most common skin cancer, arising from keratinocytes in sun-exposed areas due to UV-induced DNA damage. Risk factors include sun exposure, ionizing radiation, chronic immunosuppression (organ transplant, HIV, long-term glucocorticoids), chronic skin inflammation (burns, ulcers), and arsenic exposure from contaminated drinking water.",
-      "id": "2026-09-04-15"
+      "id": "2026-09-04-15",
+      "topic": "Squamous cell carcinoma",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -869,7 +959,9 @@
         "HHV-8 causes Kaposi sarcoma, not necrotizing fasciitis."
       ],
       "overview": "Necrotizing fasciitis is infection of fascia with pain out of proportion to exam, crepitus from gas-forming bacteria, and skin discoloration progressing red-purple-blue-black. Type 1 is polymicrobial in diabetics/immunocompromised (often post-surgical), while Type 2 is due to Group A strep in otherwise healthy people after minor trauma. It requires urgent surgical debridement given high mortality.",
-      "id": "2026-09-04-16"
+      "id": "2026-09-04-16",
+      "topic": "Necrotizing fasciitis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -890,7 +982,9 @@
         "This describes dermatitis herpetiformis, associated with celiac disease, not SSSS."
       ],
       "overview": "Staphylococcal scalded skin syndrome occurs in newborns 3-7 days of age due to S. aureus exfoliative toxin (exfoliatin), which cleaves desmoglein 1 in the stratum granulosum, causing diffuse erythema and sloughing (positive Nikolsky sign) that heals without scarring since damage is intraepidermal. Treatment is anti-staphylococcal antibiotics like nafcillin or oxacillin.",
-      "id": "2026-09-04-17"
+      "id": "2026-09-04-17",
+      "topic": "Staphylococcal scalded skin syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -909,7 +1003,9 @@
         "Visible light is not implicated in sunburn pathogenesis in the notes."
       ],
       "overview": "Sunburn is an inflammatory skin response to ultraviolet radiation, with UVB radiation (280-320 nm) being most effective at causing sunburn, though UVA (320-400 nm) can also contribute. UVB causes DNA damage leading to keratinocyte apoptosis ('sunburn cells') and vasodilation with release of inflammatory mediators.",
-      "id": "2026-09-04-18"
+      "id": "2026-09-04-18",
+      "topic": "Ultraviolet radiation (sunburn)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -928,7 +1024,9 @@
         "Desmoglein 1 is a desmosomal cadherin targeted in bullous impetigo/pemphigus foliaceus, not classically linked to metastasis in the notes."
       ],
       "overview": "Cadherins are calcium-dependent adhesion glycoproteins that attach to actin filaments and hold epithelial sheets together via adherens junctions. E-cadherin loss is a classic mechanism promoting tumor cell invasion and metastasis, notably described in some breast and gastric cancers.",
-      "id": "2026-09-04-19"
+      "id": "2026-09-04-19",
+      "topic": "E-cadherin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -949,7 +1047,9 @@
         "PD-1 blockade describes pembrolizumab, a different melanoma treatment with a different mechanism (immune checkpoint inhibition, not BRAF-targeted)."
       ],
       "overview": "BRAF mutations occur in 40-50% of sporadic melanomas, most commonly the V600E mutation, causing constitutive activation of the RAS-triggered proliferation pathway. BRAF inhibitors such as vemurafenib and dabrafenib specifically target this mutated kinase and improve survival in melanoma patients whose tumors carry the V600E mutation.",
-      "id": "2026-09-04-20"
+      "id": "2026-09-04-20",
+      "topic": "Vemurafenib",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -968,7 +1068,9 @@
         "IgG against desmosomal proteins describes pemphigus, not urticaria."
       ],
       "overview": "Urticaria (hives) presents as pruritic, raised wheals with a pale center and surrounding erythema, plus possible angioedema. It is usually a type I hypersensitivity reaction (IgE-mediated mast cell degranulation and histamine release), though some cases are non-IgE mediated, triggered by drugs like vancomycin, radiocontrast, or opiates acting directly on mast cells.",
-      "id": "2026-09-04-21"
+      "id": "2026-09-04-21",
+      "topic": "Urticaria",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -989,7 +1091,9 @@
         "This describes necrotizing fasciitis, which involves the fascia, not erysipelas."
       ],
       "overview": "Erysipelas and cellulitis are bacterial skin infections that differ mainly by depth: erysipelas involves the superficial dermis with a clearly demarcated border and affects young children/older adults, while cellulitis involves the deep dermis/subcutaneous fat with an ill-defined spreading border and slower onset, affecting middle-aged/elderly patients. Both are most often caused by Group A strep, and cellulitis may also be caused by S. aureus.",
-      "id": "2026-09-04-22"
+      "id": "2026-09-04-22",
+      "topic": "Erysipelas",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1008,7 +1112,9 @@
         "Correct - Renal angiomyolipomas are the most frequent renal manifestation of tuberous sclerosis, often multiple and bilateral, with growth and hemorrhage causing pain and risk of renin-dependent hypertension and chronic kidney disease from compression of normal tissue."
       ],
       "overview": "Tuberous sclerosis causes widespread hamartomas in multiple organ systems from TSC1/TSC2 mutations leading to mTOR overactivity. Renal angiomyolipomas are the most frequent renal manifestation, presenting with multiple/bilateral lesions that can hemorrhage, cause pain, renin-dependent hypertension, and chronic kidney disease from compression of normal renal tissue.",
-      "id": "2026-09-04-23"
+      "id": "2026-09-04-23",
+      "topic": "Angiomyolipoma (tuberous sclerosis)",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -1029,7 +1135,9 @@
         "Correct - Angiosarcoma classically occurs on the scalp/forehead of older men as purple nodules resembling a bruise that grows over time; the hepatic form of angiosarcoma is classically associated with vinyl chloride exposure."
       ],
       "overview": "Angiosarcoma is a rare, aggressive vascular tumor most classically arising on the scalp/forehead of older men as a bruise-like purple nodule that grows over time, with biopsy showing irregular abnormal vascular structures and carrying a poor prognosis. Other forms occur in the liver (associated with vinyl chloride exposure) and breast (often following radiation therapy or in chronic lymphedema after mastectomy, occurring decades later).",
-      "id": "2026-09-04-24"
+      "id": "2026-09-04-24",
+      "topic": "Angiosarcoma",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -1050,7 +1158,9 @@
         "HPV causes verrucae/warts, not Kaposi sarcoma."
       ],
       "overview": "Kaposi sarcoma is a vascular tumor common in HIV/AIDS caused by HHV-8 infection, presenting as red-purple nodules on skin and mucosa. It is distinguished from the similar-appearing bacillary angiomatosis (caused by Bartonella species) by biopsy: Kaposi sarcoma shows a lymphocytic infiltrate, while bacillary angiomatosis shows neutrophils and visible bacilli.",
-      "id": "2026-09-04-25"
+      "id": "2026-09-04-25",
+      "topic": "Kaposi sarcoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1069,7 +1179,9 @@
         "Decreased tyrosinase activity describes albinism, which causes hypopigmentation, the opposite of freckles."
       ],
       "overview": "Melanin is synthesized from tyrosine in melanocytes and transferred via melanosomes to keratinocytes. Freckles result from increased melanin synthesis with a normal melanocyte number/density, distinguishing them from disorders of melanocyte number (nevi) or melanocyte function (albinism, vitiligo).",
-      "id": "2026-09-04-26"
+      "id": "2026-09-04-26",
+      "topic": "Freckles (ephelides)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1088,7 +1200,9 @@
         "Optic gliomas are a feature of NF1, not NF2."
       ],
       "overview": "Neurofibromatosis type 2 is a less common autosomal dominant disorder caused by mutation of the NF2 gene, with major features being CNS tumors: bilateral vestibular schwannomas ('acoustic neuromas') occurring in nearly all patients, plus meningiomas. This contrasts with NF1, which primarily causes peripheral nerve neurofibromas with skin and eye findings.",
-      "id": "2026-09-04-27"
+      "id": "2026-09-04-27",
+      "topic": "Neurofibromatosis type 2",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -1109,7 +1223,9 @@
         "Linear IgG at the dermal-epidermal junction is the classic finding in bullous pemphigoid, not pemphigus vulgaris."
       ],
       "overview": "Pemphigus vulgaris is caused by IgG autoantibodies against desmoglein 1 and 3 (components of desmosomes), producing acantholysis in the stratum spinosum with a 'reticular' net-like IgG pattern on immunofluorescence. It typically affects adults 30-60, often starts with painful oral erosions, produces flaccid bullae that rupture easily, and shows a positive Nikolsky sign and Asboe-Hansen sign (lateral spread of bullae with pressure).",
-      "id": "2026-09-04-28"
+      "id": "2026-09-04-28",
+      "topic": "Pemphigus vulgaris",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1128,7 +1244,9 @@
         "Correct - The S. aureus exfoliative toxin (exfoliatin) cleaves the desmoglein 1 complex, disrupting desmosomal adhesion between keratinocytes specifically in the stratum granulosum, producing the superficial blistering seen in bullous impetigo (and more diffusely in scalded skin syndrome)."
       ],
       "overview": "Bullous impetigo, seen in children and commonly involving the trunk, is caused by S. aureus producing exfoliative toxin (exfoliatin), which cleaves the desmoglein 1 complex and disrupts desmosomal adhesion in the stratum granulosum. This same toxin, when it spreads systemically in neonates, causes the more diffuse staphylococcal scalded skin syndrome.",
-      "id": "2026-09-04-29"
+      "id": "2026-09-04-29",
+      "topic": "Bullous impetigo",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1149,7 +1267,9 @@
         "SJS-TEN overlap is defined as 10-30% BSA, not 35%."
       ],
       "overview": "SJS/TEN represent a spectrum of severe type IV hypersensitivity drug reactions causing epidermal necrosis, classically triggered by anticonvulsants, sulfonamides, allopurinol, penicillins, NSAIDs, and associated with Mycoplasma pneumoniae infection. Classification is by body surface area involved: SJS <10%, overlap 10-30%, TEN >30%, with TEN carrying the highest mortality (25-35%).",
-      "id": "2026-09-04-30"
+      "id": "2026-09-04-30",
+      "topic": "Toxic epidermal necrolysis",
+      "angle": "diagnosis"
     }
   ]
 }
