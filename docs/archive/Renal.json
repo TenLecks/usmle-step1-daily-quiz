@@ -18,7 +18,9 @@
         "Correct \u2014 loop diuretics inhibit the Na+-K+-2Cl- cotransporter (NKCC2) in the thick ascending limb of the loop of Henle, disrupting the medullary concentrating gradient and producing a powerful diuretic effect, along with hypokalemia, hypocalcemia, and hypomagnesemia due to loss of the lumen-positive potential that normally drives paracellular Ca2+/Mg2+ reabsorption."
       ],
       "overview": "Loop diuretics (furosemide, bumetanide, torsemide, ethacrynic acid) inhibit the Na+-K+-2Cl- cotransporter in the thick ascending limb, disrupting the medullary concentrating gradient and producing powerful diuresis. Adverse effects include hypokalemia, metabolic (contraction) alkalosis, hypocalcemia, hypomagnesemia, ototoxicity, and gout.",
-      "id": "2026-09-02-01"
+      "id": "2026-09-02-01",
+      "topic": "Loop diuretics (furosemide)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Incorrect \u2014 this range represents a markedly elevated anion gap, consistent with severe anion gap acidosis, not the normal reference range."
       ],
       "overview": "The anion gap (Na+ minus the sum of Cl- and HCO3-) estimates unmeasured anions in the plasma, primarily albumin, and normally ranges from 8 to 12 mEq/L. An elevated anion gap points toward accumulation of an acid such as ketoacids, lactate, uremic toxins, or ingested toxins (the GOLDMARK causes), while a normal anion gap with acidosis suggests bicarbonate loss or chloride retention (hyperchloremic metabolic acidosis).",
-      "id": "2026-09-02-02"
+      "id": "2026-09-02-02",
+      "topic": "Anion gap",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -58,7 +62,9 @@
         "Incorrect \u2014 lactate accumulates in states of tissue hypoperfusion or certain toxin exposures (e.g., isoniazid, iron), but it is not the toxin specifically implicated in antifreeze/ethylene glycol nephrotoxicity."
       ],
       "overview": "Ethylene glycol (antifreeze) is metabolized by alcohol dehydrogenase to glycolate and oxalate, causing an anion gap metabolic acidosis, direct renal tubular toxicity from glycolate, and calcium oxalate crystal precipitation (classically envelope- or dumbbell-shaped) leading to acute kidney injury. Treatment includes fomepizole (a competitive alcohol dehydrogenase inhibitor) and hemodialysis to remove the parent compound and toxic metabolites.",
-      "id": "2026-09-02-03"
+      "id": "2026-09-02-03",
+      "topic": "Ethylene glycol toxicity",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Incorrect \u2014 an inherited cystine transport defect (cystinuria) causes cystine stones, an entirely separate mechanism from the infection-driven struvite stone process."
       ],
       "overview": "Struvite stones form when urease-producing bacteria (Proteus, Klebsiella, Staph saprophyticus) hydrolyze urea into ammonia, alkalinizing the urine and precipitating ammonium-magnesium-phosphate crystals with a characteristic 'coffin-lid' shape. These stones are associated with recurrent UTIs, can form large staghorn calculi filling the renal pelvis and calyces, and typically require surgical removal plus antibiotics since they act as a bacterial reservoir.",
-      "id": "2026-09-02-04"
+      "id": "2026-09-02-04",
+      "topic": "Struvite kidney stones",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Incorrect \u2014 spironolactone is a potassium-sparing diuretic/aldosterone antagonist, not a recognized cause of nephrogenic diabetes insipidus."
       ],
       "overview": "Nephrogenic diabetes insipidus results from renal resistance to ADH, causing polyuria with dilute urine despite adequate or elevated ADH levels. Classic causes include lithium and amphotericin B (both downregulate aquaporin-2 channels), as well as hypercalcemia and severe hypokalemia; treatment involves addressing the underlying cause, sodium/water restriction, and paradoxically, thiazide diuretics or indomethacin.",
-      "id": "2026-09-02-05"
+      "id": "2026-09-02-05",
+      "topic": "Nephrogenic diabetes insipidus",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -115,7 +125,9 @@
         "Incorrect \u2014 crescent formation is the hallmark of rapidly progressive glomerulonephritis (RPGN), a distinct and more acute/severe process from the chronic, slowly progressive changes of diabetic nephropathy."
       ],
       "overview": "Diabetic nephropathy is the most common cause of end-stage renal disease in the US, progressing from early hyperfiltration through microalbuminuria to overt nephropathy with nodular glomerulosclerosis (Kimmelstiel-Wilson nodules) caused by non-enzymatic glycosylation and advanced glycosylation end products (AGEs), and finally to chronic kidney disease/ESRD.",
-      "id": "2026-09-02-06"
+      "id": "2026-09-02-06",
+      "topic": "Diabetic nephropathy",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -136,7 +148,9 @@
         "Incorrect \u2014 aldosterone promotes potassium excretion (lowering serum K+), so increased aldosterone would not explain hyperkalemia; furthermore, DKA is not classically associated with hyperaldosteronism."
       ],
       "overview": "In diabetic ketoacidosis, insulin deficiency and severe metabolic acidosis cause a transcellular shift of potassium from the intracellular to extracellular space, resulting in a normal or elevated serum potassium despite significant total body potassium depletion from osmotic diuresis and vomiting. This is why insulin therapy in DKA management can precipitously drop serum potassium, requiring careful monitoring and repletion.",
-      "id": "2026-09-02-07"
+      "id": "2026-09-02-07",
+      "topic": "Diabetic ketoacidosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Incorrect \u2014 anti-dsDNA antibodies are associated with SLE and lupus nephritis, not primary membranous nephropathy."
       ],
       "overview": "Membranous nephropathy is an immune-complex nephrotic disease caused primarily by autoantibodies against the PLA2R antigen on podocytes, leading to subepithelial deposits with a 'spike and dome' pattern on electron microscopy and granular IgG/C3 on immunofluorescence. Secondary causes include SLE, solid tumors, hepatitis B/C, and certain drugs (penicillamine, gold, NSAIDs).",
-      "id": "2026-09-02-08"
+      "id": "2026-09-02-08",
+      "topic": "Membranous nephropathy",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -176,7 +192,9 @@
         "Incorrect \u2014 anti-dsDNA antibodies are seen in lupus nephritis, which shows granular 'full house' immunofluorescence (IgG, IgA, IgM, C3, C1q), not linear IgG, and does not typically cause hemoptysis."
       ],
       "overview": "Goodpasture syndrome (anti-GBM disease) is a type II hypersensitivity reaction in which autoantibodies target the alpha-3 chain of type IV collagen shared by the glomerular and alveolar basement membranes, producing the classic combination of pulmonary hemorrhage (hemoptysis) and rapidly progressive glomerulonephritis. Renal biopsy characteristically shows crescents on light microscopy and linear IgG deposition on immunofluorescence, distinguishing it from immune-complex (granular IF) and pauci-immune ANCA-associated (negative IF) causes of RPGN.",
-      "id": "2026-09-02-09"
+      "id": "2026-09-02-09",
+      "topic": "Goodpasture syndrome (anti-GBM disease)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -195,7 +213,9 @@
         "Correct \u2014 IgA nephropathy (Berger disease) classically presents with gross hematuria occurring within 1-2 days of a mucosal (respiratory or GI) infection, reflecting an abnormal mucosal IgA immune response, whereas post-streptococcal GN has a latent period of 1-3 weeks as antibodies form and immune complexes deposit in the glomeruli."
       ],
       "overview": "IgA nephropathy (Berger disease) is caused by abnormal mucosal IgA production forming immune complexes that deposit in the mesangium, causing recurrent gross hematuria typically within 1-2 days of a mucosal infection, in contrast to the 1-3 week latent period of post-streptococcal glomerulonephritis. IgA nephropathy shows mesangial IgA deposits on immunofluorescence and can recur over a patient's lifetime, sometimes progressing to chronic kidney disease.",
-      "id": "2026-09-02-10"
+      "id": "2026-09-02-10",
+      "topic": "IgA nephropathy",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -216,7 +236,9 @@
         "Incorrect \u2014 subendothelial deposits with tram-track appearance describe MPGN, which typically presents with nephritic features (hematuria, red cell casts) and hypocomplementemia, not isolated nephrotic syndrome with negative IF."
       ],
       "overview": "Minimal change disease is the most common cause of nephrotic syndrome in children, often idiopathic or triggered by a recent viral infection, allergic reaction, or immunization. It is caused by podocyte injury with loss of the glomerular basement membrane's negative charge barrier, producing selective proteinuria (albumin only). Light microscopy and immunofluorescence are normal/negative; only electron microscopy reveals diffuse foot process effacement, and the disease is notable for its excellent response to steroids.",
-      "id": "2026-09-02-11"
+      "id": "2026-09-02-11",
+      "topic": "Minimal change disease",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -235,7 +257,9 @@
         "Incorrect \u2014 aquaporin-1 channels are constitutively present in the proximal tubule and descending limb and are not regulated by ADH; ADH-regulated aquaporin-2 is inserted into the apical (not basolateral) membrane of principal cells."
       ],
       "overview": "ADH (vasopressin) acts on V2 receptors on the basolateral membrane of collecting duct principal cells, activating a cAMP second messenger pathway that causes aquaporin-2 water channels to be inserted into the apical membrane, increasing water reabsorption. This response allows the kidney to produce concentrated urine in states of hyperosmolality or volume depletion, while lack of ADH (or renal resistance to it) causes diabetes insipidus with dilute urine.",
-      "id": "2026-09-02-12"
+      "id": "2026-09-02-12",
+      "topic": "Antidiuretic hormone (ADH)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -254,7 +278,9 @@
         "Incorrect \u2014 this describes the acute/chronic respiratory acidosis compensation formulas, which are distinct from Winter's formula and used for a different primary disorder."
       ],
       "overview": "Winter's formula (pCO2 = 1.5 \u00d7 [HCO3-] + 8 \u00b1 2) is used to determine whether the respiratory compensation for a primary metabolic acidosis is appropriate. A measured pCO2 higher than predicted suggests a concomitant respiratory acidosis, while a lower than predicted pCO2 suggests a concomitant respiratory alkalosis.",
-      "id": "2026-09-02-13"
+      "id": "2026-09-02-13",
+      "topic": "Winter's formula",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -273,7 +299,9 @@
         "Incorrect \u2014 SLE causes lupus nephritis (various classes, most classically diffuse proliferative GN), not FSGS as its classic association."
       ],
       "overview": "FSGS is a podocyte disorder causing nephrotic syndrome, either idiopathic or secondary to conditions like HIV infection, sickle cell disease, severe obesity, heroin use, or reduced nephron mass. Biopsy shows focal and segmental sclerosis with hyalinosis on light microscopy and podocyte foot process effacement on electron microscopy, with a generally poor prognosis and progression to chronic kidney disease in a significant proportion of patients.",
-      "id": "2026-09-02-14"
+      "id": "2026-09-02-14",
+      "topic": "Focal segmental glomerulosclerosis (FSGS)",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -292,7 +320,9 @@
         "Incorrect \u2014 peaked T waves are a hallmark of hyperkalemia, not hypokalemia, which instead causes flattened T waves."
       ],
       "overview": "Hypokalemia causes muscle weakness and cardiac arrhythmias, with characteristic EKG findings of flattened T waves and U waves, in contrast to the peaked T waves seen in hyperkalemia. Common causes include diuretics, GI losses (vomiting, diarrhea), insulin/beta-agonist therapy, and hypomagnesemia (which prevents correction of hypokalemia until magnesium is repleted).",
-      "id": "2026-09-02-15"
+      "id": "2026-09-02-15",
+      "topic": "Hypokalemia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -311,7 +341,9 @@
         "Correct \u2014 calcium oxalate stones classically form envelope-shaped crystals (calcium oxalate dihydrate) or dumbbell-shaped crystals (calcium oxalate monohydrate) on urine microscopy, and are the most common type of kidney stone, radiopaque on imaging."
       ],
       "overview": "Calcium oxalate stones are the most common type of kidney stone, forming envelope- or dumbbell-shaped crystals and appearing radiopaque on imaging. Risk factors include hypercalciuria (idiopathic, hypercalcemia, hyperparathyroidism), hyperoxaluria (fat malabsorption states, vitamin C excess), hypocitraturia, and low urine volume, and treatment includes hydration, low-sodium diet, thiazide diuretics, and citrate supplementation.",
-      "id": "2026-09-02-16"
+      "id": "2026-09-02-16",
+      "topic": "Calcium oxalate kidney stones",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -330,7 +362,9 @@
         "Correct \u2014 desmopressin is an ADH analog; in central DI, the kidneys are functionally normal but lack endogenous ADH, so exogenous desmopressin activates renal V2 receptors and concentrates the urine, while in nephrogenic DI the kidneys are unresponsive to ADH regardless of source, so urine remains dilute despite desmopressin administration."
       ],
       "overview": "The water deprivation/desmopressin test distinguishes causes of polyuria: primary polydipsia concentrates urine with water deprivation alone (since ADH is intact but suppressed), central DI fails to concentrate with water deprivation but does concentrate after desmopressin (since the kidney is ADH-responsive), and nephrogenic DI fails to concentrate urine even after desmopressin because the kidney cannot respond to ADH.",
-      "id": "2026-09-02-17"
+      "id": "2026-09-02-17",
+      "topic": "Diabetes insipidus",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -349,7 +383,9 @@
         "Incorrect \u2014 QRS widening is a later, more advanced finding in hyperkalemia, occurring after peaked T waves as potassium levels rise further."
       ],
       "overview": "Hyperkalemia produces a progressive sequence of EKG changes as serum potassium rises: peaked T waves appear earliest, followed by PR prolongation, QRS widening, and ultimately a sine wave pattern that precedes ventricular fibrillation or asystole. Because the potassium level at which these changes occur varies between individuals, EKG is the key test used to identify patients at high risk regardless of the absolute potassium value.",
-      "id": "2026-09-02-18"
+      "id": "2026-09-02-18",
+      "topic": "Hyperkalemia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -368,7 +404,9 @@
         "Incorrect \u2014 isolated podocyte foot process effacement without deposits is characteristic of minimal change disease, a nephrotic (not nephritic) disease unrelated to streptococcal infection."
       ],
       "overview": "Post-streptococcal glomerulonephritis is an immune complex-mediated nephritic syndrome occurring 2-3 weeks after group A streptococcal pharyngitis or skin infection in children. It presents with hypercellular glomeruli, granular IgG/C3 immunofluorescence, subepithelial 'humps' on electron microscopy, and hypocomplementemia, and typically resolves spontaneously with an excellent prognosis in children.",
-      "id": "2026-09-02-19"
+      "id": "2026-09-02-19",
+      "topic": "Post-streptococcal glomerulonephritis",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -387,7 +425,9 @@
         "Correct \u2014 aldosterone acts on principal cells by upregulating ENaC channels (increasing Na+/water reabsorption and expanding circulating volume) and creating a more negative luminal charge that drives potassium secretion through ROMK channels, lowering serum potassium."
       ],
       "overview": "Aldosterone is a mineralocorticoid steroid hormone that acts on collecting duct principal cells to increase ENaC-mediated sodium (and secondarily water) reabsorption and ROMK-mediated potassium secretion, and on alpha-intercalated cells to increase H+-ATPase-mediated acid secretion. Its net effects are volume expansion, hypokalemia, and metabolic alkalosis, and its release is stimulated by angiotensin II and hyperkalemia.",
-      "id": "2026-09-02-20"
+      "id": "2026-09-02-20",
+      "topic": "Aldosterone",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -408,7 +448,9 @@
         "Incorrect \u2014 the pCO2 is low (33), not elevated, so there is no primary respiratory acidosis; respiratory acidosis would show hypoventilation with an elevated pCO2."
       ],
       "overview": "Non-anion gap metabolic acidosis occurs from loss of bicarbonate (e.g., diarrhea, RTA) or chloride gain, and is characterized by hyperchloremia with a normal anion gap. Winter's formula (pCO2 = 1.5\u00d7HCO3 + 8 \u00b1 2) predicts the expected respiratory compensation for a primary metabolic acidosis; a measured pCO2 outside this range indicates a second, superimposed acid-base disorder.",
-      "id": "2026-09-02-21"
+      "id": "2026-09-02-21",
+      "topic": "Metabolic acidosis (secretory diarrhea)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -427,7 +469,9 @@
         "Incorrect \u2014 glutamine and glutamate are not the amino acids affected in cystinuria; this option does not correspond to any of the classic renal amino acid transport disorders described."
       ],
       "overview": "Cystinuria is an autosomal recessive defect in proximal tubular reabsorption of cystine, ornithine, lysine, and arginine (COLA), leading to poorly soluble cystine precipitating into recurrent hexagonal kidney stones, often presenting in children. Diagnosis is confirmed with the cyanide-nitroprusside test, and treatment requires lifelong hydration, urinary alkalinization, and chelating agents (penicillamine or tiopronin) to increase cystine solubility.",
-      "id": "2026-09-02-22"
+      "id": "2026-09-02-22",
+      "topic": "Cystinuria",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -448,7 +492,9 @@
         "Correct \u2014 hyponatremia with low serum osmolality, inappropriately concentrated urine (urine osmolality >100 mOsm/kg), elevated urine sodium (>30 mEq/L), euvolemia, and normal renal/thyroid/adrenal function in the setting of small cell lung cancer (a classic paraneoplastic cause) all meet the diagnostic criteria for SIADH."
       ],
       "overview": "SIADH is a euvolemic hyponatremia caused by inappropriate ADH release, most classically from small cell lung cancer (paraneoplastic), CNS disorders, or certain drugs. Diagnostic criteria include low serum osmolality, inappropriately concentrated urine (>100 mOsm/kg), elevated urine sodium (>30 mEq/L), and normal volume status with normal renal, thyroid, and adrenal function; management includes fluid restriction, salt tablets, and in severe cases, vaptans or hypertonic saline.",
-      "id": "2026-09-02-23"
+      "id": "2026-09-02-23",
+      "topic": "SIADH",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -467,7 +513,9 @@
         "Incorrect \u2014 this describes immune complex-mediated MPGN (formerly type I), which involves both IgG and C3 deposition with activation of the classical complement pathway, lowering both C3 and C4, and is classically associated with hepatitis C."
       ],
       "overview": "MPGN is a pattern of glomerular injury with hypercellularity, thickened capillary walls, and a 'tram-track' appearance on light microscopy. It is subdivided by immunofluorescence into immune complex-mediated MPGN (IgG and C3 positive, low C3 and C4, associated with hepatitis C) and complement-mediated MPGN/dense deposit disease (C3 only, low C3 with normal C4, driven by C3 nephritic factor, mostly affecting children).",
-      "id": "2026-09-02-24"
+      "id": "2026-09-02-24",
+      "topic": "Membranoproliferative glomerulonephritis type II (dense deposit disease)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -486,7 +534,9 @@
         "Incorrect \u2014 thiazides have a well-documented and clinically important effect on calcium handling, distinguishing them from loop diuretics."
       ],
       "overview": "Thiazide diuretics inhibit the Na+-Cl- cotransporter in the distal convoluted tubule, which secondarily enhances calcium reabsorption via the Na+/Ca2+ exchanger, leading to hypocalciuria and a tendency toward hypercalcemia. This is the opposite of loop diuretics, which cause hypercalciuria and hypocalcemia, making thiazides useful for preventing recurrent calcium kidney stones and loop diuretics useful in treating hypercalcemia.",
-      "id": "2026-09-02-25"
+      "id": "2026-09-02-25",
+      "topic": "Thiazide diuretics",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -507,7 +557,9 @@
         "Incorrect \u2014 a defect in the distal convoluted tubule Na-Cl cotransporter causes Gitelman syndrome, which presents with hypocalciuria (not hypercalciuria) and hypomagnesemia, and usually presents later (adolescence) with a milder phenotype."
       ],
       "overview": "Bartter syndrome is an inherited defect in the thick ascending limb's NKCC2 (or related) channel that phenocopies chronic loop diuretic use, causing volume depletion, secondary hyperreninemic hyperaldosteronism, hypokalemic metabolic alkalosis, and hypercalciuria with nephrocalcinosis. It is distinguished from Gitelman syndrome (distal convoluted tubule defect) by the presence of hypercalciuria rather than hypocalciuria and typically presents earlier and more severely in childhood.",
-      "id": "2026-09-02-26"
+      "id": "2026-09-02-26",
+      "topic": "Bartter syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -528,7 +580,9 @@
         "Incorrect \u2014 ectopic ACTH secretion by RCC causes Cushing syndrome (weight gain, hypertension, hyperglycemia), not polycythemia or hypercalcemia specifically."
       ],
       "overview": "Renal cell carcinoma, the most common renal malignancy in adults (linked to smoking, obesity, and von Hippel-Lindau syndrome), classically arises from proximal tubule cells and is associated with paraneoplastic syndromes including ectopic erythropoietin production (polycythemia), PTHrP secretion (hypercalcemia), renin secretion (hypertension), and ACTH secretion (Cushing syndrome). It has a propensity to invade the renal vein and IVC and spread hematogenously to lung and bone.",
-      "id": "2026-09-02-27"
+      "id": "2026-09-02-27",
+      "topic": "Renal cell carcinoma",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -547,7 +601,9 @@
         "Incorrect \u2014 intrinsic renal failure (e.g., acute tubular necrosis) causes tubular dysfunction with impaired sodium reabsorption, producing a FeNa >2%, the opposite of this scenario."
       ],
       "overview": "Fractional excretion of sodium (FeNa) helps distinguish prerenal azotemia from intrinsic renal failure in acute kidney injury: FeNa <1% (with low urine Na and high urine osmolality) suggests prerenal disease where tubular sodium reabsorption is intact, while FeNa >2% (with high urine Na and low urine osmolality) suggests intrinsic renal damage such as acute tubular necrosis where tubular function is impaired.",
-      "id": "2026-09-02-28"
+      "id": "2026-09-02-28",
+      "topic": "Fractional excretion of sodium (FeNa) in acute kidney injury",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -568,7 +624,9 @@
         "Incorrect \u2014 aspirin overdose causes a mixed respiratory alkalosis and anion gap metabolic acidosis but is not found in windshield wiper fluid and does not classically cause visual loss."
       ],
       "overview": "Toxic alcohol ingestions (methanol, ethylene glycol) cause anion gap metabolic acidosis with an elevated osmolar gap. Methanol is metabolized via alcohol dehydrogenase to formic acid, which is specifically toxic to the retina causing visual loss, while ethylene glycol is metabolized to glycolate and oxalate, which are toxic to renal tubules and form calcium oxalate crystals. Treatment for both involves fomepizole (or ethanol) and dialysis.",
-      "id": "2026-09-02-29"
+      "id": "2026-09-02-29",
+      "topic": "Methanol toxicity",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "Incorrect \u2014 chronic respiratory acidosis would present with an elevated pCO2 and compensatory rise in bicarbonate, not a markedly low bicarbonate with alkaline urine."
       ],
       "overview": "Distal (type I) RTA results from impaired alpha-intercalated cell H+ secretion, causing severe non-anion gap metabolic acidosis with inappropriately alkaline urine (pH >5.5) that fails to acidify with an ammonium chloride challenge. It is associated with autoimmune diseases (Sj\u00f6gren's, RA), nephrocalcinosis, and calcium phosphate kidney stones, and the urine anion gap is positive because ammonium excretion is impaired.",
-      "id": "2026-09-02-30"
+      "id": "2026-09-02-30",
+      "topic": "Distal (type 1) renal tubular acidosis",
+      "angle": "diagnosis"
     }
   ]
 }
