@@ -214,8 +214,19 @@ function dateStrFor(d) {
   return `${yyyy}-${mm}-${dd}`;
 }
 
+// The daily quiz regenerates at 6 AM local time (Windows Task Scheduler).
+// The app's own "day" rolls over an hour earlier, at 5 AM, rather than at
+// midnight — so someone still finishing last night's quiz at 1 AM sees it
+// as unchanged, while the 5-6 AM gap deliberately shows "not ready yet"
+// instead of stale, about-to-be-replaced questions.
+const DAY_RESET_HOUR = 5;
+
+function appNow() {
+  return new Date(Date.now() - DAY_RESET_HOUR * 60 * 60 * 1000);
+}
+
 function todayStr() {
-  return dateStrFor(new Date());
+  return dateStrFor(appNow());
 }
 
 async function fetchDailyQuestions() {
@@ -403,7 +414,7 @@ function weeklyActivity(history) {
     byDate[h.date].total += h.total;
   });
   const days = [];
-  const cursor = new Date();
+  const cursor = appNow();
   cursor.setDate(cursor.getDate() - 6);
   for (let i = 0; i < 7; i++) {
     const ds = dateStrFor(cursor);
@@ -1050,7 +1061,7 @@ async function startSubjectMissedQuiz(subject, push = true) {
 function computeStreak(history) {
   const dateSet = new Set(history.map(h => h.date));
   let streak = 0;
-  const cursor = new Date();
+  const cursor = appNow();
   if (!dateSet.has(dateStrFor(cursor))) {
     cursor.setDate(cursor.getDate() - 1);
   }
