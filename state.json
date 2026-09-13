@@ -2307,36 +2307,126 @@
       }
     ],
     "Pathology": [
-      "Which histologic features are characteristic of dysplasia?",
-      "A 24-year-old woman notices a firm, raised, pink scar that has grown beyond the original margins of ",
-      "Which of the following features distinguishes apoptosis from necrosis?",
-      "A patient with normal serum calcium levels has calcification identified within an area of prior tiss",
-      "Unlike most other organs, which undergo coagulative necrosis after infarction, the brain characteris",
-      "A 4-year-old boy has a history of recurrent pneumonia, suppurative lymphadenitis, and a hepatic absc",
-      "Opening of the mitochondrial permeability transition pore, triggered by calcium, results in which of",
-      "Chronic cigarette smoking classically causes which epithelial change in the trachea and bronchi?",
-      "Left ventricular hypertrophy in response to chronic hypertension occurs via which cellular adaptatio",
-      "A 34-year-old African American woman presents with dyspnea and is found to have bilateral hilar lymp",
-      "Which enzyme, found in mitochondria, converts superoxide to hydrogen peroxide as part of normal free",
-      "Fibrinoid necrosis of blood vessel walls, seen classically in polyarteritis nodosa, results from whi",
-      "A 52-year-old man with a 15-year history of gastroesophageal reflux disease undergoes upper endoscop",
-      "A 22-year-old man of Mediterranean descent develops jaundice, dark urine, and back pain two days aft",
-      "Cellular (hydropic) swelling, a major feature of reversible cell injury, is primarily caused by dysf",
-      "A 61-year-old man on chronic lisinopril therapy for hypertension presents to the emergency departmen",
-      "Toll-like receptors on macrophages are pattern recognition receptors that respond to which of the fo",
-      "A 3-year-old boy presents with massive, non-tender lymphadenopathy, hepatosplenomegaly, and chronic ",
-      "Which receptor-ligand interaction is characteristic of the extrinsic (death-receptor) pathway of apo",
-      "A 19-year-old woman is brought to the emergency department after intentionally ingesting a large qua",
-      "Malignant cells achieve unlimited replicative potential ('immortality') primarily through upregulati",
-      "A 58-year-old man presents with an ST-elevation myocardial infarction and undergoes emergent percuta",
-      "In the intrinsic (mitochondrial) pathway of apoptosis, which proteins promote apoptosis by opening p",
-      "In patients with hemochromatosis, excess free iron contributes to cell injury primarily through whic",
-      "In the typical timeline of acute inflammation, which cell type predominates within the first 24-48 h",
-      "A gel electrophoresis pattern showing DNA fragments in regular multiples of approximately 180-185 kb",
-      "Activation of the cytosolic inflammasome by uric acid, extracellular ATP, or free DNA primarily lead",
-      "Increased intracellular calcium contributes to cell injury primarily by activating which class of en",
-      "During the phagocyte respiratory burst, which enzyme catalyzes the conversion of hydrogen peroxide t",
-      "A 55-year-old woman presents with painless, waxing-and-waning cervical lymphadenopathy. Lymph node b"
+      {
+        "topic": "Dysplasia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Keloid",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Apoptosis vs necrosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Dystrophic calcification",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Liquefactive necrosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Chronic granulomatous disease",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Mitochondrial permeability transition pore",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Squamous metaplasia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Myocardial hypertrophy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Sarcoidosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Superoxide dismutase",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Fibrinoid necrosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Barrett esophagus",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "G6PD deficiency",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Cellular (hydropic) swelling",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "ACE inhibitor-induced angioedema",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Toll-like receptors",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Autoimmune lymphoproliferative syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Fas-FasL extrinsic apoptosis pathway",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Acetaminophen toxicity",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Telomerase",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Reperfusion injury",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Bax/Bak intrinsic apoptosis pathway",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hemochromatosis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Acute inflammation",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Apoptosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Inflammasome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Calcium-mediated cell injury",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Myeloperoxidase",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Follicular lymphoma",
+        "angle": "mechanism"
+      }
     ],
     "Psychiatry": [
       "A patient started on haloperidol develops restlessness and an urge to keep moving several days after",

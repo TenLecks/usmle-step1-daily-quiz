@@ -18,7 +18,9 @@
         "Dysplasia is a description of abnormal cellular/nuclear morphology, and while carcinoma in situ (severe dysplasia) does not invade the basement membrane, normal-appearing architecture is not a feature of dysplasia itself."
       ],
       "overview": "Dysplasia refers to disordered, non-neoplastic epithelial proliferation featuring pleomorphism, hyperchromatic/enlarged nuclei, and abnormal mitotic figures. It typically follows hyperplasia or metaplasia, may be mild and reversible or severe and irreversible (carcinoma in situ, confined by the basement membrane), and can progress to invasive cancer.",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Dysplasia",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -39,7 +41,9 @@
         "Hypertrophic scars remain within the wound border and are composed mostly of parallel (organized) type III collagen \u2014 the opposite of this patient's findings of disorganized collagen extending beyond the wound margin."
       ],
       "overview": "Keloids are raised scars that grow beyond the original wound borders due to excessive fibroblast activity, growth factor signaling, and collagen (types I and III) deposition in a disorganized pattern. They are especially common at the earlobe, deltoid, and upper back, rare on palms/soles/eyelids, and tend to recur after surgical excision, in contrast to hypertrophic scars, which stay within wound borders and often regress.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Keloid",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -58,7 +62,9 @@
         "Necrosis typically affects many cells and is always pathologic; apoptosis affects single cells and can be a normal physiologic process (e.g., embryogenesis, hormone withdrawal)."
       ],
       "overview": "Apoptosis is an active, ATP-dependent, non-inflammatory form of programmed cell death in which the membrane stays intact, the cell shrinks, and DNA is cleaved into an orderly ladder pattern; it can be physiologic. Necrosis, in contrast, is an inflammatory process with membrane rupture, cell swelling, random DNA fragmentation, and is always pathologic, typically affecting many cells.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Apoptosis vs necrosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Correct. Dystrophic calcification is a local process that occurs in damaged/necrotic tissue despite normal serum calcium levels; damaged membrane phospholipids bind calcium and propagate microcrystal formation, seen in atherosclerotic vessels, damaged heart valves, and lung nodules."
       ],
       "overview": "Dystrophic calcification is a local process occurring in damaged or necrotic tissue (e.g., atherosclerotic vessels, damaged heart valves, chronic pancreatitis) despite normal serum calcium levels, driven by calcium binding to damaged membrane phospholipids. Metastatic calcification, in contrast, is a systemic process occurring in normal tissues (favoring acid-secreting tissues like gastric mucosa, kidney, lung) and requires hypercalcemia and/or hyperphosphatemia.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Dystrophic calcification",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Correct. The brain is a key exception to the typical pattern of infarction: unlike the myocardium, kidney, or spleen (which undergo coagulative necrosis), the brain undergoes liquefactive necrosis after ischemic infarction, in which tissue is broken down into a liquid mass by enzymes."
       ],
       "overview": "Most solid organs (myocardium, kidney, spleen) undergo coagulative necrosis after infarction, in which tissue architecture is preserved for days because enzymes are also damaged, limiting proteolysis. The brain is a key exception: ischemic brain infarction undergoes liquefactive necrosis, in which tissue is broken down into a liquid mass, a pattern also seen in bacterial/fungal abscesses.",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Liquefactive necrosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -117,7 +127,9 @@
         "Superoxide dismutase converts superoxide to H2O2 and is not the enzyme deficient in CGD."
       ],
       "overview": "Chronic granulomatous disease results from NADPH oxidase deficiency, which prevents the respiratory burst (superoxide \u2192 H2O2) that phagocytes normally use with myeloperoxidase to kill bacteria. Because catalase-negative organisms generate their own H2O2 that phagocytes can still exploit, CGD patients are susceptible specifically to catalase-positive organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus), and chronic infection drives granuloma formation.",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Chronic granulomatous disease",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "TLR activation is a pattern-recognition receptor process unrelated to mitochondrial permeability transition pore opening."
       ],
       "overview": "Mitochondrial damage is a key mechanism of cell injury, often resulting from lack of oxygen or reactive oxygen species. Calcium opens the mitochondrial permeability transition pore, causing loss of membrane potential and failure of oxidative phosphorylation, which compounds ATP depletion and drives the cell toward irreversible injury.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Mitochondrial permeability transition pore",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Replacement of squamous with columnar epithelium describes Barrett's esophagus (a response to acid), the opposite direction of change seen in smokers' airways."
       ],
       "overview": "Metaplasia is a reversible change in cell phenotype allowing tissue to better withstand a chronic stressor. In smokers, the normal ciliated columnar epithelium of the trachea and bronchi undergoes squamous metaplasia (the most common type of metaplasia) because squamous epithelium is more durable, though the loss of cilia impairs clearance and increases infection risk; metaplasia can progress to dysplasia and malignancy.",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Squamous metaplasia",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -174,7 +190,9 @@
         "Correct. Cardiac myocytes are permanent (terminally differentiated, G0) cells with essentially no capacity for division, so they respond to increased workload (e.g., hypertension) with hypertrophy \u2014 an increase in cell size with more proteins and filaments \u2014 rather than hyperplasia."
       ],
       "overview": "Permanent (terminally differentiated) tissues such as cardiac myocytes, skeletal muscle, and neurons are essentially non-dividing and therefore respond to increased demand with hypertrophy (increased cell size) rather than hyperplasia. Left ventricular hypertrophy from chronic hypertension is a classic pathologic example, in contrast to physiologic hypertrophy such as pregnancy-related uterine growth.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Myocardial hypertrophy",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -195,7 +213,9 @@
         "Correct. In sarcoidosis and other granulomatous diseases, activated macrophages within granulomas have high 1-alpha-hydroxylase activity, increasing conversion of 25-OH vitamin D to active calcitriol (1,25-OH2 vitamin D) independent of renal/PTH regulation, raising serum calcium."
       ],
       "overview": "Granulomatous diseases such as sarcoidosis can cause hypercalcemia because activated macrophages within granulomas possess high 1-alpha-hydroxylase activity, converting 25-OH vitamin D to its active form (calcitriol) independent of the kidney's normal PTH-regulated control, raising serum calcium and often suppressing PTH.",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Sarcoidosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "Myeloperoxidase converts H2O2 to hypochlorous acid during the phagocyte respiratory burst, a bactericidal function distinct from generalized cellular free radical inactivation."
       ],
       "overview": "Free radicals are generated at low levels during normal metabolism and inactivated by a coordinated enzyme system: superoxide dismutase (mitochondria) converts superoxide to H2O2, which is then converted to water by catalase (peroxisomes) or glutathione peroxidase (cytoplasm, requires glutathione). Overwhelming this system leads to cell injury.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Superoxide dismutase",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "Correct. Fibrinoid necrosis occurs when antibody-antigen immune complexes deposit in vessel walls (a type III hypersensitivity reaction), causing fibrin to leak into the vessel wall, appearing pink on microscopy; it is classically seen in polyarteritis nodosa, presenting with purpura, renal failure, neuropathy, and severe hypertension."
       ],
       "overview": "Fibrinoid necrosis occurs in blood vessel walls and is visible only microscopically (no gross findings), resulting from deposition of antibody-antigen immune complexes (type III hypersensitivity), which causes fibrin to leak into the vessel wall. Polyarteritis nodosa is the classic associated disorder, presenting with purpura, renal failure, neuropathy, and severe hypertension/preeclampsia.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Fibrinoid necrosis",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -254,7 +278,9 @@
         "Anaplasia describes undifferentiated, malignant cell growth; Barrett's esophagus is a benign (though pre-malignant) metaplastic change, not anaplasia."
       ],
       "overview": "Barrett's esophagus is the classic example of metaplasia: chronic gastric acid exposure causes normal stratified squamous esophageal epithelium to be replaced by more acid-resistant columnar (intestinal-type) epithelium with goblet cells. Metaplasia is a potentially reversible adaptive response to stress, but it can progress through dysplasia to esophageal adenocarcinoma, warranting endoscopic surveillance.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Barrett esophagus",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -275,7 +301,9 @@
         "BCL-2 overexpression is the mechanism in follicular lymphoma, not G6PD deficiency-related hemolysis."
       ],
       "overview": "G6PD deficiency limits the cell's supply of glutathione, the key antioxidant that neutralizes free radicals in red blood cells via glutathione peroxidase. Oxidative stressors such as fava beans (via vicine/divicine) overwhelm this limited reserve, causing free radical damage and hemolysis, classically producing bite cells and Heinz bodies.",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "G6PD deficiency",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -294,7 +322,9 @@
         "Correct. Reversible cell injury commonly features cellular swelling (hydropic change, water accumulation) due to decreased Na+/K+ ATPase pump activity, impairing the cell's ability to maintain normal ion and water gradients."
       ],
       "overview": "Cellular swelling (hydropic change) is a major feature of reversible cell injury, resulting from decreased Na+/K+ ATPase pump activity that impairs the cell's ability to regulate water and ion balance. Other reversible changes include fatty change, mitochondrial swelling, membrane blebbing, ER dilation, and ribosome detachment from the ER (polysomal detachment) with decreased protein synthesis.",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Cellular (hydropic) swelling",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -315,7 +345,9 @@
         "Correct. Bradykinin is normally degraded by ACE; ACE inhibitors reduce bradykinin degradation, raising bradykinin levels, which causes vasodilation, increased vascular permeability, and angioedema \u2014 a well-described dangerous side effect distinct from an allergic/histamine-mediated reaction."
       ],
       "overview": "Bradykinin is a vasodilator that increases vascular permeability and causes pain; it is normally degraded by ACE and by C1 inhibitor. ACE inhibitors can raise bradykinin levels, causing angioedema \u2014 a dangerous side effect distinct from IgE/histamine-mediated allergic reactions \u2014 while C1 inhibitor deficiency causes a separate condition, hereditary angioedema, via the same bradykinin pathway.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "ACE inhibitor-induced angioedema",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -334,7 +366,9 @@
         "MHC I antigen presentation is unrelated to TLR pattern recognition; TLRs recognize PAMPs/DAMPs, not self-antigen/MHC I complexes."
       ],
       "overview": "Toll-like receptors (TLRs) are pattern recognition receptors on macrophages, dendritic cells, and other cells found on the cell membrane and endosomes. They recognize PAMPs (pathogen-associated molecular patterns present on microbes but not human cells) and DAMPs (damage-associated molecular patterns released only during tissue injury, e.g., mitochondrial DNA/proteins), triggering cytokine secretion and initiating the acute inflammatory response.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Toll-like receptors",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -355,7 +389,9 @@
         "The intrinsic pathway (BCL-2/BAX/BAK, cytochrome c) governs mitochondria-triggered apoptosis from growth factor withdrawal or DNA damage; ALPS is specifically a defect of the extrinsic FAS pathway, not this pathway."
       ],
       "overview": "Autoimmune lymphoproliferative syndrome (ALPS) results from a defective FAS-FAS ligand extrinsic apoptotic pathway, which normally kills self-reactive T cells in the thymic medulla (negative selection) and downregulates immune responses after infection resolves. Poor negative selection leads to lymphocyte overproduction, lymphadenopathy, hepatosplenomegaly, autoimmune disease, and an increased risk of lymphoma.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Autoimmune lymphoproliferative syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Correct. FAS (CD95) is a death receptor of the TNF receptor family; binding of FAS ligand triggers a caspase activation cascade, and this FAS-FAS ligand interaction is used to eliminate self-reactive T cells in the thymic medulla during negative selection."
       ],
       "overview": "The extrinsic (death-receptor) apoptotic pathway is triggered by membrane death receptors of the TNF receptor family, the best-described being FAS (CD95), which binds FAS ligand to activate caspases. This pathway mediates killing of virus-infected cells by CD8 T cells (via Fas ligand) and eliminates self-reactive T cells during thymic negative selection; its failure causes autoimmune lymphoproliferative syndrome.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Fas-FasL extrinsic apoptosis pathway",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -395,7 +433,9 @@
         "Superoxide dismutase inactivates free radicals; overactivity is not the described mechanism of acetaminophen-induced liver damage, which is instead driven by the toxic metabolite NAPQI itself."
       ],
       "overview": "Acetaminophen is metabolized by hepatic cytochrome P450 enzymes to NAPQI, a reactive oxygen species that causes free radical liver damage (including lipid peroxidation) when glutathione stores are overwhelmed, as in overdose. This is a classic example of drug metabolism generating a bioactive free radical intermediate.",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "Acetaminophen toxicity",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -414,7 +454,9 @@
         "Lysyl oxidase cross-links collagen during wound healing, unrelated to telomere maintenance or replicative capacity."
       ],
       "overview": "Normal cells are capable of only about 60-70 divisions before becoming senescent due to telomere shortening with each replication. Telomerase, an enzyme normally active mainly in stem cells, prevents this loss of genetic material; its upregulation in nearly all cancers confers unlimited replicative potential ('immortality'), one of the key hallmarks of malignant cells alongside autonomous growth, apoptosis evasion, immune evasion, angiogenesis, and invasive/metastatic ability.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Telomerase",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -435,7 +477,9 @@
         "Correct. Reperfusion injury occurs because reintroduction of oxygen after ischemia generates free radicals, antioxidants have been depleted during the ischemic injury, and damaged mitochondria incompletely reduce oxygen, all producing reactive oxygen species that injure cells that might otherwise have recovered."
       ],
       "overview": "Reperfusion injury occurs when blood flow is restored to previously ischemic tissue (e.g., after MI). While some reversibly injured cells recover, others are paradoxically damaged by a burst of free radical generation from reintroduced oxygen, loss of antioxidants during the ischemic period, and damaged mitochondria incompletely reducing oxygen.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Reperfusion injury",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -454,7 +498,9 @@
         "Correct. BAX and BAK are pro-apoptotic BCL2-family proteins that bind anti-apoptotic proteins and open pores in the mitochondrial membrane, allowing cytochrome c release, which binds APAF-1 and activates caspases."
       ],
       "overview": "The intrinsic (mitochondrial) apoptotic pathway is controlled by the balance of BCL2-family proteins: anti-apoptotic members (BCL-2, BCL-XL, MCL1) keep mitochondrial pores closed, while pro-apoptotic members (BAX, BAK) open these pores to release cytochrome c, which binds APAF-1 to activate caspases and trigger apoptosis.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Bax/Bak intrinsic apoptosis pathway",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -473,7 +519,9 @@
         "Correct. In hemochromatosis (iron overload) and Wilson disease (copper overload), excess transition metals catalyze the Fenton reaction, converting H2O2 into the highly reactive hydroxyl radical (OH\u00b7), which causes significant free radical-mediated tissue damage."
       ],
       "overview": "Transition metals like iron and copper catalyze the Fenton reaction, converting hydrogen peroxide into the highly reactive hydroxyl radical, which causes cell injury via lipid peroxidation, protein oxidation, and DNA damage. This mechanism underlies tissue damage in iron overload (hemochromatosis) and copper overload (Wilson disease), conditions in which normal metal storage/transport proteins (transferrin, ferritin, ceruloplasmin) are overwhelmed.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Hemochromatosis",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -492,7 +540,9 @@
         "Eosinophils dominate in hypersensitivity reactions, an exception to the typical timeline, not the default early responder."
       ],
       "overview": "Acute inflammation follows a typical cellular timeline: neutrophils dominate in the first 24-48 hours (short-lived, quick to arrive) and then undergo apoptosis, while monocytes/macrophages become dominant after about 2 days because they live longer and can proliferate in tissue. Exceptions include Pseudomonas infection (prolonged neutrophil dominance), viral infections (early lymphocytes), and hypersensitivity reactions (eosinophils).",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Acute inflammation",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -511,7 +561,9 @@
         "Necrosis produces random, non-uniform DNA fragmentation, which does not create a discrete ladder pattern on gel electrophoresis."
       ],
       "overview": "DNA laddering is a hallmark laboratory finding of apoptosis: caspases cleave chromosomal DNA at regular intervals, producing fragments in multiples of 180-185 kbp that appear as a discrete ladder on gel electrophoresis. This contrasts with necrosis, in which DNA is degraded randomly, producing a smear rather than a ladder.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "Apoptosis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Correct. The inflammasome is a cytosolic protein complex activated by components of damaged cells (uric acid, extracellular ATP, free DNA) that leads to production of IL-1 and release of inflammatory mediators."
       ],
       "overview": "The inflammasome is a cytosolic protein complex present in many cells that senses markers of cellular damage \u2014 uric acid, extracellular ATP, and free DNA \u2014 and, once activated, drives production of IL-1 and release of other inflammatory mediators, linking cell damage recognition to the innate inflammatory response.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Inflammasome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -549,7 +603,9 @@
         "Correct. Calcium influx is a hallmark of cell injury; increased intracellular calcium activates calcium-dependent phospholipases, which break down membrane phospholipids and damage mitochondria, contributing to cellular injury."
       ],
       "overview": "Calcium is normally maintained at very low intracellular concentrations; injury causes calcium influx across the cell membrane and release from intracellular stores, a hallmark of cell injury. Elevated calcium activates calcium-dependent phospholipases that break down membrane phospholipids and damage mitochondria, contributing to progression toward irreversible injury.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "Calcium-mediated cell injury",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "NADPH oxidase generates superoxide from oxygen as the first step of the respiratory burst, upstream of myeloperoxidase's action on H2O2."
       ],
       "overview": "The respiratory burst allows phagocytes to kill engulfed bacteria within the phagosome using three key enzymes in sequence: NADPH oxidase generates superoxide from oxygen, superoxide dismutase converts this to H2O2, and myeloperoxidase converts H2O2 (with chloride) to bactericidal hypochlorous acid. Chronic granulomatous disease results from NADPH oxidase deficiency, disabling this pathway.",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Myeloperoxidase",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "Telomerase increases telomere maintenance (not shortening) and is a separate hallmark of malignancy unrelated to the BCL-2 mechanism described for follicular lymphoma."
       ],
       "overview": "Follicular lymphoma is a B-cell non-Hodgkin lymphoma driven by BCL-2 overexpression from the t(14;18) translocation. BCL-2 is an anti-apoptotic mitochondrial membrane protein that normally prevents cytochrome c release; its overexpression keeps mitochondrial pores closed so caspases cannot be activated via the intrinsic pathway, resulting in evasion of apoptosis and uncontrolled lymphocyte accumulation.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Follicular lymphoma",
+      "angle": "mechanism"
     }
   ]
 }
