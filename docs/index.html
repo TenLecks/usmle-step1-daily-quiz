@@ -77,6 +77,26 @@
   .progress-bar-fill { height: 100%; background: linear-gradient(90deg, var(--accent), var(--accent-2)); border-radius: 3px; transition: width 0.2s; }
   .stem { font-size: 15px; line-height: 1.55; white-space: pre-wrap; }
 
+  .quiz-nav { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+  .nav-btn { width: 40px; height: 40px; border-radius: 12px; background: var(--panel); border: 1px solid var(--border);
+    color: var(--text); display: flex; align-items: center; justify-content: center; cursor: pointer; flex-shrink: 0; font-family: inherit; }
+  .nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .quiz-jump-btn { flex: 1; background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 10px; color: var(--text); font-size: 13px; font-weight: 700; cursor: pointer; text-align: center;
+    font-family: 'Baloo 2', sans-serif; }
+
+  .jump-overlay { position: fixed; inset: 0; background: rgba(8,6,14,0.7); display: flex; align-items: flex-end;
+    justify-content: center; z-index: 50; }
+  .jump-sheet { background: var(--panel); border: 1px solid var(--border); border-bottom: none;
+    border-radius: 20px 20px 0 0; padding: 20px; width: 100%; max-width: 640px; max-height: 70vh; overflow-y: auto; }
+  .jump-sheet-title { font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 16px; margin-bottom: 14px; }
+  .jump-grid { display: grid; grid-template-columns: repeat(6, minmax(0,1fr)); gap: 8px; }
+  .jump-cell { aspect-ratio: 1; border-radius: 10px; border: 1px solid var(--border); background: var(--panel-2);
+    color: var(--text); font-size: 13px; font-weight: 700; cursor: pointer; font-family: inherit; }
+  .jump-cell.jump-correct { background: rgba(52,211,153,0.18); border-color: var(--correct); color: var(--correct); }
+  .jump-cell.jump-incorrect { background: rgba(248,113,113,0.18); border-color: var(--incorrect); color: var(--incorrect); }
+  .jump-cell.jump-current { outline: 2px solid var(--accent); outline-offset: 1px; }
+
   .option-row { display: flex; align-items: stretch; gap: 8px; margin-bottom: 8px; }
   .option { flex: 1; text-align: left; background: var(--panel); border: 1px solid var(--border);
     color: var(--text); border-radius: 12px; padding: 12px 14px; font-size: 14px; font-weight: 500; cursor: pointer; font-family: inherit; }
@@ -166,6 +186,7 @@ const SUBJECT_META = {
 };
 
 const BACK_ICON = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#c4b8de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>';
+const CHEVRON_ICON = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 5l-7 7 7 7"/></svg>';
 const FLAME_ICON = '<svg width="18" height="18" viewBox="0 0 24 24" fill="#f5b942" stroke="none"><path d="M12 2c-.3 3-1.6 4.8-3.6 6.4C6.2 10 5 12 5 14.5A7 7 0 0 0 19 14.5c0-2-1-3.6-2.3-4.8.8 2-.4 3.3-.4 3.3s.6-3.3-1.4-5.4C13.3 5.8 12.3 4.2 12 2Z"/></svg>';
 const REVIEW_ICON = '<svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#f87171" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 0 1 14-5"/><path d="M20 12a8 8 0 0 1-14 5"/><path d="M18 4v4h-4"/><path d="M6 20v-4h4"/></svg>';
 const BOOKMARK_ICON = '<svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="#f5b942" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.6 5.6 6.1.6-4.6 4.1 1.3 6-5.4-3.1-5.4 3.1 1.3-6-4.6-4.1 6.1-.6L12 3Z"/></svg>';
@@ -227,6 +248,22 @@ function escapeHtml(str) {
   const div = document.createElement('div');
   div.textContent = str;
   return div.innerHTML;
+}
+
+// session.answers / progress.answers is an array the same length as the
+// question list, index-aligned (answers[i] describes question i), holding
+// null/undefined for a not-yet-answered slot — this is what lets Prev/Next/
+// jump navigation land on any question and show the right stored answer
+// regardless of the order questions were actually answered in.
+function answeredCount(answers) {
+  return answers.filter(Boolean).length;
+}
+
+function firstUnansweredIndex(answers, total) {
+  for (let i = 0; i < total; i++) {
+    if (!answers[i]) return i;
+  }
+  return 0;
 }
 
 // --- wrong-bank / bookmark hooks ---
@@ -390,14 +427,16 @@ async function renderHome() {
   let heroLabel = 'Start Daily Quiz';
   let heroPct = 0;
   let heroFraction = '';
+  const progressAnsweredCount = progress ? answeredCount(progress.answers) : 0;
   if (progress && progress.completed) {
     heroLabel = 'Retry Daily Quiz';
     heroPct = 100;
     heroFraction = `${progress.score}/${progress.total} correct`;
-  } else if (progress && progress.answers.length > 0) {
+  } else if (progress && progressAnsweredCount > 0) {
     heroLabel = 'Continue Daily Quiz';
-    heroPct = Math.round((progress.answers.length / progress.total) * 100);
-    heroFraction = `Question ${progress.answers.length + 1} of ${progress.total}`;
+    heroPct = Math.round((progressAnsweredCount / progress.total) * 100);
+    const resumeIndex = firstUnansweredIndex(progress.answers, progress.total);
+    heroFraction = `Question ${resumeIndex + 1} of ${progress.total}`;
   } else if (progress) {
     heroFraction = `${progress.total} questions`;
   }
@@ -497,7 +536,7 @@ async function startDailyQuiz() {
       date: todayStr(),
       subject: data.subject,
       total: data.questions.length,
-      answers: [],
+      answers: new Array(data.questions.length).fill(null),
       score: 0,
       completed: false,
     };
@@ -507,8 +546,10 @@ async function startDailyQuiz() {
   session = {
     mode: 'daily',
     questions: data.questions,
-    index: progress.answers.length,
+    index: firstUnansweredIndex(progress.answers, progress.total),
     progress,
+    answers: progress.answers, // same array reference — mutations stay in sync automatically
+    crossedOut: data.questions.map(() => new Set()),
   };
 
   if (progress.completed) {
@@ -521,13 +562,18 @@ async function startDailyQuiz() {
 function renderQuestion() {
   const q = session.questions[session.index];
   const total = session.questions.length;
-  const pct = Math.round((session.index / total) * 100);
+  const answer = session.answers[session.index];
+  const pct = Math.round((answeredCount(session.answers) / total) * 100);
 
   render(`
     <div class="top-bar">
       <button class="back-link" id="btn-home">${BACK_ICON}</button>
       <span id="extras">${renderQuestionExtras(q)}</span>
-      <span class="eyebrow" style="font-size:13px;">Q ${session.index + 1} / ${total}</span>
+    </div>
+    <div class="quiz-nav">
+      <button class="nav-btn" id="btn-prev" ${session.index === 0 ? 'disabled' : ''} aria-label="Previous question">${CHEVRON_ICON}</button>
+      <button class="quiz-jump-btn" id="btn-jump">Q ${session.index + 1} / ${total}</button>
+      <button class="nav-btn" id="btn-next-q" style="transform:scaleX(-1);" ${session.index === total - 1 ? 'disabled' : ''} aria-label="Next question">${CHEVRON_ICON}</button>
     </div>
     <div class="progress-bar"><div class="progress-bar-fill" style="width:${pct}%"></div></div>
     <div class="card">
@@ -541,25 +587,45 @@ function renderQuestion() {
   document.getElementById('btn-home').addEventListener('click', () => { session = null; goBack(); });
   attachExtrasHandlers(q);
 
+  document.getElementById('btn-jump').addEventListener('click', openJumpGrid);
+  if (session.index > 0) {
+    document.getElementById('btn-prev').addEventListener('click', () => { session.index -= 1; renderQuestion(); });
+  }
+  if (session.index < total - 1) {
+    document.getElementById('btn-next-q').addEventListener('click', () => { session.index += 1; renderQuestion(); });
+  }
+
+  if (answer) {
+    renderAnsweredOptions(q, answer.selectedIndex);
+  } else {
+    renderInteractiveOptions(q);
+  }
+}
+
+function renderInteractiveOptions(q) {
+  const crossed = session.crossedOut[session.index];
   const optionsEl = document.getElementById('options');
   q.options.forEach((opt, i) => {
     const row = document.createElement('div');
     row.className = 'option-row';
 
     const btn = document.createElement('button');
-    btn.className = 'option';
+    btn.className = 'option' + (crossed.has(i) ? ' crossed-out' : '');
     btn.textContent = `${String.fromCharCode(65 + i)}. ${opt}`;
     btn.addEventListener('click', () => selectOption(i));
 
     // Cross-out is a scratch aid only (like UWorld's strike-through) — it
     // never selects an answer, just toggles a visual line-through so the
     // option can still be tapped normally if the user changes their mind.
+    // Kept in session.crossedOut (per question index) so it survives
+    // navigating away to another question and back.
     const strikeBtn = document.createElement('button');
-    strikeBtn.className = 'strike-btn';
+    strikeBtn.className = 'strike-btn' + (crossed.has(i) ? ' active' : '');
     strikeBtn.setAttribute('aria-label', 'Cross out this option');
     strikeBtn.textContent = '✕';
     strikeBtn.addEventListener('click', (e) => {
       e.stopPropagation();
+      if (crossed.has(i)) crossed.delete(i); else crossed.add(i);
       btn.classList.toggle('crossed-out');
       strikeBtn.classList.toggle('active');
     });
@@ -570,18 +636,34 @@ function renderQuestion() {
   });
 }
 
-function selectOption(selectedIndex) {
-  const q = session.questions[session.index];
+// Renders a question that already has a recorded answer (just submitted, or
+// revisited via Prev/jump) as a read-only review: no click handlers on the
+// options, prior selection + correct answer highlighted, explanations and
+// overview shown. Answering is one-shot — once recorded, a question stays
+// in this state for the rest of the session.
+function renderAnsweredOptions(q, selectedIndex) {
   const isCorrect = selectedIndex === q.correctIndex;
-  const optionButtons = document.querySelectorAll('#options .option');
+  const optionsEl = document.getElementById('options');
+  q.options.forEach((opt, i) => {
+    const row = document.createElement('div');
+    row.className = 'option-row';
 
-  optionButtons.forEach((btn, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'option';
     btn.disabled = true;
-    btn.classList.remove('crossed-out');
     if (i === q.correctIndex) btn.classList.add('correct');
     if (i === selectedIndex && !isCorrect) btn.classList.add('incorrect');
+    btn.textContent = `${String.fromCharCode(65 + i)}. ${opt}`;
+
+    const strikeBtn = document.createElement('button');
+    strikeBtn.className = 'strike-btn';
+    strikeBtn.disabled = true;
+    strikeBtn.textContent = '✕';
+
+    row.appendChild(btn);
+    row.appendChild(strikeBtn);
+    optionsEl.appendChild(row);
   });
-  document.querySelectorAll('#options .strike-btn').forEach(btn => { btn.disabled = true; });
 
   const expEl = document.getElementById('explanations');
   q.explanations.forEach((text, i) => {
@@ -611,20 +693,62 @@ function selectOption(selectedIndex) {
     expEl.appendChild(overviewDiv);
   }
 
-  onAnswerSubmitted(q, selectedIndex, isCorrect);
-
-  if (session.mode === 'daily') {
-    session.progress.answers.push({ questionId: q.id, selectedIndex, correct: isCorrect });
-    if (isCorrect) session.progress.score += 1;
-    saveProgress(session.progress);
-  }
-
   const nextHolder = document.getElementById('next-holder');
   const nextBtn = document.createElement('button');
   nextBtn.className = 'btn-primary';
   nextBtn.textContent = session.index + 1 < session.questions.length ? 'Next' : 'Finish';
   nextBtn.addEventListener('click', nextQuestion);
   nextHolder.appendChild(nextBtn);
+}
+
+function selectOption(selectedIndex) {
+  const q = session.questions[session.index];
+  const isCorrect = selectedIndex === q.correctIndex;
+  session.answers[session.index] = { selectedIndex, correct: isCorrect };
+
+  onAnswerSubmitted(q, selectedIndex, isCorrect);
+
+  if (session.mode === 'daily') {
+    session.progress.score = session.answers.filter(a => a && a.correct).length;
+    saveProgress(session.progress);
+  }
+
+  renderQuestion();
+}
+
+// Bottom-sheet grid of every question number in the current session, color-
+// coded by answer state, so a specific question can be jumped to directly
+// instead of stepping through Prev/Next one at a time.
+function openJumpGrid() {
+  const total = session.questions.length;
+  const cells = session.questions.map((q, i) => {
+    const ans = session.answers[i];
+    let cls = 'jump-cell';
+    if (ans) cls += ans.correct ? ' jump-correct' : ' jump-incorrect';
+    if (i === session.index) cls += ' jump-current';
+    return `<button class="${cls}" data-index="${i}">${i + 1}</button>`;
+  }).join('');
+
+  const overlay = document.createElement('div');
+  overlay.className = 'jump-overlay';
+  overlay.innerHTML = `
+    <div class="jump-sheet">
+      <div class="jump-sheet-title">Jump to Question</div>
+      <div class="jump-grid">${cells}</div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+
+  overlay.addEventListener('click', (e) => {
+    if (e.target === overlay) overlay.remove();
+  });
+  overlay.querySelectorAll('.jump-cell').forEach(btn => {
+    btn.addEventListener('click', () => {
+      session.index = parseInt(btn.dataset.index, 10);
+      overlay.remove();
+      renderQuestion();
+    });
+  });
 }
 
 function nextQuestion() {
@@ -700,7 +824,13 @@ function renderQuestionList(questions, opts) {
 
   function startQuizFrom(list, index) {
     pushScreen('quiz');
-    session = { mode: opts.mode, questions: list, index };
+    session = {
+      mode: opts.mode,
+      questions: list,
+      index,
+      answers: new Array(list.length).fill(null),
+      crossedOut: list.map(() => new Set()),
+    };
     renderQuestion();
   }
 
