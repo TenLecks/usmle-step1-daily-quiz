@@ -17,7 +17,9 @@
         "Incorrect. Beta-adrenergic receptor blockade is the mechanism of Class II antiarrhythmics, not Class IA agents.",
         "Incorrect. While Class IA drugs also have some potassium channel blocking activity (prolonging repolarization), their primary classification and mechanism is sodium channel blockade, not exclusively potassium channels."
       ],
-      "id": "2026-08-26-01"
+      "id": "2026-08-26-01",
+      "topic": "Class IA antiarrhythmics (quinidine/procainamide)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -37,7 +39,9 @@
         "Incorrect. Procainamide (a Class IA agent) is an appropriate treatment for atrial fibrillation in WPW because it slows conduction through the accessory pathway.",
         "Incorrect. Amiodarone can be used in this setting, as it also affects the accessory pathway rather than preferentially blocking the AV node."
       ],
-      "id": "2026-08-26-02"
+      "id": "2026-08-26-02",
+      "topic": "Wolff-Parkinson-White syndrome",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -57,7 +61,9 @@
         "Incorrect. Digoxin toxicity is not mediated by increased aldosterone secretion; aldosterone would promote potassium excretion, not accumulation.",
         "Incorrect. Digoxin does not act on distal tubule potassium secretion; its mechanism is direct inhibition of the Na-K-ATPase pump throughout the body, including cardiac myocytes."
       ],
-      "id": "2026-08-26-03"
+      "id": "2026-08-26-03",
+      "topic": "Digoxin toxicity",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -77,7 +83,9 @@
         "Incorrect. Restrictive cardiomyopathy presents with Kussmaul's sign and right heart failure but is caused by myocardial infiltration, not pericardial fluid accumulation, and does not typically cause distant heart sounds.",
         "Incorrect. Tension pneumothorax causes obstructive shock via compression of intrathoracic veins but would present with absent breath sounds and tracheal deviation, not distant heart sounds from pericardial fluid."
       ],
-      "id": "2026-08-26-04"
+      "id": "2026-08-26-04",
+      "topic": "Cardiac tamponade",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -95,7 +103,9 @@
         "Incorrect. Digoxin does not act on beta-adrenergic receptors; its inotropic effect is via a distinct ion pump mechanism.",
         "Incorrect. Digoxin does not block L-type calcium channels; calcium channel blockade would decrease, not increase, contractility."
       ],
-      "id": "2026-08-26-05"
+      "id": "2026-08-26-05",
+      "topic": "Digoxin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -115,7 +125,9 @@
         "Incorrect. While the mitral valve is the most commonly involved valve in infective endocarditis overall, it is not the classic valve associated with intravenous drug use, and its murmur is best heard at the apex, not the left lower sternal border, and does not increase with inspiration.",
         "Correct. Tricuspid valve endocarditis is classically associated with intravenous drug use; it produces a holosystolic murmur at the left lower sternal border that increases with inspiration (Carvallo's sign), reflecting increased right-sided venous return."
       ],
-      "id": "2026-08-26-06"
+      "id": "2026-08-26-06",
+      "topic": "Infective endocarditis (tricuspid valve, IVDU)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -133,7 +145,9 @@
         "Incorrect. A stiff, noncompliant ventricle is associated with an S4 (atrial kick against a stiff ventricle), not an S3.",
         "Incorrect. Mitral stenosis produces a diastolic rumble preceded by an opening snap, not an S3, and left-sided S3/S4 are not heard in mitral stenosis."
       ],
-      "id": "2026-08-26-07"
+      "id": "2026-08-26-07",
+      "topic": "S3 heart sound",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -153,7 +167,9 @@
         "Incorrect. The posterior descending artery supplies the inferior/posterior walls, not the anterior precordial territory reflected in V1-V4.",
         "Correct. The left anterior descending artery supplies the anterior wall of the left ventricle, corresponding to ST elevations in leads V1-V4, and is also associated with the highest risk of cardiogenic shock among coronary occlusions."
       ],
-      "id": "2026-08-26-08"
+      "id": "2026-08-26-08",
+      "topic": "Anterior STEMI (LAD occlusion)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -171,7 +187,9 @@
         "Incorrect. Elevated ESR is a minor Jones criterion, not a major criterion.",
         "Incorrect. Arthralgia (joint pain without objective inflammation) is a minor criterion, distinct from the major criterion of polyarthritis."
       ],
-      "id": "2026-08-26-09"
+      "id": "2026-08-26-09",
+      "topic": "Acute rheumatic fever (Jones criteria)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -191,7 +209,9 @@
         "Incorrect. Papillary fibroelastomas are typically small tumors found on cardiac valves, not the interatrial septum, and are not classically associated with positional syncope or systemic B-symptoms.",
         "Incorrect. A left atrial thrombus is typically associated with atrial fibrillation or mitral stenosis and does not cause systemic B-symptoms from IL-6 production."
       ],
-      "id": "2026-08-26-10"
+      "id": "2026-08-26-10",
+      "topic": "Atrial myxoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -209,7 +229,9 @@
         "Incorrect. Mobitz Type I is characterized by progressive PR prolongation culminating in a dropped beat, not a fixed prolonged PR interval with 1:1 conduction.",
         "Correct. First-degree AV block is defined by a fixed PR interval greater than 200 ms with every P wave followed by a QRS complex (1:1 conduction, no dropped beats)."
       ],
-      "id": "2026-08-26-11"
+      "id": "2026-08-26-11",
+      "topic": "First-degree AV block",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -229,7 +251,9 @@
         "Incorrect. Dilated cardiomyopathy involves ventricular dilation and systolic dysfunction, not hypertrophy and myocyte disarray.",
         "Incorrect. Atrial septal defect causes a systolic ejection murmur with fixed splitting of S2, not a murmur exacerbated by Valsalva, and is not associated with myocyte disarray."
       ],
-      "id": "2026-08-26-12"
+      "id": "2026-08-26-12",
+      "topic": "Hypertrophic cardiomyopathy",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -249,7 +273,9 @@
         "Correct. Papillary muscle rupture occurs days 5-10 (can occur as early as day 3-4) post-MI, especially after inferior MI due to the posteromedial papillary muscle's single blood supply from the RCA/PDA; it produces acute severe mitral regurgitation with a new holosystolic murmur and pulmonary edema.",
         "Incorrect. Ventricular septal rupture produces a new holosystolic murmur but is typically loudest at the left sternal border (not radiating to the axilla) and is associated with a step-up in oxygen saturation from RA to RV, not primarily mitral regurgitation findings."
       ],
-      "id": "2026-08-26-13"
+      "id": "2026-08-26-13",
+      "topic": "Papillary muscle rupture (post-MI mitral regurgitation)",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -269,7 +295,9 @@
         "Incorrect. Rheumatic heart disease is a rare cause of isolated aortic stenosis and typically also involves the mitral valve.",
         "Incorrect. Bicuspid aortic valve is an important cause of aortic stenosis but typically presents with symptomatic stenosis at an earlier age than 72."
       ],
-      "id": "2026-08-26-14"
+      "id": "2026-08-26-14",
+      "topic": "Aortic stenosis",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -287,7 +315,9 @@
         "Incorrect. Eisenmenger syndrome arises from congenital shunt lesions, not acquired mitral stenosis from rheumatic fever.",
         "Correct. An uncorrected left-to-right shunt (ASD, VSD, or PDA) causes chronic volume overload of the pulmonary circulation, leading over years to pulmonary vascular remodeling, pulmonary hypertension, right ventricular hypertrophy, and eventual reversal of the shunt to right-to-left, producing cyanosis (\"blue kids, not blue babies\")."
       ],
-      "id": "2026-08-26-15"
+      "id": "2026-08-26-15",
+      "topic": "Eisenmenger syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -305,7 +335,9 @@
         "Incorrect. Mid-to-late systolic valve prolapse produces a systolic click, not an S4, which occurs in diastole.",
         "Incorrect. Rapid early diastolic filling into a dilated, volume-overloaded ventricle describes the mechanism of an S3, not an S4."
       ],
-      "id": "2026-08-26-16"
+      "id": "2026-08-26-16",
+      "topic": "S4 heart sound",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -323,7 +355,9 @@
         "Incorrect. Carbonic anhydrase inhibition in the proximal tubule is the mechanism of acetazolamide, not furosemide.",
         "Incorrect. The Na-Cl cotransporter in the distal tubule is the target of thiazide diuretics, not loop diuretics like furosemide."
       ],
-      "id": "2026-08-26-17"
+      "id": "2026-08-26-17",
+      "topic": "Furosemide",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -341,7 +375,9 @@
         "Correct. Increased stretch of the carotid sinus baroreceptors increases afferent signaling, which increases parasympathetic (vagal) outflow and decreases sympathetic outflow, slowing heart rate and lowering blood pressure.",
         "Incorrect. This describes the opposite response, which would occur with decreased (not increased) blood pressure."
       ],
-      "id": "2026-08-26-18"
+      "id": "2026-08-26-18",
+      "topic": "Baroreceptor reflex",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -359,7 +395,9 @@
         "Incorrect. Increased afterload generally decreases stroke volume by increasing resistance to ventricular ejection, the opposite of the Frank-Starling relationship.",
         "Incorrect. This describes the Bowditch (force-frequency) effect, which is a separate phenomenon from the Frank-Starling mechanism and does depend on intracellular calcium handling."
       ],
-      "id": "2026-08-26-19"
+      "id": "2026-08-26-19",
+      "topic": "Frank-Starling mechanism",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -377,7 +415,9 @@
         "Incorrect. A delta wave with a short PR interval is characteristic of Wolff-Parkinson-White syndrome, not pericarditis.",
         "Incorrect. Peaked T waves with a widened QRS are characteristic of hyperkalemia, not pericarditis."
       ],
-      "id": "2026-08-26-20"
+      "id": "2026-08-26-20",
+      "topic": "Acute pericarditis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -395,7 +435,9 @@
         "Incorrect. Renal artery stenosis causes secondary hypertension via increased renin but does not cause a blood pressure or pulse discrepancy between the upper and lower extremities.",
         "Incorrect. Patent ductus arteriosus classically causes a continuous, machine-like murmur and bounding pulses, not a discrepancy between upper and lower extremity blood pressures."
       ],
-      "id": "2026-08-26-21"
+      "id": "2026-08-26-21",
+      "topic": "Coarctation of the aorta",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -413,7 +455,9 @@
         "Incorrect. Renal artery stenosis causes secondary hyperaldosteronism with HIGH plasma renin activity (renin-dependent), not low renin.",
         "Correct. Primary aldosteronism (e.g., from an adrenal adenoma or bilateral adrenal hyperplasia) is characterized by renin-independent aldosterone secretion, producing low plasma renin activity with high aldosterone levels, along with hypertension, hypokalemia, and increased bicarbonate (metabolic alkalosis)."
       ],
-      "id": "2026-08-26-22"
+      "id": "2026-08-26-22",
+      "topic": "Primary hyperaldosteronism",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -431,7 +475,9 @@
         "Correct. Class III antiarrhythmics, including amiodarone, primarily block potassium channels, prolonging repolarization and the action potential duration (and QT interval), which exhibits reverse use dependence.",
         "Incorrect. Calcium channel blockade defines Class IV antiarrhythmics, not the primary mechanism that classifies amiodarone as Class III."
       ],
-      "id": "2026-08-26-23"
+      "id": "2026-08-26-23",
+      "topic": "Amiodarone",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -451,7 +497,9 @@
         "Correct. CT angiography is a definitive, rapid diagnostic study for aortic dissection and is appropriate given this patient's tearing chest pain, blood pressure differential between arms, and widened mediastinum.",
         "Incorrect. While D-dimer is sensitive and a normal value makes dissection unlikely, it is not specific and does not provide definitive diagnosis; imaging is required for confirmation."
       ],
-      "id": "2026-08-26-24"
+      "id": "2026-08-26-24",
+      "topic": "Aortic dissection",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -469,7 +517,9 @@
         "Incorrect. This describes Mobitz Type I (Wenckebach), not Mobitz Type II.",
         "Correct. Mobitz Type II is characterized by a fixed, constant PR interval with sudden, unpredictable dropped QRS complexes (non-conducted P waves) without preceding PR prolongation."
       ],
-      "id": "2026-08-26-25"
+      "id": "2026-08-26-25",
+      "topic": "Mobitz Type II second-degree AV block",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -487,7 +537,9 @@
         "Incorrect. ACE inhibitors increase plasma renin activity as a compensatory response, but elevated renin is not the mechanism of the cough; bradykinin accumulation is.",
         "Incorrect. ACE inhibitors decrease, not increase, angiotensin II levels, so accumulated angiotensin II is not the cause of the cough."
       ],
-      "id": "2026-08-26-26"
+      "id": "2026-08-26-26",
+      "topic": "ACE inhibitor-induced cough",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -505,7 +557,9 @@
         "Incorrect. Plasma renin activity helps evaluate causes of secondary hypertension like renal artery stenosis or aldosteronism, not pheochromocytoma.",
         "Incorrect. Serum cortisol is used to evaluate for Cushing's syndrome, not pheochromocytoma."
       ],
-      "id": "2026-08-26-27"
+      "id": "2026-08-26-27",
+      "topic": "Pheochromocytoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -523,7 +577,9 @@
         "Correct. Adenosine transiently blocks AV nodal conduction, interrupting the reentrant circuit that sustains AV nodal reentrant tachycardia (PSVT), making it an effective and rapidly acting terminating agent.",
         "Incorrect. Multifocal atrial tachycardia arises from multiple ectopic atrial foci and is not terminated by AV nodal blockade with adenosine."
       ],
-      "id": "2026-08-26-28"
+      "id": "2026-08-26-28",
+      "topic": "Adenosine",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -541,7 +597,9 @@
         "Correct. Patent foramen ovale is not one of the four components of Tetralogy of Fallot; the fourth true component is subpulmonary (right ventricular outflow tract) stenosis.",
         "Incorrect (this IS a component). Right ventricular hypertrophy, resulting from chronic outflow obstruction, is one of the four classic features."
       ],
-      "id": "2026-08-26-29"
+      "id": "2026-08-26-29",
+      "topic": "Tetralogy of Fallot",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -559,7 +617,9 @@
         "Incorrect. Resistance is directly proportional to vessel length, but length changes little physiologically compared to radius.",
         "Incorrect. Blood pressure is a determinant of flow (via the pressure gradient), not a direct component of the resistance calculation in Poiseuille's law."
       ],
-      "id": "2026-08-26-30"
+      "id": "2026-08-26-30",
+      "topic": "Poiseuille's law",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -578,7 +638,9 @@
         "Correct: peaked T waves are a classic early ECG finding in hyperkalemia, reflecting altered myocyte repolarization from elevated extracellular potassium."
       ],
       "overview": "Potassium abnormalities produce characteristic T wave changes: hyperkalemia causes peaked T waves (and can progress to QRS widening and a sine-wave pattern with severe elevation), while hypokalemia causes flattened T waves with prominent U waves. These findings are important because severe electrolyte derangements can precipitate life-threatening arrhythmias.",
-      "id": "2026-09-03-01"
+      "id": "2026-09-03-01",
+      "topic": "Hyperkalemia",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -599,7 +661,9 @@
         "Restrictive cardiomyopathy can also show Kussmaul's sign, but the pericardial knock plus prior mediastinal radiation (a classic cause of pericardial scarring) point specifically to constrictive pericarditis."
       ],
       "overview": "Constrictive pericarditis results from a fibrotic, calcified, non-compliant pericardium, often caused by prior pericarditis, cardiac surgery, tuberculosis, or mediastinal radiation. It presents with prominent right heart failure signs, Kussmaul's sign (a paradoxical rise in JVP with inspiration), and a pericardial knock, distinguishing it from tamponade, which classically shows pulsus paradoxus rather than Kussmaul's sign.",
-      "id": "2026-09-03-02"
+      "id": "2026-09-03-02",
+      "topic": "Constrictive pericarditis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -618,7 +682,9 @@
         "Rheumatic valvulitis affects heart valves and is not the classic mechanism behind thoracic aortic aneurysm formation."
       ],
       "overview": "Thoracic aortic aneurysms, especially of the ascending aorta, are associated with cystic medial necrosis, a degenerative process accelerated by hypertension, bicuspid aortic valve, and connective tissue disorders like Marfan syndrome. In contrast, abdominal aortic aneurysms are classically linked to atherosclerosis, most commonly affecting the infrarenal aorta, and share risk factors such as smoking, older age, and male sex.",
-      "id": "2026-09-03-03"
+      "id": "2026-09-03-03",
+      "topic": "Thoracic aortic aneurysm (ascending)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -637,7 +703,9 @@
         "HCM causes left ventricular outflow obstruction, not primarily right heart failure signs."
       ],
       "overview": "Hepatojugular reflux is elicited by applying sustained pressure to the abdomen; normally this raises JVP transiently by only 1-3 cm, but in right ventricular failure the noncompliant, overloaded right heart cannot accommodate the increased venous return, causing a sustained, exaggerated rise in JVP \u2014 a useful bedside sign of right heart failure.",
-      "id": "2026-09-03-04"
+      "id": "2026-09-03-04",
+      "topic": "Hepatojugular reflux",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -656,7 +724,9 @@
         "The Bundle of His is part of the normal cardiac conduction system, not an accessory pathway."
       ],
       "overview": "WPW syndrome results from an accessory atrioventricular pathway called the Bundle of Kent, which conducts impulses from the atria to the ventricles while bypassing the normal AV nodal delay. This causes pre-excitation, manifesting on ECG as a short PR interval and a delta wave, and predisposes to AV reentrant tachycardias.",
-      "id": "2026-09-03-05"
+      "id": "2026-09-03-05",
+      "topic": "Wolff-Parkinson-White syndrome",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -675,7 +745,9 @@
         "L-type calcium channel blockade is the mechanism of calcium channel blockers (verapamil, diltiazem, nifedipine), not ranolazine."
       ],
       "overview": "Ranolazine is an anti-anginal drug that inhibits the late sodium current in cardiac myocytes, reducing intracellular calcium overload (via reduced reverse Na/Ca exchange), which lowers wall tension and myocardial oxygen demand without significantly affecting heart rate or blood pressure. Notable side effects include constipation, dizziness, and QT prolongation.",
-      "id": "2026-09-03-06"
+      "id": "2026-09-03-06",
+      "topic": "Ranolazine",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -696,7 +768,9 @@
         "Bicuspid aortic valve affects the aortic valve, not the mitral valve, and does not explain this presentation."
       ],
       "overview": "Mitral stenosis is most commonly caused by rheumatic heart disease and often presents years after acute rheumatic fever, which many patients do not recall having. It classically causes a diastolic rumbling murmur preceded by an opening snap, with elevated left atrial pressure leading to dyspnea and pulmonary congestion; symptoms often worsen during pregnancy due to increased blood volume and heart rate.",
-      "id": "2026-09-03-07"
+      "id": "2026-09-03-07",
+      "topic": "Mitral stenosis",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -715,7 +789,9 @@
         "The LAD supplies the anterior wall, anterior septum, and apex, not typically the AV node."
       ],
       "overview": "The SA and AV nodes are usually supplied by the right coronary artery, explaining why inferior wall MIs (RCA territory) commonly cause sinus bradycardia and AV nodal block due to ischemia and increased vagal tone. AV node disease from RCA ischemia is generally more benign and often improves with reperfusion, unlike His-Purkinje system disease.",
-      "id": "2026-09-03-08"
+      "id": "2026-09-03-08",
+      "topic": "AV node",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -734,7 +810,9 @@
         "AR does not cause equally elevated systolic and diastolic pressures; diastolic pressure characteristically falls."
       ],
       "overview": "Chronic aortic regurgitation increases left ventricular preload and stroke volume (via the Frank-Starling mechanism) while diastolic blood pressure falls because blood leaks back across the incompetent aortic valve. This combination produces a widened pulse pressure and characteristic peripheral signs such as water-hammer pulses and head bobbing.",
-      "id": "2026-09-03-09"
+      "id": "2026-09-03-09",
+      "topic": "Aortic regurgitation",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -755,7 +833,9 @@
         "Staphylococcus epidermidis typically causes prosthetic valve endocarditis, not native valve disease."
       ],
       "overview": "Viridans streptococci are low-virulence, mouth-flora organisms that adhere to damaged cardiac endothelium and classically cause subacute bacterial endocarditis following dental procedures, especially in patients with a predisposing valve abnormality such as mitral valve prolapse. This contrasts with Staphylococcus aureus, which causes acute, fulminant endocarditis often on structurally normal valves.",
-      "id": "2026-09-03-10"
+      "id": "2026-09-03-10",
+      "topic": "Infective endocarditis (subacute, Streptococcus viridans)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -774,7 +854,9 @@
         "HCM is associated with S4 due to a stiff, hypertrophied ventricle, not physiologic S3."
       ],
       "overview": "S3 is a low-pitched sound occurring in early diastole during rapid ventricular filling, most commonly a pathologic sign of heart failure with elevated left atrial pressure. However, it can be a normal physiologic finding in young patients (under 30) and pregnant women, in whom vigorous ventricular relaxation rapidly lowers pressure and causes rapid filling.",
-      "id": "2026-09-03-11"
+      "id": "2026-09-03-11",
+      "topic": "S3 heart sound",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -795,7 +877,9 @@
         "Beta blockers require caution with bradycardia or AV block from inferior MI, but they are not the classic absolute avoidance like nitrates in RV infarction."
       ],
       "overview": "Inferior STEMI (ST elevations in II, III, aVF) is usually due to RCA occlusion, and the RCA's acute marginal branch supplies the right ventricle, so RV infarction is a recognized complication. RV infarction causes hypotension with clear lungs and elevated JVP due to loss of RV contractility and reduced left ventricular preload. Because these patients are highly preload-dependent, nitrates and other preload-reducing agents must be avoided, as they can cause profound hypotension.",
-      "id": "2026-09-03-12"
+      "id": "2026-09-03-12",
+      "topic": "Right ventricular infarction",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -814,7 +898,9 @@
         "Correct: glucagon activates adenylate cyclase through a receptor independent of the beta receptor, increasing intracellular cAMP and calcium, restoring cardiac contractility and heart rate despite beta receptor blockade."
       ],
       "overview": "Beta blocker overdose can cause severe bradycardia, AV block, hypotension, and cardiogenic shock due to depressed myocardial contractility. Glucagon is the antidote of choice because it raises intracellular cAMP via a receptor distinct from the beta-adrenergic receptor, bypassing the blockade and restoring heart rate and contractility.",
-      "id": "2026-09-03-13"
+      "id": "2026-09-03-13",
+      "topic": "Beta blocker overdose",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -835,7 +921,9 @@
         "Prinzmetal angina causes transient ST elevation from vasospasm but would not typically produce a fixed apical ballooning pattern on ventriculography."
       ],
       "overview": "Takotsubo (stress-induced/apical ballooning) cardiomyopathy is triggered by severe emotional distress and mimics an anterior MI, with markedly reduced LVEF, elevated cardiac biomarkers, and ECG changes, but coronary angiography shows no significant atherosclerotic disease. The hallmark finding is apical ballooning with basal hypercontractility, and most patients recover within 4 to 6 weeks.",
-      "id": "2026-09-03-14"
+      "id": "2026-09-03-14",
+      "topic": "Takotsubo cardiomyopathy",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -854,7 +942,9 @@
         "Correct: lidocaine preferentially binds sodium channels in the depolarized (open/inactivated) state, which is common in ischemic, chronically depolarized myocytes, making it selectively effective for ischemic ventricular arrhythmias."
       ],
       "overview": "Class Ib antiarrhythmics (lidocaine, mexiletine) bind sodium channels preferentially in their depolarized state, making them most effective in ischemic myocardium (where cells are chronically depolarized) and at fast heart rates, with minimal effects on normal tissue or at slow rates. They have little effect on QRS duration at normal heart rates and are used mainly for ischemic ventricular tachycardia.",
-      "id": "2026-09-03-15"
+      "id": "2026-09-03-15",
+      "topic": "Lidocaine",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -873,7 +963,9 @@
         "Correct: an atrial septal defect causes fixed splitting of S2 because the left-to-right shunt equalizes flow to the right heart, producing a consistent delay in pulmonic valve closure regardless of the respiratory cycle."
       ],
       "overview": "Physiologic S2 splitting widens with inspiration because increased venous return delays pulmonic valve closure. Persistent splitting (RBBB, pulmonary hypertension) reflects a delayed right-sided electrical or mechanical event; fixed splitting (ASD) results from a chronic left-to-right shunt causing consistently increased right-sided flow; paradoxical splitting (LBBB, severe AS, HCM) reflects delayed left ventricular outflow and narrows with inspiration.",
-      "id": "2026-09-03-16"
+      "id": "2026-09-03-16",
+      "topic": "Atrial septal defect",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -894,7 +986,9 @@
         "Pulmonary embolism causes dyspnea and pleuritic pain but not typically a blood pressure differential or new AR murmur."
       ],
       "overview": "Aortic dissection presents with sudden, tearing chest or back pain; hypertension is the strongest risk factor, along with Marfan syndrome, Ehlers-Danlos, and bicuspid aortic valve. Type A dissections involve the ascending aorta/arch (surgical emergency; can cause aortic regurgitation, tamponade, or MI from coronary ostial involvement), while Type B (descending) is usually managed medically. Key clues include a blood pressure differential between arms and a widened mediastinum on chest x-ray, with CT, MRI, or TEE used for definitive diagnosis.",
-      "id": "2026-09-03-17"
+      "id": "2026-09-03-17",
+      "topic": "Aortic dissection (Marfan syndrome)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -913,7 +1007,9 @@
         "Correct: arterioles distal to a significant stenosis are already maximally dilated to maintain resting flow; when a vasodilator is given, only arterioles supplying normal vessels can dilate further, diverting (\"stealing\") blood flow away from the stenotic vessel's territory and causing ischemia."
       ],
       "overview": "Coronary steal occurs when a vasodilator (e.g., adenosine, dipyridamole, regadenoson) preferentially increases blood flow to normal coronary vessels whose arterioles are not yet maximally dilated, while arterioles distal to a significant (>75%) stenosis are already maximally dilated at rest and cannot respond further, diverting flow away from the ischemic territory. This principle underlies pharmacologic stress testing, where nuclear tracers detect the resulting relative perfusion defect in the stenotic vessel's territory.",
-      "id": "2026-09-03-18"
+      "id": "2026-09-03-18",
+      "topic": "Coronary steal phenomenon",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -932,7 +1028,9 @@
         "Nitrates cause vasodilation (decreasing afterload slightly), not vasoconstriction."
       ],
       "overview": "Nitrates are converted to nitric oxide, causing vasodilation that predominantly affects veins over arteries, reducing preload and myocardial oxygen demand. This benefit can be offset by reflex sympathetic activation (increasing heart rate and contractility), which is why nitrates are often co-administered with a beta blocker or calcium channel blocker to blunt this reflex response.",
-      "id": "2026-09-03-19"
+      "id": "2026-09-03-19",
+      "topic": "Nitroglycerin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -953,7 +1051,9 @@
         "Ibutilide is a reasonable antiarrhythmic option that slows conduction through the bypass tract."
       ],
       "overview": "WPW involves an accessory pathway (the Bundle of Kent) that bypasses the AV node, causing pre-excitation. When atrial fibrillation occurs in WPW, impulses can conduct rapidly over the bypass tract (which lacks the AV node's rate-limiting properties), producing a wide-complex, irregular, very fast tachycardia. AV nodal blocking drugs are contraindicated because blocking the AV node shifts all conduction to the accessory pathway, risking ventricular fibrillation; treatment instead relies on procainamide, ibutilide, or electrical cardioversion.",
-      "id": "2026-09-03-20"
+      "id": "2026-09-03-20",
+      "topic": "Wolff-Parkinson-White syndrome",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -972,7 +1072,9 @@
         "Concentric hypertrophy with sarcomeres added in parallel occurs with pressure overload (e.g., hypertension, aortic stenosis), not volume overload."
       ],
       "overview": "Pressure overload (hypertension, aortic stenosis) causes concentric hypertrophy via sarcomeres added in parallel, increasing wall thickness and reducing chamber size. Volume overload (aortic/mitral regurgitation, chronic valvular disease) causes eccentric hypertrophy via sarcomeres added in series, dilating the ventricular cavity with relatively normal wall thickness. Both patterns reduce wall tension per the Law of Laplace by distributing force over more myocardial mass.",
-      "id": "2026-09-03-21"
+      "id": "2026-09-03-21",
+      "topic": "Aortic regurgitation",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -991,7 +1093,9 @@
         "Sodium levels are not the primary electrolyte concern for digoxin toxicity risk."
       ],
       "overview": "Digoxin inhibits the Na-K-ATPase pump, and hypokalemia (commonly caused by loop diuretics) increases digoxin's binding to this pump, raising the risk of toxicity even at therapeutic digoxin levels. Digoxin has a narrow therapeutic index and is renally cleared, so renal impairment also increases toxicity risk; digoxin-specific antibody fragments (Digibind) are used for severe toxicity.",
-      "id": "2026-09-03-22"
+      "id": "2026-09-03-22",
+      "topic": "Digoxin toxicity",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -1012,7 +1116,9 @@
         "Endocarditis vegetations present with signs of infection and embolic phenomena rather than a positional diastolic tumor plop tied to a septal mass."
       ],
       "overview": "Cardiac myxoma is the most common primary cardiac tumor in adults, usually located in the left atrium attached near the fossa ovalis. It can obstruct the mitral valve, causing positional syncope and a diastolic \"tumor plop,\" and it produces IL-6, leading to constitutional B symptoms (fevers, weight loss); it may also embolize, causing stroke.",
-      "id": "2026-09-03-23"
+      "id": "2026-09-03-23",
+      "topic": "Atrial myxoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1031,7 +1137,9 @@
         "Correct: the carotid sinus baroreceptors modify signals over a wider range of blood pressures, sensing both hypotension and hypertension, making them the most important baroreceptors for blood pressure regulation."
       ],
       "overview": "Baroreceptors in the aortic arch and carotid sinus sense arterial stretch and relay signals to the brainstem (nucleus tractus solitarius) via CN X and CN IX respectively, triggering autonomic responses affecting heart rate, vascular tone, and renin release. The carotid sinus is considered the more important baroreceptor because it senses blood pressure changes over a wider range (both hypotension and hypertension), whereas the aortic arch mainly senses elevated pressure.",
-      "id": "2026-09-03-24"
+      "id": "2026-09-03-24",
+      "topic": "Baroreceptor reflex",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1052,7 +1160,9 @@
         "IV amiodarone is not first-line for stable AVNRT; vagal maneuvers or adenosine are preferred first."
       ],
       "overview": "AVNRT is the most common cause of paroxysmal supraventricular tachycardia, arising from dual (fast and slow) pathways within the AV node and more common in young women. It presents with sudden-onset, sudden-offset, narrow-complex, regular tachycardia, often with retrograde P waves. First-line treatment in a stable patient is a vagal maneuver (carotid sinus massage, Valsalva) or adenosine, both of which transiently slow AV node conduction to break the reentrant circuit.",
-      "id": "2026-09-03-25"
+      "id": "2026-09-03-25",
+      "topic": "Paroxysmal supraventricular tachycardia",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -1071,7 +1181,9 @@
         "Diabetes mellitus contributes 1 point."
       ],
       "overview": "The CHADS-VASc score estimates stroke risk in patients with atrial fibrillation to guide anticoagulation decisions, weighting congestive heart failure, hypertension, diabetes, vascular disease, female sex, and age 65-74 as 1 point each, while prior stroke/TIA and age over 75 each contribute 2 points. A score of 2 or more generally warrants anticoagulation, while a score of 0 (or 1 due to female sex alone) does not.",
-      "id": "2026-09-03-26"
+      "id": "2026-09-03-26",
+      "topic": "CHA2DS2-VASc score",
+      "angle": "other"
     },
     {
       "format": "simple4",
@@ -1090,7 +1202,9 @@
         "Reverse use dependence is a general pharmacologic property of Class III drugs and is not exclusive to atrial fibrillation."
       ],
       "overview": "Class III antiarrhythmics (amiodarone, sotalol, dofetilide, ibutilide) block potassium channels preferentially in the resting state, meaning their QT-prolonging effect is more pronounced at slower heart rates (\"reverse use dependence\"). This is why bradycardia in a patient on sotalol or dofetilide raises the risk of QT prolongation and torsade de pointes, prompting inpatient monitoring when starting these drugs.",
-      "id": "2026-09-03-27"
+      "id": "2026-09-03-27",
+      "topic": "Sotalol",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1109,7 +1223,9 @@
         "Tricuspid regurgitation produces a giant \"v\" wave during ventricular systole, not a cannon \"a\" wave."
       ],
       "overview": "Jugular venous waveforms reflect right atrial pressure events: the a wave is atrial contraction, the c wave is tricuspid valve bulging during ventricular contraction, and the v wave is atrial filling. A cannon a wave occurs when the atria contract against a closed tricuspid valve due to AV dissociation (complete heart block, PVCs, ventricular tachycardia), while atrial fibrillation eliminates the a wave entirely due to lack of organized atrial contraction.",
-      "id": "2026-09-03-28"
+      "id": "2026-09-03-28",
+      "topic": "Cannon A wave",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1128,7 +1244,9 @@
         "This inverts the formula entirely, placing wall thickness in the numerator instead of the denominator."
       ],
       "overview": "The Law of Laplace explains how wall tension relates to intracavitary pressure, chamber radius, and wall thickness. Pressure overload (e.g., hypertension, aortic stenosis) increases tension and drives concentric hypertrophy (sarcomeres added in parallel), while volume overload increases radius and drives eccentric hypertrophy (sarcomeres added in series); hypertrophy itself is a compensatory mechanism that reduces wall tension by distributing force over more myocardial mass.",
-      "id": "2026-09-03-29"
+      "id": "2026-09-03-29",
+      "topic": "Law of Laplace",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1149,7 +1267,9 @@
         "Right atrial pressure is elevated in tamponade, not normal."
       ],
       "overview": "Cardiac tamponade is a form of obstructive shock caused by pericardial fluid compressing the cardiac chambers and impairing diastolic filling. Beck's triad (hypotension, distended neck veins, muffled heart sounds) and pulsus paradoxus are classic bedside findings. Hemodynamically, tamponade produces low cardiac output with elevated and equalized RA/RV/LA pressures and high systemic vascular resistance from compensatory sympathetic activation.",
-      "id": "2026-09-03-30"
+      "id": "2026-09-03-30",
+      "topic": "Cardiac tamponade",
+      "angle": "pathophysiology"
     }
   ]
 }
