@@ -18,7 +18,9 @@
         "Osteoclast differentiation defects cause osteopetrosis, not achondroplasia."
       ],
       "overview": "Achondroplasia, the most common cause of dwarfism, is caused by an autosomal dominant gain-of-function mutation in FGFR3 that inhibits chondrocyte proliferation, impairing endochondral ossification and causing short limbs with a normal trunk and relatively large head. Membranous ossification is unaffected, and most cases arise from spontaneous mutation associated with increased paternal age; homozygous mutations are lethal.",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Achondroplasia",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -39,7 +41,9 @@
         "PCL injury is typically caused by a posteriorly directed force (dashboard injury) and shows a positive posterior drawer sign, not increased anterior translation."
       ],
       "overview": "The ACL is the most commonly injured knee ligament, classically torn during noncontact pivoting/cutting movements with a sensation of a \"pop,\" and it resists anterior tibial translation. The Lachman test (30\u00b0 flexion) is more sensitive than the anterior drawer test (90\u00b0 flexion) for detecting ACL laxity.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Anterior cruciate ligament tear",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -58,7 +62,9 @@
         "Cubital tunnel syndrome involves ulnar nerve compression at the elbow, not related to a cervical rib."
       ],
       "overview": "Thoracic outlet syndrome results from compression of the lower brachial plexus trunk and subclavian vessels as they exit the thorax, often due to a cervical rib, scalene muscle hypertrophy, or compression beneath the pectoralis minor. Symptoms (Klumpke-pattern weakness, paresthesias) worsen with arm elevation, and venous or arterial compression can cause swelling or ischemic symptoms, respectively.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Thoracic outlet syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Correct: in smooth muscle, calcium binds calmodulin, and the calcium-calmodulin complex activates myosin light chain kinase (MLCK), which phosphorylates the myosin light chain, allowing myosin to interact with actin (\"thick filament regulated\"); dephosphorylation by myosin light chain phosphatase promotes relaxation."
       ],
       "overview": "Unlike striated muscle (which is \"thin filament regulated\" via troponin/tropomyosin), smooth muscle contraction is \"thick filament regulated\": calcium binds calmodulin, and the calcium-calmodulin complex activates myosin light chain kinase (MLCK), which phosphorylates myosin light chains to enable actin-myosin cross-bridge cycling. Myosin light chain phosphatase reverses this phosphorylation, promoting relaxation; second messengers (cAMP inhibits MLCK, cGMP activates the phosphatase) further modulate tone.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Smooth muscle contraction",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Correct: malignant hyperthermia results from abnormal ryanodine receptors causing excessive calcium release from the sarcoplasmic reticulum in response to certain anesthetics (halothane, succinylcholine), leading to sustained contraction, heat generation, and muscle damage; dantrolene antagonizes the ryanodine receptor, blocking calcium release and treating the condition."
       ],
       "overview": "Malignant hyperthermia is a rare, dangerous reaction to certain anesthetics (halothane, succinylcholine) caused by abnormal ryanodine receptors that trigger excessive calcium release from the sarcoplasmic reticulum, leading to sustained muscle contraction, heat production, rigidity, elevated CK, and hyperkalemia. Treatment is dantrolene, which blocks the ryanodine receptor and halts calcium release.",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Malignant hyperthermia",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -117,7 +127,9 @@
         "Musculocutaneous nerve injury causes weak elbow flexion/supination and lateral forearm sensory loss, not deltoid weakness or the sensory pattern described."
       ],
       "overview": "The axillary nerve (C5-C6) arises from the posterior cord, wraps around the surgical neck of the humerus, and innervates the deltoid (abduction 15\u00b0-90\u00b0) and teres minor, with sensory supply to the \"deltoid patch.\" It is classically injured by anterior shoulder dislocation or proximal humerus fracture, producing a flattened deltoid and loss of abduction beyond 15\u00b0.",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Axillary nerve injury",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Osteopetrosis is due to defective osteoclast activity causing increased bone density, not the mosaic pattern/cement lines described; alkaline phosphatase elevation is not the classic finding."
       ],
       "overview": "Paget disease of bone is a focal disorder of excessive bone remodeling, evolving through osteolytic, mixed, and osteosclerotic phases, that produces disorganized, enlarged bone with a characteristic \"mosaic pattern\" of lamellar bone and irregular cement lines. Labs show an isolated elevation in alkaline phosphatase with normal calcium, phosphate, and PTH; complications include fractures, hearing loss, high-output heart failure, and increased osteosarcoma risk.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Paget disease of bone",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "High vitamin D/calcium with low PTH is not consistent with rickets, which involves vitamin D deficiency."
       ],
       "overview": "Rickets is defective mineralization of the cartilaginous growth plate in children due to vitamin D or calcium deficiency, causing bowed legs (genu varum), widened epiphyses, rachitic rosary, and craniotabes. Labs classically show low vitamin D, low calcium, low phosphate, elevated PTH (secondary hyperparathyroidism), and elevated bone alkaline phosphatase.",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Rickets",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -174,7 +190,9 @@
         "Correct: osteopetrosis results from defective osteoclast activity (impaired acid secretion due to carbonic anhydrase II mutation in the infantile autosomal recessive form), leading to failure of bone resorption, increased bone density, loss of marrow space (pancytopenia), and extramedullary hematopoiesis (hepatosplenomegaly)."
       ],
       "overview": "Osteopetrosis results from defective osteoclast bone resorption, causing overgrowth of dense, brittle bone that fills the marrow cavity (pancytopenia, extramedullary hematopoiesis) and compresses cranial nerves. The severe infantile autosomal recessive form is caused by carbonic anhydrase type II mutations (impaired acid secretion by osteoclasts) and may be curable with bone marrow transplant, while a milder autosomal dominant form (Albers-Sch\u00f6nberg disease) involves CLCN7 mutations.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Osteopetrosis",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -195,7 +213,9 @@
         "Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head in younger children (4-8 years), more common in males, with an initially normal x-ray, not the ice cream cone sign in an obese adolescent."
       ],
       "overview": "Slipped capital femoral epiphysis (SCFE) occurs in obese adolescents (12-14 years) when the femoral head epiphysis slips relative to the femoral neck through the growth plate, causing groin pain and the \"ice cream cone sign\" on x-ray, with risk of progression to avascular necrosis. It is distinguished from Legg-Calve-Perthes disease, an idiopathic avascular necrosis of the femoral head occurring in younger children (4-8 years, more common in males).",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Slipped capital femoral epiphysis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "OPG's mechanism is specifically through blocking the RANK-L/RANK interaction, not acting as an independent calcium-regulating hormone."
       ],
       "overview": "Bone turnover is regulated by the RANK/RANK-L/OPG axis: osteoblasts express RANK-L, which binds RANK on osteoclast precursors to stimulate osteoclast differentiation and activity, while osteoblasts also secrete osteoprotegerin (OPG), a decoy receptor that binds RANK-L and blocks this interaction, inhibiting osteoclasts. Estrogen increases OPG and decreases RANK-L/M-CSF, explaining accelerated bone loss after menopause when estrogen declines.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Osteoprotegerin",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "Correct: non-dihydropyridine calcium channel blockers (diltiazem, verapamil) have higher affinity for cardiac L-type calcium channels compared with dihydropyridines (amlodipine, nifedipine), resulting in decreased contractility (negative inotropy), slowed conduction, and lower heart rate."
       ],
       "overview": "Cardiac L-type calcium channels (dihydropyridine receptors) mediate calcium influx during phase 2 of the cardiac action potential, triggering calcium-induced calcium release from the sarcoplasmic reticulum and contraction. Non-dihydropyridine calcium channel blockers (diltiazem, verapamil) have higher cardiac affinity and reduce contractility, conduction velocity, and heart rate, while dihydropyridines (amlodipine, nifedipine) preferentially act on vascular smooth muscle to cause vasodilation.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Non-dihydropyridine calcium channel blockers",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -254,7 +278,9 @@
         "Langerhans cell histiocytosis presents with bone masses (often skull) and biopsy showing Langerhans cells/eosinophils, not the translocation described."
       ],
       "overview": "Ewing sarcoma is a malignant tumor of primitive neuroectodermal (small round blue) cells that occurs in the diaphysis of long bones in children/adolescents (peak 10-15 years), often mimicking osteomyelitis with fever and leukocytosis but sterile cultures. It is characterized by the t(11;22) EWSR1-FLI1 translocation and an \"onion skin\" periosteal reaction on imaging.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Ewing sarcoma",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -275,7 +301,9 @@
         "Correct: the radial nerve runs in the spiral (radial) groove of the humerus and is vulnerable at the midshaft; injury at or below the branch to the triceps spares triceps function and posterior arm sensation while causing wrist drop and dorsal hand paresthesia."
       ],
       "overview": "The radial nerve travels in the spiral groove adjacent to the humeral shaft and is classically injured by midshaft humerus fractures or compression (\"Saturday night palsy,\" crutches), producing wrist drop, weak finger extension, and dorsal hand sensory loss. Because the triceps branch arises proximally, injuries at or below the spiral groove spare triceps strength and posterior arm sensation.",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "Radial nerve injury",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -294,7 +322,9 @@
         "Correct: Dupuytren contracture is fibroblastic proliferation and thickening of the palmar fascia, typically affecting the ring and little fingers, more common in older men of Northern European descent with risk factors including smoking and alcohol use; it presents as a painless, progressive flexion contracture."
       ],
       "overview": "Dupuytren contracture is fibroblastic proliferation and thickening of the palmar fascia of unknown etiology, typically affecting the ring and little fingers and causing a painless, progressive flexion contracture. Risk factors include older age, male sex, smoking, alcohol use, and Northern European ancestry; treatment includes collagenase injection, needle aponeurotomy, or fasciectomy.",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Dupuytren contracture",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -315,7 +345,9 @@
         "Correct: osteosarcoma is the most common primary bone malignancy, typically affecting the metaphysis of long bones (50% around the knee) in adolescents; the Codman triangle (periosteal elevation) and sunburst pattern on x-ray, with biopsy showing pleomorphic osteoblasts producing osteoid, are classic."
       ],
       "overview": "Osteosarcoma is the most common primary malignant bone tumor, occurring in a bimodal distribution (adolescents and older adults with Paget's disease or prior radiation), typically at the metaphysis of long bones around the knee. Classic imaging findings are the Codman triangle and sunburst/sunray periosteal reaction, with histology showing pleomorphic cells producing irregular osteoid; treatment includes neoadjuvant chemotherapy and surgical resection.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "Osteosarcoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -334,7 +366,9 @@
         "Correct: the common peroneal nerve wraps around the fibular neck, where it is vulnerable to compression (prolonged lying, leg crossing, casts), producing foot drop and sensory loss over the dorsum of the foot/lateral shin."
       ],
       "overview": "The common peroneal nerve wraps superficially around the fibular neck, making it susceptible to compression from prolonged bed rest, leg casts, or fibular neck fracture. Injury causes foot drop (weak dorsiflexion), a \"steppage gait,\" and sensory loss over the dorsum of the foot and lateral shin.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Common peroneal nerve injury",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -355,7 +389,9 @@
         "Correct: the lower trunk (C8-T1) gives rise to ulnar and median nerve contributions to the intrinsic hand muscles; wrist flexors are spared because they are supplied by different roots, producing Klumpke palsy with a clawed hand."
       ],
       "overview": "Klumpke palsy results from excessive upward traction/abduction of the arm (e.g., catching a branch while falling, or upward force during a difficult delivery), injuring the lower trunk (C8-T1) and thus the ulnar and median nerve contributions to the intrinsic hand muscles. Because forearm wrist flexors are innervated by different nerve roots, they are spared, producing a clawed hand.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Klumpke palsy",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Median nerve compression (carpal tunnel) causes thumb-side sensory loss and thenar weakness, not little/ring finger symptoms."
       ],
       "overview": "Guyon canal syndrome is compression of the ulnar nerve at the wrist, classically caused by repetitive pressure from bicycle handlebars or hook of hamate fracture/dislocation. It produces sensory loss over the little finger side of the hand and weakness of the interosseous muscles (finger abduction/adduction) and hypothenar muscles.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Ulnar nerve compression (Guyon canal)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -395,7 +433,9 @@
         "Thoracic outlet syndrome involves compression of the lower trunk/subclavian vessels, causing ulnar-distribution and vascular symptoms throughout the arm, not this discrete median sensory pattern with palm sparing."
       ],
       "overview": "Carpal tunnel syndrome is median nerve entrapment at the wrist beneath the flexor retinaculum, causing sensory loss/paresthesia over the thumb, index, middle, and lateral ring finger with sparing of palm sensation (the palmar cutaneous branch exits proximal to the tunnel). Risk factors include pregnancy, obesity, diabetes, hypothyroidism, rheumatoid arthritis, and acromegaly; Tinel's and Phalen's signs support the diagnosis.",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "Carpal tunnel syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -414,7 +454,9 @@
         "Polymyalgia rheumatica causes muscle pain/stiffness without true weakness, a normal CK, and no skin findings or muscle biopsy inflammation as described."
       ],
       "overview": "Dermatomyositis is an autoimmune inflammatory myopathy causing slowly progressive proximal muscle weakness plus pathognomonic skin findings (heliotrope rash, Gottron papules), with muscle biopsy showing perimysial inflammation predominated by CD4+ T-cells (versus polymyositis's endomysial CD8+ T-cell pattern). Both show elevated CK and are associated with malignancy (more strongly for dermatomyositis) and are treated with corticosteroids.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Dermatomyositis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -435,7 +477,9 @@
         "Reassurance is inappropriate; snuffbox tenderness is a classic finding for scaphoid fracture even with normal initial imaging."
       ],
       "overview": "The scaphoid is the most frequently fractured carpal bone, typically from a FOOSH injury, and presents with anatomic snuffbox tenderness even when initial x-rays are normal, requiring immobilization and repeat imaging. Its retrograde blood supply (distal-to-proximal via the radial artery) makes the proximal pole susceptible to avascular necrosis and nonunion, especially with waist fractures.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Scaphoid fracture",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -454,7 +498,9 @@
         "Correct: the long thoracic nerve innervates the serratus anterior, which holds the scapula against the rib cage; it is commonly injured during axillary node dissection or stab wounds, causing winging of the scapula, best demonstrated by pushing against a wall."
       ],
       "overview": "The long thoracic nerve innervates the serratus anterior, which stabilizes the scapula against the rib cage during arm movement. It is vulnerable to injury during axillary lymph node dissection or penetrating trauma, resulting in winging of the scapula, most apparent when the patient pushes an outstretched arm against a wall.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Long thoracic nerve injury",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -473,7 +519,9 @@
         "Correct: PTH has dual effects on bone depending on the pattern of exposure: continuous elevation (as in hyperparathyroidism) favors net bone resorption (increased RANK-L via osteoblasts activating osteoclasts) to raise serum calcium, while intermittent, low-dose administration (teriparatide) favors net osteoblastic bone formation, particularly increasing trabecular bone."
       ],
       "overview": "Parathyroid hormone has dose- and timing-dependent effects on bone: continuous elevation (chronic hyperparathyroidism) promotes net bone resorption by increasing osteoblast-derived RANK-L, while intermittent low-dose administration (teriparatide) preferentially stimulates osteoblastic bone formation, especially trabecular bone, making it a unique anabolic osteoporosis therapy given via daily subcutaneous injection.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Teriparatide",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -492,7 +540,9 @@
         "Scapular winging results from long thoracic nerve injury affecting the serratus anterior."
       ],
       "overview": "The superior gluteal nerve (L4-S1) is a pure motor nerve innervating the gluteus medius, gluteus minimus, and tensor fasciae latae; it can be injured by intramuscular injections placed too medially. Injury causes weak hip abduction and a Trendelenburg gait, with the pelvis dropping on the side contralateral to the lesion when standing on the affected leg.",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Superior gluteal nerve injury",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -511,7 +561,9 @@
         "Tinel's sign is used to assess for carpal tunnel syndrome (median nerve), not De Quervain tenosynovitis."
       ],
       "overview": "De Quervain tenosynovitis is inflammatory thickening of the abductor pollicis longus and extensor pollicis brevis tendons within the first dorsal wrist compartment, typically caused by repetitive thumb/wrist overuse (e.g., lifting an infant, texting). It presents with pain and tenderness at the radial styloid, confirmed by a positive Finkelstein test, and is treated with NSAIDs, splinting, or steroid injection.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "De Quervain tenosynovitis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Correct: the tibial nerve innervates the posterior leg muscles responsible for plantar flexion, toe flexion, and inversion; proximal lesions cause inability to stand on toes."
       ],
       "overview": "The tibial nerve courses down the posterior leg, innervating muscles responsible for plantar flexion, toe flexion, and inversion, then passes under the medial malleolus through the tarsal tunnel to supply sensation to the heel/sole. Proximal lesions (e.g., large Baker's cyst) cause motor loss (can't stand on toes), while distal lesions (tarsal tunnel syndrome) cause predominantly sensory symptoms of the sole.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Tibial nerve injury",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -549,7 +603,9 @@
         "Correct: osteoarthritis of the hand classically involves the DIP joints (Heberden's nodes), PIP joints (Bouchard's nodes), and first CMC joint, sparing the MCP joints."
       ],
       "overview": "Osteoarthritis is a non-inflammatory, degenerative joint disease from cartilage breakdown, characteristically involving the DIP joints (Heberden's nodes), PIP joints (Bouchard's nodes), and first CMC joint while sparing the MCP joints\u2014a pattern that helps distinguish it from rheumatoid arthritis, which favors MCP and wrist joints. Classic x-ray findings include joint space narrowing, subchondral sclerosis, osteophytes, and subchondral cysts.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "Osteoarthritis",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "This fracture pattern (diaphyseal, minimal trauma) is atypical and specifically associated with bisphosphonate use, not an expected or unrelated fracture pattern."
       ],
       "overview": "Bisphosphonates (e.g., alendronate, zoledronate) are first-line osteoporosis therapy that bind bone hydroxyapatite and are taken up by osteoclasts, inhibiting their activity and reducing bone resorption. Rare but serious long-term complications include atypical (subtrochanteric/diaphyseal) femur fractures with minimal trauma and osteonecrosis of the jaw.",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Bisphosphonate-associated atypical femur fracture",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "The sacral plexus (L5-S2, sciatic/inferior gluteal nerve territory) supplies the lower limb and is unrelated to this presentation."
       ],
       "overview": "Erb's palsy (upper trunk, C5-C6) results from excessive stretching of the neck-shoulder angle, classically from shoulder dystocia during birth or trauma in adults. Loss of axillary (deltoid), musculocutaneous (biceps), and suprascapular (infraspinatus) nerve function produces the \"waiter's tip\" posture: arm adducted, internally rotated, extended, and pronated.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Erb-Duchenne palsy",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -608,7 +668,9 @@
         "Incorrect \u2014 the radial nerve does not pass through the anatomic snuffbox as a site of classic compression; this location is relevant to scaphoid fractures, not radial nerve palsy."
       ],
       "overview": "Radial nerve injury findings depend on the level of compression: axillary compression (crutches, crutch palsy) affects the triceps in addition to wrist/finger extensors, while spiral groove compression at the humeral midshaft (Saturday night palsy, associated with midshaft humeral fractures) causes wrist drop and dorsal hand sensory loss with the triceps spared. Injuries below the elbow spare sensory loss and triceps function, presenting mainly with finger extension weakness.",
-      "id": "2026-09-12-01"
+      "id": "2026-09-12-01",
+      "topic": "Radial nerve injury",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -629,7 +691,9 @@
         "Incorrect \u2014 PCL injury is assessed with the posterior drawer test and classically results from a posteriorly directed force (e.g., dashboard injury), not a twisting mechanism with a positive McMurray test."
       ],
       "overview": "Meniscal tears often occur when the foot is planted and the knee twists suddenly, common in sports like soccer and basketball, causing pain and swelling that worsens with pivoting. The McMurray test evaluates for meniscal tears by flexing the knee and rotating the foot while extending the knee: internal rotation stresses the lateral meniscus, while external rotation stresses the medial meniscus, with pain or a palpable pop indicating a positive test.",
-      "id": "2026-09-12-02"
+      "id": "2026-09-12-02",
+      "topic": "Meniscal tear",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -648,7 +712,9 @@
         "Incorrect \u2014 OPG is produced by osteoblasts, not osteoclasts, and works to inhibit rather than stimulate osteoclast-mediated processes."
       ],
       "overview": "Bone turnover is regulated by the RANK/RANK-L/OPG system: osteoblasts express RANK-L, which binds RANK on osteoclast precursors to stimulate osteoclast differentiation and bone resorption, while osteoblast-secreted osteoprotegerin (OPG) acts as a decoy receptor that binds RANK-L and blocks this interaction, inhibiting osteoclast activity. Conditions like menopause (increased RANK-L, decreased OPG) and glucocorticoid use shift this balance toward increased bone resorption.",
-      "id": "2026-09-12-03"
+      "id": "2026-09-12-03",
+      "topic": "Osteoprotegerin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -669,7 +735,9 @@
         "Correct \u2014 the Barlow maneuver applies posterior pressure while adducting flexed hips to provoke/dislocate an unstable hip; a palpable clunk indicates a positive test, consistent with DDH, especially with the breech delivery risk factor."
       ],
       "overview": "DDH results from abnormal acetabular development leading to hip instability, with risk factors including breech presentation, female sex, and family history. The Ortolani maneuver reduces a dislocated hip (abduction plus anterior lift), while the Barlow maneuver provokes dislocation (adduction plus posterior pressure); diagnosis is confirmed with ultrasound before 4-6 months of age, and treatment includes the Pavlik harness for younger infants.",
-      "id": "2026-09-12-04"
+      "id": "2026-09-12-04",
+      "topic": "Developmental dysplasia of the hip",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -690,7 +758,9 @@
         "Incorrect \u2014 L5/S1 disc herniation causes radiculopathy with pain radiating down the leg and specific motor/reflex findings (weak plantar flexion, absent ankle reflex), rather than buttock pain from direct piriformis compression of the nerve."
       ],
       "overview": "Piriformis syndrome occurs when the piriformis muscle compresses the underlying sciatic nerve, often due to overuse from running, cycling, or prolonged sitting. It presents with buttock pain aggravated by sitting (classically the wallet sign) and a positive straight leg raise test, and is managed with rest and activity modification.",
-      "id": "2026-09-12-05"
+      "id": "2026-09-12-05",
+      "topic": "Piriformis syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -709,7 +779,9 @@
         "Correct \u2014 bisphosphonates are pyrophosphate analogs that bind calcium in bone, accumulate at sites of high turnover, and are taken up by osteoclasts, inhibiting their resorptive activity through various mechanisms depending on the specific side chains."
       ],
       "overview": "Bisphosphonates (e.g., alendronate, zoledronate) are first-line osteoporosis therapy that act as pyrophosphate analogs, binding calcium in bone matrix and accumulating at sites of high bone turnover where they are taken up by osteoclasts and inhibit bone resorption. Adverse effects include GI upset with oral agents, flu-like symptoms with IV infusions, and rare but serious atypical femur fractures and jaw osteonecrosis with long-term use.",
-      "id": "2026-09-12-06"
+      "id": "2026-09-12-06",
+      "topic": "Bisphosphonates",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -728,7 +800,9 @@
         "Incorrect \u2014 dermatomyositis also causes true muscle weakness with elevated CK plus characteristic skin findings (heliotrope rash, Gottron papules), not present here."
       ],
       "overview": "Polymyalgia rheumatica is an inflammatory disorder of older adults causing bilateral proximal muscle stiffness and pain (shoulders, hips) worse in the morning, with elevated ESR/CRP but normal strength and creatine kinase, distinguishing it from the true muscle weakness seen in inflammatory myopathies. It responds well to low-dose glucocorticoids and is often associated with temporal arteritis.",
-      "id": "2026-09-12-07"
+      "id": "2026-09-12-07",
+      "topic": "Polymyalgia rheumatica",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -749,7 +823,9 @@
         "Incorrect \u2014 intraarticular steroids are used for osteoarthritis pain relief, not appropriate for an infected joint, which could worsen infection."
       ],
       "overview": "Septic arthritis is an acute monoarthritis medical emergency, often caused by S. aureus or S. pneumoniae via hematogenous seeding, or N. gonorrhoeae in sexually active patients, presenting with fever, chills, and a single swollen joint. Synovial fluid WBC counts exceeding 50,000/mm^3 with a positive gram stain and culture confirm the diagnosis, and treatment requires prompt antibiotics plus aspiration/drainage to prevent osteomyelitis, chronic damage, or sepsis.",
-      "id": "2026-09-12-08"
+      "id": "2026-09-12-08",
+      "topic": "Septic arthritis",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -768,7 +844,9 @@
         "Incorrect \u2014 dantrolene does not affect acetylcholinesterase or neuromuscular transmission; its action is directly on intracellular calcium release channels."
       ],
       "overview": "Malignant hyperthermia is a rare, life-threatening reaction to anesthetics like halothane and succinylcholine, caused by abnormal ryanodine receptors leading to excessive calcium release, muscle rigidity, fever, and elevated creatine kinase. Dantrolene treats this condition by directly antagonizing ryanodine receptors and blocking further calcium release from the sarcoplasmic reticulum.",
-      "id": "2026-09-12-09"
+      "id": "2026-09-12-09",
+      "topic": "Dantrolene",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -789,7 +867,9 @@
         "Incorrect \u2014 obturator nerve injury causes weak thigh adduction and numbness of the medial thigh, not the lateral thigh sensory changes described."
       ],
       "overview": "Meralgia paresthetica is a purely sensory neuropathy of the lateral femoral cutaneous nerve caused by compression under the inguinal ligament, often from tight clothing, obesity, or pregnancy. It presents with burning pain, paresthesia, and hypoesthesia over the outer thigh without motor weakness, since the nerve carries no motor fibers.",
-      "id": "2026-09-12-10"
+      "id": "2026-09-12-10",
+      "topic": "Meralgia paresthetica",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -810,7 +890,9 @@
         "Incorrect \u2014 the iliohypogastric nerve (T12-L1) provides sensation to the suprapubic region and motor to abdominal wall muscles, unrelated to leg pain and ankle reflex loss."
       ],
       "overview": "Lumbar radiculopathy from herniated discs most commonly affects the L5 nerve root (L4/L5 herniation, causing weak dorsiflexion and difficulty heel-walking) or the S1 nerve root (L5/S1 herniation, causing weak plantar flexion, difficulty toe-walking, and loss of the ankle reflex). Higher lumbar disc herniations (L2-L4) instead affect the femoral nerve, causing anterior thigh pain and a diminished patellar reflex.",
-      "id": "2026-09-12-11"
+      "id": "2026-09-12-11",
+      "topic": "Lumbosacral disc herniation",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -829,7 +911,9 @@
         "Incorrect \u2014 emergency surgical fixation is not the standard initial treatment for an uncomplicated boxer's fracture, which usually heals well with conservative management."
       ],
       "overview": "A boxer's fracture is a fracture of the metacarpal neck, most often the fifth metacarpal, caused by direct impact with a closed fist, presenting with pain and swelling at the base of the affected finger and limited movement. Treatment is typically conservative with buddy taping to an adjacent finger, avoidance of weight-bearing activities, and pain management with cold compresses.",
-      "id": "2026-09-12-12"
+      "id": "2026-09-12-12",
+      "topic": "Boxer's fracture",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -848,7 +932,9 @@
         "Correct \u2014 Type I (slow-twitch, red) fibers contain abundant myoglobin and mitochondria, favor oxidative phosphorylation and fatty acid metabolism, and resist fatigue, making them predominant in postural muscles requiring sustained tone."
       ],
       "overview": "Skeletal muscle fibers are classified as Type I (slow-twitch, red) fibers, rich in myoglobin and mitochondria, favoring oxidative phosphorylation and fatigue resistance, ideal for sustained postural muscles, versus Type II (fast-twitch, white) fibers, which rely on glycolysis and glycogen stores for rapid but fatigable contractions, as seen in eye muscles. Most muscles contain a mixture of both fiber types.",
-      "id": "2026-09-12-13"
+      "id": "2026-09-12-13",
+      "topic": "Skeletal muscle fiber types",
+      "angle": "anatomy_histology"
     },
     {
       "format": "vignette5",
@@ -869,7 +955,9 @@
         "Incorrect \u2014 this describes osteosarcoma, a malignant tumor of osteoblasts with pleomorphic cells and irregular osteoid, occurring in the metaphysis, not an epiphyseal giant cell tumor."
       ],
       "overview": "Giant cell tumor of bone (osteoclastoma) is a usually benign but locally aggressive tumor occurring in the epiphysis, most commonly at the knee (distal femur/proximal tibia), producing a characteristic soap bubble appearance on X-ray. Stromal tumor cells express high RANK-L, recruiting and activating osteoclasts to form the multinucleated giant cells that give the tumor its name.",
-      "id": "2026-09-12-14"
+      "id": "2026-09-12-14",
+      "topic": "Giant cell tumor of bone",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -888,7 +976,9 @@
         "Incorrect \u2014 rheumatoid arthritis is an autoimmune condition with much higher synovial WBC counts (2,000-50,000/mm^3) and different systemic features, not matching this patient's low WBC count and mechanical symptom pattern."
       ],
       "overview": "Osteoarthritis is a non-inflammatory arthritis from hyaline cartilage breakdown driven by proliferating chondrocytes that secrete proteases and cytokines, with synovial fluid WBC typically 200-2000/mm^3. Classic X-ray findings include joint space narrowing, subchondral sclerosis, osteophytes, and subchondral cysts, and pain classically worsens with joint use and improves with rest.",
-      "id": "2026-09-12-15"
+      "id": "2026-09-12-15",
+      "topic": "Osteoarthritis",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -907,7 +997,9 @@
         "Incorrect \u2014 APC gene mutation causes familial adenomatous polyposis and its variant Gardner syndrome (associated with osteomas), not Ewing sarcoma."
       ],
       "overview": "Ewing sarcoma is an aggressive malignant bone tumor of undifferentiated neuroectodermal cells, occurring most often in the diaphysis of long bones in patients under 20 years old. About 85% of cases harbor a characteristic EWSR1-FLI1 gene fusion from a t(11;22) translocation, and histology shows sheets of small round blue cells with an onion skin periosteal reaction on imaging.",
-      "id": "2026-09-12-16"
+      "id": "2026-09-12-16",
+      "topic": "Ewing sarcoma",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -926,7 +1018,9 @@
         "Incorrect \u2014 this describes Ewing sarcoma, a diaphyseal malignant tumor with onion-skin periosteal reaction, not the described benign metaphyseal lesion."
       ],
       "overview": "Osteochondroma is the most common benign bone tumor, a slow-growing cartilage-capped bony projection arising from the growth plate at the metaphysis, typically in adolescent males. It stops growing when the growth plate closes and rarely undergoes malignant transformation to chondrosarcoma.",
-      "id": "2026-09-12-17"
+      "id": "2026-09-12-17",
+      "topic": "Osteochondroma",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -945,7 +1039,9 @@
         "Incorrect \u2014 osteosarcomas are malignant tumors associated with Rb and p53 mutations or Paget's disease, not the benign skull lesions of Gardner syndrome."
       ],
       "overview": "Gardner syndrome is a variant of familial adenomatous polyposis (FAP) caused by APC gene mutations, featuring colonic polyps along with extra-colonic manifestations including osteomas, typically in the skull or mandible. These osteomas are usually painless and palpable and may be detected before the onset of colonic symptoms.",
-      "id": "2026-09-12-18"
+      "id": "2026-09-12-18",
+      "topic": "Gardner syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -966,7 +1062,9 @@
         "Correct \u2014 a T-score of -2.5 or lower defines osteoporosis, and combined with her fragility fracture (fall from standing height), this confirms the diagnosis of markedly decreased bone mass with increased fracture risk."
       ],
       "overview": "Osteoporosis is defined by a DXA T-score of -2.5 or lower, reflecting markedly decreased bone mass compared to a healthy young adult, and can also be diagnosed by a fragility fracture (fall from standing height or less) at sites like the hip, spine, wrist, or humerus. Osteopenia (T-score -1.0 to -2.5) represents a milder reduction in bone density, and screening DXA is recommended for women over 65.",
-      "id": "2026-09-12-19"
+      "id": "2026-09-12-19",
+      "topic": "Osteoporosis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -985,7 +1083,9 @@
         "Incorrect \u2014 DIP joint involvement (Heberden's nodes) is characteristic of osteoarthritis, not hemochromatosis arthropathy."
       ],
       "overview": "Hemochromatosis, an iron overload disorder, can present with arthritis most commonly involving the MCP joints, often with pain but minimal swelling in a younger patient. This distribution helps distinguish it from osteoarthritis, which classically spares the MCP joints and instead affects the DIP, PIP, and first CMC joints.",
-      "id": "2026-09-12-20"
+      "id": "2026-09-12-20",
+      "topic": "Hemochromatosis arthropathy",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -1004,7 +1104,9 @@
         "Incorrect \u2014 medial tibial stress syndrome (shin splints) causes pain in the lower shin from overuse (e.g., running), not stabbing heel pain worse in the morning."
       ],
       "overview": "Plantar fasciitis is inflammation of the plantar aponeurosis, associated with risk factors including obesity, prolonged standing, jumping, and flat feet, and classically presents as stabbing heel pain that is worse after periods of inactivity, such as the first steps in the morning. Heel spurs often coexist, and treatment includes rest, ice, NSAIDs, proper footwear, stretching, and night splints.",
-      "id": "2026-09-12-21"
+      "id": "2026-09-12-21",
+      "topic": "Plantar fasciitis",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -1025,7 +1127,9 @@
         "Incorrect \u2014 radial nerve injury above the elbow causes wrist drop and posterior arm/hand sensory loss, and its associated artery is not classically implicated in supracondylar fractures."
       ],
       "overview": "Supracondylar fracture is the most common pediatric elbow fracture, typically from a fall on an outstretched arm. The brachial artery and median nerve travel together near the fracture site and are the most commonly injured neurovascular structures, though the ulnar nerve (near the medial epicondyle) and radial nerve (wrapping laterally around the humerus) can also be affected.",
-      "id": "2026-09-12-22"
+      "id": "2026-09-12-22",
+      "topic": "Supracondylar humerus fracture",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -1046,7 +1150,9 @@
         "Incorrect \u2014 septic arthritis presents acutely with fever, marked swelling, and very high synovial WBC count, not a gradually progressive limp with normal initial X-ray."
       ],
       "overview": "Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head in children aged 4-8 years, more common in boys, presenting with hip pain and limp. Initial X-rays are often normal, while bone scan or MRI reveals decreased femoral head perfusion early in the disease course, distinguishing it from SCFE, which occurs in older, obese adolescents.",
-      "id": "2026-09-12-23"
+      "id": "2026-09-12-23",
+      "topic": "Legg-Calve-Perthes disease",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1065,7 +1171,9 @@
         "Incorrect \u2014 RANK-L/osteoclast signaling pertains to bone remodeling, unrelated to smooth muscle relaxation via nitric oxide."
       ],
       "overview": "Acetylcholine causes vasodilation indirectly by stimulating endothelial cells to synthesize nitric oxide (EDRF) from L-arginine; nitric oxide diffuses into adjacent smooth muscle cells and activates guanylyl cyclase, raising cGMP levels. Increased cGMP activates myosin light chain phosphatase, dephosphorylating myosin and causing smooth muscle relaxation.",
-      "id": "2026-09-12-24"
+      "id": "2026-09-12-24",
+      "topic": "Endothelium-dependent vasodilation (nitric oxide)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1084,7 +1192,9 @@
         "Incorrect \u2014 polymyositis shows endomysial inflammation predominantly composed of CD8+ T-cells, not the perimysial CD4+ pattern described."
       ],
       "overview": "Inflammatory myopathies are distinguished on muscle biopsy by the location and type of infiltrate: polymyositis shows endomysial inflammation with predominant CD8+ T-cells, while dermatomyositis shows perimysial inflammation with predominant CD4+ T-cells. Dermatomyositis is also distinguished clinically by pathognomonic skin findings like the heliotrope rash and Gottron papules.",
-      "id": "2026-09-12-25"
+      "id": "2026-09-12-25",
+      "topic": "Dermatomyositis",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1103,7 +1213,9 @@
         "Incorrect \u2014 elbow flexors (e.g., biceps, brachialis) do not originate at the lateral epicondyle and are not implicated in epicondylitis."
       ],
       "overview": "Epicondylitis is a form of chronic tendinosis from overuse, distinguished by the epicondyle involved: lateral epicondylitis (tennis elbow) affects the origin of wrist extensor muscles and causes pain with resisted wrist extension, while medial epicondylitis (golfer's elbow) affects wrist flexor origins and causes pain with resisted wrist flexion.",
-      "id": "2026-09-12-26"
+      "id": "2026-09-12-26",
+      "topic": "Lateral epicondylitis",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1122,7 +1234,9 @@
         "Correct \u2014 the obturator nerve (L2-L4) supplies the thigh adductor muscles and sensation to the medial thigh; it courses through the posterior pelvis and is vulnerable to injury during pelvic surgery (e.g., trocar placement), causing weak adduction and medial thigh numbness."
       ],
       "overview": "The obturator nerve (L2-L4) innervates the thigh adductor muscles (adductor longus, brevis, magnus, gracilis, obturator externus) and provides sensation to the medial thigh. It courses through the posterior pelvis, making it vulnerable to injury during pelvic surgery, resulting in weak thigh adduction and medial thigh numbness.",
-      "id": "2026-09-12-27"
+      "id": "2026-09-12-27",
+      "topic": "Obturator nerve injury",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1141,7 +1255,9 @@
         "Incorrect \u2014 giant cell tumor shows multinucleated giant cells in the epiphysis, not the fibrous stroma with woven bone trabeculae described in this diaphyseal lesion."
       ],
       "overview": "Fibrous dysplasia is a benign bone tumor of woven bone surrounded by fibrous connective tissue stroma, occurring in the medulla/diaphysis during early adolescence and growing until the growth plate closes. It is often asymptomatic but can cause pain or pathologic fractures, appearing as a lytic lesion in the diaphysis on X-ray.",
-      "id": "2026-09-12-28"
+      "id": "2026-09-12-28",
+      "topic": "Fibrous dysplasia",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -1160,7 +1276,9 @@
         "Incorrect \u2014 the subscapularis mediates internal rotation and is not compressed against the rib cage; scapular winging against the rib cage relates to long thoracic nerve/serratus anterior dysfunction, not rotator cuff impingement."
       ],
       "overview": "Supraspinatus impingement is the most common rotator cuff injury, resulting from tendon compression in the subacromial space between the humeral head and acromion process, commonly seen in swimmers and throwers. The empty can test (arms abducted 90\u00b0, thumbs down) and full can test (thumbs up) help identify supraspinatus pathology, with pain suggesting tendinopathy or tear.",
-      "id": "2026-09-12-29"
+      "id": "2026-09-12-29",
+      "topic": "Supraspinatus tendon impingement",
+      "angle": "anatomy_histology"
     },
     {
       "format": "simple4",
@@ -1179,7 +1297,9 @@
         "Incorrect \u2014 both muscle types have specialized T-tubule/SR junctions essential for excitation-contraction coupling, just with different structural arrangements (dyads vs. triads)."
       ],
       "overview": "Cardiac and skeletal muscle share sarcomeric structure but differ in their T-tubule/sarcoplasmic reticulum arrangement: cardiac muscle has a less extensive SR forming dyads (one T-tubule with one terminal cisterna), while skeletal muscle forms triads (one T-tubule flanked by two terminal cisternae). Cardiac muscle also uniquely depends on extracellular calcium influx through L-type channels to trigger calcium-induced calcium release during phase 2 of its action potential.",
-      "id": "2026-09-12-30"
+      "id": "2026-09-12-30",
+      "topic": "Cardiac vs skeletal muscle excitation-contraction coupling",
+      "angle": "anatomy_histology"
     }
   ]
 }

@@ -1701,66 +1701,246 @@
       }
     ],
     "Musculoskeletal": [
-      "A patient with short limbs, a normal-sized trunk, and a large head relative to the limbs is found to",
-      "A 19-year-old soccer player plants her foot and suddenly changes direction, feeling a \"pop\" in her k",
-      "A patient with an anomalous extra rib arising from the seventh cervical vertebra develops arm pain a",
-      "Which sequence correctly describes the mechanism of smooth muscle contraction following calcium entr",
-      "A patient develops fever, muscle rigidity, and markedly elevated creatine kinase shortly after recei",
-      "A 78-year-old woman falls onto an outstretched hand and sustains an anterior dislocation of the hume",
-      "A 72-year-old man is found to have an isolated elevation in serum alkaline phosphatase with normal c",
-      "A breastfed infant with limited sun exposure develops bowed legs, widened wrists, and a \"rachitic ro",
-      "An infant presents with pancytopenia, hepatosplenomegaly, and dense bones on x-ray with a \"bone-in-b",
-      "A 13-year-old obese boy presents with groin and thigh pain and a limp that worsens with activity. Hi",
-      "Which of the following correctly describes the role of osteoprotegerin (OPG) in bone remodeling?",
-      "A patient is started on diltiazem for rate control. Compared with dihydropyridine calcium channel bl",
-      "A 10-year-old boy presents with a painful, warm, swollen mass over the diaphysis of the femur, along",
-      "A 45-year-old man sustains a midshaft humeral fracture after a fall. On exam, he has weakness of wri",
-      "An older male smoker of Northern European descent presents with painless, progressive difficulty ext",
-      "A 15-year-old boy presents with progressive pain and swelling of the distal femur near the knee. X-r",
-      "A patient with prolonged bed rest and habitual leg crossing develops foot drop and sensory loss over",
-      "A man grabs a tree branch while falling, causing sudden excessive abduction of his arm. Exam reveals",
-      "A competitive cyclist develops numbness in the little and ring fingers along with weakness of finger",
-      "A 32-year-old pregnant woman reports numbness and tingling in the thumb, index, middle, and lateral ",
-      "A 50-year-old woman presents with slowly progressive proximal muscle weakness, a purple discoloratio",
-      "A 22-year-old man falls onto an outstretched hand while skateboarding. He has tenderness in the anat",
-      "A patient who underwent axillary lymph node dissection develops difficulty with overhead arm movemen",
-      "Which of the following best explains why intermittent, low-dose teriparatide (recombinant PTH) incre",
-      "Injury to the superior gluteal nerve, which innervates the gluteus medius and minimus, classically p",
-      "A new mother who frequently lifts her infant using her thumbs develops pain at the radial styloid, w",
-      "Which of the following findings is most characteristic of a proximal tibial nerve lesion?",
-      "Which joint distribution is most characteristic of osteoarthritis, distinguishing it from rheumatoid",
-      "A patient on long-term oral alendronate for osteoporosis develops thigh pain, and imaging reveals a ",
-      "A newborn delivered vaginally after a difficult delivery complicated by shoulder dystocia holds the ",
-      "A patient who fell asleep in a chair with his arm draped over the backrest develops wrist drop and s",
-      "A 24-year-old recreational soccer player plants his foot and twists suddenly while an opponent conta",
-      "Which of the following best describes the role of osteoprotegerin (OPG) in bone remodeling?",
-      "A 3-week-old female infant born via breech vaginal delivery is brought in for a well-child visit. On",
-      "A 35-year-old competitive cyclist presents with chronic buttock pain that worsens with prolonged sit",
-      "A postmenopausal woman is started on oral alendronate for osteoporosis. What is the mechanism of act",
-      "A 68-year-old woman reports bilateral shoulder and hip girdle stiffness and pain, worse in the morni",
-      "A 45-year-old man with no significant past medical history presents with acute onset of severe pain,",
-      "A patient develops muscle rigidity and fever shortly after receiving succinylcholine and halothane d",
-      "A 45-year-old obese man reports burning pain and tingling over the anterolateral aspect of his right",
-      "A 52-year-old man presents with low back pain radiating down the back of his right leg after lifting",
-      "A young man punches a wall with a closed fist and presents with pain and swelling at the base of his",
-      "A postural muscle of the spine relies heavily on sustained low-level contraction and resistance to f",
-      "A 28-year-old woman presents with several months of dull knee pain. X-ray reveals a lytic lesion wit",
-      "A 68-year-old woman with chronic knee pain that worsens with activity and improves with rest undergo",
-      "A 12-year-old presents with a painful, enlarging mass in the diaphysis of the femur with an \"onion s",
-      "A 17-year-old boy is found to have an incidental slow-growing, stalk-like bony projection capped wit",
-      "A 30-year-old man with multiple colonic polyps is found to have painless, palpable bony growths on h",
-      "A 68-year-old postmenopausal woman falls from standing height and sustains a wrist fracture. She has",
-      "A 45-year-old man with an iron overload disorder presents with joint pain and minimal swelling. Whic",
-      "A 50-year-old obese woman who stands for long periods at work reports stabbing heel pain that is wor",
-      "A 7-year-old boy falls onto an outstretched hand while playing on monkey bars and presents with seve",
-      "A 6-year-old boy presents with a limp and left hip pain that has progressed over several weeks. He h",
-      "Acetylcholine-mediated vasodilation of vascular smooth muscle occurs through which of the following ",
-      "Muscle biopsy in a patient with proximal muscle weakness shows perimysial inflammation predominantly",
-      "A tennis player develops pain over the lateral elbow that worsens with resisted wrist extension. Ten",
-      "A patient undergoes pelvic surgery involving trocar placement and subsequently develops weakness of ",
-      "A 14-year-old presents with an asymptomatic lytic lesion in the diaphysis of the femur, found incide",
-      "A competitive swimmer develops shoulder pain with overhead activity. Exam shows pain with resisted a",
-      "Which of the following correctly distinguishes the structural relationship between the sarcoplasmic "
+      {
+        "topic": "Achondroplasia",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Anterior cruciate ligament tear",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Thoracic outlet syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Smooth muscle contraction",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Malignant hyperthermia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Axillary nerve injury",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Paget disease of bone",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Rickets",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osteopetrosis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Slipped capital femoral epiphysis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osteoprotegerin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Non-dihydropyridine calcium channel blockers",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Ewing sarcoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Radial nerve injury",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Dupuytren contracture",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osteosarcoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Common peroneal nerve injury",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Klumpke palsy",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Ulnar nerve compression (Guyon canal)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Carpal tunnel syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Dermatomyositis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Scaphoid fracture",
+        "angle": "complications"
+      },
+      {
+        "topic": "Long thoracic nerve injury",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Teriparatide",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Superior gluteal nerve injury",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "De Quervain tenosynovitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Tibial nerve injury",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Osteoarthritis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Bisphosphonate-associated atypical femur fracture",
+        "angle": "complications"
+      },
+      {
+        "topic": "Erb-Duchenne palsy",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Radial nerve injury",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Meniscal tear",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osteoprotegerin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Developmental dysplasia of the hip",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Piriformis syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Bisphosphonates",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Polymyalgia rheumatica",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Septic arthritis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Dantrolene",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Meralgia paresthetica",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Lumbosacral disc herniation",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Boxer's fracture",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Skeletal muscle fiber types",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Giant cell tumor of bone",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Osteoarthritis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Ewing sarcoma",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Osteochondroma",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Gardner syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Osteoporosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hemochromatosis arthropathy",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Plantar fasciitis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Supracondylar humerus fracture",
+        "angle": "complications"
+      },
+      {
+        "topic": "Legg-Calve-Perthes disease",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Endothelium-dependent vasodilation (nitric oxide)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Dermatomyositis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Lateral epicondylitis",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Obturator nerve injury",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Fibrous dysplasia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Supraspinatus tendon impingement",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Cardiac vs skeletal muscle excitation-contraction coupling",
+        "angle": "anatomy_histology"
+      }
     ],
     "Neurology": [
       "A patient with chronic alcohol use has a wide-based, unsteady gait but no limb dysmetria or intentio",
