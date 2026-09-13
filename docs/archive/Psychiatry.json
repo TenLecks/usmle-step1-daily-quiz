@@ -18,7 +18,9 @@
         "Incorrect - dantrolene is used for neuroleptic malignant syndrome, not akathisia."
       ],
       "overview": "Extrapyramidal symptoms from dopamine receptor blockade include dystonia (hours to days, treated with benztropine), akathisia (restlessness, most common EPS, treated with dose reduction, benzodiazepines, or propranolol), bradykinesia/drug-induced parkinsonism (weeks, treated with benztropine), and tardive dyskinesia (months to years, often irreversible).",
-      "id": "2026-08-30-01"
+      "id": "2026-08-30-01",
+      "topic": "Akathisia",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -39,7 +41,9 @@
         "Incorrect - thiazide diuretics actually increase serum lithium levels and are not the treatment for lithium-induced nephrogenic DI."
       ],
       "overview": "Lithium is a common cause of nephrogenic diabetes insipidus, producing polyuria, polydipsia, and dilute urine that fails to respond to vasopressin/desmopressin (distinguishing it from central DI). Management includes discontinuing lithium if possible or using amiloride, which blocks ENaC channels and prevents lithium from entering renal principal cells. Thiazides, NSAIDs, and ACE inhibitors all increase serum lithium levels and increase toxicity risk.",
-      "id": "2026-08-30-02"
+      "id": "2026-08-30-02",
+      "topic": "Lithium-induced nephrogenic diabetes insipidus",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -58,7 +62,9 @@
         "Incorrect - dementia is associated with a normal EEG, so the two conditions are distinguishable by this finding, not identical."
       ],
       "overview": "Delirium and dementia can be distinguished clinically and electrophysiologically: delirium is acute, waxing/waning, usually reversible, and associated with an abnormal EEG, while dementia is chronic, progressive, usually irreversible, and associated with a normal EEG. Delirium is usually secondary to another cause (infection, withdrawal, metabolic derangement) rather than a primary disorder.",
-      "id": "2026-08-30-03"
+      "id": "2026-08-30-03",
+      "topic": "Delirium",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -77,7 +83,9 @@
         "Correct - illness anxiety disorder involves preoccupation with having an undiagnosed illness with mild or no somatic symptoms, anxiety about health, and excessive health-related checking behaviors present for at least six months."
       ],
       "overview": "Somatic symptom disorder involves significant somatic symptoms with persistent distress and excessive time/energy devoted to them, while illness anxiety disorder involves preoccupation with having an undiagnosed illness with minimal or no actual somatic symptoms. Both differ from factitious disorder and malingering, in which symptoms are consciously produced for internal or external gain, respectively.",
-      "id": "2026-08-30-04"
+      "id": "2026-08-30-04",
+      "topic": "Illness anxiety disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Correct - negative reinforcement involves a behavior leading to removal of an aversive stimulus (the parent's yelling), which increases the frequency of that behavior; this is distinct from punishment, which decreases behavior."
       ],
       "overview": "Operant conditioning links voluntary behavior to reward or punishment. Reinforcement increases behavior frequency (positive reinforcement adds a reward; negative reinforcement removes an aversive stimulus), while punishment decreases behavior frequency (positive punishment adds an aversive stimulus; negative punishment removes a desired stimulus). Negative reinforcement is often confused with punishment but actually increases behavior.",
-      "id": "2026-08-30-05"
+      "id": "2026-08-30-05",
+      "topic": "Negative reinforcement",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -117,7 +127,9 @@
         "Incorrect - this describes guanfacine, an alpha-2 agonist used in ADHD, not methylphenidate."
       ],
       "overview": "ADHD presents with inattention, hyperactivity, and impulsivity across multiple settings for at least 6 months, with normal intelligence. First-line pharmacotherapy includes stimulants (methylphenidate, amphetamines), which increase synaptic dopamine and norepinephrine. Non-stimulant alternatives include atomoxetine (selective NE reuptake inhibitor) and alpha-2 agonists (guanfacine, clonidine), which have less abuse potential.",
-      "id": "2026-08-30-06"
+      "id": "2026-08-30-06",
+      "topic": "Methylphenidate",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect - schizophrenia diagnosis is based on presence of psychotic/negative symptoms over specified durations, not the DIG FAST mnemonic."
       ],
       "overview": "A manic episode is diagnosed using the DIG FAST mnemonic (distractibility, irresponsibility, grandiosity, flight of ideas, agitation, decreased need for sleep, talkativeness/pressured speech), with symptoms present most of the day for at least one week. Bipolar I is defined by the presence of a manic episode, while bipolar II involves hypomania and depression without full mania.",
-      "id": "2026-08-30-07"
+      "id": "2026-08-30-07",
+      "topic": "Manic episode (bipolar disorder)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Incorrect - ECT is used to treat refractory depression and is not known to cause permanent psychosis."
       ],
       "overview": "Electroconvulsive therapy is performed under general anesthesia and involves inducing a seizure via electrical stimulation; it is used for refractory depression and can be used safely in pregnancy. Its main adverse effect is amnesia, both retrograde (before the procedure) and anterograde (for weeks afterward).",
-      "id": "2026-08-30-08"
+      "id": "2026-08-30-08",
+      "topic": "Electroconvulsive therapy",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -174,7 +190,9 @@
         "Correct - multiple fractures in different stages of healing, identified on skeletal survey, are a classic finding of physical child abuse, along with rib fractures and long bone fractures in infants."
       ],
       "overview": "Child physical abuse most commonly affects children under 1 year of age, often perpetrated by a close family member. Suspicious injury patterns include changing or inconsistent caregiver histories, multiple bruises in unusual locations (buttocks, trunk, ears, neck), and skeletal surveys showing multiple fractures in different healing stages, rib fractures, or long bone fractures in infants.",
-      "id": "2026-08-30-09"
+      "id": "2026-08-30-09",
+      "topic": "Child abuse",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -195,7 +213,9 @@
         "Correct - TCA overdose causes cardiac sodium channel blockade with QRS widening; sodium bicarbonate provides extra sodium to overcome this blockade and raises pH to favor the inactive form of the drug, treating the arrhythmia risk."
       ],
       "overview": "TCA overdose is potentially fatal, causing anticholinergic toxicity (hyperthermia, flushing, dilated pupils, ileus, urinary retention), alpha-blockade hypotension, and seizures via GABA antagonism. The most prominent and dangerous manifestation is cardiac sodium channel blockade causing QRS widening and arrhythmias, treated with sodium bicarbonate.",
-      "id": "2026-08-30-10"
+      "id": "2026-08-30-10",
+      "topic": "Tricyclic antidepressant overdose",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "Incorrect - sodium bicarbonate is used for TCA cardiotoxicity, not NMS."
       ],
       "overview": "Neuroleptic malignant syndrome is a rare, dangerous reaction to antipsychotics occurring roughly 7-10 days after starting treatment, presenting with fever, rigid muscles, encephalopathy, and elevated creatine kinase (with risk of rhabdomyolysis-induced renal failure). It is treated with dantrolene and bromocriptine, analogous to treatment for malignant hyperthermia.",
-      "id": "2026-08-30-11"
+      "id": "2026-08-30-11",
+      "topic": "Neuroleptic malignant syndrome",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "Correct - reaction formation is displaying the opposite behavior to an unwanted feeling; the classic example given is a man who craves alcohol preaching abstinence."
       ],
       "overview": "Ego defense mechanisms are mostly unconscious adjustments that manage conflict between the id and superego to minimize anxiety. Reaction formation specifically involves displaying behavior that is the opposite of an unwanted or unacceptable feeling, such as a person craving alcohol who becomes an outspoken advocate for abstinence.",
-      "id": "2026-08-30-12"
+      "id": "2026-08-30-12",
+      "topic": "Reaction formation",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -254,7 +278,9 @@
         "Incorrect - antisocial personality disorder involves disregard for others' rights and lawbreaking behavior, more common in men, not the abandonment-driven relationship instability described."
       ],
       "overview": "Borderline personality disorder, more common in women, is characterized by unstable relationships, splitting (black-and-white thinking about people), intense fear of abandonment, impulsivity, and self-mutilating or suicidal behavior often triggered by perceived abandonment. Dialectical behavior therapy, which includes mindfulness, distress tolerance, and emotion regulation, is the gold-standard treatment.",
-      "id": "2026-08-30-13"
+      "id": "2026-08-30-13",
+      "topic": "Borderline personality disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -275,7 +301,9 @@
         "Incorrect - schizophreniform disorder meets the same symptom criteria as schizophrenia but has a total duration of less than 6 months; this patient's symptoms have lasted 8 months."
       ],
       "overview": "Schizophrenia is diagnosed when at least two of delusions, hallucinations, disorganized speech, disorganized/catatonic behavior, or negative symptoms are present for at least one month, with continuous signs of illness for at least 6 months. Shorter durations meeting the same symptom criteria are classified as schizophreniform disorder (<6 months) or brief psychotic disorder (<1 month, often stress-related).",
-      "id": "2026-08-30-14"
+      "id": "2026-08-30-14",
+      "topic": "Schizophrenia",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -294,7 +322,9 @@
         "Correct - vomiting causes loss of chloride in gastric secretions, resulting in a low urinary chloride (<20), a classic finding in a young woman with unexplained metabolic alkalosis from purging."
       ],
       "overview": "Purging behaviors in bulimia nervosa (self-induced vomiting) cause a contraction (hypochloremic, hypokalemic) metabolic alkalosis with a low urinary chloride (<20), reflecting chloride loss in gastric secretions. Other complications of purging include parotid gland hypertrophy, dental enamel erosion, and Russell's sign (knuckle scarring).",
-      "id": "2026-08-30-15"
+      "id": "2026-08-30-15",
+      "topic": "Bulimia nervosa (vomiting-induced metabolic alkalosis)",
+      "angle": "pathophysiology"
     },
     {
       "format": "vignette5",
@@ -315,7 +345,9 @@
         "Correct - delirium tremens occurs 72-96 hours after the last drink and is the most severe withdrawal manifestation, featuring delirium with markedly altered mental status, agitation, fever, drenching sweats, and autonomic hyperactivity (tachycardia, hypertension), with significant mortality risk."
       ],
       "overview": "Alcohol withdrawal follows a predictable timeline: uncomplicated withdrawal (6-24 hours), withdrawal seizures (6-48 hours), alcoholic hallucinosis (12-48 hours), and delirium tremens (72-96 hours), the most severe stage with up to 20% mortality in some studies. DTs features delirium, agitation, fever, and autonomic hyperactivity, and is treated with benzodiazepines, often using a symptom-triggered protocol like the CIWA scale.",
-      "id": "2026-08-30-16"
+      "id": "2026-08-30-16",
+      "topic": "Delirium tremens",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -334,7 +366,9 @@
         "Incorrect - ODD involves anger, irritability, argumentativeness, and defiance toward authority figures, but not the aggression to people/animals or property destruction that defines conduct disorder."
       ],
       "overview": "Conduct disorder is a childhood behavioral disorder marked by a repeated pattern of violating the rights of others: aggression to people and animals, destruction of property, lying or stealing, and serious rule violations. It is considered the childhood precursor to antisocial personality disorder in adulthood.",
-      "id": "2026-08-30-17"
+      "id": "2026-08-30-17",
+      "topic": "Conduct disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -355,7 +389,9 @@
         "Incorrect - PTSD requires symptoms to last more than 1 month; this patient's symptoms have only been present for 3 weeks."
       ],
       "overview": "Acute stress disorder occurs after exposure to trauma and features intrusive memories, distressing dreams, and dissociative symptoms (altered sense of reality, time distortion, dissociative amnesia), lasting less than one month and treated with CBT alone (no medications). If symptoms persist beyond one month, the diagnosis becomes PTSD, treated with CBT, SSRIs, and prazosin for nightmares.",
-      "id": "2026-08-30-18"
+      "id": "2026-08-30-18",
+      "topic": "Acute stress disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Correct - in depersonalization/derealization disorder, the patient retains intact reality testing and is aware that the feelings of detachment or unreality are not literally true, distinguishing it from psychosis."
       ],
       "overview": "Depersonalization/derealization disorder involves feeling detached from oneself (depersonalization) or one's surroundings (derealization), often triggered by trauma, but the patient maintains intact reality testing throughout, distinguishing it from psychosis where reality testing is impaired.",
-      "id": "2026-08-30-19"
+      "id": "2026-08-30-19",
+      "topic": "Depersonalization/derealization disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -395,7 +433,9 @@
         "Incorrect - schizotypal personality disorder involves odd beliefs, magical thinking, and social/interpersonal deficits, not rigid perfectionism and control."
       ],
       "overview": "OCD involves egodystonic, intrusive obsessions paired with compulsions performed to relieve the resulting anxiety, treated with exposure and response prevention CBT and SSRIs/clomipramine. OCPD, in contrast, involves egosyntonic preoccupation with order, control, and perfectionism that the patient views as beneficial rather than distressing, and does not involve true obsessions or compulsions.",
-      "id": "2026-08-30-20"
+      "id": "2026-08-30-20",
+      "topic": "Obsessive-compulsive personality disorder",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -414,7 +454,9 @@
         "Incorrect - aspirin is an appropriate treatment for cocaine-associated chest pain given the risk of thrombosis and myocardial infarction."
       ],
       "overview": "Cocaine causes sympathetic activation via inhibition of monoamine reuptake, leading to increased myocardial oxygen demand and coronary vasoconstriction, which together can cause angina or myocardial infarction. Treatment includes benzodiazepines and aspirin, while beta blockers are avoided because they leave alpha-adrenergic vasoconstriction unopposed, worsening hypertension and chest pain.",
-      "id": "2026-08-30-21"
+      "id": "2026-08-30-21",
+      "topic": "Cocaine-induced chest pain (beta-blocker contraindication)",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -435,7 +477,9 @@
         "Correct - this presentation (mental status changes, autonomic hyperactivity, neuromuscular hyperactivity) is serotonin syndrome, precipitated by combining an MAO inhibitor (phenelzine) with a serotonergic drug (tramadol, which inhibits serotonin reuptake); cyproheptadine, a 5-HT antagonist, is the treatment."
       ],
       "overview": "Serotonin syndrome presents with a triad of mental status changes (agitation, disorientation), autonomic hyperactivity (diaphoresis, tachycardia, hyperthermia), and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski). It is classically caused by combining an MAOI with another serotonergic agent (SSRIs, tramadol, meperidine, triptans, MDMA, linezolid, dextromethorphan, St. John's wort), and is treated with the serotonin antagonist cyproheptadine.",
-      "id": "2026-08-30-22"
+      "id": "2026-08-30-22",
+      "topic": "Serotonin syndrome",
+      "angle": "treatment"
     },
     {
       "format": "simple4",
@@ -454,7 +498,9 @@
         "Correct - dissociative identity disorder is associated with childhood trauma/abuse, especially sexual abuse often occurring before age 6, and is more common in women."
       ],
       "overview": "Dissociative identity disorder (multiple personality disorder) is more common in women and strongly associated with childhood trauma, especially sexual abuse often occurring before age 6. It features two or more distinct personality states with gaps in memory, and has high rates of comorbid PTSD, depression, substance abuse, and borderline/avoidant personality disorders.",
-      "id": "2026-08-30-23"
+      "id": "2026-08-30-23",
+      "topic": "Dissociative identity disorder",
+      "angle": "risk_factors"
     },
     {
       "format": "simple4",
@@ -473,7 +519,9 @@
         "Correct - bupropion's toxicity is related to its stimulant effects, including anxiety, insomnia, and seizures, making it relatively contraindicated in patients with a seizure history."
       ],
       "overview": "Bupropion blocks reuptake of norepinephrine and dopamine and increases presynaptic catecholamine release, with no effect on serotonin; it is used for depression, smoking cessation, and can improve SSRI-induced sexual dysfunction. Its stimulant-like toxicity profile includes anxiety, insomnia, and seizures, making it relatively contraindicated in patients with a seizure history.",
-      "id": "2026-08-30-24"
+      "id": "2026-08-30-24",
+      "topic": "Bupropion",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -492,7 +540,9 @@
         "Incorrect - APOE is not the gene implicated in Rett syndrome per the notes."
       ],
       "overview": "Rett syndrome is an X-linked neurodevelopmental disorder of females caused by MECP2 gene mutations, with initially normal development followed by regression of motor, cognitive, and speech abilities, deceleration of head growth, and stereotyped hand movements around 1-2 years of age. It is nearly always sporadic and is lethal in males, who have only one (abnormal) X chromosome.",
-      "id": "2026-08-30-25"
+      "id": "2026-08-30-25",
+      "topic": "Rett syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -511,7 +561,9 @@
         "Incorrect - hypokalemia is associated with purging in bulimia/anorexia, not identified as the hallmark abnormality of refeeding syndrome."
       ],
       "overview": "Refeeding syndrome occurs when a severely malnourished patient begins nutritional rehabilitation: glucose intake raises insulin, driving phosphate into cells and causing hypophosphatemia, the hallmark abnormality, with resulting ATP depletion leading to cardiac and respiratory failure. Prevention relies on slow, gradual increases in calorie intake.",
-      "id": "2026-08-30-26"
+      "id": "2026-08-30-26",
+      "topic": "Refeeding syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Correct - Korsakoff syndrome, the permanent neurologic condition following Wernicke encephalopathy in thiamine-deficient alcoholics, features confabulation, apathy, personality changes, and amnesia that is anterograde greater than retrograde."
       ],
       "overview": "Wernicke-Korsakoff syndrome results from thiamine (B1) deficiency, classically in alcoholism, with atrophy of the mammillary bodies. Wernicke encephalopathy is the acute, reversible phase, while Korsakoff syndrome is the resulting permanent condition featuring confabulation, apathy, personality changes, and amnesia that is disproportionately anterograde.",
-      "id": "2026-08-30-27"
+      "id": "2026-08-30-27",
+      "topic": "Korsakoff syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -549,7 +603,9 @@
         "Correct - mood reactivity, the ability to feel genuinely better in response to positive events, is the core unique feature of atypical depression, along with hypersomnia, increased appetite/weight gain, leaden limb sensations, and rejection sensitivity."
       ],
       "overview": "Atypical depression is a subtype of major depressive disorder defined by mood reactivity (the ability to feel better in response to positive events), along with hypersomnia, increased appetite/weight gain, leaden limb heaviness, and interpersonal rejection sensitivity. It is a common subtype and is usually treated with SSRIs, though older studies noted increased response to MAO inhibitors.",
-      "id": "2026-08-30-28"
+      "id": "2026-08-30-28",
+      "topic": "Atypical depression",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "Incorrect - miosis and constipation are effects of opioid intoxication/use, not withdrawal, and patients do not develop tolerance to these effects."
       ],
       "overview": "Opioid withdrawal typically begins 6-12 hours after the last dose in dependent individuals and reverses the CNS, eye, skin, and GI effects of opioids: restlessness, yawning, rhinorrhea, lacrimation, piloerection, and GI symptoms including nausea, vomiting, cramps, and diarrhea. It is generally not life-threatening, unlike alcohol or barbiturate withdrawal.",
-      "id": "2026-08-30-29"
+      "id": "2026-08-30-29",
+      "topic": "Opioid withdrawal",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "Incorrect - GAD involves chronic worry about many different events/activities, not situational avoidance tied to fear of panic attacks."
       ],
       "overview": "Agoraphobia is fear of leaving a safe place (e.g., home) due to fear of needing to flee a situation with no help available, distinct from social anxiety disorder's fear of scrutiny/embarrassment. It frequently co-occurs with panic disorder, as patients fear having a panic attack in public. Treatment includes SSRIs, benzodiazepines for infrequent exposure, and exposure-based behavioral therapy.",
-      "id": "2026-08-30-30"
+      "id": "2026-08-30-30",
+      "topic": "Agoraphobia (panic disorder)",
+      "angle": "diagnosis"
     }
   ]
 }
