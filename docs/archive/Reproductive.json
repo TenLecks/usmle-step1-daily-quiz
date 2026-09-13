@@ -18,7 +18,9 @@
         "Prolactin, growth hormone, and cortisol are not glycoprotein hormones sharing hCG's alpha subunit structure."
       ],
       "overview": "hCG is a heterodimeric glycoprotein hormone composed of an alpha subunit identical to that of LH, FSH, and TSH, and a unique beta subunit that confers its specific biological activity. Its similarity to LH allows it to bind LH receptors on the corpus luteum, maintaining progesterone secretion in early pregnancy, and its similarity to TSH explains why very high hCG levels can cause hyperthyroidism.",
-      "id": "2026-09-01-01"
+      "id": "2026-09-01-01",
+      "topic": "hCG",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Correct. Spironolactone is a classic drug that causes gynecomastia through its anti-androgen effects."
       ],
       "overview": "Gynecomastia refers to breast development in males and can be physiologic (newborns, puberty, older age) or drug-induced. Classic anti-androgenic drugs causing gynecomastia include spironolactone (a diuretic), cimetidine (an H2 blocker), and ketoconazole (an antifungal), as well as conditions like cirrhosis and Klinefelter syndrome.",
-      "id": "2026-09-01-02"
+      "id": "2026-09-01-02",
+      "topic": "Spironolactone",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -56,7 +60,9 @@
         "Yolk sac tumor shows Schiller-Duval (glomeruloid) bodies, not fried egg cells."
       ],
       "overview": "Seminoma is the most common testicular germ cell tumor, presenting as a homogeneous grey-white mass without hemorrhage or necrosis, with characteristic 'fried egg' histology; it is the male counterpart of ovarian dysgerminoma. Seminomas remain localized longer than non-seminomatous germ cell tumors, spread first to lymph nodes, and are highly curable.",
-      "id": "2026-09-01-03"
+      "id": "2026-09-01-03",
+      "topic": "Seminoma",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -77,7 +83,9 @@
         "Arteriovenous fistula from trauma causes non-ischemic, high-flow priapism, which is not typically associated with sickle cell disease or with hypoxic, acidotic cavernosal blood."
       ],
       "overview": "Priapism is a persistent erection lasting more than 2-4 hours unrelated to sexual stimulation; 95% of cases are ischemic (low-flow), resulting from failure of cavernosal venous outflow, classically due to sickle cell veno-occlusion or vasoactive drugs (antipsychotics, alpha blockers, PDE5 inhibitors). This causes hypoxia and acidosis of penile blood and is a urologic emergency treated with corporal aspiration, intracavernosal phenylephrine, or surgery to prevent permanent erectile dysfunction and necrosis.",
-      "id": "2026-09-01-04"
+      "id": "2026-09-01-04",
+      "topic": "Priapism in sickle cell disease",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -96,7 +104,9 @@
         "Oxytocin acts on myoepithelial cells in the breast, unrelated to the testicular blood-testis barrier."
       ],
       "overview": "Sertoli cells line the seminiferous tubules, support developing spermatozoa, and form the blood-testis barrier via tight junctions, separating the basal compartment (spermatogonia) from the apical compartment (meiosis and spermiogenesis). This barrier isolates the antigenically distinct, post-meiotic germ cells from the immune system, and Sertoli cell function is stimulated by FSH and supported by paracrine testosterone from Leydig cells.",
-      "id": "2026-09-01-05"
+      "id": "2026-09-01-05",
+      "topic": "Blood-testis barrier",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -115,7 +125,9 @@
         "Aromatase converts androgens to estrogens and is not the target of finasteride."
       ],
       "overview": "Benign prostatic hyperplasia (BPH) is an age-related hyperplasia of stromal and epithelial prostate cells driven by dihydrotestosterone (DHT); finasteride, a 5-alpha reductase inhibitor, blocks conversion of testosterone to DHT and provides slow-onset symptom relief, while alpha-1 blockers and PDE-5 inhibitors relieve symptoms via smooth muscle relaxation.",
-      "id": "2026-09-01-06"
+      "id": "2026-09-01-06",
+      "topic": "Finasteride",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -136,7 +148,9 @@
         "Correct. Paget disease of the breast occurs when underlying DCIS extends along the ducts into the nipple epidermis, producing malignant Paget cells and an eczematous, erythematous nipple lesion, often with bloody discharge."
       ],
       "overview": "Paget disease of the breast is caused by underlying ductal carcinoma in situ (or invasive carcinoma) extending along the lactiferous ducts into the nipple epidermis, producing malignant Paget cells and a clinically eczematous, erythematous nipple lesion often with bloody discharge. More than half of patients have a palpable mass, and most cases ultimately reveal invasive carcinoma, so it must be distinguished from benign nipple dermatitis.",
-      "id": "2026-09-01-07"
+      "id": "2026-09-01-07",
+      "topic": "Paget disease of the breast",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -155,7 +169,9 @@
         "Multiple gestation is not identified as the most important risk factor for abnormal placental attachment."
       ],
       "overview": "Placenta accreta spectrum (accreta, increta, percreta) results from defective decidualization of the uterus, allowing the placenta to attach directly to or invade through the myometrium; the most important risk factor is prior cesarean section, particularly combined with placenta previa. Undetected abnormal attachment can cause the placenta to fail to detach after delivery, leading to massive postpartum hemorrhage often requiring hysterectomy.",
-      "id": "2026-09-01-08"
+      "id": "2026-09-01-08",
+      "topic": "Placenta accreta",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -176,7 +192,9 @@
         "Correct. HELLP syndrome is a severe variant of preeclampsia defined by microangiopathic Hemolysis (schistocytes, elevated bilirubin, low haptoglobin), Elevated Liver enzymes, and Low Platelets, resulting from coagulation activation and hepatic infarction."
       ],
       "overview": "HELLP syndrome is a severe complication of preeclampsia characterized by microangiopathic Hemolysis (schistocytes, elevated bilirubin, low haptoglobin), Elevated Liver enzymes, and Low Platelets, reflecting coagulation activation and hepatic infarction; definitive treatment is delivery. It shares the same underlying pathophysiology as preeclampsia \u2014 abnormal trophoblastic invasion of spiral arteries leading to placental hypoperfusion and diffuse maternal endothelial dysfunction.",
-      "id": "2026-09-01-09"
+      "id": "2026-09-01-09",
+      "topic": "HELLP syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -195,7 +213,9 @@
         "Correct. Division within days 1-3 after fertilization, before chorion development begins, results in dichorionic, diamniotic twins, similar to dizygotic twins."
       ],
       "overview": "The placental and membrane configuration of monozygotic twins depends on the timing of zygote division: division within days 1-3 yields dichorionic diamniotic twins, division on days 4-8 yields monochorionic diamniotic twins, division on days 9-12 yields monochorionic monoamniotic twins (higher risk), and division on day 13 or later results in conjoined twins.",
-      "id": "2026-09-01-10"
+      "id": "2026-09-01-10",
+      "topic": "Monozygotic twinning",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -214,7 +234,9 @@
         "Fusion between lateral nasal prominences and mandibular prominences is not the process that forms the primary palate in the notes."
       ],
       "overview": "Cleft lip results from failure of the maxillary prominences (derived from the first pharyngeal arch) to fuse with the medial nasal prominences, which normally forms the primary palate and philtrum. This is distinct from cleft palate, which results from failure of fusion of the lateral palatine shelves forming the secondary palate.",
-      "id": "2026-09-01-11"
+      "id": "2026-09-01-11",
+      "topic": "Cleft lip",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -233,7 +255,9 @@
         "DiGeorge syndrome is attributed specifically to 3rd/4th pouch failure, not all four pouches."
       ],
       "overview": "DiGeorge syndrome (thymic aplasia) results from failure of the third and fourth pharyngeal pouches to develop, most commonly due to a 22q11 chromosomal deletion, producing the classic triad of absent thymus, absent parathyroid glands (hypocalcemia/tetany), and conotruncal congenital heart defects. The third pouch normally forms the thymus and inferior parathyroid glands, while the fourth forms the superior parathyroid glands and the ultimobranchial body (thyroid C-cells).",
-      "id": "2026-09-01-12"
+      "id": "2026-09-01-12",
+      "topic": "DiGeorge syndrome",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -252,7 +276,9 @@
         "Brenner tumor contains transitional epithelial cells with 'coffee bean' nuclei and is usually benign, not linked to psammoma bodies."
       ],
       "overview": "Serous tumors are the most common ovarian epithelial tumor type, and serous cystadenocarcinoma is the most common malignant ovarian tumor overall; it forms complex cysts lined by cells resembling fallopian tube epithelium and characteristically contains psammoma bodies. This contrasts with mucinous tumors (larger, multiloculated, can cause pseudomyxoma peritonei) and endometrioid tumors (associated with endometriosis, generally better prognosis).",
-      "id": "2026-09-01-13"
+      "id": "2026-09-01-13",
+      "topic": "Ovarian serous carcinoma",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -271,7 +297,9 @@
         "This is reversed: fibroadenomas, not phyllodes tumors, are described as clearly hormone-sensitive, increasing in size with the menstrual cycle and pregnancy."
       ],
       "overview": "Fibroadenoma and phyllodes tumor are both benign stromal (fibroepithelial) tumors of the breast arising from intralobular stroma, but they occur at different ages: fibroadenoma is the most common benign breast tumor of premenopausal women (15-35 years) and is hormone-sensitive, whereas phyllodes tumor typically presents in older women (>60) and, unlike fibroadenoma, has high-grade variants capable of metastasis.",
-      "id": "2026-09-01-14"
+      "id": "2026-09-01-14",
+      "topic": "Phyllodes tumor",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -290,7 +318,9 @@
         "Follicular cysts are described as thin-walled with no vascularity on ultrasound, not 'ring of fire.'"
       ],
       "overview": "Functional ovarian cysts arise from normal ovarian structures \u2014 follicular cysts form when a follicle fails to rupture (thin-walled and avascular on ultrasound), while corpus luteal cysts form when the corpus luteum fails to involute (thick-walled with 'ring of fire' vascularity, may delay menstruation). Both can present with pelvic pain and an adnexal mass.",
-      "id": "2026-09-01-15"
+      "id": "2026-09-01-15",
+      "topic": "Corpus luteum cyst",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -309,7 +339,9 @@
         "Sonic hedgehog is the key signal from the zone of polarizing activity governing the anterior-posterior axis, not the AER-associated proximal-distal signal."
       ],
       "overview": "The apical ectodermal ridge (AER) is essential for proximal-to-distal limb growth by maintaining a 'progress zone' of proliferating mesoderm beneath it, mediated by fibroblast growth factor (FGF); removing the AER halts limb growth, but replacing it with an FGF-soaked bead restores normal growth. This is distinct from Sonic hedgehog (anterior-posterior axis) and Wnt-7a (dorsal-ventral axis).",
-      "id": "2026-09-01-16"
+      "id": "2026-09-01-16",
+      "topic": "Apical ectodermal ridge (limb development)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -328,7 +360,9 @@
         "Malformation is an intrinsic abnormality in structure development (e.g., neural tube defects, cleft lip/palate), not an external force altering an otherwise normally forming structure."
       ],
       "overview": "Errors in morphogenesis are divided into intrinsic causes (agenesis, aplasia, hypoplasia, malformation) and extrinsic causes (disruption and deformation). Potter sequence is the classic example of deformation: absent/decreased amniotic fluid (usually from fetal renal failure) removes fetal cushioning, leading to external compression causing abnormal facies, limb positioning, and pulmonary hypoplasia.",
-      "id": "2026-09-01-17"
+      "id": "2026-09-01-17",
+      "topic": "Potter sequence",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -347,7 +381,9 @@
         "Correct. The E7 gene product inhibits the Rb tumor suppressor protein; since Rb normally sequesters the E2F transcription factor, its inhibition releases E2F to drive uncontrolled cell cycle progression."
       ],
       "overview": "High-risk HPV subtypes (16 and 18) drive cervical, anal, penile, and oropharyngeal cancers through two key oncogenes: E6, which inhibits the p53 tumor suppressor, and E7, which inhibits the Rb tumor suppressor, together producing uncontrolled cell cycle progression. Persistent HPV infection drives progression through cervical intraepithelial neoplasia to invasive carcinoma, detectable at the precursor stage by Pap smear (koilocytes).",
-      "id": "2026-09-01-18"
+      "id": "2026-09-01-18",
+      "topic": "HPV E7 oncoprotein",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -368,7 +404,9 @@
         "Swyer syndrome occurs in 46,XY individuals with streak gonads and female external genitalia, unrelated to ambiguous genitalia and salt wasting in an XX infant."
       ],
       "overview": "21-hydroxylase deficiency is the most common cause of congenital adrenal hyperplasia, blocking cortisol and aldosterone synthesis while shunting precursors toward androgen production; low cortisol raises ACTH, further driving adrenal androgen excess. In a 46,XX fetus this causes ambiguous genitalia (XX DSD), while low aldosterone produces a life-threatening salt-wasting crisis with hyponatremia, hyperkalemia, and hypoglycemia, diagnosed by an elevated 17-hydroxyprogesterone level.",
-      "id": "2026-09-01-19"
+      "id": "2026-09-01-19",
+      "topic": "21-hydroxylase deficiency (congenital adrenal hyperplasia)",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -389,7 +427,9 @@
         "Invasive ductal carcinoma typically forms gland-like structures with a desmoplastic stromal reaction rather than single-file cords, and is not characteristically bilateral or E-cadherin-negative."
       ],
       "overview": "Invasive lobular carcinoma arises from TDLU epithelium and characteristically loses E-cadherin, causing tumor cells to grow in a single-file pattern rather than forming glands; it is often multifocal and bilateral. This contrasts with invasive ductal carcinoma (most common, ~80%, forms duct-like structures with desmoplastic stroma) and lobular carcinoma in situ (also E-cadherin-negative but non-invasive, an incidental finding and risk factor for future carcinoma in either breast).",
-      "id": "2026-09-01-20"
+      "id": "2026-09-01-20",
+      "topic": "Invasive lobular carcinoma",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -410,7 +450,9 @@
         "Torsion does not reliably resolve spontaneously; delay risks hemorrhagic infarction and loss of the testicle."
       ],
       "overview": "Testicular torsion results from twisting of the spermatic cord, often due to a bell-clapper deformity, causing venous outflow obstruction while arterial inflow continues, leading to engorgement and hemorrhagic infarction. It presents with acute pain, swelling, and an absent cremasteric reflex, and is a surgical emergency requiring urgent detorsion and orchiopexy (with attention to the contralateral testis) to prevent infertility.",
-      "id": "2026-09-01-21"
+      "id": "2026-09-01-21",
+      "topic": "Testicular torsion",
+      "angle": "treatment"
     },
     {
       "format": "vignette5",
@@ -431,7 +473,9 @@
         "5-alpha reductase deficiency presents with ambiguous or predominantly female external genitalia that masculinizes at puberty due to elevated testosterone, and internal male structures (vas deferens, seminal vesicles) are present; it does not produce breast development."
       ],
       "overview": "Complete androgen insensitivity syndrome results from a mutation in the androgen receptor in 46,XY individuals; testes form and secrete M\u00fcllerian inhibiting factor (causing absence of the uterus and fallopian tubes) and testosterone, but end-organ unresponsiveness to androgens produces a female external phenotype with absent axillary/pubic hair, while peripheral aromatization of testosterone to estrogen drives breast development at puberty. Patients present with primary amenorrhea, a blind-ending vagina, and abdominal/inguinal undescended testes, with testosterone levels in the normal-to-elevated male range.",
-      "id": "2026-09-01-22"
+      "id": "2026-09-01-22",
+      "topic": "Androgen insensitivity syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -450,7 +494,9 @@
         "Klinefelter syndrome (47,XXY) causes primary hypogonadism but is not associated with anosmia."
       ],
       "overview": "Kallmann syndrome is caused by a GnRH deficiency due to failure of GnRH neuron migration to the hypothalamus, producing hypogonadotropic hypogonadism combined with anosmia; it predominantly affects males and presents at puberty with failure to develop secondary sexual characteristics such as facial/body hair, muscle mass, and voice deepening.",
-      "id": "2026-09-01-23"
+      "id": "2026-09-01-23",
+      "topic": "Kallmann syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -471,7 +517,9 @@
         "Congenital rubella syndrome causes sensorineural deafness, cataracts, PDA, and blueberry muffin baby, but the classic calcification pattern and most common infectious cause of congenital deafness is CMV, not rubella."
       ],
       "overview": "Congenital CMV infection is usually asymptomatic at birth but is the most common infectious cause of congenital sensorineural hearing loss, and may also present with small size for gestational age, microcephaly, hepatosplenomegaly, blueberry muffin rash, seizures, and periventricular intracranial calcifications. This contrasts with congenital toxoplasmosis, whose classic triad is hydrocephalus, chorioretinitis, and diffuse intracranial calcifications.",
-      "id": "2026-09-01-24"
+      "id": "2026-09-01-24",
+      "topic": "Congenital CMV infection",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -490,7 +538,9 @@
         "Precocious puberty and estrogen excess are features of granulosa cell tumors, not fibromas."
       ],
       "overview": "Ovarian fibromas are benign, hormonally-inactive tumors of fibroblasts that typically occur in postmenopausal women and present as a solid, white pelvic mass; ascites occurs in about 40% of cases, and when accompanied by pleural effusion, this constitutes Meigs syndrome, which resolves after surgical removal of the tumor.",
-      "id": "2026-09-01-25"
+      "id": "2026-09-01-25",
+      "topic": "Meigs syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -509,7 +559,9 @@
         "Warfarin causes fetal hemorrhage, optic atrophy, and bone/cartilage abnormalities, and is not used to treat acne."
       ],
       "overview": "Isotretinoin, a vitamin A derivative used to treat severe acne, is a pregnancy category X teratogen requiring mandatory birth control during use; it causes spontaneous abortion in about 20% of exposed pregnancies and 'embryopathy' (abnormal facial features, congenital heart disease, hydrocephalus) in 20-30% of live births. Excess vitamin A itself carries similar first-trimester teratogenic risk at supra-therapeutic doses.",
-      "id": "2026-09-01-26"
+      "id": "2026-09-01-26",
+      "topic": "Isotretinoin",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -528,7 +580,9 @@
         "Amniotic band syndrome is an extrinsic disruption from fibrous bands, unrelated to maternal diabetes."
       ],
       "overview": "Maternal diabetes is teratogenic through multiple mechanisms, causing macrosomia, neonatal hypoglycemia, congenital heart defects, and caudal regression syndrome (sacral agenesis) \u2014 classically seen in infants of insulin-dependent mothers \u2014 which may include sirenomelia ('mermaid syndrome') and often a neural tube defect.",
-      "id": "2026-09-01-27"
+      "id": "2026-09-01-27",
+      "topic": "Caudal regression syndrome",
+      "angle": "clinical_presentation"
     },
     {
       "format": "vignette5",
@@ -549,7 +603,9 @@
         "Mature cystic teratoma (dermoid cyst) is typically an asymptomatic, benign mass containing hair, skin, and sebaceous material, not a necrotic AFP-secreting mass."
       ],
       "overview": "The yolk sac (endodermal sinus) tumor is a malignant germ cell tumor derived from extraembryonic yolk sac cells that secretes alpha-fetoprotein and shows pathognomonic Schiller-Duval bodies (glomeruloid structures) on histology; it presents as a large, hemorrhagic/necrotic mass and can occur in the ovary of young girls or the testis of young boys. AFP serves as a useful tumor marker for diagnosis and monitoring, analogous to hCG for choriocarcinoma and gestational trophoblastic disease.",
-      "id": "2026-09-01-28"
+      "id": "2026-09-01-28",
+      "topic": "Yolk sac tumor",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -568,7 +624,9 @@
         "Correct. Sertoli cells secrete M\u00fcllerian inhibitory factor (MIF), which suppresses development of the paramesonephric (M\u00fcllerian) ducts in males."
       ],
       "overview": "In male genital development, Sertoli cells secrete M\u00fcllerian inhibitory factor (MIF), causing regression of the paramesonephric (M\u00fcllerian) ducts, while Leydig cells secrete androgens that stimulate the mesonephric (Wolffian) ducts to differentiate into the epididymis, vas deferens, seminal vesicles, and ejaculatory ducts. In the absence of MIF and androgens, the paramesonephric ducts persist and form the fallopian tubes, uterus, and upper vagina.",
-      "id": "2026-09-01-29"
+      "id": "2026-09-01-29",
+      "topic": "Anti-M\u00fcllerian hormone (Sertoli cells)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -589,7 +647,9 @@
         "A normal diploid conceptus would produce a fetus and normal villi on ultrasound, not the snowstorm appearance with absent fetal parts described here."
       ],
       "overview": "A complete hydatidiform mole results from fertilization of an empty (enucleate) ovum, typically by a single sperm that duplicates its genome, yielding a 46,XX karyotype entirely of paternal origin with no fetal tissue and diffusely swollen chorionic villi ('cluster of grapes,' 'snowstorm' on ultrasound). It presents with markedly elevated hCG, size-greater-than-dates, hyperemesis, theca lutein cysts, and possible hyperthyroidism/preeclampsia, and carries a higher risk of subsequent choriocarcinoma than a partial mole.",
-      "id": "2026-09-01-30"
+      "id": "2026-09-01-30",
+      "topic": "Complete hydatidiform mole",
+      "angle": "diagnosis"
     }
   ]
 }
