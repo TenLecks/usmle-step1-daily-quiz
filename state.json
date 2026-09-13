@@ -975,66 +975,246 @@
       }
     ],
     "Genetics": [
-      "A mother with a mitochondrial DNA mutation causing a myopathy has children who all inherit the mutat",
-      "The ABO blood group system, in which AB individuals express both A and B antigens on red blood cells",
-      "A 6-month-old infant with a history of poor feeding and hypotonia at birth is now noted by parents t",
-      "A 17-year-old boy is evaluated for delayed puberty. He is tall with long limbs, has sparse facial ha",
-      "An X-linked recessive disease affects 1 in 100 males in a population in Hardy-Weinberg equilibrium. ",
-      "A newborn has microphthalmia, cleft lip and palate, postaxial polydactyly, and a congenital heart de",
-      "Compared to Duchenne muscular dystrophy, Becker muscular dystrophy is characterized by which type of",
-      "A 4-year-old boy is brought in because his parents noticed he uses his hands to push himself up from",
-      "A patient with neurofibromatosis type 1 has only mild skin findings, while his son with the same gen",
-      "A 2-year-old boy presents with leukocoria (white pupillary reflex) in both eyes. Family history reve",
-      "A newborn has a high-pitched, cat-like cry, microcephaly, widely set eyes, and a ventricular septal ",
-      "A 15-year-old girl is brought in for primary amenorrhea. She is short for her age and has a webbed n",
-      "The risk of trisomy 21 due to meiotic nondisjunction increases significantly with advanced maternal ",
-      "A woman at 16 weeks' gestation undergoes a quad screen with results showing decreased AFP, decreased",
-      "A child with intellectual disability has an elfin facial appearance, is unusually friendly and talka",
-      "A newborn develops tetany and is found to have a serum calcium of 6.5 mg/dL. Echocardiogram reveals ",
-      "Two genes on the same chromosome are found to recombine with a frequency (\u03b8) of 0.5. This finding is",
-      "Retinitis pigmentosa can be caused by mutations at more than 40 different chromosomal loci, all prod",
-      "Patients with Down syndrome are at high risk of developing Alzheimer's disease at an unusually early",
-      "Genomic imprinting, in which only the maternally or paternally inherited copy of certain genes is ex",
-      "A child has both copies of chromosome 7 inherited from the father, with no maternal contribution, bu",
-      "In a family pedigree, hemophilia A affects only males across multiple generations, is transmitted th",
-      "In a population, allele A has a frequency of 0.5 and allele B (at a separate but nearby locus) has a",
-      "A phenotypically normal woman with 45 chromosomes on karyotype, including a fused chromosome 14;21, ",
-      "A 3-year-old girl presents with vaginal bleeding. Examination shows large, irregularly bordered ('co",
-      "A 4-year-old girl has severe intellectual disability, an ataxic gait, and frequent unprovoked laught",
-      "A 38-year-old man develops chorea and progressive dementia. His father had similar symptoms beginnin",
-      "A 6-year-old boy has moderate intellectual disability, a long narrow face with large protruding ears",
-      "An autosomal recessive disease occurs in 1 in 4,900 newborns in a population in Hardy-Weinberg equil",
-      "A single gene mutation in a patient with Marfan syndrome leads to lens dislocation, aortic root dila",
-      "The dystrophin protein, which is deficient in Duchenne muscular dystrophy, normally functions to:",
-      "A 32-year-old man reports difficulty releasing his grip after shaking hands and progressive weakness",
-      "A female infant is born small for gestational age with a birth weight well below the 10th percentile",
-      "A child is found to have two structurally different homologous copies of chromosome 15 inherited fro",
-      "A 4-month-old infant presents with a several-day history of oral thrush and a prior episode of Pneum",
-      "A population geneticist is evaluating whether a population is in Hardy-Weinberg equilibrium. Which o",
-      "On eye examination of a newborn with suspected Down syndrome, small white or grayish spots are noted",
-      "A young child develops osteosarcoma, and genetic testing reveals a germline mutation in the TP53 tum",
-      "A 3-year-old girl is evaluated for a heart murmur. Echocardiography reveals narrowing of the ascendi",
-      "Two gene loci on the same chromosome are found to have a recombination frequency (\u03b8) close to zero i",
-      "Angelman syndrome results from loss of expression of the UBE3A gene. Under normal conditions, which ",
-      "A secondary oocyte released at ovulation remains arrested at which stage of meiosis until fertilizat",
-      "Beta-thalassemia can result from a wide range of different mutations within the beta-globin gene, wi",
-      "Which of the following is the most common genetic mechanism underlying Prader-Willi syndrome?",
-      "Genomic imprinting, in which certain genes are expressed only from the maternally or paternally inhe",
-      "A 29-year-old man presents for evaluation of infertility after 2 years of unprotected intercourse wi",
-      "A female carrier of an X-linked recessive disease allele unexpectedly develops clinical manifestatio",
-      "Unlike Duchenne muscular dystrophy, in which about two-thirds of cases are inherited from a carrier ",
-      "A 14-year-old boy presents with progressive difficulty walking and frequent falls over the past year",
-      "A disease-causing mutation arises near a specific allele of a nearby polymorphic marker. Over many s",
-      "Two unaffected parents have two children with the same rare autosomal dominant disorder. Genetic tes",
-      "In several trinucleotide repeat disorders, such as Huntington's disease and myotonic dystrophy, the ",
-      "The specific physical position of a gene or its allele on a chromosome is termed the gene's:",
-      "A couple presents after their third first-trimester pregnancy loss. Karyotyping of the male partner ",
-      "A female newborn is noted to have puffy hands and feet along with loose skin folds at the posterior ",
-      "Compared to the general pediatric population, children with Down syndrome have a markedly increased ",
-      "A patient found to have early-onset COPD and liver disease undergoes genetic testing for alpha-1 ant",
-      "A 14-year-old boy with a known history of a dystrophin gene frameshift mutation and progressive prox",
-      "A 22-year-old man undergoes colonoscopy after his father was diagnosed with colon cancer at age 35. ",
-      "Some women who inherit a pathogenic BRCA1 mutation never develop breast or ovarian cancer during the"
+      {
+        "topic": "Mitochondrial inheritance",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "ABO blood group system",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Prader-Willi syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Klinefelter syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hardy-Weinberg equilibrium",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Trisomy 13 (Patau syndrome)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Becker muscular dystrophy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Duchenne muscular dystrophy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Neurofibromatosis type 1",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Retinoblastoma",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Cri-du-chat syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Turner syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Trisomy 21 (Down syndrome)",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Trisomy 21 (Down syndrome)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Williams syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "DiGeorge syndrome (22q11.2 deletion)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Genetic linkage (recombination frequency)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Locus heterogeneity",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Trisomy 21 (Down syndrome)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Genomic imprinting",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Uniparental disomy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hemophilia A",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Linkage disequilibrium",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Robertsonian translocation Down syndrome",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "McCune-Albright syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Angelman syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Huntington disease (anticipation)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Fragile X syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hardy-Weinberg equilibrium",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Marfan syndrome (pleiotropy)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Dystrophin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Myotonic dystrophy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Trisomy 18 (Edwards syndrome)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Uniparental disomy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "DiGeorge syndrome (22q11.2 deletion)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hardy-Weinberg equilibrium",
+        "angle": "other"
+      },
+      {
+        "topic": "Down syndrome (Brushfield spots)",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Li-Fraumeni syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Williams syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Genetic linkage (recombination frequency)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Angelman syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Oogenesis (meiotic arrest)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Beta-thalassemia (allelic heterogeneity)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Prader-Willi syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Genomic imprinting",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Klinefelter syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "X-inactivation (Lyonization)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Becker muscular dystrophy",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Friedreich ataxia",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Linkage disequilibrium",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Germline mosaicism",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Anticipation (trinucleotide repeat disorders)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Gene locus",
+        "angle": "other"
+      },
+      {
+        "topic": "Robertsonian translocation",
+        "angle": "complications"
+      },
+      {
+        "topic": "Turner syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Down syndrome",
+        "angle": "complications"
+      },
+      {
+        "topic": "Alpha-1 antitrypsin deficiency",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Duchenne muscular dystrophy",
+        "angle": "complications"
+      },
+      {
+        "topic": "Familial adenomatous polyposis",
+        "angle": "prognosis"
+      },
+      {
+        "topic": "BRCA1 (incomplete penetrance)",
+        "angle": "mechanism"
+      }
     ],
     "Hematology": [
       "A patient with antiphospholipid syndrome has a prolonged aPTT on routine labs but a history of recur",

@@ -18,7 +18,9 @@
         "Correct: mitochondrial DNA is inherited exclusively from the mother because sperm mitochondria are eliminated from the embryo after fertilization, so an affected father cannot transmit mitochondrial disease to his offspring while a homoplasmic affected mother transmits it to all her children."
       ],
       "overview": "Mitochondrial DNA is inherited exclusively from the mother, since sperm mitochondria are eliminated after fertilization; a homoplasmic affected mother transmits the mutation to all children, while an affected father transmits it to none. Clinical severity varies with heteroplasmy (the proportion of mutant vs normal mitochondrial DNA) and tissue distribution, with muscle and CNS most often affected due to high aerobic metabolic demand (e.g., ragged red fibers in mitochondrial myopathies).",
-      "id": "2026-08-29-01"
+      "id": "2026-08-29-01",
+      "topic": "Mitochondrial inheritance",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -37,7 +39,9 @@
         "Incorrect: incomplete penetrance refers to some individuals with a disease-causing genotype not expressing the phenotype at all, unrelated to simultaneous expression of two alleles."
       ],
       "overview": "Codominance describes a genotype in which two different alleles are both fully expressed in the phenotype, as exemplified by the ABO blood group system, where AB heterozygotes express both A and B antigens on red blood cells rather than a blended or single dominant phenotype.",
-      "id": "2026-08-29-02"
+      "id": "2026-08-29-02",
+      "topic": "ABO blood group system",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -58,7 +62,9 @@
         "Correct: Prader-Willi syndrome results most commonly (~75%) from deletion of the paternally inherited copy of the PWS gene region on 15q11-q13, since it is normally only expressed from the paternal allele; the remaining ~25% arise from maternal uniparental disomy."
       ],
       "overview": "Prader-Willi syndrome results from loss of the paternally expressed genes on chromosome 15q11-q13, most commonly via paternal deletion (~75%) or maternal uniparental disomy (~25%). It causes neonatal hypotonia and poor feeding, followed by childhood hyperphagia/obesity, mild intellectual disability, and hypogonadism.",
-      "id": "2026-08-29-03"
+      "id": "2026-08-29-03",
+      "topic": "Prader-Willi syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -79,7 +85,9 @@
         "Incorrect: loss of negative feedback from the testes causes elevated, not normal, gonadotropins."
       ],
       "overview": "Klinefelter syndrome (usually 47,XXY) results from meiotic nondisjunction and causes primary hypogonadism: small firm testes, low testosterone, elevated LH and FSH (from loss of inhibin B feedback), gynecomastia, infertility, and a tall eunuchoid body habitus from an extra SHOX gene copy.",
-      "id": "2026-08-29-04"
+      "id": "2026-08-29-04",
+      "topic": "Klinefelter syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -98,7 +106,9 @@
         "Incorrect: 1 in 200 does not correspond to the correct q\u00b2 calculation for this allele frequency."
       ],
       "overview": "For X-linked diseases, males (XY) have only one allele copy, so disease frequency in males directly equals the allele frequency q. Because affected females require two copies (homozygous, q\u00b2), X-linked recessive diseases are always far less common in females than males \u2014 a key reason conditions like hemophilia and Duchenne muscular dystrophy predominantly affect males.",
-      "id": "2026-08-29-05"
+      "id": "2026-08-29-05",
+      "topic": "Hardy-Weinberg equilibrium",
+      "angle": "epidemiology"
     },
     {
       "format": "simple4",
@@ -117,7 +127,9 @@
         "Incorrect: trisomy 8 is not a classically described high-yield trisomy syndrome in these notes and does not match this constellation of findings."
       ],
       "overview": "Patau syndrome (trisomy 13) is a rare, severe trisomy with holoprosencephaly, microphthalmia/anophthalmia, cleft lip/palate, and postaxial polydactyly, along with congenital heart defects (VSD, PDA, ASD). Like trisomy 18, it is associated with advanced maternal age and carries a poor prognosis, with most infants dying within the first year of life.",
-      "id": "2026-08-29-06"
+      "id": "2026-08-29-06",
+      "topic": "Trisomy 13 (Patau syndrome)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -136,7 +148,9 @@
         "Incorrect: a frameshift mutation causing a premature stop codon and absent/truncated dystrophin describes Duchenne muscular dystrophy, the more severe form, not Becker."
       ],
       "overview": "Both Duchenne and Becker muscular dystrophy are X-linked recessive disorders caused by mutations in the DMD gene (encoding dystrophin), but Duchenne results from frameshift mutations causing absent/truncated protein and severe early-onset disease, while Becker results from non-frameshift (in-frame) mutations preserving partial dystrophin function and producing a later-onset, milder disease course.",
-      "id": "2026-08-29-07"
+      "id": "2026-08-29-07",
+      "topic": "Becker muscular dystrophy",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -157,7 +171,9 @@
         "Incorrect: laminin is part of the extracellular matrix linked to dystrophin via dystroglycan, but the primary genetic defect described (frameshift DMD mutation) affects dystrophin, not laminin directly."
       ],
       "overview": "Duchenne muscular dystrophy is an X-linked recessive disorder caused by frameshift mutations in the massive DMD gene, leading to absent dystrophin and severe, early-onset proximal weakness, calf pseudohypertrophy, elevated CK, and Gower's sign. Becker muscular dystrophy results from non-frameshift mutations that preserve partial dystrophin function and cause milder disease.",
-      "id": "2026-08-29-08"
+      "id": "2026-08-29-08",
+      "topic": "Duchenne muscular dystrophy",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -176,7 +192,9 @@
         "Incorrect: genetic anticipation describes worsening severity/earlier onset across generations due to expanding trinucleotide repeats, which is not described in this scenario."
       ],
       "overview": "Penetrance describes the proportion of individuals with a disease genotype who show any phenotype, while expressivity describes the degree/severity of phenotype among those affected. Neurofibromatosis type 1 has 100% penetrance but highly variable expressivity, whereas BRCA1/2 mutations show incomplete penetrance for cancer risk.",
-      "id": "2026-08-29-09"
+      "id": "2026-08-29-09",
+      "topic": "Neurofibromatosis type 1",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -197,7 +215,9 @@
         "Incorrect: retinoblastoma is a recessive process at the cellular level; a single functional RB1 allele is still sufficient to prevent tumor formation, so the germline mutation alone is not sufficient without loss of the second allele."
       ],
       "overview": "Retinoblastoma illustrates the 'two-hit' model of tumor suppressor gene inactivation: the hereditary form has one germline RB1 mutation present in every cell, requiring only one somatic 'hit' for cancer, producing earlier-onset, often bilateral/multifocal tumors, whereas the sporadic form requires two somatic hits in the same cell and typically presents as a single, later tumor.",
-      "id": "2026-08-29-10"
+      "id": "2026-08-29-10",
+      "topic": "Retinoblastoma",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -216,7 +236,9 @@
         "Incorrect: trisomy 13 (Patau syndrome) presents with holoprosencephaly, polydactyly, and microphthalmia, not the classic cat-like cry described here."
       ],
       "overview": "Cri-du-chat syndrome ('5p- syndrome') results from a partial deletion of the short arm of chromosome 5 and presents with a characteristic high-pitched, cat-like cry in infancy, severe intellectual disability, microcephaly, hypertelorism, and congenital heart defects (VSD, PDA, tetralogy of Fallot).",
-      "id": "2026-08-29-11"
+      "id": "2026-08-29-11",
+      "topic": "Cri-du-chat syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "vignette5",
@@ -237,7 +259,9 @@
         "Incorrect: estrogen is decreased, not increased, due to ovarian failure (streak ovaries) in Turner syndrome."
       ],
       "overview": "Turner syndrome (45,X in ~45% of cases) causes short stature (loss of the SHOX gene), a webbed neck, a shield chest with widely spaced nipples, bicuspid aortic valve, coarctation of the aorta, and horseshoe kidney. Gonadal dysgenesis ('streak ovaries') produces primary hypogonadism with decreased estrogen/inhibin B and increased LH/FSH, causing primary amenorrhea.",
-      "id": "2026-08-29-12"
+      "id": "2026-08-29-12",
+      "topic": "Turner syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -256,7 +280,9 @@
         "Incorrect: meiosis II is not completed until fertilization occurs; oocytes arrest in metaphase of meiosis II after ovulation, and completion happens only after fertilization."
       ],
       "overview": "Primary oocytes are formed prenatally and arrested in prophase of meiosis I until ovulation, which may occur decades later; this prolonged arrest is believed to underlie the increased risk of meiotic nondisjunction (and resulting trisomies such as Down syndrome) with advanced maternal age. Most trisomy 21 cases arise from maternal meiosis I nondisjunction.",
-      "id": "2026-08-29-13"
+      "id": "2026-08-29-13",
+      "topic": "Trisomy 21 (Down syndrome)",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -277,7 +303,9 @@
         "Incorrect: mitotic error causing somatic mosaicism accounts for <2% of Down syndrome and typically produces milder features; the most common mechanism, especially without additional clues, is meiotic nondisjunction."
       ],
       "overview": "Down syndrome (trisomy 21) is most commonly caused by meiotic nondisjunction (95%), usually in meiosis I, with the extra chromosome maternal in origin in 90% of cases; risk increases with advanced maternal age. Classic features include a flat facial profile, epicanthal folds, upslanting palpebral fissures, a single palmar crease, hypotonia, and endocardial cushion defects. Second-trimester quad screen shows \u2193AFP, \u2193estriol, \u2191\u03b2-hCG, and \u2191inhibin A.",
-      "id": "2026-08-29-14"
+      "id": "2026-08-29-14",
+      "topic": "Trisomy 21 (Down syndrome)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -296,7 +324,9 @@
         "Incorrect: fibrillin-1 mutations cause Marfan syndrome, which involves connective tissue and aortic root dilation, but is not the deletion syndrome described here."
       ],
       "overview": "Williams syndrome results from a microdeletion on chromosome 7q that includes the elastin gene, producing an 'elfin' facial appearance, intellectual disability with strong verbal skills, an unusually friendly personality toward strangers, supravalvular aortic stenosis, and mild hypercalcemia related to increased vitamin D sensitivity.",
-      "id": "2026-08-29-15"
+      "id": "2026-08-29-15",
+      "topic": "Williams syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -317,7 +347,9 @@
         "Incorrect: trinucleotide repeat disorders (e.g., Fragile X) are unrelated to this presentation of immunodeficiency, hypocalcemia, and heart defects."
       ],
       "overview": "DiGeorge (velocardiofacial) syndrome results from a 22q11 microdeletion causing thymic aplasia (T-cell deficiency with recurrent viral/fungal infections), parathyroid hypoplasia (hypocalcemia/tetany), and conotruncal cardiac anomalies. It is one of the classic microdeletion syndromes, along with cri-du-chat (5p) and Williams syndrome (7q, elastin gene).",
-      "id": "2026-08-29-16"
+      "id": "2026-08-29-16",
+      "topic": "DiGeorge syndrome (22q11.2 deletion)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -336,7 +368,9 @@
         "Incorrect: Robertsonian translocation is a structural chromosomal rearrangement unrelated to recombination frequency between two genes."
       ],
       "overview": "Recombination frequency (\u03b8) reflects the physical distance between two loci: values near 0 indicate tight linkage (genes rarely separate during meiosis), while a value of 0.5 indicates the genes assort independently, as if on different chromosomes. Family-based recombination frequency data are used to construct linkage maps.",
-      "id": "2026-08-29-17"
+      "id": "2026-08-29-17",
+      "topic": "Genetic linkage (recombination frequency)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -355,7 +389,9 @@
         "Correct: locus heterogeneity refers to mutations at different genes (loci) producing the same phenotype, exactly as described for retinitis pigmentosa with mutations at over 40 different loci."
       ],
       "overview": "Locus heterogeneity means mutations at different genes can cause the same phenotype (e.g., retinitis pigmentosa, over 40 loci), while allelic heterogeneity means different mutations within the same gene cause a phenotype spectrum (e.g., beta-thalassemia, cystic fibrosis). Both explain why a single named 'disease' often has multiple distinct genetic causes.",
-      "id": "2026-08-29-18"
+      "id": "2026-08-29-18",
+      "topic": "Locus heterogeneity",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -374,7 +410,9 @@
         "Incorrect: deletion of the elastin gene on chromosome 7 causes Williams syndrome and is unrelated to Alzheimer's disease risk."
       ],
       "overview": "The amyloid precursor protein (APP) gene resides on chromosome 21; because Down syndrome involves trisomy of this chromosome, patients have an extra copy of APP, leading to increased amyloid-beta production, early amyloid plaque formation, and a markedly increased risk of Alzheimer's disease, typically presenting by the patient's 50s.",
-      "id": "2026-08-29-19"
+      "id": "2026-08-29-19",
+      "topic": "Trisomy 21 (Down syndrome)",
+      "angle": "pathophysiology"
     },
     {
       "format": "simple4",
@@ -393,7 +431,9 @@
         "Incorrect: X chromosome inactivation (lyonization) silences one X chromosome in females and is a distinct epigenetic process from autosomal genomic imprinting, though it also involves methylation/heterochromatin formation."
       ],
       "overview": "Genomic imprinting is an epigenetic process, established during gametogenesis via DNA (cytosine) methylation, that marks genes as parent-of-origin specific so that only one parental allele is expressed after fertilization. Loss of the normally expressed allele in an imprinted region \u2014 as in Prader-Willi (paternal) or Angelman (maternal) syndrome \u2014 causes disease even though the other, silenced copy remains structurally intact.",
-      "id": "2026-08-29-20"
+      "id": "2026-08-29-20",
+      "topic": "Genomic imprinting",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -412,7 +452,9 @@
         "Incorrect: Robertsonian translocation is a structural fusion of two acrocentric chromosomes, a distinct mechanism from uniparental disomy, and typically results in either a balanced carrier state or aneuploidy, not a euploid two-copies-from-one-parent scenario."
       ],
       "overview": "Uniparental disomy occurs when both copies of a chromosome come from a single parent, leaving the child euploid (normal chromosome number) but with abnormal parental origin. This can be clinically silent, unmask recessive disease if the transmitting parent is a carrier, or disrupt imprinted gene expression (as in a subset of Prader-Willi syndrome cases from maternal uniparental disomy of chromosome 15).",
-      "id": "2026-08-29-21"
+      "id": "2026-08-29-21",
+      "topic": "Uniparental disomy",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -431,7 +473,9 @@
         "Incorrect: autosomal dominant inheritance would show affected individuals in both sexes across generations with male-to-male transmission possible, unlike this X-linked pattern."
       ],
       "overview": "X-linked recessive disorders (e.g., hemophilia A/B) affect males far more often than females, show no male-to-male transmission (since fathers give sons a Y chromosome), and are transmitted through typically unaffected carrier females, whose sons each have a 50% chance of being affected.",
-      "id": "2026-08-29-22"
+      "id": "2026-08-29-22",
+      "topic": "Hemophilia A",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -450,7 +494,9 @@
         "Incorrect: Hardy-Weinberg equilibrium describes genotype frequencies at a single locus under set assumptions, not haplotype associations between two loci, and this scenario shows a deviation from expected independent association."
       ],
       "overview": "Linkage disequilibrium occurs when specific alleles at two nearby loci are inherited together more (or less) often than predicted by their individual population frequencies. It is greatest when a mutation is new to a population and fades over successive generations as recombination separates the loci, especially when the loci are farther apart.",
-      "id": "2026-08-29-23"
+      "id": "2026-08-29-23",
+      "topic": "Linkage disequilibrium",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -469,7 +515,9 @@
         "Incorrect: translocation-associated Down syndrome is notable specifically for its familial (heritable) recurrence pattern, the opposite of 'exclusively sporadic.'"
       ],
       "overview": "Robertsonian translocation causes only 2-3% of Down syndrome cases (most commonly fusion with chromosome 14), is not linked to advanced maternal age, and carries a high recurrence risk in families because a phenotypically normal balanced carrier parent (45 chromosomes) can pass an unbalanced translocation to multiple offspring.",
-      "id": "2026-08-29-24"
+      "id": "2026-08-29-24",
+      "topic": "Robertsonian translocation Down syndrome",
+      "angle": "risk_factors"
     },
     {
       "format": "vignette5",
@@ -490,7 +538,9 @@
         "Incorrect: maternal uniparental disomy of chromosome 15 is a mechanism of Prader-Willi syndrome, unrelated to McCune-Albright syndrome's GNAS mutation."
       ],
       "overview": "McCune-Albright syndrome is caused by a sporadic, postzygotic somatic mutation in the GNAS gene (constitutively activating the Gs-alpha subunit and increasing cAMP signaling), producing tissue mosaicism. It classically presents with precocious puberty, caf\u00e9-au-lait skin macules with irregular ('coast of Maine') borders, and polyostotic fibrous dysplasia; a germline form of the mutation would be lethal.",
-      "id": "2026-08-29-25"
+      "id": "2026-08-29-25",
+      "topic": "McCune-Albright syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -511,7 +561,9 @@
         "Incorrect: HTT is the huntingtin gene implicated in Huntington's disease, a distinct adult-onset movement disorder."
       ],
       "overview": "Angelman syndrome results from loss of expression of the maternally inherited UBE3A gene on chromosome 15q11-q13, most often due to a maternal deletion. Clinical features include severe intellectual disability, ataxia, frequent seizures, and a characteristic happy demeanor with inappropriate laughter ('happy puppet' syndrome).",
-      "id": "2026-08-29-26"
+      "id": "2026-08-29-26",
+      "topic": "Angelman syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -530,7 +582,9 @@
         "Incorrect: genetic heterogeneity refers to the same phenotype being caused by different genes or mutations, not to changing repeat length and severity across generations of the same family."
       ],
       "overview": "Huntington's disease is an autosomal dominant disorder caused by CAG (polyglutamine) repeat expansion in the HTT gene, leading to basal ganglia (striatal) degeneration with chorea and dementia, typically presenting in the 30s-40s. Trinucleotide repeat disorders like Huntington's disease exhibit anticipation, where repeat number tends to increase across generations, causing earlier onset and greater severity in offspring.",
-      "id": "2026-08-29-27"
+      "id": "2026-08-29-27",
+      "topic": "Huntington disease (anticipation)",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -551,7 +605,9 @@
         "Incorrect: CCTG (tetranucleotide) repeat expansion describes myotonic dystrophy type 2 (CNBP gene), which is autosomal dominant, not mitochondrial, and is unrelated to this presentation."
       ],
       "overview": "Fragile X syndrome is an X-linked dominant trinucleotide repeat disorder caused by CGG repeat expansion (>200 repeats) in FMR1, leading to methylation-induced gene silencing. It is the second most common genetic cause of intellectual disability (after Down syndrome) and classically presents with a long face, large ears/jaw, macroorchidism, and autism spectrum features, more severe in males.",
-      "id": "2026-08-29-28"
+      "id": "2026-08-29-28",
+      "topic": "Fragile X syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -570,7 +626,9 @@
         "Correct: q\u00b2 = 1/4900, so q = 1/70 \u2248 0.0143; p \u2248 1 \u2212 0.0143 \u2248 0.986; carrier frequency = 2pq \u2248 2(0.986)(0.0143) \u2248 0.028, or about 2.7-2.8%, consistent with the approximation 2q for rare diseases."
       ],
       "overview": "For autosomal recessive diseases in Hardy-Weinberg equilibrium, disease frequency = q\u00b2, so q = \u221a(disease frequency). Carrier frequency = 2pq, which for rare diseases (p close to 1) approximates 2q. This calculation is high-yield for estimating carrier rates from known disease prevalence.",
-      "id": "2026-08-29-29"
+      "id": "2026-08-29-29",
+      "topic": "Hardy-Weinberg equilibrium",
+      "angle": "epidemiology"
     },
     {
       "format": "simple4",
@@ -589,7 +647,9 @@
         "Incorrect: codominance refers to simultaneous expression of two different alleles at one locus, unrelated to multi-system effects of a single mutation."
       ],
       "overview": "Pleiotropy occurs when a single gene mutation produces effects across multiple, seemingly unrelated organ systems or traits. Classic examples include Marfan syndrome (eyes, aorta, skeleton), phenylketonuria (skin, body odor, cognition), and cystic fibrosis (lungs, pancreas).",
-      "id": "2026-08-29-30"
+      "id": "2026-08-29-30",
+      "topic": "Marfan syndrome (pleiotropy)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -608,7 +668,9 @@
         "Correct \u2014 dystrophin connects intracellular actin filaments to alpha- and beta-dystroglycan in the muscle cell membrane, which in turn connects to the extracellular matrix (laminin), maintaining sarcolemmal integrity during contraction."
       ],
       "overview": "Dystrophin is a large cytoskeletal protein that maintains muscle membrane stability by linking intracellular actin to the transmembrane dystroglycan complex, which connects to the extracellular matrix (laminin). Loss of dystrophin (Duchenne) or production of a partially functional truncated form (Becker) leads to progressive myonecrosis, muscle weakness, and elevated muscle enzymes such as creatine kinase.",
-      "id": "2026-09-07-01"
+      "id": "2026-09-07-01",
+      "topic": "Dystrophin",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -629,7 +691,9 @@
         "CGG repeat expansion in FMR1 causes Fragile X syndrome, an X-linked disorder with intellectual disability, not this adult myopathy/cataract syndrome."
       ],
       "overview": "Myotonic dystrophy type 1 is an autosomal dominant trinucleotide (CTG) repeat expansion disorder in the DMPK gene on chromosome 19. It is the most common adult-onset muscular dystrophy, presenting with myotonia (inability to relax muscles after contraction), a characteristic long face with frontal balding, cataracts, cardiac conduction abnormalities, and primary hypogonadism with testicular atrophy.",
-      "id": "2026-09-07-02"
+      "id": "2026-09-07-02",
+      "topic": "Myotonic dystrophy",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -650,7 +714,9 @@
         "45,X (Turner syndrome) occurs in phenotypic females with webbed neck and lymphedema, not the growth restriction and limb findings described."
       ],
       "overview": "Edward syndrome (trisomy 18) is the second most common autosomal trisomy in live births, most often due to meiotic nondisjunction and associated with advanced maternal age. Classic features include severe intrauterine growth restriction, a small head with a prominent occiput, micrognathia, clenched fists with overlapping fingers, and rocker-bottom feet, along with a high rate of congenital heart and GI defects. Prognosis is poor, with most infants dying in the first weeks to year of life.",
-      "id": "2026-09-07-03"
+      "id": "2026-09-07-03",
+      "topic": "Trisomy 18 (Edwards syndrome)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -669,7 +735,9 @@
         "Correct \u2014 heterodisomy (inheritance of both different homologous chromosomes from one parent) results from failure of homologous chromosomes to separate during meiosis I, before sister chromatids have differentiated genetically."
       ],
       "overview": "Uniparental disomy occurs when both copies of a chromosome pair come from one parent, with no contribution from the other. Heterodisomy (two different homologous chromosomes from one parent) implicates a meiosis I error, since homologous chromosomes have not yet been separated; isodisomy (two identical copies) implicates a meiosis II error, since it involves duplicated sister chromatids. This distinction helps localize the stage of nondisjunction in cases like Prader-Willi syndrome from maternal uniparental disomy.",
-      "id": "2026-09-07-04"
+      "id": "2026-09-07-04",
+      "topic": "Uniparental disomy",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -690,7 +758,9 @@
         "Correct \u2014 22q11.2 deletion (DiGeorge/thymic aplasia) causes T-cell deficiency from thymic hypoplasia, hypocalcemia, and conotruncal cardiac defects like tetralogy of Fallot."
       ],
       "overview": "DiGeorge syndrome (thymic aplasia) results from a 22q11.2 microdeletion causing failure of the 3rd and 4th pharyngeal pouches to develop, producing the triad of T-cell immunodeficiency (thymic hypoplasia), hypocalcemia (parathyroid hypoplasia), and conotruncal cardiac defects (tetralogy of Fallot, truncus arteriosus). It is also known as velocardiofacial or Shprintzen syndrome. Recurrent viral/fungal infections reflect the T-cell deficit.",
-      "id": "2026-09-07-05"
+      "id": "2026-09-07-05",
+      "topic": "DiGeorge syndrome (22q11.2 deletion)",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -709,7 +779,9 @@
         "A large population size is a required assumption (to minimize genetic drift), so this supports equilibrium rather than violating it."
       ],
       "overview": "Hardy-Weinberg equilibrium requires a large population, completely random mating, no new mutations, no migration in or out of the population, and no natural selection. When these assumptions hold, allele frequencies (p, q) and genotype frequencies (p2, 2pq, q2) remain stable across generations; violation of any assumption (e.g., nonrandom mating, small population size, selection) can shift allele and genotype frequencies over time.",
-      "id": "2026-09-07-06"
+      "id": "2026-09-07-06",
+      "topic": "Hardy-Weinberg equilibrium",
+      "angle": "other"
     },
     {
       "format": "simple4",
@@ -728,7 +800,9 @@
         "Koplik spots are small white lesions on the buccal mucosa seen in measles, unrelated to the iris or Down syndrome."
       ],
       "overview": "Down syndrome (trisomy 21) is associated with characteristic dysmorphic features including a flat facial profile, epicanthal folds, upslanting palpebral fissures, Brushfield spots (white iris spots), a single transverse palmar crease, and a 'sandal gap' between the first and second toes, in addition to hypotonia, short stature, and an increased risk of congenital heart and GI anomalies.",
-      "id": "2026-09-07-07"
+      "id": "2026-09-07-07",
+      "topic": "Down syndrome (Brushfield spots)",
+      "angle": "clinical_presentation"
     },
     {
       "format": "simple4",
@@ -747,7 +821,9 @@
         "TP53 is not known to be an imprinted gene; both alleles are normally expressed, and disease follows a two-hit tumor suppressor mechanism, not parent-of-origin-specific expression."
       ],
       "overview": "Li-Fraumeni syndrome is caused by a germline mutation in the TP53 tumor suppressor gene, which normally delays cell cycle progression to allow DNA repair. As with other tumor suppressor gene disorders, it follows the two-hit hypothesis: carriers are born with one mutant allele in every cell, and a single additional somatic mutation in the remaining allele is sufficient to trigger malignancy, producing early-onset sarcomas, breast cancer, leukemia, and adrenal cortical tumors.",
-      "id": "2026-09-07-08"
+      "id": "2026-09-07-08",
+      "topic": "Li-Fraumeni syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -768,7 +844,9 @@
         "22q11.2 deletion causes DiGeorge syndrome with immunodeficiency and hypocalcemia (not hypercalcemia)."
       ],
       "overview": "Williams syndrome is caused by a microdeletion on chromosome 7q that includes the elastin gene, leading to connective tissue elastin haploinsufficiency. Classic features include an 'elfin' facial appearance, supravalvular aortic stenosis (and other arteriopathies), mild-moderate intellectual disability with strong verbal skills, an extremely friendly/sociable personality, and mild hypercalcemia related to increased vitamin D sensitivity.",
-      "id": "2026-09-07-09"
+      "id": "2026-09-07-09",
+      "topic": "Williams syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -787,7 +865,9 @@
         "Loci on different chromosomes assort independently and would show a recombination frequency of 0.5, not near zero."
       ],
       "overview": "Recombination frequency (\u03b8) reflects the physical distance between two loci on a chromosome, ranging from 0 (perfectly linked, no recombination) to 0.5 (unlinked, behaving as if on separate chromosomes due to independent assortment). Family linkage studies use recombination frequency to construct genetic maps, since closely spaced genes are rarely separated by crossover events during meiosis.",
-      "id": "2026-09-07-10"
+      "id": "2026-09-07-10",
+      "topic": "Genetic linkage (recombination frequency)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -806,7 +886,9 @@
         "Correct \u2014 UBE3A is normally expressed only from the maternally inherited chromosome 15 in the brain, so deletion or dysfunction of the maternal copy (as in Angelman syndrome) results in a complete lack of UBE3A expression."
       ],
       "overview": "Angelman syndrome results from loss of function of the maternally inherited UBE3A gene within the 15q11-13 imprinted region, most commonly due to deletion of the maternal chromosome 15 segment (with maternal uniparental disomy accounting for only a small minority of cases). Because the paternal copy of UBE3A is normally silenced in the brain, loss of the maternal copy leaves no functional UBE3A, producing severe intellectual disability, ataxia, seizures, and a characteristic happy demeanor with frequent laughter.",
-      "id": "2026-09-07-11"
+      "id": "2026-09-07-11",
+      "topic": "Angelman syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -825,7 +907,9 @@
         "Primary oocytes, not secondary oocytes, are arrested in prophase of meiosis I, from fetal life until puberty."
       ],
       "overview": "Oogenesis begins in utero, with primary oocytes arrested in prophase of meiosis I until puberty. Each cycle, a primary oocyte completes meiosis I, forming a secondary oocyte and a polar body; the secondary oocyte then begins meiosis II but arrests again in metaphase II. Fertilization is required to trigger completion of meiosis II, underscoring why meiosis I errors are especially common with advancing maternal age given the decades-long arrest.",
-      "id": "2026-09-07-12"
+      "id": "2026-09-07-12",
+      "topic": "Oogenesis (meiotic arrest)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -844,7 +928,9 @@
         "Genetic imprinting refers to parent-of-origin-specific gene expression, unrelated to the number of mutation types within a gene."
       ],
       "overview": "Allelic heterogeneity occurs when multiple different mutations at the same gene locus can cause the same general disease, often producing variable severity depending on the specific mutation's effect on protein function. Classic examples include beta-thalassemia (\u03b2o = no function vs \u03b2+ = partial function) and cystic fibrosis (CFTR gene, over 1400 described mutations).",
-      "id": "2026-09-07-13"
+      "id": "2026-09-07-13",
+      "topic": "Beta-thalassemia (allelic heterogeneity)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -863,7 +949,9 @@
         "Correct \u2014 approximately 75% of Prader-Willi syndrome cases result from a sporadic deletion of the paternal copy of the 15q11-13 region, silencing paternally-expressed genes."
       ],
       "overview": "Prader-Willi syndrome results from loss of function of paternally-expressed genes in the 15q11-13 region, most commonly (~75%) due to a sporadic deletion of the paternal chromosome 15 segment, with the remainder due to maternal uniparental disomy (two maternal copies, no paternal copy). Clinical features include neonatal hypotonia and poor feeding, followed by hyperphagia and obesity, mild intellectual disability, and hypogonadism.",
-      "id": "2026-09-07-14"
+      "id": "2026-09-07-14",
+      "topic": "Prader-Willi syndrome",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -882,7 +970,9 @@
         "Nondisjunction is a meiotic error causing aneuploidy, unrelated to the epigenetic marking process of imprinting."
       ],
       "overview": "Genomic imprinting is an epigenetic phenomenon in which a gene's expression depends on its parent of origin. During gametogenesis, genes are marked as paternal or maternal, typically via cytosine methylation, which silences one parental copy after fertilization. Only imprinted genes show this monoallelic expression; most genes are non-imprinted and express both alleles. Disruption of imprinted regions on chromosome 15q11-13 underlies Prader-Willi and Angelman syndromes.",
-      "id": "2026-09-07-15"
+      "id": "2026-09-07-15",
+      "topic": "Genomic imprinting",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -903,7 +993,9 @@
         "Correct \u2014 Klinefelter syndrome (47,XXY) causes primary hypogonadism with small firm testes, elevated gonadotropins from loss of testosterone/inhibin B feedback, gynecomastia, and long limbs from the extra SHOX gene copy."
       ],
       "overview": "Klinefelter syndrome (47,XXY) is the most common sex chromosome aneuploidy in males, usually from meiotic nondisjunction. It causes primary hypogonadism with small firm testes and seminiferous tubule atrophy, leading to low testosterone, infertility, and compensatory elevation of LH and FSH (loss of inhibin B feedback). Extra copies of the SHOX gene produce a tall, eunuchoid body habitus with long limbs; gynecomastia and learning disabilities are also common.",
-      "id": "2026-09-07-16"
+      "id": "2026-09-07-16",
+      "topic": "Klinefelter syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -922,7 +1014,9 @@
         "The scenario describes an X-linked recessive condition already known to be present as a carrier state, not a new autosomal dominant mutation."
       ],
       "overview": "Lyonization is the random inactivation of one X chromosome in each cell of a female embryo early in development, creating a mosaic of cells expressing either the maternal or paternal X. While usually balanced, skewed lyonization (where a majority of cells inactivate the X carrying the normal allele) can cause female carriers of X-linked recessive diseases to manifest disease symptoms, unlike the typical unaffected carrier state.",
-      "id": "2026-09-07-17"
+      "id": "2026-09-07-17",
+      "topic": "X-inactivation (Lyonization)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -941,7 +1035,9 @@
         "10% is far too low; the vast majority of Becker cases are inherited rather than arising from new mutations."
       ],
       "overview": "Both Duchenne and Becker muscular dystrophy are X-linked recessive disorders caused by mutations in the DMD gene, with Duchenne caused by frameshift mutations (absent or truncated dystrophin) and Becker caused by non-frameshift mutations (partially functional dystrophin, milder disease). Becker muscular dystrophy is inherited from a carrier mother in about 90% of cases, more often than Duchenne, and has a later onset with slower progression, often allowing survival into the 30s.",
-      "id": "2026-09-07-18"
+      "id": "2026-09-07-18",
+      "topic": "Becker muscular dystrophy",
+      "angle": "epidemiology"
     },
     {
       "format": "vignette5",
@@ -962,7 +1058,9 @@
         "DNA mismatch repair gene mutations cause Lynch syndrome (HNPCC), unrelated to Friedreich's ataxia."
       ],
       "overview": "Friedreich's ataxia is an autosomal recessive trinucleotide (GAA) repeat expansion disorder affecting the frataxin gene on chromosome 9. Frataxin is needed for normal mitochondrial function, and its deficiency causes progressive spinocerebellar and dorsal column degeneration (ataxia, loss of proprioception/vibration, areflexia), hypertrophic cardiomyopathy, and skeletal deformities like kyphoscoliosis and pes cavus, with onset in adolescence.",
-      "id": "2026-09-07-19"
+      "id": "2026-09-07-19",
+      "topic": "Friedreich ataxia",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -981,7 +1079,9 @@
         "Linkage disequilibrium is not static \u2014 it decays as recombination events accumulate across generations."
       ],
       "overview": "Linkage disequilibrium (LD) refers to non-random association between alleles at nearby loci in a population, distinct from family-based linkage studies used for loci with larger recombination frequencies. LD is greatest immediately after a new mutation arises and fades over successive generations as recombination breaks up the ancestral haplotype; the rate of decay depends on the physical distance between loci and the number of generations elapsed.",
-      "id": "2026-09-07-20"
+      "id": "2026-09-07-20",
+      "topic": "Linkage disequilibrium",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1000,7 +1100,9 @@
         "While possible statistically, two independent identical spontaneous mutations in two separate children is far less likely than a single germline mosaic mutation transmitted from one parent's germ cell population."
       ],
       "overview": "Germline mosaicism occurs when a parent carries a disease-causing mutation in only a subset of germ cells (sperm or oocytes), while somatic tissues sampled for testing (blood, skin) appear genetically normal. Because the mutation is undetectable by routine testing yet can be transmitted to offspring, germline mosaicism can cause recurrent 'sporadic' appearing disease among siblings despite both parents testing negative.",
-      "id": "2026-09-07-21"
+      "id": "2026-09-07-21",
+      "topic": "Germline mosaicism",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1019,7 +1121,9 @@
         "Pleiotropy refers to a single gene causing multiple distinct phenotypic effects, not to changes in disease severity across generations."
       ],
       "overview": "Trinucleotide repeat expansion disorders (e.g., Fragile X, Huntington's disease, myotonic dystrophy, Friedreich's ataxia) involve unstable repeat sequences that can expand further with each generation. This produces 'anticipation' \u2014 earlier onset and increased severity of disease in successive generations \u2014 because a larger repeat number in the offspring's gene typically correlates with more severe disease.",
-      "id": "2026-09-07-22"
+      "id": "2026-09-07-22",
+      "topic": "Anticipation (trinucleotide repeat disorders)",
+      "angle": "mechanism"
     },
     {
       "format": "simple4",
@@ -1038,7 +1142,9 @@
         "Correct \u2014 locus refers to the specific location of a gene or allele on a chromosome."
       ],
       "overview": "Basic genetic terminology distinguishes a gene (a DNA segment coding for a product), its alleles (alternative forms of that gene), its locus (its chromosomal location), and an individual's genotype (allele combination) versus phenotype (resulting observable trait). Precise use of these terms underlies interpretation of inheritance patterns and population genetics calculations.",
-      "id": "2026-09-07-23"
+      "id": "2026-09-07-23",
+      "topic": "Gene locus",
+      "angle": "other"
     },
     {
       "format": "vignette5",
@@ -1059,7 +1165,9 @@
         "A carrier of a balanced translocation does not have trisomy 21 in his own cells; his own phenotype is normal because no genetic material is lost from the long arms."
       ],
       "overview": "Robertsonian translocations involve fusion of the long arms of two acrocentric chromosomes (13, 14, 15, 21, 22), with loss of the short arms. Carriers have only 45 chromosomes but a normal phenotype since short-arm material is not essential. However, carriers produce a high proportion of unbalanced gametes (monosomic or trisomic), causing recurrent spontaneous abortions or offspring with trisomy (e.g., Down syndrome via 14;21 translocation, which carries a high familial recurrence risk independent of maternal age).",
-      "id": "2026-09-07-24"
+      "id": "2026-09-07-24",
+      "topic": "Robertsonian translocation",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -1080,7 +1188,9 @@
         "47,XYY occurs in males and is generally not associated with this phenotype."
       ],
       "overview": "Turner syndrome (45,X) is the most common cause of female sex chromosome aneuploidy, typically arising from a sperm lacking a sex chromosome. Fetal lymphatic obstruction causes cystic hygroma in utero and neonatal lymphedema of the hands and feet, plus a webbed neck and shield chest with widely spaced nipples. Cardiovascular associations include bicuspid aortic valve (~30%) and coarctation of the aorta (5-10%), and gonadal dysgenesis causes primary hypogonadism.",
-      "id": "2026-09-07-25"
+      "id": "2026-09-07-25",
+      "topic": "Turner syndrome",
+      "angle": "diagnosis"
     },
     {
       "format": "simple4",
@@ -1099,7 +1209,9 @@
         "M0 (minimally differentiated AML) is not the subtype specifically associated with Down syndrome."
       ],
       "overview": "Down syndrome is associated with a significantly increased lifetime risk of leukemia (about 1-1.5%), most commonly acute lymphoblastic leukemia (10-20 times the general population risk) as well as a specific predisposition to the M7 megakaryoblastic subtype of acute myeloid leukemia, often occurring in early childhood.",
-      "id": "2026-09-07-26"
+      "id": "2026-09-07-26",
+      "topic": "Down syndrome",
+      "angle": "complications"
     },
     {
       "format": "simple4",
@@ -1118,7 +1230,9 @@
         "MM is the normal genotype, associated with normal AAT protein levels."
       ],
       "overview": "Alpha-1 antitrypsin deficiency illustrates codominant inheritance: the M allele is normal, while S and Z alleles produce progressively lower protein levels. Because both alleles are expressed and contribute to phenotype, genotype combinations (MM, MS, MZ, SZ, ZZ) produce a spectrum of AAT levels, with ZZ homozygotes having the most severe deficiency and highest risk of early COPD and liver disease.",
-      "id": "2026-09-07-27"
+      "id": "2026-09-07-27",
+      "topic": "Alpha-1 antitrypsin deficiency",
+      "angle": "mechanism"
     },
     {
       "format": "vignette5",
@@ -1139,7 +1253,9 @@
         "The vignette does not mention corticosteroid therapy, and stress cardiomyopathy would not typically cause myocardial fibrosis."
       ],
       "overview": "Dystrophin is expressed not only in skeletal muscle but also in cardiac and smooth muscle, where it maintains membrane integrity by linking intracellular actin to the extracellular matrix via the dystroglycan complex. In Duchenne muscular dystrophy, loss of dystrophin causes progressive cardiomyopathy with myocardial fibrosis, systolic heart failure, and conduction abnormalities (AV block, arrhythmias), which along with respiratory failure are common causes of death.",
-      "id": "2026-09-07-28"
+      "id": "2026-09-07-28",
+      "topic": "Duchenne muscular dystrophy",
+      "angle": "complications"
     },
     {
       "format": "vignette5",
@@ -1160,7 +1276,9 @@
         "Correct \u2014 Familial adenomatous polyposis (FAP) is caused by a germline mutation in the APC tumor suppressor gene; following the two-hit hypothesis, only one additional somatic 'hit' inactivating the remaining allele is needed in a given cell, so nearly 100% of carriers develop colon cancer if untreated, often requiring prophylactic colectomy."
       ],
       "overview": "Familial adenomatous polyposis (FAP) results from a germline mutation in the APC tumor suppressor gene. Following the two-hit hypothesis of tumorigenesis, carriers already have one nonfunctional allele in every cell, so only a single additional somatic mutation is needed to inactivate the remaining allele and drive polyp/cancer formation. This leads to near-100% progression to colorectal cancer, typically managed with prophylactic colectomy.",
-      "id": "2026-09-07-29"
+      "id": "2026-09-07-29",
+      "topic": "Familial adenomatous polyposis",
+      "angle": "prognosis"
     },
     {
       "format": "simple4",
@@ -1179,7 +1297,9 @@
         "Correct \u2014 incomplete penetrance describes the situation where not all individuals with a disease-causing genotype (such as BRCA1 mutation carriers) develop the associated phenotype."
       ],
       "overview": "Penetrance describes the proportion of individuals with a given genotype who actually express the associated phenotype. Incomplete penetrance, commonly seen in autosomal dominant conditions like BRCA1/BRCA2 mutations, means some carriers never develop the disease, which has important implications for counseling about cancer risk and the effectiveness of prophylactic interventions.",
-      "id": "2026-09-07-30"
+      "id": "2026-09-07-30",
+      "topic": "BRCA1 (incomplete penetrance)",
+      "angle": "mechanism"
     }
   ]
 }
