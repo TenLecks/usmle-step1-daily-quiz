@@ -590,6 +590,596 @@
       ],
       "overview": "Weber syndrome is a ventral midbrain stroke (PCA branches) that damages the exiting oculomotor nerve fibers (ipsilateral CN III palsy: eye down-and-out, ptosis, dilated pupil) and the corticospinal tract in the cerebral peduncle (contralateral hemiparesis). It contrasts with Benedikt syndrome, which involves the more dorsal red nucleus and causes contralateral tremor/ataxia instead of hemiparesis.",
       "id": "2026-08-30-30"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Normal pressure hydrocephalus is a communicating hydrocephalus presenting with the classic triad of gait apraxia (\"magnetic gait\"), urinary incontinence, and dementia (\"wet, wobbly, wacky\") with normal CSF opening pressure and ventriculomegaly disproportionate to cortical atrophy. Diagnosis is supported by symptomatic improvement after large-volume lumbar puncture, and definitive treatment is CSF diversion via ventriculoperitoneal shunt.",
+      "stem": "A 74-year-old man presents with a several-month history of progressive gait disturbance described as \"magnetic,\" where his feet seem stuck to the floor, along with new urinary incontinence and mild cognitive decline. Lumbar puncture reveals normal opening pressure. CT shows ventricular enlargement out of proportion to sulcal atrophy. Which of the following is the most appropriate next step in management?",
+      "options": [
+        "Levodopa-carbidopa therapy",
+        "High-dose corticosteroids",
+        "Acetylcholinesterase inhibitor therapy",
+        "Large-volume lumbar puncture or ventriculoperitoneal shunting",
+        "Anticoagulation with warfarin"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Levodopa-carbidopa treats Parkinson disease; although NPH can mimic parkinsonian gait, definitive management is CSF removal rather than dopaminergic therapy.",
+        "Corticosteroids are not indicated for normal pressure hydrocephalus, which is a CSF dynamics disorder rather than an inflammatory condition.",
+        "Acetylcholinesterase inhibitors are used for symptomatic treatment of Alzheimer's disease, not normal pressure hydrocephalus.",
+        "Correct \u2014 normal pressure hydrocephalus (the \"wet, wobbly, wacky\" triad) is treated by removing CSF via large-volume lumbar puncture, and definitively with a ventriculoperitoneal shunt, which can improve symptoms, especially gait.",
+        "Anticoagulation is not indicated for normal pressure hydrocephalus, as there is no thrombotic mechanism involved."
+      ],
+      "id": "2026-09-13-01"
+    },
+    {
+      "format": "simple4",
+      "overview": "Chiari II malformation (Arnold-Chiari malformation) is a congenital anomaly with downward displacement of the cerebellar vermis and tonsils and brainstem malformation (beaked midbrain), almost universally associated with myelomeningocele and causing non-communicating hydrocephalus from obstruction of CSF flow. This differs from Chiari I, which involves only tonsillar displacement and presents later in life.",
+      "stem": "A neonate with a lumbosacral myelomeningocele is found to have downward displacement of the cerebellar vermis and tonsils through the foramen magnum along with a \"beaked\" midbrain on imaging. Which of the following best describes this condition?",
+      "options": [
+        "Holoprosencephaly",
+        "Chiari II malformation",
+        "Chiari I malformation",
+        "Dandy-Walker malformation"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Holoprosencephaly involves failure of cleavage of the forebrain hemispheres, presenting with midline facial anomalies, not the cerebellar/brainstem findings described.",
+        "Correct \u2014 Chiari II malformation involves downward displacement of the cerebellar vermis, tonsils, and brainstem, a \"beaked\" midbrain, and is almost always associated with myelomeningocele and non-communicating hydrocephalus.",
+        "Chiari I malformation involves only displacement of the cerebellar tonsils (not the vermis or brainstem) and typically presents later in adolescence or adulthood, not associated with myelomeningocele.",
+        "Dandy-Walker malformation involves hypoplasia/agenesis of the cerebellar vermis with cystic dilation of the fourth ventricle, a distinct anomaly from the myelomeningocele-associated findings described."
+      ],
+      "id": "2026-09-13-02"
+    },
+    {
+      "format": "simple4",
+      "overview": "Migraine pathophysiology involves trigeminal nerve activation and release of vasoactive peptides (CGRP, substance P) causing vasodilation, inflammation, and pain. Triptans are 5-HT1B/1D agonists that cause vasoconstriction and inhibit trigeminal transmission, effectively aborting attacks, but should be avoided in patients with coronary artery disease due to vasoconstrictive effects.",
+      "stem": "Triptans abort acute migraine attacks primarily by which mechanism?",
+      "options": [
+        "Agonism at 5-HT1B/1D receptors causing vasoconstriction and inhibiting trigeminal nerve transmission",
+        "Inhibition of cyclooxygenase enzymes",
+        "Antagonism of CGRP receptors",
+        "Blockade of dopamine D2 receptors"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 triptans are 5-HT1B/1D receptor agonists that cause vasoconstriction, inhibit release of vasoactive neuropeptides, and block trigeminal nerve transmission, aborting migraine attacks.",
+        "Cyclooxygenase inhibition describes NSAIDs, not the mechanism of triptans.",
+        "CGRP receptor antagonism describes gepants (e.g., ubrogepant, rimegepant), a different drug class from triptans.",
+        "Dopamine D2 receptor blockade describes antiemetics like prochlorperazine used adjunctively in migraine, not triptans."
+      ],
+      "id": "2026-09-13-03"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Narcolepsy results from loss of orexin (hypocretin)-secreting neurons in the lateral hypothalamus, causing excessive daytime sleepiness and intrusion of REM sleep phenomena into wakefulness, including cataplexy (sudden loss of muscle tone triggered by emotion), hypnagogic hallucinations, and sleep paralysis. Diagnosis is supported by short sleep latency and multiple sleep-onset REM periods on multiple sleep latency testing, or low CSF hypocretin-1.",
+      "stem": "A 22-year-old college student reports excessive daytime sleepiness for the past 6 months, with episodes of sudden bilateral leg buckling triggered by laughter, during which she remains fully conscious. She also describes vivid, frightening images while falling asleep. Polysomnography followed by a multiple sleep latency test shows a short sleep latency and multiple sleep-onset REM periods. Which of the following is the most likely underlying pathophysiology?",
+      "options": [
+        "Demyelination of central white matter tracts",
+        "Excess GABA activity in the reticular activating system",
+        "Decreased hypothalamic orexin (hypocretin) neurons",
+        "Loss of dopaminergic neurons in the substantia nigra",
+        "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Demyelination of central white matter tracts describes multiple sclerosis, not narcolepsy.",
+        "Excess GABA activity is not the mechanism of narcolepsy; the disorder is due to orexin deficiency.",
+        "Correct \u2014 narcolepsy is caused by loss of orexin (hypocretin)-producing neurons in the lateral hypothalamus, leading to intrusion of REM features (cataplexy, hypnagogic hallucinations, sleep paralysis) into wakefulness and low CSF hypocretin-1.",
+        "Loss of substantia nigra dopaminergic neurons causes Parkinson disease, not narcolepsy.",
+        "Autoimmune destruction of acetylcholine receptors describes myasthenia gravis, unrelated to narcolepsy's sleep pathophysiology."
+      ],
+      "id": "2026-09-13-04"
+    },
+    {
+      "format": "simple4",
+      "overview": "Meniere's disease results from endolymphatic hydrops (fluid accumulation in the labyrinth) and presents with the classic triad of tinnitus, fluctuating sensorineural hearing loss (Weber lateralizes to the normal ear, Rinne shows air conduction greater than bone conduction), and episodic vertigo. Management includes a low-salt diet, diuretics, and avoidance of caffeine and nicotine.",
+      "stem": "Which of the following best describes the classic triad of Meniere's disease?",
+      "options": [
+        "Conductive hearing loss, otalgia, and fever",
+        "Tinnitus, sensorineural hearing loss, and vertigo",
+        "Ataxia, dysarthria, and nystagmus",
+        "Vertical nystagmus, diplopia, and dysmetria"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Conductive hearing loss, otalgia, and fever suggest otitis media, not Meniere's disease.",
+        "Correct \u2014 Meniere's disease is caused by endolymphatic hydrops and presents with the classic triad of tinnitus, sensorineural hearing loss, and episodic vertigo.",
+        "Ataxia, dysarthria, and nystagmus describe cerebellar (central) dysfunction, not the peripheral vestibular triad of Meniere's disease.",
+        "Vertical nystagmus, diplopia, and dysmetria are features of central vertigo, not Meniere's disease, which is peripheral."
+      ],
+      "id": "2026-09-13-05"
+    },
+    {
+      "format": "simple4",
+      "overview": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disease causing combined upper and lower motor neuron loss without sensory or bowel/bladder involvement. Riluzole modestly extends survival by reducing glutamate-related excitotoxicity, though the disease remains usually fatal within 3-5 years, commonly from aspiration pneumonia.",
+      "stem": "Riluzole, used to modestly slow disease progression in amyotrophic lateral sclerosis, works primarily by which mechanism?",
+      "options": [
+        "Decreasing glutamate-related excitotoxicity",
+        "Inhibiting acetylcholinesterase",
+        "Blocking acetylcholine receptor antibodies",
+        "Enhancing GABA receptor activity"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 riluzole reduces glutamate-mediated excitotoxicity, thought to contribute to motor neuron death in ALS, modestly slowing disease progression.",
+        "Acetylcholinesterase inhibition is used in myasthenia gravis and Alzheimer's disease, not as the primary mechanism of riluzole in ALS.",
+        "Riluzole does not target acetylcholine receptor antibodies; that mechanism pertains to myasthenia gravis, not ALS.",
+        "Riluzole's mechanism is not primarily through GABA receptor enhancement."
+      ],
+      "id": "2026-09-13-06"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Wernicke encephalopathy is caused by thiamine (B1) deficiency, classically in alcoholism, presenting with the triad of confusion, ophthalmoplegia/nystagmus, and gait ataxia due to damage to the mammillary bodies and other midline structures. Because thiamine is a cofactor for glucose metabolism, administering glucose before thiamine can acutely worsen or precipitate the syndrome, so thiamine should be given first or concurrently in at-risk patients.",
+      "stem": "A 50-year-old man with chronic alcohol use disorder presents to the emergency department with confusion. He is given IV dextrose for presumed hypoglycemia without thiamine supplementation. Over the next day he develops horizontal gaze palsy, nystagmus, and a wide-based ataxic gait. Which of the following best explains why glucose administration worsened his condition?",
+      "options": [
+        "Glucose induces hepatic encephalopathy by increasing ammonia production",
+        "Glucose metabolism depletes thiamine, a required cofactor, worsening an underlying deficiency",
+        "Glucose causes acute alpha-synuclein aggregation in the hippocampus",
+        "Glucose directly damages the mammillary bodies via osmotic injury",
+        "Glucose precipitates rapid correction of hyponatremia, causing central pontine myelinolysis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Hepatic encephalopathy relates to ammonia and liver failure, not the mechanism described in this vignette.",
+        "Correct \u2014 thiamine is a required cofactor for glucose metabolism, so giving glucose without thiamine accelerates depletion of already-low thiamine stores, precipitating or worsening Wernicke encephalopathy.",
+        "Alpha-synuclein aggregation is a feature of Parkinson's disease and Lewy body dementia, unrelated to Wernicke encephalopathy.",
+        "Damage to the mammillary bodies in Wernicke's is due to thiamine deficiency, not direct osmotic injury from glucose.",
+        "Central pontine myelinolysis results from overly rapid correction of hyponatremia, not glucose administration in this scenario."
+      ],
+      "id": "2026-09-13-07"
+    },
+    {
+      "format": "simple4",
+      "overview": "Argyll Robertson pupils are small, irregular pupils that accommodate but do not react to light, classically associated with tabes dorsalis from tertiary neurosyphilis, which also causes posterior column degeneration (loss of vibration/proprioception), sensory ataxia, and loss of reflexes.",
+      "stem": "A patient with tertiary neurosyphilis has pupils that constrict with accommodation but fail to react to light. This finding is best described as:",
+      "options": [
+        "Argyll Robertson pupil",
+        "Marcus Gunn pupil",
+        "Adie's tonic pupil",
+        "Horner's syndrome miosis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Argyll Robertson pupils, classically seen in tabes dorsalis (tertiary neurosyphilis), react to accommodation but not to light (light-near dissociation).",
+        "A Marcus Gunn pupil (relative afferent pupillary defect) refers to abnormal pupillary constriction when light is swung from a normal to an affected eye, seen in optic nerve disease, not this light-near dissociation pattern.",
+        "Adie's tonic pupil is a unilaterally dilated pupil with sluggish, prolonged response to light and accommodation, a different mechanism from Argyll Robertson pupils.",
+        "Horner's syndrome causes miosis along with ptosis and anhidrosis due to sympathetic disruption, not the light-near dissociation described."
+      ],
+      "id": "2026-09-13-08"
+    },
+    {
+      "format": "simple4",
+      "overview": "Autonomic and neuromuscular acetylcholine receptors are divided into nicotinic (ligand-gated ion channels found at ganglia and the neuromuscular junction) and muscarinic (GPCRs found on target organs \u2014 M1/M3 via Gq, M2 via Gi). This distinction explains why nicotinic blockade causes paralysis while muscarinic blockade causes autonomic effects like dry mouth and mydriasis.",
+      "stem": "Nicotinic acetylcholine receptors are best classified as which type of receptor?",
+      "options": [
+        "Ligand-gated ion channel",
+        "G protein-coupled receptor linked to Gq",
+        "Receptor tyrosine kinase",
+        "G protein-coupled receptor linked to Gs"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 nicotinic receptors are ligand-gated ion channels that open upon acetylcholine binding, allowing sodium and calcium influx and causing depolarization.",
+        "Gq-coupled receptors describe muscarinic M1/M3 and alpha-1 receptors, not nicotinic receptors.",
+        "Nicotinic receptors are not receptor tyrosine kinases; they are ionotropic channels.",
+        "Gs-coupled receptors describe beta-1/beta-2 receptors, not nicotinic receptors."
+      ],
+      "id": "2026-09-13-09"
+    },
+    {
+      "format": "simple4",
+      "overview": "The cavernous sinus is a paired venous structure lateral to the pituitary through which CN III, IV, V1, V2, VI, sympathetic fibers, and the internal carotid artery pass. Cavernous sinus syndrome (from thrombosis, tumor, or infection spread) causes ophthalmoplegia, headache, periorbital swelling, and sensory loss in the V1/V2 distribution, but spares vision-related structures like the optic nerve, which does not pass through the sinus.",
+      "stem": "A mass compressing the cavernous sinus would be expected to affect all of the following cranial nerves EXCEPT:",
+      "options": [
+        "CN II (optic nerve)",
+        "CN V1/V2 (ophthalmic/maxillary divisions of trigeminal nerve)",
+        "CN VI (abducens nerve)",
+        "CN III (oculomotor nerve)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 the optic nerve (CN II) does not travel through the cavernous sinus and is therefore not typically affected by cavernous sinus pathology.",
+        "CN V1 and V2 travel through the cavernous sinus and are commonly affected, causing sensory loss.",
+        "CN VI travels through the cavernous sinus and is commonly affected, often causing lateral rectus palsy.",
+        "CN III travels through the cavernous sinus and is commonly affected in cavernous sinus syndrome."
+      ],
+      "id": "2026-09-13-10"
+    },
+    {
+      "format": "simple4",
+      "overview": "Frontotemporal dementia (Pick disease) is a cause of early-onset dementia (under 65 years) resulting from frontal and temporal lobe atrophy. The behavioral variant, the most common subtype, presents with disinhibition, apathy, loss of empathy, and hyperorality, with memory and executive function relatively preserved early, contrasting with Alzheimer's disease where memory loss predominates.",
+      "stem": "A 58-year-old man presents with a 2-year history of progressive personality changes, social disinhibition, apathy, and altered food preferences, with relatively preserved memory early in the disease course. Imaging shows frontal and temporal lobe atrophy. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Frontotemporal dementia (behavioral variant)",
+        "Creutzfeldt-Jakob disease",
+        "Vascular dementia",
+        "Alzheimer's disease"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 the behavioral variant of frontotemporal dementia presents with early personality changes, disinhibition, apathy, and altered eating behavior due to frontal and temporal lobe atrophy, typically in younger patients, with relative sparing of memory early on.",
+        "Creutzfeldt-Jakob disease presents with rapidly progressive dementia over weeks to months, often with myoclonus, not this slower behavioral presentation.",
+        "Vascular dementia typically has a stepwise decline associated with vascular risk factors and multiple infarcts, not this gradual behavioral presentation.",
+        "Alzheimer's disease typically presents with early short-term memory loss as the predominant feature, not early personality or behavioral changes."
+      ],
+      "id": "2026-09-13-11"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Cauda equina syndrome results from compression of the lumbosacral nerve roots below the conus medullaris (L1-L2), most often from massive disc herniation. Because only lower motor neuron fibers are involved, patients present with flaccid paralysis, hyporeflexia, saddle anesthesia, and bowel/bladder/sexual dysfunction \u2014 a surgical emergency requiring prompt decompression.",
+      "stem": "A 55-year-old man presents with severe low back pain, bilateral leg weakness, numbness in the perineal and inner thigh region, and new urinary retention with overflow incontinence. MRI shows a massive L4-L5 disc herniation compressing nerve roots below the level of the spinal cord termination. Which of the following findings would be expected on examination?",
+      "options": [
+        "Intention tremor and dysmetria on finger-to-nose testing",
+        "Resting tremor and cogwheel rigidity",
+        "Ipsilateral loss of vibration and contralateral loss of pain/temperature",
+        "Flaccid paralysis with hyporeflexia and absent ankle jerk",
+        "Spastic paralysis with hyperreflexia and a positive Babinski sign"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Intention tremor and dysmetria indicate cerebellar dysfunction, not cauda equina syndrome.",
+        "Resting tremor and cogwheel rigidity are features of Parkinson disease, unrelated to cauda equina syndrome.",
+        "This pattern describes Brown-Sequard syndrome (spinal cord hemisection), not cauda equina syndrome.",
+        "Correct \u2014 cauda equina syndrome compresses lumbosacral nerve roots (lower motor neuron fibers only), producing flaccid paralysis, hyporeflexia/areflexia, and absent ankle jerk (S1), along with saddle anesthesia and bowel/bladder dysfunction.",
+        "Spastic paralysis with hyperreflexia and a Babinski sign indicates an upper motor neuron lesion, not the lower motor neuron pattern seen in cauda equina syndrome."
+      ],
+      "id": "2026-09-13-12"
+    },
+    {
+      "format": "simple4",
+      "overview": "Levodopa crosses the blood-brain barrier and is converted to dopamine by dopa decarboxylase, replenishing dopaminergic tone in Parkinson disease. Carbidopa, a peripheral decarboxylase inhibitor that does not cross the blood-brain barrier, is combined with levodopa to reduce peripheral conversion (and associated side effects like nausea and orthostatic hypotension) while maximizing CNS drug delivery.",
+      "stem": "Carbidopa is combined with levodopa in the treatment of Parkinson disease primarily to accomplish which of the following?",
+      "options": [
+        "Cross the blood-brain barrier and directly stimulate dopamine receptors",
+        "Inhibit peripheral dopa decarboxylase, reducing peripheral conversion and side effects while increasing CNS availability",
+        "Inhibit central monoamine oxidase-B to prevent dopamine breakdown",
+        "Block peripheral dopamine receptors to prevent nausea"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Carbidopa does not cross the blood-brain barrier and does not directly stimulate dopamine receptors; that is the role of levodopa after conversion.",
+        "Correct \u2014 carbidopa inhibits peripheral dopa decarboxylase, preventing peripheral conversion of levodopa to dopamine, reducing peripheral side effects (nausea, hypotension) and allowing more levodopa to reach the CNS.",
+        "MAO-B inhibition describes selegiline/rasagiline, not carbidopa's mechanism.",
+        "Carbidopa does not act as a peripheral dopamine receptor blocker; it inhibits an enzyme (dopa decarboxylase), not receptors."
+      ],
+      "id": "2026-09-13-13"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Bell's palsy is an idiopathic (likely HSV-1-related) mononeuropathy causing lower motor neuron facial nerve palsy \u2014 weakness of the entire ipsilateral face including the forehead, plus hyperacusis (stapedius), decreased taste (chorda tympani), and dry eye/mouth. This contrasts with upper motor neuron facial weakness from cortical stroke, which spares the forehead due to bilateral corticobulbar innervation.",
+      "stem": "A 52-year-old man develops sudden unilateral facial weakness including inability to raise his eyebrow and close his eye on the affected side, along with hyperacusis and loss of taste on the anterior two-thirds of the tongue. There is no limb weakness or other cranial nerve involvement. Symptoms began after a recent upper respiratory illness. Which of the following best describes the underlying lesion?",
+      "options": [
+        "Upper motor neuron lesion of the facial nerve, forehead spared",
+        "Lower motor neuron lesion of the trigeminal nerve",
+        "Upper motor neuron lesion of the corticobulbar tract affecting the lower face only",
+        "Lesion of the hypoglossal nerve nucleus",
+        "Lower motor neuron lesion of the facial nerve, forehead involved"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Upper motor neuron lesions spare the forehead due to bilateral cortical innervation; this patient has forehead involvement, ruling out this option.",
+        "The trigeminal nerve mediates facial sensation and mastication, not facial movement, taste, or hyperacusis \u2014 this does not fit the presentation.",
+        "Corticobulbar tract damage produces a UMN pattern with forehead sparing, not the full hemifacial (including forehead) involvement seen here.",
+        "The hypoglossal nerve controls tongue movement, not facial muscles, taste, or hyperacusis.",
+        "Correct \u2014 Bell's palsy is an idiopathic LMN facial nerve palsy affecting the entire ipsilateral face (forehead included), plus stapedius (hyperacusis) and chorda tympani (taste) function."
+      ],
+      "id": "2026-09-13-14"
+    },
+    {
+      "format": "simple4",
+      "overview": "The amygdala, part of the limbic system, is crucial for emotion, memory, and decision-making. Bilateral amygdala damage produces Kluver-Bucy syndrome \u2014 hyperorality, hyperphagia, inappropriate sexual behavior, and visual agnosia \u2014 classically as a rare sequela of HSV-1 encephalitis, which preferentially affects the temporal lobes.",
+      "stem": "Bilateral damage to the amygdala, as can occur with HSV-1 encephalitis, classically produces which syndrome characterized by hyperorality, hyperphagia, and inappropriate sexual behavior?",
+      "options": [
+        "Balint syndrome",
+        "Wernicke-Korsakoff syndrome",
+        "Kleine-Levin syndrome",
+        "Kluver-Bucy syndrome"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Balint syndrome involves bilateral parieto-occipital damage causing simultanagnosia, optic ataxia, and ocular apraxia, not the features described.",
+        "Wernicke-Korsakoff syndrome results from thiamine deficiency affecting the mammillary bodies, causing confusion, ophthalmoplegia, ataxia, and memory impairment \u2014 a different presentation.",
+        "Kleine-Levin syndrome is a rare disorder of recurrent hypersomnia and behavioral disturbances, not specifically linked to amygdala damage or this symptom complex.",
+        "Correct \u2014 Kluver-Bucy syndrome results from bilateral amygdala (temporal lobe) damage, causing hyperorality, hyperphagia, inappropriate sexual behavior, and visual agnosia, classically as a rare complication of HSV-1 encephalitis."
+      ],
+      "id": "2026-09-13-15"
+    },
+    {
+      "format": "simple4",
+      "overview": "Absence seizures are generalized seizures characterized by brief staring spells with 3 Hz spike-and-wave discharges on EEG, most common in childhood. Ethosuximide, which blocks thalamic T-type calcium channels involved in generating this rhythmic activity, is the first-line treatment for childhood absence epilepsy.",
+      "stem": "Ethosuximide, the drug of choice for childhood absence seizures, exerts its anticonvulsant effect through which mechanism?",
+      "options": [
+        "Blockade of thalamic T-type calcium channels",
+        "Enhancement of GABA-A receptor chloride channel opening",
+        "Binding to synaptic vesicle protein SV2A",
+        "Blockade of voltage-gated sodium channels"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 ethosuximide blocks T-type calcium channels in thalamic neurons, which generate the 3 Hz spike-and-wave discharges characteristic of absence seizures.",
+        "Enhancing GABA-A receptor chloride channel opening describes benzodiazepines, not ethosuximide.",
+        "Binding to SV2A describes levetiracetam's mechanism, not ethosuximide's.",
+        "Sodium channel blockade describes drugs like phenytoin, carbamazepine, and lamotrigine, not ethosuximide's primary mechanism."
+      ],
+      "id": "2026-09-13-16"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Pheochromocytoma produces excess catecholamines causing episodic hypertension, palpitations, and diaphoresis. Preoperative management requires alpha blockade before any beta blockade to prevent unopposed alpha-1 vasoconstriction and hypertensive crisis; phenoxybenzamine (irreversible, nonselective alpha antagonist) is classically used for this purpose.",
+      "stem": "A 45-year-old woman with paroxysmal headaches, palpitations, and diaphoresis is found to have an adrenal mass with elevated plasma metanephrines, consistent with pheochromocytoma. Prior to surgical resection, she is started on a medication that irreversibly blocks alpha-1 receptors to prevent an intraoperative hypertensive crisis during tumor manipulation. Which drug is being used?",
+      "options": [
+        "Phentolamine",
+        "Propranolol",
+        "Labetalol",
+        "Phenoxybenzamine",
+        "Prazosin"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Phentolamine is a reversible alpha blocker used for rapid reversal (e.g., cheese effect), not for long-term irreversible preoperative preparation.",
+        "Propranolol is a nonselective beta blocker; giving beta blockade before adequate alpha blockade risks unopposed alpha-mediated vasoconstriction and hypertensive crisis.",
+        "Labetalol has combined alpha/beta activity but is not the classic irreversible drug described in preoperative pheochromocytoma management.",
+        "Correct \u2014 phenoxybenzamine is an irreversible, nonselective alpha blocker classically used preoperatively in pheochromocytoma to prevent hypertensive crisis.",
+        "Prazosin is a reversible, selective alpha-1 blocker mainly used for BPH/hypertension, not the classic irreversible pheochromocytoma drug."
+      ],
+      "id": "2026-09-13-17"
+    },
+    {
+      "format": "simple4",
+      "overview": "Uncal herniation occurs when the medial temporal lobe (uncus) herniates through the tentorial notch, compressing the ipsilateral CN III (causing a dilated, nonreactive pupil, ptosis, and a \"down and out\" eye position) and the cerebral peduncle (causing contralateral hemiparesis, or ipsilateral hemiparesis via Kernohan's phenomenon). It is a classic complication of epidural hematoma and other space-occupying lesions.",
+      "stem": "Uncal herniation classically causes early ipsilateral compression of which structure, resulting in a \"blown\" pupil and ptosis?",
+      "options": [
+        "Optic nerve (CN II)",
+        "Trochlear nerve (CN IV)",
+        "Oculomotor nerve (CN III)",
+        "Abducens nerve (CN VI)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "The optic nerve is not typically compressed in uncal herniation; its compression would cause vision loss, not pupillary dilation with ptosis.",
+        "Trochlear nerve palsy causes vertical diplopia and is not the classic early finding in uncal herniation.",
+        "Correct \u2014 uncal herniation compresses the ipsilateral oculomotor nerve as it passes near the tentorial notch, causing a dilated (\"blown\"), nonreactive pupil, ptosis, and the eye positioned down and out.",
+        "Abducens nerve palsy causes medial eye deviation and is more generally associated with increased intracranial pressure, not the hallmark early sign of uncal herniation."
+      ],
+      "id": "2026-09-13-18"
+    },
+    {
+      "format": "simple4",
+      "overview": "Alpha-2 receptors provide negative feedback on presynaptic sympathetic neurons; agonists like clonidine and methyldopa act centrally to inhibit norepinephrine release, reducing sympathetic outflow and blood pressure. Sedation is a major side effect, and apraclonidine uses the same mechanism topically to lower intraocular pressure in glaucoma.",
+      "stem": "Clonidine lowers blood pressure primarily through which mechanism?",
+      "options": [
+        "Beta-1 receptor blockade reducing cardiac output",
+        "Peripheral alpha-1 receptor blockade",
+        "Central alpha-2 agonism reducing sympathetic outflow",
+        "Direct vasodilation via nitric oxide release"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Clonidine is not a beta blocker and does not act on beta-1 receptors.",
+        "Clonidine does not act as a peripheral alpha-1 blocker; its action is central alpha-2 agonism.",
+        "Correct \u2014 clonidine is a centrally acting alpha-2 agonist that inhibits norepinephrine release, reducing sympathetic outflow and lowering blood pressure, with sedation as a major side effect.",
+        "Clonidine does not work via nitric oxide-mediated vasodilation."
+      ],
+      "id": "2026-09-13-19"
+    },
+    {
+      "format": "simple4",
+      "overview": "Cutaneous sensory receptors differ by adaptation speed and depth: Meissner's corpuscles (superficial, touch), Pacinian corpuscles (deep, vibration/rapid pressure changes, rapidly adapting), Merkel's disks (pressure/position, slowly adapting), and free nerve endings (pain/temperature). All except free nerve endings use large myelinated A-alpha/A-beta fibers.",
+      "stem": "Which sensory receptor is a rapidly adapting structure located deep in the skin, joints, and ligaments that detects vibration and rapid changes in pressure?",
+      "options": [
+        "Meissner's corpuscle",
+        "Pacinian corpuscle",
+        "Free nerve ending",
+        "Merkel's disk"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Meissner's corpuscles are rapidly adapting touch receptors near the skin surface (glabrous skin), not deep structures detecting vibration.",
+        "Correct \u2014 Pacinian corpuscles are rapidly adapting, egg-shaped receptors located deep in skin, joints, and ligaments that detect vibration and rapid pressure changes via large myelinated A-alpha fibers.",
+        "Free nerve endings sense pain and temperature via C and A-delta fibers, not vibration.",
+        "Merkel's disks are slowly adapting pressure/position receptors that provide continuous information rather than detecting vibration."
+      ],
+      "id": "2026-09-13-20"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Trigeminal neuralgia causes brief, severe, unilateral, shock-like facial pain in the V2/V3 distribution, often triggered by light touch such as chewing, brushing teeth, or wind. It is commonly caused by vascular compression of the nerve and is strongly associated with multiple sclerosis. First-line treatment is carbamazepine, a sodium channel-blocking anticonvulsant.",
+      "stem": "A 68-year-old woman reports recurrent episodes of severe, unilateral, shock-like facial pain lasting seconds, triggered by chewing and brushing her teeth. Pain is localized to the cheek and jaw. Neurologic examination is otherwise normal. Which of the following is the most appropriate first-line pharmacologic treatment?",
+      "options": [
+        "Prednisone",
+        "Baclofen alone",
+        "Carbamazepine",
+        "High-flow oxygen",
+        "Sumatriptan"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Prednisone is not standard first-line therapy for trigeminal neuralgia.",
+        "Baclofen may be used as an adjunct or second-line agent in some cases but is not first-line; carbamazepine is preferred.",
+        "Correct \u2014 carbamazepine, a sodium channel blocker, is the first-line treatment for trigeminal neuralgia.",
+        "High-flow oxygen is the acute treatment for cluster headache, not trigeminal neuralgia.",
+        "Sumatriptan is used for abortive migraine treatment, not trigeminal neuralgia."
+      ],
+      "id": "2026-09-13-21"
+    },
+    {
+      "format": "simple4",
+      "overview": "Neurofibromatosis type 2 is an autosomal dominant disorder caused by NF2 gene mutation, characterized by bilateral vestibular (acoustic) schwannomas occurring in nearly all patients, along with meningiomas and ependymomas (mnemonic: MISME \u2014 multiple inherited schwannomas, meningiomas, ependymomas).",
+      "stem": "A patient found to have bilateral vestibular schwannomas along with multiple meningiomas most likely has a mutation in which gene?",
+      "options": [
+        "NF2",
+        "TSC1",
+        "NF1",
+        "VHL"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Neurofibromatosis type 2 is caused by mutation of the NF2 gene and classically presents with bilateral vestibular schwannomas, meningiomas, and ependymomas (MISME).",
+        "TSC1 mutations cause tuberous sclerosis, not bilateral vestibular schwannomas.",
+        "NF1 mutations cause neurofibromatosis type 1, characterized by neurofibromas, caf\u00e9-au-lait spots, and Lisch nodules, not bilateral schwannomas.",
+        "VHL mutations cause von Hippel-Lindau disease, associated with hemangioblastomas, renal cell carcinoma, and pheochromocytomas, not bilateral schwannomas."
+      ],
+      "id": "2026-09-13-22"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Lambert-Eaton myasthenic syndrome (LEMS) is a paraneoplastic neuromuscular junction disorder, most often associated with small cell lung cancer, caused by autoantibodies against presynaptic voltage-gated calcium channels that impair acetylcholine release. Unlike myasthenia gravis, LEMS causes proximal weakness that improves with muscle use, is associated with autonomic symptoms such as dry mouth and erectile dysfunction, and shows hyporeflexia.",
+      "stem": "A 63-year-old man with a 40-pack-year smoking history presents with progressive proximal muscle weakness that improves temporarily with repeated muscle use. He also reports dry mouth and erectile dysfunction. Reflexes are diminished. Chest CT reveals a central lung mass, and biopsy confirms small cell lung carcinoma. Which of the following is the most likely underlying mechanism of his neurologic symptoms?",
+      "options": [
+        "Toxin-mediated blockade of acetylcholine release at the neuromuscular junction",
+        "Antibodies against presynaptic voltage-gated calcium channels",
+        "Autoantibodies against the myelin sheath of the corticospinal tract",
+        "Antibodies against postsynaptic acetylcholine receptors",
+        "Demyelination of peripheral nerves due to molecular mimicry"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Toxin-mediated blockade of acetylcholine release describes botulism, not the antibody-mediated mechanism of LEMS.",
+        "Correct \u2014 LEMS is a paraneoplastic disorder, classically associated with small cell lung cancer, caused by antibodies against presynaptic voltage-gated calcium channels that impair acetylcholine release, producing proximal weakness and autonomic symptoms that improve with repeated muscle use.",
+        "Corticospinal tract demyelination is not a feature of LEMS, which is a neuromuscular junction disorder.",
+        "Antibodies against postsynaptic acetylcholine receptors describe myasthenia gravis, which worsens (rather than improves) with repeated use, unlike this patient's presentation.",
+        "Demyelination via molecular mimicry describes Guillain-Barre syndrome, not LEMS."
+      ],
+      "id": "2026-09-13-23"
+    },
+    {
+      "format": "simple4",
+      "overview": "The locus ceruleus in the posterior pons is the principal noradrenergic nucleus of the brain, sending widespread projections that activate under stress and are implicated in opiate withdrawal symptoms. Norepinephrine levels are increased in anxiety and decreased in depression, and several antidepressants (SNRIs, MAOIs) work by increasing NE levels.",
+      "stem": "Which brainstem structure is the primary source of norepinephrine in the brain and is activated during stress and opiate withdrawal?",
+      "options": [
+        "Raphe nuclei",
+        "Nucleus accumbens",
+        "Locus ceruleus",
+        "Substantia nigra pars compacta"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "The raphe nuclei are the primary source of serotonin, not norepinephrine.",
+        "The nucleus accumbens is part of the dopaminergic reward pathway, not a source of norepinephrine.",
+        "Correct \u2014 the locus ceruleus, located in the posterior pons, is the main source of norepinephrine in the brain and is activated during stress and opiate withdrawal.",
+        "The substantia nigra pars compacta is the main source of dopamine, not norepinephrine."
+      ],
+      "id": "2026-09-13-24"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Friedreich's ataxia is an autosomal recessive disorder caused by GAA trinucleotide repeat expansion in the frataxin gene, leading to mitochondrial dysfunction and degeneration of the spinocerebellar tracts, dorsal columns, and lateral corticospinal tracts. Clinical features include progressive ataxia, dysarthria, loss of vibration/proprioception, hyporeflexia, pes cavus, kyphoscoliosis, and hypertrophic cardiomyopathy, a common cause of death.",
+      "stem": "A 14-year-old boy presents with progressive gait ataxia, dysarthria, decreased deep tendon reflexes, and loss of vibration and position sense. Examination also reveals pes cavus and kyphoscoliosis. Echocardiogram shows hypertrophic cardiomyopathy. Genetic testing reveals GAA trinucleotide repeat expansion in a gene encoding a mitochondrial protein. Which of the following is most likely deficient in this patient?",
+      "options": [
+        "Frataxin",
+        "Survival motor neuron protein",
+        "Superoxide dismutase 1",
+        "Hypocretin",
+        "Dystrophin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Friedreich's ataxia is caused by GAA trinucleotide repeat expansion in the frataxin gene, leading to decreased frataxin (a mitochondrial protein) and degeneration of the spinocerebellar tracts, dorsal columns, and corticospinal tracts, plus hypertrophic cardiomyopathy and skeletal abnormalities.",
+        "Survival motor neuron protein deficiency causes spinal muscular atrophy, not Friedreich's ataxia.",
+        "Superoxide dismutase 1 mutations are associated with familial ALS, not Friedreich's ataxia.",
+        "Hypocretin deficiency causes narcolepsy, unrelated to this presentation.",
+        "Dystrophin deficiency causes Duchenne muscular dystrophy, not Friedreich's ataxia."
+      ],
+      "id": "2026-09-13-25"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Craniopharyngioma is the most common supratentorial childhood brain tumor, arising from epithelial remnants of Rathke's pouch. It classically presents with visual field defects (bitemporal hemianopia from optic chiasm compression), hypopituitarism, and calcified suprasellar masses with cholesterol-rich \"motor oil\" cyst fluid on imaging and pathology.",
+      "stem": "An 8-year-old boy presents with headaches, short stature, and progressive bitemporal visual field loss. MRI shows a suprasellar mass with calcifications. Biopsy reveals nodules of \"wet\" keratin and cholesterol-laden cyst fluid. From which embryologic structure does this tumor most likely arise?",
+      "options": [
+        "Rhombic lip neuroectoderm",
+        "Ependymal lining of the fourth ventricle",
+        "Notochord remnants",
+        "Rathke's pouch remnants",
+        "Neural crest cells"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Failure of rhombic lip fusion is implicated in Dandy-Walker malformation and medulloblastoma origin, not craniopharyngioma.",
+        "Ependymal lining gives rise to ependymomas, typically found within the ventricles, not the suprasellar region.",
+        "Notochord remnants form the nucleus pulposus and are associated with chordomas, not craniopharyngioma.",
+        "Correct \u2014 craniopharyngioma arises from remnants of Rathke's pouch (the ectodermal invagination forming the anterior pituitary), explaining the suprasellar location, calcifications, and keratin/cholesterol-rich cyst contents.",
+        "Neural crest cells give rise to schwannomas and other tumors, not craniopharyngioma."
+      ],
+      "id": "2026-09-13-26"
+    },
+    {
+      "format": "simple4",
+      "overview": "Phenytoin, a sodium channel-blocking anticonvulsant, has numerous adverse effects including nystagmus and ataxia (early toxicity signs), gingival hyperplasia (via increased PDGF activity), hirsutism, peripheral neuropathy, osteoporosis, and teratogenicity, plus dose-dependent zero-order kinetics at high or toxic doses.",
+      "stem": "A patient on long-term phenytoin therapy for seizures develops gum overgrowth. This adverse effect is thought to result from increased activity of which factor?",
+      "options": [
+        "Epidermal growth factor receptor (EGFR)",
+        "Insulin-like growth factor (IGF-1)",
+        "Platelet-derived growth factor (PDGF) in gingival tissue",
+        "Vascular endothelial growth factor (VEGF)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "EGFR amplification is associated with glioblastoma pathology, not phenytoin-induced gingival hyperplasia.",
+        "IGF-1 is not the growth factor implicated in phenytoin's gingival side effect.",
+        "Correct \u2014 phenytoin causes gingival hyperplasia, thought to result from increased PDGF activity in gum tissue, along with other adverse effects like hirsutism and coarse facial features.",
+        "VEGF is involved in angiogenesis and is not the mechanism implicated in phenytoin-induced gingival hyperplasia."
+      ],
+      "id": "2026-09-13-27"
+    },
+    {
+      "format": "simple4",
+      "overview": "Dopamine's peripheral effects are dose-dependent: low doses activate D1 receptors causing renal vasodilation, medium doses activate beta-1 receptors increasing heart rate/contractility/cardiac output, and high doses activate alpha-1 receptors causing vasoconstriction. This dose-dependent profile underlies its use in shock, especially when renal perfusion is a concern.",
+      "stem": "At low doses, dopamine acts primarily on which receptor to produce renal vasodilation?",
+      "options": [
+        "Alpha-1 receptors",
+        "Beta-1 receptors",
+        "D1 receptors",
+        "Beta-2 receptors"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Alpha-1 receptor activation predominates at high doses of dopamine, causing vasoconstriction, the opposite of the low-dose effect.",
+        "Beta-1 receptor activation predominates at medium doses of dopamine, increasing heart rate and contractility, not causing renal vasodilation.",
+        "Correct \u2014 at low doses, dopamine acts on D1 receptors in the renal vasculature, causing vasodilation and increased renal blood flow.",
+        "Beta-2 receptors are not the primary target of low-dose dopamine; the low-dose renal effect is mediated via D1 receptors."
+      ],
+      "id": "2026-09-13-28"
+    },
+    {
+      "format": "simple4",
+      "overview": "Creutzfeldt-Jakob disease is a rapidly progressive prion disease causing spongiform encephalopathy (vacuolization of neuropil), presenting with rapid dementia and startle myoclonus. EEG classically shows periodic sharp wave complexes, and CSF may show elevated 14-3-3 protein; brain biopsy remains the gold standard, though the disease is usually fatal.",
+      "stem": "Which EEG finding is classically associated with Creutzfeldt-Jakob disease?",
+      "options": [
+        "Diffuse background slowing without epileptiform activity",
+        "3 Hz spike-and-wave discharges",
+        "Sleep spindles and K complexes",
+        "Periodic sharp wave complexes"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Diffuse slowing without epileptiform activity is a nonspecific finding seen in delirium, not the specific periodic sharp wave pattern of Creutzfeldt-Jakob disease.",
+        "3 Hz spike-and-wave discharges are characteristic of absence seizures, not Creutzfeldt-Jakob disease.",
+        "Sleep spindles and K complexes are normal features of stage N2 sleep, not associated with Creutzfeldt-Jakob disease.",
+        "Correct \u2014 Creutzfeldt-Jakob disease classically shows periodic sharp wave complexes on EEG, occurring at regular intervals (0.5-2 seconds), reflecting the rapidly progressive spongiform encephalopathy."
+      ],
+      "id": "2026-09-13-29"
+    },
+    {
+      "format": "simple4",
+      "overview": "Central pontine myelinolysis (osmotic demyelination syndrome) results from overly rapid correction of chronic hyponatremia, causing osmotic-induced demyelination of pontine axons. Clinical features include pseudobulbar palsy and quadriparesis, sometimes progressing to locked-in syndrome; the mnemonic \"from low to high, your pons will die\" captures the mechanism.",
+      "stem": "Overly rapid correction of severe hyponatremia places a patient at risk for which complication?",
+      "options": [
+        "Central pontine myelinolysis",
+        "Subacute combined degeneration",
+        "Wernicke encephalopathy",
+        "Guillain-Barre syndrome"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 rapid correction of hyponatremia can cause osmotic demyelination of central pontine axons, presenting with quadriparesis and pseudobulbar palsy, and can progress to locked-in syndrome.",
+        "Subacute combined degeneration results from vitamin B12 deficiency affecting the posterior columns and corticospinal tracts, not osmotic changes.",
+        "Wernicke encephalopathy results from thiamine deficiency, not sodium correction.",
+        "Guillain-Barre syndrome is an autoimmune demyelinating polyradiculoneuropathy typically following infection, unrelated to osmotic shifts."
+      ],
+      "id": "2026-09-13-30"
     }
   ]
 }

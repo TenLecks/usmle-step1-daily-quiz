@@ -1,596 +1,596 @@
 {
-  "date": "2026-09-12",
-  "subject": "Musculoskeletal",
+  "date": "2026-09-13",
+  "subject": "Neurology",
   "questions": [
     {
-      "format": "simple4",
-      "stem": "A patient who fell asleep in a chair with his arm draped over the backrest develops wrist drop and sensory loss over the dorsum of the hand the next morning, with triceps strength preserved. Where is the site of radial nerve compression?",
-      "options": [
-        "Compression at the elbow below the lateral epicondyle",
-        "Compression in the axilla",
-        "Compression in the spiral groove of the humerus",
-        "Compression at the wrist near the anatomic snuffbox"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect \u2014 injury below the elbow spares wrist drop and sensory loss of the dorsal hand, since the posterior interosseous branch mainly causes motor deficits distally.",
-        "Incorrect \u2014 axillary compression (e.g., crutches) of the radial nerve typically also affects triceps function, causing weakness of elbow extension, which is preserved in this patient.",
-        "Correct \u2014 \"Saturday night palsy\" refers to radial nerve compression in the spiral (radial) groove of the humerus from prolonged pressure (e.g., sleeping with the arm draped over a chair), causing wrist drop with sensory loss over the dorsal hand/forearm, but sparing the triceps since its branches arise proximal to the groove.",
-        "Incorrect \u2014 the radial nerve does not pass through the anatomic snuffbox as a site of classic compression; this location is relevant to scaphoid fractures, not radial nerve palsy."
-      ],
-      "overview": "Radial nerve injury findings depend on the level of compression: axillary compression (crutches, crutch palsy) affects the triceps in addition to wrist/finger extensors, while spiral groove compression at the humeral midshaft (Saturday night palsy, associated with midshaft humeral fractures) causes wrist drop and dorsal hand sensory loss with the triceps spared. Injuries below the elbow spare sensory loss and triceps function, presenting mainly with finger extension weakness.",
-      "id": "2026-09-12-01"
-    },
-    {
       "format": "vignette5",
-      "stem": "A 24-year-old recreational soccer player plants his foot and twists suddenly while an opponent contacts his knee from the side. He develops pain and swelling over the next day. On exam, with the knee flexed and the foot rotated externally while the knee is extended, the examiner elicits a painful pop along the joint line. Which structure is most likely injured?",
+      "overview": "Normal pressure hydrocephalus is a communicating hydrocephalus presenting with the classic triad of gait apraxia (\"magnetic gait\"), urinary incontinence, and dementia (\"wet, wobbly, wacky\") with normal CSF opening pressure and ventriculomegaly disproportionate to cortical atrophy. Diagnosis is supported by symptomatic improvement after large-volume lumbar puncture, and definitive treatment is CSF diversion via ventriculoperitoneal shunt.",
+      "stem": "A 74-year-old man presents with a several-month history of progressive gait disturbance described as \"magnetic,\" where his feet seem stuck to the floor, along with new urinary incontinence and mild cognitive decline. Lumbar puncture reveals normal opening pressure. CT shows ventricular enlargement out of proportion to sulcal atrophy. Which of the following is the most appropriate next step in management?",
       "options": [
-        "Lateral collateral ligament",
-        "Lateral meniscus",
-        "Medial meniscus",
-        "Popliteus tendon",
-        "Posterior cruciate ligament"
+        "Levodopa-carbidopa therapy",
+        "High-dose corticosteroids",
+        "Acetylcholinesterase inhibitor therapy",
+        "Large-volume lumbar puncture or ventriculoperitoneal shunting",
+        "Anticoagulation with warfarin"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "explanations": [
-        "Incorrect \u2014 LCL injury is tested with varus stress (adduction force), not with the McMurray rotational maneuver, and is rarely injured in isolation.",
-        "Incorrect \u2014 internal rotation of the tibia during McMurray testing, not external rotation, stresses the lateral meniscus.",
-        "Correct \u2014 external rotation of the tibia/foot during the McMurray test stresses and elicits pain from the medial meniscus, since foot rotation away from midline (external rotation) tests the medial meniscus.",
-        "Incorrect \u2014 the popliteus is not specifically tested by the McMurray maneuver and is not a classic structure injured in twisting knee injuries described here.",
-        "Incorrect \u2014 PCL injury is assessed with the posterior drawer test and classically results from a posteriorly directed force (e.g., dashboard injury), not a twisting mechanism with a positive McMurray test."
+        "Levodopa-carbidopa treats Parkinson disease; although NPH can mimic parkinsonian gait, definitive management is CSF removal rather than dopaminergic therapy.",
+        "Corticosteroids are not indicated for normal pressure hydrocephalus, which is a CSF dynamics disorder rather than an inflammatory condition.",
+        "Acetylcholinesterase inhibitors are used for symptomatic treatment of Alzheimer's disease, not normal pressure hydrocephalus.",
+        "Correct \u2014 normal pressure hydrocephalus (the \"wet, wobbly, wacky\" triad) is treated by removing CSF via large-volume lumbar puncture, and definitively with a ventriculoperitoneal shunt, which can improve symptoms, especially gait.",
+        "Anticoagulation is not indicated for normal pressure hydrocephalus, as there is no thrombotic mechanism involved."
       ],
-      "overview": "Meniscal tears often occur when the foot is planted and the knee twists suddenly, common in sports like soccer and basketball, causing pain and swelling that worsens with pivoting. The McMurray test evaluates for meniscal tears by flexing the knee and rotating the foot while extending the knee: internal rotation stresses the lateral meniscus, while external rotation stresses the medial meniscus, with pain or a palpable pop indicating a positive test.",
-      "id": "2026-09-12-02"
+      "id": "2026-09-13-01"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following best describes the role of osteoprotegerin (OPG) in bone remodeling?",
+      "overview": "Chiari II malformation (Arnold-Chiari malformation) is a congenital anomaly with downward displacement of the cerebellar vermis and tonsils and brainstem malformation (beaked midbrain), almost universally associated with myelomeningocele and causing non-communicating hydrocephalus from obstruction of CSF flow. This differs from Chiari I, which involves only tonsillar displacement and presents later in life.",
+      "stem": "A neonate with a lumbosacral myelomeningocele is found to have downward displacement of the cerebellar vermis and tonsils through the foramen magnum along with a \"beaked\" midbrain on imaging. Which of the following best describes this condition?",
       "options": [
-        "It is a receptor on osteoclasts that binds RANK-L to stimulate bone resorption",
-        "It is a decoy receptor secreted by osteoblasts that binds RANK-L and prevents osteoclast activation",
-        "It is a growth factor that stimulates chondrocyte proliferation at the growth plate",
-        "It is secreted by osteoclasts to stimulate osteoblast bone formation"
+        "Holoprosencephaly",
+        "Chiari II malformation",
+        "Chiari I malformation",
+        "Dandy-Walker malformation"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect \u2014 this describes RANK itself, the receptor on osteoclasts that RANK-L binds to stimulate resorption, not OPG's decoy function.",
-        "Correct \u2014 osteoprotegerin is produced by osteoblasts and acts as a decoy receptor, binding RANK-L and preventing it from binding RANK on osteoclasts, thereby inhibiting osteoclast activity and bone resorption.",
-        "Incorrect \u2014 OPG does not act on chondrocytes or the growth plate; it specifically regulates the RANK/RANK-L osteoclast signaling axis.",
-        "Incorrect \u2014 OPG is produced by osteoblasts, not osteoclasts, and works to inhibit rather than stimulate osteoclast-mediated processes."
+        "Holoprosencephaly involves failure of cleavage of the forebrain hemispheres, presenting with midline facial anomalies, not the cerebellar/brainstem findings described.",
+        "Correct \u2014 Chiari II malformation involves downward displacement of the cerebellar vermis, tonsils, and brainstem, a \"beaked\" midbrain, and is almost always associated with myelomeningocele and non-communicating hydrocephalus.",
+        "Chiari I malformation involves only displacement of the cerebellar tonsils (not the vermis or brainstem) and typically presents later in adolescence or adulthood, not associated with myelomeningocele.",
+        "Dandy-Walker malformation involves hypoplasia/agenesis of the cerebellar vermis with cystic dilation of the fourth ventricle, a distinct anomaly from the myelomeningocele-associated findings described."
       ],
-      "overview": "Bone turnover is regulated by the RANK/RANK-L/OPG system: osteoblasts express RANK-L, which binds RANK on osteoclast precursors to stimulate osteoclast differentiation and bone resorption, while osteoblast-secreted osteoprotegerin (OPG) acts as a decoy receptor that binds RANK-L and blocks this interaction, inhibiting osteoclast activity. Conditions like menopause (increased RANK-L, decreased OPG) and glucocorticoid use shift this balance toward increased bone resorption.",
-      "id": "2026-09-12-03"
+      "id": "2026-09-13-02"
+    },
+    {
+      "format": "simple4",
+      "overview": "Migraine pathophysiology involves trigeminal nerve activation and release of vasoactive peptides (CGRP, substance P) causing vasodilation, inflammation, and pain. Triptans are 5-HT1B/1D agonists that cause vasoconstriction and inhibit trigeminal transmission, effectively aborting attacks, but should be avoided in patients with coronary artery disease due to vasoconstrictive effects.",
+      "stem": "Triptans abort acute migraine attacks primarily by which mechanism?",
+      "options": [
+        "Agonism at 5-HT1B/1D receptors causing vasoconstriction and inhibiting trigeminal nerve transmission",
+        "Inhibition of cyclooxygenase enzymes",
+        "Antagonism of CGRP receptors",
+        "Blockade of dopamine D2 receptors"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 triptans are 5-HT1B/1D receptor agonists that cause vasoconstriction, inhibit release of vasoactive neuropeptides, and block trigeminal nerve transmission, aborting migraine attacks.",
+        "Cyclooxygenase inhibition describes NSAIDs, not the mechanism of triptans.",
+        "CGRP receptor antagonism describes gepants (e.g., ubrogepant, rimegepant), a different drug class from triptans.",
+        "Dopamine D2 receptor blockade describes antiemetics like prochlorperazine used adjunctively in migraine, not triptans."
+      ],
+      "id": "2026-09-13-03"
     },
     {
       "format": "vignette5",
-      "stem": "A 3-week-old female infant born via breech vaginal delivery is brought in for a well-child visit. On exam, the examiner flexes the hips to 90 degrees and applies posterior pressure while adducting the thighs, producing a palpable clunk as the femoral head slips out of the acetabulum posteriorly. Which of the following best describes this maneuver and the underlying diagnosis?",
+      "overview": "Narcolepsy results from loss of orexin (hypocretin)-secreting neurons in the lateral hypothalamus, causing excessive daytime sleepiness and intrusion of REM sleep phenomena into wakefulness, including cataplexy (sudden loss of muscle tone triggered by emotion), hypnagogic hallucinations, and sleep paralysis. Diagnosis is supported by short sleep latency and multiple sleep-onset REM periods on multiple sleep latency testing, or low CSF hypocretin-1.",
+      "stem": "A 22-year-old college student reports excessive daytime sleepiness for the past 6 months, with episodes of sudden bilateral leg buckling triggered by laughter, during which she remains fully conscious. She also describes vivid, frightening images while falling asleep. Polysomnography followed by a multiple sleep latency test shows a short sleep latency and multiple sleep-onset REM periods. Which of the following is the most likely underlying pathophysiology?",
       "options": [
-        "Thomas test; slipped capital femoral epiphysis",
-        "Trendelenburg test; superior gluteal nerve injury",
-        "Ortolani maneuver; developmental dysplasia of the hip",
-        "Galeazzi sign; Legg-Calve-Perthes disease",
-        "Barlow maneuver; developmental dysplasia of the hip"
+        "Demyelination of central white matter tracts",
+        "Excess GABA activity in the reticular activating system",
+        "Decreased hypothalamic orexin (hypocretin) neurons",
+        "Loss of dopaminergic neurons in the substantia nigra",
+        "Autoimmune destruction of acetylcholine receptors at the neuromuscular junction"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Demyelination of central white matter tracts describes multiple sclerosis, not narcolepsy.",
+        "Excess GABA activity is not the mechanism of narcolepsy; the disorder is due to orexin deficiency.",
+        "Correct \u2014 narcolepsy is caused by loss of orexin (hypocretin)-producing neurons in the lateral hypothalamus, leading to intrusion of REM features (cataplexy, hypnagogic hallucinations, sleep paralysis) into wakefulness and low CSF hypocretin-1.",
+        "Loss of substantia nigra dopaminergic neurons causes Parkinson disease, not narcolepsy.",
+        "Autoimmune destruction of acetylcholine receptors describes myasthenia gravis, unrelated to narcolepsy's sleep pathophysiology."
+      ],
+      "id": "2026-09-13-04"
+    },
+    {
+      "format": "simple4",
+      "overview": "Meniere's disease results from endolymphatic hydrops (fluid accumulation in the labyrinth) and presents with the classic triad of tinnitus, fluctuating sensorineural hearing loss (Weber lateralizes to the normal ear, Rinne shows air conduction greater than bone conduction), and episodic vertigo. Management includes a low-salt diet, diuretics, and avoidance of caffeine and nicotine.",
+      "stem": "Which of the following best describes the classic triad of Meniere's disease?",
+      "options": [
+        "Conductive hearing loss, otalgia, and fever",
+        "Tinnitus, sensorineural hearing loss, and vertigo",
+        "Ataxia, dysarthria, and nystagmus",
+        "Vertical nystagmus, diplopia, and dysmetria"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Conductive hearing loss, otalgia, and fever suggest otitis media, not Meniere's disease.",
+        "Correct \u2014 Meniere's disease is caused by endolymphatic hydrops and presents with the classic triad of tinnitus, sensorineural hearing loss, and episodic vertigo.",
+        "Ataxia, dysarthria, and nystagmus describe cerebellar (central) dysfunction, not the peripheral vestibular triad of Meniere's disease.",
+        "Vertical nystagmus, diplopia, and dysmetria are features of central vertigo, not Meniere's disease, which is peripheral."
+      ],
+      "id": "2026-09-13-05"
+    },
+    {
+      "format": "simple4",
+      "overview": "Amyotrophic lateral sclerosis is a progressive neurodegenerative disease causing combined upper and lower motor neuron loss without sensory or bowel/bladder involvement. Riluzole modestly extends survival by reducing glutamate-related excitotoxicity, though the disease remains usually fatal within 3-5 years, commonly from aspiration pneumonia.",
+      "stem": "Riluzole, used to modestly slow disease progression in amyotrophic lateral sclerosis, works primarily by which mechanism?",
+      "options": [
+        "Decreasing glutamate-related excitotoxicity",
+        "Inhibiting acetylcholinesterase",
+        "Blocking acetylcholine receptor antibodies",
+        "Enhancing GABA receptor activity"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 riluzole reduces glutamate-mediated excitotoxicity, thought to contribute to motor neuron death in ALS, modestly slowing disease progression.",
+        "Acetylcholinesterase inhibition is used in myasthenia gravis and Alzheimer's disease, not as the primary mechanism of riluzole in ALS.",
+        "Riluzole does not target acetylcholine receptor antibodies; that mechanism pertains to myasthenia gravis, not ALS.",
+        "Riluzole's mechanism is not primarily through GABA receptor enhancement."
+      ],
+      "id": "2026-09-13-06"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Wernicke encephalopathy is caused by thiamine (B1) deficiency, classically in alcoholism, presenting with the triad of confusion, ophthalmoplegia/nystagmus, and gait ataxia due to damage to the mammillary bodies and other midline structures. Because thiamine is a cofactor for glucose metabolism, administering glucose before thiamine can acutely worsen or precipitate the syndrome, so thiamine should be given first or concurrently in at-risk patients.",
+      "stem": "A 50-year-old man with chronic alcohol use disorder presents to the emergency department with confusion. He is given IV dextrose for presumed hypoglycemia without thiamine supplementation. Over the next day he develops horizontal gaze palsy, nystagmus, and a wide-based ataxic gait. Which of the following best explains why glucose administration worsened his condition?",
+      "options": [
+        "Glucose induces hepatic encephalopathy by increasing ammonia production",
+        "Glucose metabolism depletes thiamine, a required cofactor, worsening an underlying deficiency",
+        "Glucose causes acute alpha-synuclein aggregation in the hippocampus",
+        "Glucose directly damages the mammillary bodies via osmotic injury",
+        "Glucose precipitates rapid correction of hyponatremia, causing central pontine myelinolysis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Hepatic encephalopathy relates to ammonia and liver failure, not the mechanism described in this vignette.",
+        "Correct \u2014 thiamine is a required cofactor for glucose metabolism, so giving glucose without thiamine accelerates depletion of already-low thiamine stores, precipitating or worsening Wernicke encephalopathy.",
+        "Alpha-synuclein aggregation is a feature of Parkinson's disease and Lewy body dementia, unrelated to Wernicke encephalopathy.",
+        "Damage to the mammillary bodies in Wernicke's is due to thiamine deficiency, not direct osmotic injury from glucose.",
+        "Central pontine myelinolysis results from overly rapid correction of hyponatremia, not glucose administration in this scenario."
+      ],
+      "id": "2026-09-13-07"
+    },
+    {
+      "format": "simple4",
+      "overview": "Argyll Robertson pupils are small, irregular pupils that accommodate but do not react to light, classically associated with tabes dorsalis from tertiary neurosyphilis, which also causes posterior column degeneration (loss of vibration/proprioception), sensory ataxia, and loss of reflexes.",
+      "stem": "A patient with tertiary neurosyphilis has pupils that constrict with accommodation but fail to react to light. This finding is best described as:",
+      "options": [
+        "Argyll Robertson pupil",
+        "Marcus Gunn pupil",
+        "Adie's tonic pupil",
+        "Horner's syndrome miosis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Argyll Robertson pupils, classically seen in tabes dorsalis (tertiary neurosyphilis), react to accommodation but not to light (light-near dissociation).",
+        "A Marcus Gunn pupil (relative afferent pupillary defect) refers to abnormal pupillary constriction when light is swung from a normal to an affected eye, seen in optic nerve disease, not this light-near dissociation pattern.",
+        "Adie's tonic pupil is a unilaterally dilated pupil with sluggish, prolonged response to light and accommodation, a different mechanism from Argyll Robertson pupils.",
+        "Horner's syndrome causes miosis along with ptosis and anhidrosis due to sympathetic disruption, not the light-near dissociation described."
+      ],
+      "id": "2026-09-13-08"
+    },
+    {
+      "format": "simple4",
+      "overview": "Autonomic and neuromuscular acetylcholine receptors are divided into nicotinic (ligand-gated ion channels found at ganglia and the neuromuscular junction) and muscarinic (GPCRs found on target organs \u2014 M1/M3 via Gq, M2 via Gi). This distinction explains why nicotinic blockade causes paralysis while muscarinic blockade causes autonomic effects like dry mouth and mydriasis.",
+      "stem": "Nicotinic acetylcholine receptors are best classified as which type of receptor?",
+      "options": [
+        "Ligand-gated ion channel",
+        "G protein-coupled receptor linked to Gq",
+        "Receptor tyrosine kinase",
+        "G protein-coupled receptor linked to Gs"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 nicotinic receptors are ligand-gated ion channels that open upon acetylcholine binding, allowing sodium and calcium influx and causing depolarization.",
+        "Gq-coupled receptors describe muscarinic M1/M3 and alpha-1 receptors, not nicotinic receptors.",
+        "Nicotinic receptors are not receptor tyrosine kinases; they are ionotropic channels.",
+        "Gs-coupled receptors describe beta-1/beta-2 receptors, not nicotinic receptors."
+      ],
+      "id": "2026-09-13-09"
+    },
+    {
+      "format": "simple4",
+      "overview": "The cavernous sinus is a paired venous structure lateral to the pituitary through which CN III, IV, V1, V2, VI, sympathetic fibers, and the internal carotid artery pass. Cavernous sinus syndrome (from thrombosis, tumor, or infection spread) causes ophthalmoplegia, headache, periorbital swelling, and sensory loss in the V1/V2 distribution, but spares vision-related structures like the optic nerve, which does not pass through the sinus.",
+      "stem": "A mass compressing the cavernous sinus would be expected to affect all of the following cranial nerves EXCEPT:",
+      "options": [
+        "CN II (optic nerve)",
+        "CN V1/V2 (ophthalmic/maxillary divisions of trigeminal nerve)",
+        "CN VI (abducens nerve)",
+        "CN III (oculomotor nerve)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 the optic nerve (CN II) does not travel through the cavernous sinus and is therefore not typically affected by cavernous sinus pathology.",
+        "CN V1 and V2 travel through the cavernous sinus and are commonly affected, causing sensory loss.",
+        "CN VI travels through the cavernous sinus and is commonly affected, often causing lateral rectus palsy.",
+        "CN III travels through the cavernous sinus and is commonly affected in cavernous sinus syndrome."
+      ],
+      "id": "2026-09-13-10"
+    },
+    {
+      "format": "simple4",
+      "overview": "Frontotemporal dementia (Pick disease) is a cause of early-onset dementia (under 65 years) resulting from frontal and temporal lobe atrophy. The behavioral variant, the most common subtype, presents with disinhibition, apathy, loss of empathy, and hyperorality, with memory and executive function relatively preserved early, contrasting with Alzheimer's disease where memory loss predominates.",
+      "stem": "A 58-year-old man presents with a 2-year history of progressive personality changes, social disinhibition, apathy, and altered food preferences, with relatively preserved memory early in the disease course. Imaging shows frontal and temporal lobe atrophy. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Frontotemporal dementia (behavioral variant)",
+        "Creutzfeldt-Jakob disease",
+        "Vascular dementia",
+        "Alzheimer's disease"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 the behavioral variant of frontotemporal dementia presents with early personality changes, disinhibition, apathy, and altered eating behavior due to frontal and temporal lobe atrophy, typically in younger patients, with relative sparing of memory early on.",
+        "Creutzfeldt-Jakob disease presents with rapidly progressive dementia over weeks to months, often with myoclonus, not this slower behavioral presentation.",
+        "Vascular dementia typically has a stepwise decline associated with vascular risk factors and multiple infarcts, not this gradual behavioral presentation.",
+        "Alzheimer's disease typically presents with early short-term memory loss as the predominant feature, not early personality or behavioral changes."
+      ],
+      "id": "2026-09-13-11"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Cauda equina syndrome results from compression of the lumbosacral nerve roots below the conus medullaris (L1-L2), most often from massive disc herniation. Because only lower motor neuron fibers are involved, patients present with flaccid paralysis, hyporeflexia, saddle anesthesia, and bowel/bladder/sexual dysfunction \u2014 a surgical emergency requiring prompt decompression.",
+      "stem": "A 55-year-old man presents with severe low back pain, bilateral leg weakness, numbness in the perineal and inner thigh region, and new urinary retention with overflow incontinence. MRI shows a massive L4-L5 disc herniation compressing nerve roots below the level of the spinal cord termination. Which of the following findings would be expected on examination?",
+      "options": [
+        "Intention tremor and dysmetria on finger-to-nose testing",
+        "Resting tremor and cogwheel rigidity",
+        "Ipsilateral loss of vibration and contralateral loss of pain/temperature",
+        "Flaccid paralysis with hyporeflexia and absent ankle jerk",
+        "Spastic paralysis with hyperreflexia and a positive Babinski sign"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Intention tremor and dysmetria indicate cerebellar dysfunction, not cauda equina syndrome.",
+        "Resting tremor and cogwheel rigidity are features of Parkinson disease, unrelated to cauda equina syndrome.",
+        "This pattern describes Brown-Sequard syndrome (spinal cord hemisection), not cauda equina syndrome.",
+        "Correct \u2014 cauda equina syndrome compresses lumbosacral nerve roots (lower motor neuron fibers only), producing flaccid paralysis, hyporeflexia/areflexia, and absent ankle jerk (S1), along with saddle anesthesia and bowel/bladder dysfunction.",
+        "Spastic paralysis with hyperreflexia and a Babinski sign indicates an upper motor neuron lesion, not the lower motor neuron pattern seen in cauda equina syndrome."
+      ],
+      "id": "2026-09-13-12"
+    },
+    {
+      "format": "simple4",
+      "overview": "Levodopa crosses the blood-brain barrier and is converted to dopamine by dopa decarboxylase, replenishing dopaminergic tone in Parkinson disease. Carbidopa, a peripheral decarboxylase inhibitor that does not cross the blood-brain barrier, is combined with levodopa to reduce peripheral conversion (and associated side effects like nausea and orthostatic hypotension) while maximizing CNS drug delivery.",
+      "stem": "Carbidopa is combined with levodopa in the treatment of Parkinson disease primarily to accomplish which of the following?",
+      "options": [
+        "Cross the blood-brain barrier and directly stimulate dopamine receptors",
+        "Inhibit peripheral dopa decarboxylase, reducing peripheral conversion and side effects while increasing CNS availability",
+        "Inhibit central monoamine oxidase-B to prevent dopamine breakdown",
+        "Block peripheral dopamine receptors to prevent nausea"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Carbidopa does not cross the blood-brain barrier and does not directly stimulate dopamine receptors; that is the role of levodopa after conversion.",
+        "Correct \u2014 carbidopa inhibits peripheral dopa decarboxylase, preventing peripheral conversion of levodopa to dopamine, reducing peripheral side effects (nausea, hypotension) and allowing more levodopa to reach the CNS.",
+        "MAO-B inhibition describes selegiline/rasagiline, not carbidopa's mechanism.",
+        "Carbidopa does not act as a peripheral dopamine receptor blocker; it inhibits an enzyme (dopa decarboxylase), not receptors."
+      ],
+      "id": "2026-09-13-13"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Bell's palsy is an idiopathic (likely HSV-1-related) mononeuropathy causing lower motor neuron facial nerve palsy \u2014 weakness of the entire ipsilateral face including the forehead, plus hyperacusis (stapedius), decreased taste (chorda tympani), and dry eye/mouth. This contrasts with upper motor neuron facial weakness from cortical stroke, which spares the forehead due to bilateral corticobulbar innervation.",
+      "stem": "A 52-year-old man develops sudden unilateral facial weakness including inability to raise his eyebrow and close his eye on the affected side, along with hyperacusis and loss of taste on the anterior two-thirds of the tongue. There is no limb weakness or other cranial nerve involvement. Symptoms began after a recent upper respiratory illness. Which of the following best describes the underlying lesion?",
+      "options": [
+        "Upper motor neuron lesion of the facial nerve, forehead spared",
+        "Lower motor neuron lesion of the trigeminal nerve",
+        "Upper motor neuron lesion of the corticobulbar tract affecting the lower face only",
+        "Lesion of the hypoglossal nerve nucleus",
+        "Lower motor neuron lesion of the facial nerve, forehead involved"
       ],
       "correctIndex": 4,
       "explanations": [
-        "Incorrect \u2014 the Thomas test assesses hip flexion contracture, and SCFE is a growth plate fracture in obese adolescents, not diagnosed by this maneuver in a neonate.",
-        "Incorrect \u2014 the Trendelenburg test assesses hip abductor weakness in a standing, weight-bearing patient, not applicable to a supine neonatal exam.",
-        "Incorrect \u2014 the Ortolani maneuver reduces an already-dislocated hip by abducting the thighs while lifting the femoral head anteriorly, producing a clunk as the hip reduces, not provoking dislocation as described here.",
-        "Incorrect \u2014 the Galeazzi sign compares knee heights to detect limb length discrepancy from hip dislocation, not the maneuver described; Legg-Calve-Perthes is idiopathic avascular necrosis presenting later in childhood, not in a neonate.",
-        "Correct \u2014 the Barlow maneuver applies posterior pressure while adducting flexed hips to provoke/dislocate an unstable hip; a palpable clunk indicates a positive test, consistent with DDH, especially with the breech delivery risk factor."
+        "Upper motor neuron lesions spare the forehead due to bilateral cortical innervation; this patient has forehead involvement, ruling out this option.",
+        "The trigeminal nerve mediates facial sensation and mastication, not facial movement, taste, or hyperacusis \u2014 this does not fit the presentation.",
+        "Corticobulbar tract damage produces a UMN pattern with forehead sparing, not the full hemifacial (including forehead) involvement seen here.",
+        "The hypoglossal nerve controls tongue movement, not facial muscles, taste, or hyperacusis.",
+        "Correct \u2014 Bell's palsy is an idiopathic LMN facial nerve palsy affecting the entire ipsilateral face (forehead included), plus stapedius (hyperacusis) and chorda tympani (taste) function."
       ],
-      "overview": "DDH results from abnormal acetabular development leading to hip instability, with risk factors including breech presentation, female sex, and family history. The Ortolani maneuver reduces a dislocated hip (abduction plus anterior lift), while the Barlow maneuver provokes dislocation (adduction plus posterior pressure); diagnosis is confirmed with ultrasound before 4-6 months of age, and treatment includes the Pavlik harness for younger infants.",
-      "id": "2026-09-12-04"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 35-year-old competitive cyclist presents with chronic buttock pain that worsens with prolonged sitting and cycling. He also notes he cannot sit on his wallet in his back pocket without significant discomfort. Straight leg raise testing reproduces his pain. Which of the following is the most likely mechanism of his symptoms?",
-      "options": [
-        "Compression of the sciatic nerve by the piriformis muscle",
-        "Compression of the lower brachial plexus trunk between the clavicle and first rib",
-        "Compression of the common peroneal nerve at the fibular neck",
-        "Entrapment of the pudendal nerve at the ischial spine",
-        "Herniation of the L5/S1 intervertebral disc compressing the S1 nerve root"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 piriformis syndrome results from compression of the sciatic nerve by the piriformis muscle, often from overuse (cycling, running) or prolonged sitting, producing buttock pain worsened by sitting (the wallet sign) and a positive straight leg raise test.",
-        "Incorrect \u2014 thoracic outlet syndrome involves compression of the lower brachial plexus trunk and subclavian vessels in the upper extremity, unrelated to buttock and sciatic symptoms.",
-        "Incorrect \u2014 common peroneal nerve compression at the fibular neck causes foot drop and lateral shin/dorsal foot sensory loss, not buttock pain.",
-        "Incorrect \u2014 pudendal nerve entrapment causes perineal pain and sexual/urinary dysfunction, not the buttock pain and wallet sign described here.",
-        "Incorrect \u2014 L5/S1 disc herniation causes radiculopathy with pain radiating down the leg and specific motor/reflex findings (weak plantar flexion, absent ankle reflex), rather than buttock pain from direct piriformis compression of the nerve."
-      ],
-      "overview": "Piriformis syndrome occurs when the piriformis muscle compresses the underlying sciatic nerve, often due to overuse from running, cycling, or prolonged sitting. It presents with buttock pain aggravated by sitting (classically the wallet sign) and a positive straight leg raise test, and is managed with rest and activity modification.",
-      "id": "2026-09-12-05"
+      "id": "2026-09-13-14"
     },
     {
       "format": "simple4",
-      "stem": "A postmenopausal woman is started on oral alendronate for osteoporosis. What is the mechanism of action of this class of drugs?",
+      "overview": "The amygdala, part of the limbic system, is crucial for emotion, memory, and decision-making. Bilateral amygdala damage produces Kluver-Bucy syndrome \u2014 hyperorality, hyperphagia, inappropriate sexual behavior, and visual agnosia \u2014 classically as a rare sequela of HSV-1 encephalitis, which preferentially affects the temporal lobes.",
+      "stem": "Bilateral damage to the amygdala, as can occur with HSV-1 encephalitis, classically produces which syndrome characterized by hyperorality, hyperphagia, and inappropriate sexual behavior?",
       "options": [
-        "They stimulate osteoblasts to increase new bone formation",
-        "They block RANK-L binding to RANK on osteoclast precursors",
-        "They inhibit 1-alpha hydroxylase in the kidney to reduce active vitamin D production",
-        "They are taken up by osteoclasts and inhibit their bone-resorbing activity"
+        "Balint syndrome",
+        "Wernicke-Korsakoff syndrome",
+        "Kleine-Levin syndrome",
+        "Kluver-Bucy syndrome"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect \u2014 teriparatide (recombinant PTH), not bisphosphonates, is the therapy that primarily increases osteoblast-mediated bone formation.",
-        "Incorrect \u2014 denosumab, a monoclonal antibody against RANK-L, works by this mechanism, not bisphosphonates, which act directly on osteoclasts after being incorporated into bone.",
-        "Incorrect \u2014 bisphosphonates do not affect vitamin D hydroxylation; this is unrelated to their mechanism of action.",
-        "Correct \u2014 bisphosphonates are pyrophosphate analogs that bind calcium in bone, accumulate at sites of high turnover, and are taken up by osteoclasts, inhibiting their resorptive activity through various mechanisms depending on the specific side chains."
+        "Balint syndrome involves bilateral parieto-occipital damage causing simultanagnosia, optic ataxia, and ocular apraxia, not the features described.",
+        "Wernicke-Korsakoff syndrome results from thiamine deficiency affecting the mammillary bodies, causing confusion, ophthalmoplegia, ataxia, and memory impairment \u2014 a different presentation.",
+        "Kleine-Levin syndrome is a rare disorder of recurrent hypersomnia and behavioral disturbances, not specifically linked to amygdala damage or this symptom complex.",
+        "Correct \u2014 Kluver-Bucy syndrome results from bilateral amygdala (temporal lobe) damage, causing hyperorality, hyperphagia, inappropriate sexual behavior, and visual agnosia, classically as a rare complication of HSV-1 encephalitis."
       ],
-      "overview": "Bisphosphonates (e.g., alendronate, zoledronate) are first-line osteoporosis therapy that act as pyrophosphate analogs, binding calcium in bone matrix and accumulating at sites of high bone turnover where they are taken up by osteoclasts and inhibit bone resorption. Adverse effects include GI upset with oral agents, flu-like symptoms with IV infusions, and rare but serious atypical femur fractures and jaw osteonecrosis with long-term use.",
-      "id": "2026-09-12-06"
+      "id": "2026-09-13-15"
     },
     {
       "format": "simple4",
-      "stem": "A 68-year-old woman reports bilateral shoulder and hip girdle stiffness and pain, worse in the morning, with difficulty dressing. Strength testing is normal, and creatine kinase is normal, but ESR and CRP are markedly elevated. Which of the following is most likely?",
+      "overview": "Absence seizures are generalized seizures characterized by brief staring spells with 3 Hz spike-and-wave discharges on EEG, most common in childhood. Ethosuximide, which blocks thalamic T-type calcium channels involved in generating this rhythmic activity, is the first-line treatment for childhood absence epilepsy.",
+      "stem": "Ethosuximide, the drug of choice for childhood absence seizures, exerts its anticonvulsant effect through which mechanism?",
       "options": [
-        "Polymyalgia rheumatica",
-        "Fibromyalgia",
-        "Polymyositis",
-        "Dermatomyositis"
+        "Blockade of thalamic T-type calcium channels",
+        "Enhancement of GABA-A receptor chloride channel opening",
+        "Binding to synaptic vesicle protein SV2A",
+        "Blockade of voltage-gated sodium channels"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct \u2014 polymyalgia rheumatica presents in older patients with bilateral proximal muscle stiffness and pain (shoulders, hips) worse in the morning, with normal strength and CK but elevated ESR/CRP, and responds well to low-dose glucocorticoids.",
-        "Incorrect \u2014 fibromyalgia is a chronic pain syndrome with normal inflammatory markers (ESR/CRP), unlike this patient's markedly elevated ESR/CRP.",
-        "Incorrect \u2014 polymyositis causes true proximal muscle weakness with elevated CK, not merely pain/stiffness with normal strength as in this patient.",
-        "Incorrect \u2014 dermatomyositis also causes true muscle weakness with elevated CK plus characteristic skin findings (heliotrope rash, Gottron papules), not present here."
+        "Correct \u2014 ethosuximide blocks T-type calcium channels in thalamic neurons, which generate the 3 Hz spike-and-wave discharges characteristic of absence seizures.",
+        "Enhancing GABA-A receptor chloride channel opening describes benzodiazepines, not ethosuximide.",
+        "Binding to SV2A describes levetiracetam's mechanism, not ethosuximide's.",
+        "Sodium channel blockade describes drugs like phenytoin, carbamazepine, and lamotrigine, not ethosuximide's primary mechanism."
       ],
-      "overview": "Polymyalgia rheumatica is an inflammatory disorder of older adults causing bilateral proximal muscle stiffness and pain (shoulders, hips) worse in the morning, with elevated ESR/CRP but normal strength and creatine kinase, distinguishing it from the true muscle weakness seen in inflammatory myopathies. It responds well to low-dose glucocorticoids and is often associated with temporal arteritis.",
-      "id": "2026-09-12-07"
+      "id": "2026-09-13-16"
     },
     {
       "format": "vignette5",
-      "stem": "A 45-year-old man with no significant past medical history presents with acute onset of severe pain, warmth, and swelling of the right knee over the past 12 hours, accompanied by fever and chills. Arthrocentesis reveals turbid synovial fluid with a WBC count of 80,000/mm^3 and a positive gram stain for gram-positive cocci in clusters. Which of the following is the most appropriate immediate management?",
+      "overview": "Pheochromocytoma produces excess catecholamines causing episodic hypertension, palpitations, and diaphoresis. Preoperative management requires alpha blockade before any beta blockade to prevent unopposed alpha-1 vasoconstriction and hypertensive crisis; phenoxybenzamine (irreversible, nonselective alpha antagonist) is classically used for this purpose.",
+      "stem": "A 45-year-old woman with paroxysmal headaches, palpitations, and diaphoresis is found to have an adrenal mass with elevated plasma metanephrines, consistent with pheochromocytoma. Prior to surgical resection, she is started on a medication that irreversibly blocks alpha-1 receptors to prevent an intraoperative hypertensive crisis during tumor manipulation. Which drug is being used?",
       "options": [
-        "Physical therapy and weight loss counseling",
-        "Antibiotics and joint aspiration/drainage",
-        "Colchicine and allopurinol",
-        "NSAIDs and observation",
-        "Intraarticular glucocorticoid injection"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 physical therapy and weight loss are appropriate for chronic osteoarthritis management, not for an acute septic joint requiring emergent treatment.",
-        "Correct \u2014 septic arthritis, suggested by acute monoarthritis with WBC >50,000/mm^3 and positive gram stain (here consistent with S. aureus), requires prompt antibiotics plus aspiration/drainage to prevent joint destruction and sepsis.",
-        "Incorrect \u2014 colchicine and allopurinol are used for gout management, not appropriate given the positive gram stain indicating bacterial infection rather than crystal arthropathy.",
-        "Incorrect \u2014 NSAIDs alone with observation is inadequate for septic arthritis, a medical emergency that can rapidly destroy the joint and cause sepsis if untreated.",
-        "Incorrect \u2014 intraarticular steroids are used for osteoarthritis pain relief, not appropriate for an infected joint, which could worsen infection."
-      ],
-      "overview": "Septic arthritis is an acute monoarthritis medical emergency, often caused by S. aureus or S. pneumoniae via hematogenous seeding, or N. gonorrhoeae in sexually active patients, presenting with fever, chills, and a single swollen joint. Synovial fluid WBC counts exceeding 50,000/mm^3 with a positive gram stain and culture confirm the diagnosis, and treatment requires prompt antibiotics plus aspiration/drainage to prevent osteomyelitis, chronic damage, or sepsis.",
-      "id": "2026-09-12-08"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient develops muscle rigidity and fever shortly after receiving succinylcholine and halothane during surgery. Dantrolene is administered. What is the mechanism of action of this drug?",
-      "options": [
-        "Blocks L-type calcium channels on the cell surface",
-        "Antagonizes ryanodine receptors, blocking calcium release from the sarcoplasmic reticulum",
-        "Activates SERCA to increase calcium reuptake into the sarcoplasmic reticulum",
-        "Inhibits acetylcholinesterase at the neuromuscular junction"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 dantrolene acts on ryanodine receptors within the sarcoplasmic reticulum, not on surface L-type (dihydropyridine) calcium channels.",
-        "Correct \u2014 dantrolene is a muscle relaxant that antagonizes ryanodine receptors, blocking the excessive calcium release from the sarcoplasmic reticulum responsible for malignant hyperthermia, thereby reducing cytoplasmic calcium available for contraction.",
-        "Incorrect \u2014 dantrolene blocks calcium release rather than activating SERCA-mediated calcium reuptake, though the net effect in both cases would lower cytoplasmic calcium.",
-        "Incorrect \u2014 dantrolene does not affect acetylcholinesterase or neuromuscular transmission; its action is directly on intracellular calcium release channels."
-      ],
-      "overview": "Malignant hyperthermia is a rare, life-threatening reaction to anesthetics like halothane and succinylcholine, caused by abnormal ryanodine receptors leading to excessive calcium release, muscle rigidity, fever, and elevated creatine kinase. Dantrolene treats this condition by directly antagonizing ryanodine receptors and blocking further calcium release from the sarcoplasmic reticulum.",
-      "id": "2026-09-12-09"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 45-year-old obese man reports burning pain and tingling over the anterolateral aspect of his right thigh for the past two months. He notes that the symptoms worsen when he wears a tight tool belt for work. Sensory exam shows decreased sensation over the lateral thigh, with normal motor strength and reflexes. Which nerve is most likely affected?",
-      "options": [
-        "Genitofemoral nerve",
-        "Femoral nerve",
-        "Ilioinguinal nerve",
-        "Lateral femoral cutaneous nerve",
-        "Obturator nerve"
+        "Phentolamine",
+        "Propranolol",
+        "Labetalol",
+        "Phenoxybenzamine",
+        "Prazosin"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect \u2014 genitofemoral nerve injury affects the cremasteric reflex and sensation of the anterior scrotum/mons pubis and upper anterior thigh, not isolated lateral thigh sensation.",
-        "Incorrect \u2014 femoral nerve injury causes motor weakness of hip flexion/knee extension and an absent patellar reflex, not an isolated sensory syndrome of the lateral thigh.",
-        "Incorrect \u2014 the classic isolated lateral thigh sensory syndrome from compression under the inguinal ligament is meralgia paresthetica due to lateral femoral cutaneous nerve entrapment, not the ilioinguinal nerve.",
-        "Correct \u2014 the lateral femoral cutaneous nerve is a pure sensory nerve that courses under the inguinal ligament and is compressed by tight clothing, obesity, or pregnancy, producing meralgia paresthetica with burning pain, paresthesia, and hypoesthesia of the outer thigh.",
-        "Incorrect \u2014 obturator nerve injury causes weak thigh adduction and numbness of the medial thigh, not the lateral thigh sensory changes described."
+        "Phentolamine is a reversible alpha blocker used for rapid reversal (e.g., cheese effect), not for long-term irreversible preoperative preparation.",
+        "Propranolol is a nonselective beta blocker; giving beta blockade before adequate alpha blockade risks unopposed alpha-mediated vasoconstriction and hypertensive crisis.",
+        "Labetalol has combined alpha/beta activity but is not the classic irreversible drug described in preoperative pheochromocytoma management.",
+        "Correct \u2014 phenoxybenzamine is an irreversible, nonselective alpha blocker classically used preoperatively in pheochromocytoma to prevent hypertensive crisis.",
+        "Prazosin is a reversible, selective alpha-1 blocker mainly used for BPH/hypertension, not the classic irreversible pheochromocytoma drug."
       ],
-      "overview": "Meralgia paresthetica is a purely sensory neuropathy of the lateral femoral cutaneous nerve caused by compression under the inguinal ligament, often from tight clothing, obesity, or pregnancy. It presents with burning pain, paresthesia, and hypoesthesia over the outer thigh without motor weakness, since the nerve carries no motor fibers.",
-      "id": "2026-09-12-10"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 52-year-old man presents with low back pain radiating down the back of his right leg after lifting a heavy box. On exam, he has weakness of plantar flexion and cannot stand on his toes on the affected side. The ankle reflex is absent. Which of the following best localizes the level of disc herniation?",
-      "options": [
-        "L2/L3 disc herniation affecting the femoral nerve",
-        "L5/S1 disc herniation affecting the S1 nerve root",
-        "L3/L4 disc herniation affecting the obturator nerve",
-        "L4/L5 disc herniation affecting the L5 nerve root",
-        "T12/L1 disc herniation affecting the iliohypogastric nerve"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 L2/L3/L4 radiculopathy affects the femoral nerve, causing anterior thigh/knee pain, weak hip flexion/knee extension, and a reduced patellar (not ankle) reflex.",
-        "Correct \u2014 L5/S1 disc herniation affects the S1 nerve root (via the tibial nerve), causing pain down the back of the leg, weakness of plantar flexion, difficulty standing on toes, and loss of the ankle reflex, exactly as described.",
-        "Incorrect \u2014 the obturator nerve arises from L2-L4 and causes weak thigh adduction and medial thigh numbness, not posterior leg symptoms with absent ankle reflex.",
-        "Incorrect \u2014 L5 radiculopathy from L4/L5 herniation causes weak dorsiflexion and difficulty walking on heels, not the weak plantar flexion and absent ankle reflex described here.",
-        "Incorrect \u2014 the iliohypogastric nerve (T12-L1) provides sensation to the suprapubic region and motor to abdominal wall muscles, unrelated to leg pain and ankle reflex loss."
-      ],
-      "overview": "Lumbar radiculopathy from herniated discs most commonly affects the L5 nerve root (L4/L5 herniation, causing weak dorsiflexion and difficulty heel-walking) or the S1 nerve root (L5/S1 herniation, causing weak plantar flexion, difficulty toe-walking, and loss of the ankle reflex). Higher lumbar disc herniations (L2-L4) instead affect the femoral nerve, causing anterior thigh pain and a diminished patellar reflex.",
-      "id": "2026-09-12-11"
+      "id": "2026-09-13-17"
     },
     {
       "format": "simple4",
-      "stem": "A young man punches a wall with a closed fist and presents with pain and swelling at the base of his fifth finger with limited hand movement. X-ray shows a fracture at the neck of the fifth metacarpal. Which of the following is the most appropriate initial treatment?",
+      "overview": "Uncal herniation occurs when the medial temporal lobe (uncus) herniates through the tentorial notch, compressing the ipsilateral CN III (causing a dilated, nonreactive pupil, ptosis, and a \"down and out\" eye position) and the cerebral peduncle (causing contralateral hemiparesis, or ipsilateral hemiparesis via Kernohan's phenomenon). It is a classic complication of epidural hematoma and other space-occupying lesions.",
+      "stem": "Uncal herniation classically causes early ipsilateral compression of which structure, resulting in a \"blown\" pupil and ptosis?",
       "options": [
-        "Buddy taping to an adjacent finger and avoidance of weight-bearing activities",
-        "Long-arm cast immobilization for 8 weeks",
-        "Immediate physical therapy without immobilization",
-        "Emergency surgical fixation"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 a boxer's fracture (metacarpal neck fracture, most often of the fifth metacarpal) from a direct impact with a closed fist is typically treated conservatively with buddy taping to an adjacent finger, avoidance of weight-bearing activities, and pain management with cold compresses.",
-        "Incorrect \u2014 prolonged long-arm casting is not indicated for this distal hand fracture; simpler buddy taping is the typical approach.",
-        "Incorrect \u2014 some period of protection/immobilization (buddy taping) is appropriate initially, rather than immediate unrestricted physical therapy.",
-        "Incorrect \u2014 emergency surgical fixation is not the standard initial treatment for an uncomplicated boxer's fracture, which usually heals well with conservative management."
-      ],
-      "overview": "A boxer's fracture is a fracture of the metacarpal neck, most often the fifth metacarpal, caused by direct impact with a closed fist, presenting with pain and swelling at the base of the affected finger and limited movement. Treatment is typically conservative with buddy taping to an adjacent finger, avoidance of weight-bearing activities, and pain management with cold compresses.",
-      "id": "2026-09-12-12"
-    },
-    {
-      "format": "simple4",
-      "stem": "A postural muscle of the spine relies heavily on sustained low-level contraction and resistance to fatigue. Which fiber type predominates in this muscle?",
-      "options": [
-        "Type II (fast-twitch) fibers, with abundant glycogen and glycolytic enzymes",
-        "Type II fibers, with abundant myoglobin and mitochondria",
-        "Type I fibers, with few mitochondria and primarily glycolytic metabolism",
-        "Type I (slow-twitch) fibers, with abundant myoglobin and mitochondria"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 Type II (fast-twitch, white) fibers primarily use glycolysis and glycogen stores, fatigue more quickly, and are suited for rapid, brief contractions (e.g., eye muscles), not sustained postural tone.",
-        "Incorrect \u2014 Type II fibers are characterized by fewer mitochondria and less myoglobin, not abundant amounts as in Type I fibers.",
-        "Incorrect \u2014 Type I fibers actually have abundant mitochondria and rely on oxidative metabolism, not few mitochondria with primarily glycolytic metabolism as stated.",
-        "Correct \u2014 Type I (slow-twitch, red) fibers contain abundant myoglobin and mitochondria, favor oxidative phosphorylation and fatty acid metabolism, and resist fatigue, making them predominant in postural muscles requiring sustained tone."
-      ],
-      "overview": "Skeletal muscle fibers are classified as Type I (slow-twitch, red) fibers, rich in myoglobin and mitochondria, favoring oxidative phosphorylation and fatigue resistance, ideal for sustained postural muscles, versus Type II (fast-twitch, white) fibers, which rely on glycolysis and glycogen stores for rapid but fatigable contractions, as seen in eye muscles. Most muscles contain a mixture of both fiber types.",
-      "id": "2026-09-12-13"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 28-year-old woman presents with several months of dull knee pain. X-ray reveals a lytic lesion with a \"soap bubble\" appearance located in the epiphysis of the distal femur, extending to the subchondral bone. Biopsy shows numerous multinucleated giant cells resembling osteoclasts admixed with mononuclear stromal cells. Which of the following best describes the pathogenesis of this tumor?",
-      "options": [
-        "Chondrocytes proliferate abnormally, forming a cartilage cap over a bony stalk",
-        "Stromal cells express high levels of RANK-L, driving osteoclast activity within the tumor",
-        "Fusion of EWSR1 and FLI1 genes drives proliferation of primitive neuroectodermal cells",
-        "APC gene mutation leads to osteoma formation in the skull",
-        "Malignant osteoblasts produce disorganized osteoid, lifting the periosteum"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 this describes osteochondroma, a benign cartilage-capped bony projection arising at the metaphysis near the growth plate, not the epiphyseal giant cell tumor described.",
-        "Correct \u2014 giant cell tumor (osteoclastoma) stromal tumor cells express high levels of RANK-L, driving osteoclast activity and formation of the characteristic multinucleated giant cells; it typically occurs in the epiphysis, classically at the knee, with a soap bubble X-ray appearance.",
-        "Incorrect \u2014 this describes Ewing sarcoma, involving small round blue cells and the EWSR1-FLI1 translocation, occurring in the diaphysis, not this epiphyseal giant cell lesion.",
-        "Incorrect \u2014 this describes Gardner syndrome-associated osteomas, unrelated to the epiphyseal giant cell lesion with soap-bubble appearance described here.",
-        "Incorrect \u2014 this describes osteosarcoma, a malignant tumor of osteoblasts with pleomorphic cells and irregular osteoid, occurring in the metaphysis, not an epiphyseal giant cell tumor."
-      ],
-      "overview": "Giant cell tumor of bone (osteoclastoma) is a usually benign but locally aggressive tumor occurring in the epiphysis, most commonly at the knee (distal femur/proximal tibia), producing a characteristic soap bubble appearance on X-ray. Stromal tumor cells express high RANK-L, recruiting and activating osteoclasts to form the multinucleated giant cells that give the tumor its name.",
-      "id": "2026-09-12-14"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 68-year-old woman with chronic knee pain that worsens with activity and improves with rest undergoes arthrocentesis showing a WBC count of 800/mm^3. X-ray shows joint space narrowing, subchondral sclerosis, and osteophytes. Which of the following best characterizes this condition?",
-      "options": [
-        "A crystal-induced arthritis from monosodium urate deposition",
-        "A non-inflammatory arthritis caused by chondrocyte-driven cartilage breakdown",
-        "A bacterial infection requiring emergent drainage",
-        "An autoimmune inflammatory arthritis with pannus formation"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 gout also has synovial WBC in the 2,000-50,000/mm^3 range with monosodium urate crystals, higher than this patient's count, and does not typically show the X-ray triad described.",
-        "Correct \u2014 osteoarthritis is a non-inflammatory arthritis (synovial WBC 200-2000/mm^3) caused by abnormal chondrocytes proliferating and secreting proteases/cytokines that break down hyaline cartilage, producing the classic X-ray triad of joint space narrowing, subchondral sclerosis, and osteophytes.",
-        "Incorrect \u2014 septic arthritis has a synovial WBC typically greater than 50,000/mm^3 and requires emergent drainage; this patient's much lower WBC count is inconsistent with infection.",
-        "Incorrect \u2014 rheumatoid arthritis is an autoimmune condition with much higher synovial WBC counts (2,000-50,000/mm^3) and different systemic features, not matching this patient's low WBC count and mechanical symptom pattern."
-      ],
-      "overview": "Osteoarthritis is a non-inflammatory arthritis from hyaline cartilage breakdown driven by proliferating chondrocytes that secrete proteases and cytokines, with synovial fluid WBC typically 200-2000/mm^3. Classic X-ray findings include joint space narrowing, subchondral sclerosis, osteophytes, and subchondral cysts, and pain classically worsens with joint use and improves with rest.",
-      "id": "2026-09-12-15"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 12-year-old presents with a painful, enlarging mass in the diaphysis of the femur with an \"onion skin\" periosteal reaction on X-ray. Biopsy shows sheets of small round blue cells. Genetic testing is most likely to reveal which of the following?",
-      "options": [
-        "Mutation in the RB1 gene",
-        "Fusion of EWSR1 and FLI1 genes on chromosomes 22 and 11",
-        "Mutation in the FGFR3 gene",
-        "Mutation in the APC gene"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 RB1 mutation (familial retinoblastoma) is associated with increased risk of osteosarcoma, not Ewing sarcoma.",
-        "Correct \u2014 approximately 85% of Ewing sarcoma cases are associated with a translocation fusing the EWSR1 gene (chromosome 22) to the FLI1 gene (chromosome 11), detectable by FISH, consistent with this diaphyseal small round blue cell tumor with onion-skin periosteal reaction.",
-        "Incorrect \u2014 FGFR3 mutation causes achondroplasia, a skeletal dysplasia unrelated to this malignant bone tumor.",
-        "Incorrect \u2014 APC gene mutation causes familial adenomatous polyposis and its variant Gardner syndrome (associated with osteomas), not Ewing sarcoma."
-      ],
-      "overview": "Ewing sarcoma is an aggressive malignant bone tumor of undifferentiated neuroectodermal cells, occurring most often in the diaphysis of long bones in patients under 20 years old. About 85% of cases harbor a characteristic EWSR1-FLI1 gene fusion from a t(11;22) translocation, and histology shows sheets of small round blue cells with an onion skin periosteal reaction on imaging.",
-      "id": "2026-09-12-16"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 17-year-old boy is found to have an incidental slow-growing, stalk-like bony projection capped with cartilage near the metaphysis of his distal femur. Which of the following best describes this lesion?",
-      "options": [
-        "Most common benign bone tumor, arising from the growth plate",
-        "Malignant tumor of osteoblasts with Codman triangle on X-ray",
-        "Fluid-filled cyst with fibrous lining found in the metaphysis",
-        "Undifferentiated small round blue cell tumor with onion-skin periosteal reaction"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 osteochondroma is the most common benign bone tumor, a cartilage-capped bony projection (exostosis) arising from the growth plate at the metaphysis, more common in males, and treated with simple excision if symptomatic.",
-        "Incorrect \u2014 this describes osteosarcoma, a malignant tumor with Codman triangle/sunburst pattern, distinct from the benign cartilage-capped lesion described.",
-        "Incorrect \u2014 this describes a simple (unicameral) bone cyst, a fluid-filled lesion without a cartilage cap, distinct from osteochondroma.",
-        "Incorrect \u2014 this describes Ewing sarcoma, a diaphyseal malignant tumor with onion-skin periosteal reaction, not the described benign metaphyseal lesion."
-      ],
-      "overview": "Osteochondroma is the most common benign bone tumor, a slow-growing cartilage-capped bony projection arising from the growth plate at the metaphysis, typically in adolescent males. It stops growing when the growth plate closes and rarely undergoes malignant transformation to chondrosarcoma.",
-      "id": "2026-09-12-17"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 30-year-old man with multiple colonic polyps is found to have painless, palpable bony growths on his skull. Genetic testing reveals an APC gene mutation. Which of the following best describes the bony lesions?",
-      "options": [
-        "Osteomas",
-        "Giant cell tumors",
-        "Osteochondromas",
-        "Osteosarcomas"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 Gardner syndrome, a variant of familial adenomatous polyposis caused by APC gene mutations, is associated with osteomas (benign bone growths), usually in the skull or mandible, that are often painless and palpable and may precede colonic symptoms.",
-        "Incorrect \u2014 giant cell tumors occur in the epiphysis of long bones and are unrelated to APC mutations or Gardner syndrome.",
-        "Incorrect \u2014 osteochondromas are cartilage-capped bony projections at the metaphysis of long bones, unrelated to Gardner syndrome or APC mutations.",
-        "Incorrect \u2014 osteosarcomas are malignant tumors associated with Rb and p53 mutations or Paget's disease, not the benign skull lesions of Gardner syndrome."
-      ],
-      "overview": "Gardner syndrome is a variant of familial adenomatous polyposis (FAP) caused by APC gene mutations, featuring colonic polyps along with extra-colonic manifestations including osteomas, typically in the skull or mandible. These osteomas are usually painless and palpable and may be detected before the onset of colonic symptoms.",
-      "id": "2026-09-12-18"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 68-year-old postmenopausal woman falls from standing height and sustains a wrist fracture. She has no history of major trauma. Dual-energy X-ray absorptiometry (DXA) of the hip shows a T-score of -2.8. Which of the following best describes her diagnosis and the meaning of this T-score?",
-      "options": [
-        "Paget's disease; focal area of increased bone turnover",
-        "Osteomalacia; defective mineralization of osteoid matrix",
-        "Osteopenia; bone mineral density between 1.0 and 2.5 standard deviations below a young healthy adult",
-        "Osteopetrosis; defective osteoclast activity causing increased bone density",
-        "Osteoporosis; bone mineral density 2.5 or more standard deviations below a young healthy adult"
-      ],
-      "correctIndex": 4,
-      "explanations": [
-        "Incorrect \u2014 Paget's disease is a focal disorder of excessive bone remodeling with a characteristic mosaic bone pattern and elevated alkaline phosphatase, not diagnosed by a T-score.",
-        "Incorrect \u2014 osteomalacia is a defect in mineralization of osteoid due to vitamin D or calcium deficiency, diagnosed by pseudofractures/Looser zones and abnormal calcium/PTH/phosphate labs, not by DXA T-score criteria alone.",
-        "Incorrect \u2014 osteopenia corresponds to a T-score between -1.0 and -2.5, a less severe reduction in bone density than this patient's -2.8, and does not by itself confirm the diagnosis given her fragility fracture.",
-        "Incorrect \u2014 osteopetrosis is a rare disorder of defective osteoclast activity causing increased (not decreased) bone density, the opposite of what is described by this patient's low T-score.",
-        "Correct \u2014 a T-score of -2.5 or lower defines osteoporosis, and combined with her fragility fracture (fall from standing height), this confirms the diagnosis of markedly decreased bone mass with increased fracture risk."
-      ],
-      "overview": "Osteoporosis is defined by a DXA T-score of -2.5 or lower, reflecting markedly decreased bone mass compared to a healthy young adult, and can also be diagnosed by a fragility fracture (fall from standing height or less) at sites like the hip, spine, wrist, or humerus. Osteopenia (T-score -1.0 to -2.5) represents a milder reduction in bone density, and screening DXA is recommended for women over 65.",
-      "id": "2026-09-12-19"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 45-year-old man with an iron overload disorder presents with joint pain and minimal swelling. Which joint is most commonly involved in this arthropathy?",
-      "options": [
-        "First carpometacarpal joint",
-        "Metacarpophalangeal joints",
-        "Proximal interphalangeal joints only",
-        "Distal interphalangeal joints"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 the first carpometacarpal joint is a classic site for osteoarthritis, not hemochromatosis arthropathy.",
-        "Correct \u2014 hemochromatosis arthropathy most commonly involves the metacarpophalangeal (MCP) joints, typically presenting with pain and minimal swelling in a younger patient with elevated serum ferritin.",
-        "Incorrect \u2014 PIP involvement (Bouchard's nodes) is associated with osteoarthritis, not the classic MCP-predominant pattern of hemochromatosis.",
-        "Incorrect \u2014 DIP joint involvement (Heberden's nodes) is characteristic of osteoarthritis, not hemochromatosis arthropathy."
-      ],
-      "overview": "Hemochromatosis, an iron overload disorder, can present with arthritis most commonly involving the MCP joints, often with pain but minimal swelling in a younger patient. This distribution helps distinguish it from osteoarthritis, which classically spares the MCP joints and instead affects the DIP, PIP, and first CMC joints.",
-      "id": "2026-09-12-20"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 50-year-old obese woman who stands for long periods at work reports stabbing heel pain that is worst with her first steps in the morning and improves somewhat with continued activity. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Iliotibial band syndrome",
-        "Plantar fasciitis",
-        "Tarsal tunnel syndrome",
-        "Medial tibial stress syndrome"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 iliotibial band syndrome causes lateral knee pain from friction against the lateral femoral epicondyle, not heel pain.",
-        "Correct \u2014 plantar fasciitis is inflammation of the plantar aponeurosis, associated with obesity and prolonged standing, presenting with stabbing heel pain that is worst after periods of inactivity (e.g., first steps in the morning) and tenderness at the base of the heel.",
-        "Incorrect \u2014 tarsal tunnel syndrome (distal tibial nerve compression) causes sensory symptoms on the sole of the foot, but is not specifically characterized by the classic morning stabbing pain pattern of plantar fasciitis.",
-        "Incorrect \u2014 medial tibial stress syndrome (shin splints) causes pain in the lower shin from overuse (e.g., running), not stabbing heel pain worse in the morning."
-      ],
-      "overview": "Plantar fasciitis is inflammation of the plantar aponeurosis, associated with risk factors including obesity, prolonged standing, jumping, and flat feet, and classically presents as stabbing heel pain that is worse after periods of inactivity, such as the first steps in the morning. Heel spurs often coexist, and treatment includes rest, ice, NSAIDs, proper footwear, stretching, and night splints.",
-      "id": "2026-09-12-21"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 7-year-old boy falls onto an outstretched hand while playing on monkey bars and presents with severe elbow pain and swelling. X-ray confirms a supracondylar humeral fracture. On exam, the radial pulse is diminished, and he has weakness of thumb and index finger flexion with decreased sensation over the palmar aspect of the lateral three and a half fingers. Which structures are most likely injured together in this classic presentation?",
-      "options": [
-        "Axillary nerve and posterior circumflex humeral artery",
-        "Median nerve and brachial artery",
-        "Ulnar nerve and ulnar artery",
-        "Musculocutaneous nerve and brachial artery",
-        "Radial nerve and profunda brachii artery"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 the axillary nerve and posterior circumflex humeral artery are injured with proximal humeral fractures or anterior shoulder dislocation, not supracondylar elbow fractures.",
-        "Correct \u2014 the median nerve travels with the brachial artery near the elbow, and this combination is the most common neurovascular injury in pediatric supracondylar humeral fractures, explaining the diminished radial pulse and median nerve sensory/motor deficits.",
-        "Incorrect \u2014 ulnar nerve injury would cause weakness of the intrinsic hand muscles and sensory loss on the little finger side, not the thumb-side motor/sensory findings described.",
-        "Incorrect \u2014 the musculocutaneous nerve supplies the biceps and lateral forearm sensation and is not the nerve classically injured with the brachial artery in supracondylar fractures.",
-        "Incorrect \u2014 radial nerve injury above the elbow causes wrist drop and posterior arm/hand sensory loss, and its associated artery is not classically implicated in supracondylar fractures."
-      ],
-      "overview": "Supracondylar fracture is the most common pediatric elbow fracture, typically from a fall on an outstretched arm. The brachial artery and median nerve travel together near the fracture site and are the most commonly injured neurovascular structures, though the ulnar nerve (near the medial epicondyle) and radial nerve (wrapping laterally around the humerus) can also be affected.",
-      "id": "2026-09-12-22"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 6-year-old boy presents with a limp and left hip pain that has progressed over several weeks. He has no history of trauma. Exam shows limited internal rotation and abduction of the left hip. Initial hip X-ray is normal. A bone scan shows decreased perfusion to the left femoral head. Which of the following best characterizes this condition?",
-      "options": [
-        "Autoimmune destruction of synovium with pannus formation",
-        "Genetic mutation in FGFR3 causing impaired endochondral ossification",
-        "Idiopathic avascular necrosis of the femoral head in a child, more common in males",
-        "Fracture through the femoral growth plate in an obese adolescent",
-        "Bacterial seeding of the joint requiring emergent drainage"
+        "Optic nerve (CN II)",
+        "Trochlear nerve (CN IV)",
+        "Oculomotor nerve (CN III)",
+        "Abducens nerve (CN VI)"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect \u2014 this describes rheumatoid arthritis pathophysiology, not an avascular necrosis process with decreased perfusion on bone scan.",
-        "Incorrect \u2014 this describes achondroplasia, a distinct genetic skeletal dysplasia unrelated to avascular necrosis of the femoral head.",
-        "Correct \u2014 Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head occurring in children aged 4-8, more common in males (4:1), presenting with hip pain/limp and initially normal X-ray with decreased perfusion on bone scan.",
-        "Incorrect \u2014 this describes slipped capital femoral epiphysis, which occurs in obese adolescents (12-14 years), not a 6-year-old with normal initial imaging.",
-        "Incorrect \u2014 septic arthritis presents acutely with fever, marked swelling, and very high synovial WBC count, not a gradually progressive limp with normal initial X-ray."
+        "The optic nerve is not typically compressed in uncal herniation; its compression would cause vision loss, not pupillary dilation with ptosis.",
+        "Trochlear nerve palsy causes vertical diplopia and is not the classic early finding in uncal herniation.",
+        "Correct \u2014 uncal herniation compresses the ipsilateral oculomotor nerve as it passes near the tentorial notch, causing a dilated (\"blown\"), nonreactive pupil, ptosis, and the eye positioned down and out.",
+        "Abducens nerve palsy causes medial eye deviation and is more generally associated with increased intracranial pressure, not the hallmark early sign of uncal herniation."
       ],
-      "overview": "Legg-Calve-Perthes disease is idiopathic avascular necrosis of the femoral head in children aged 4-8 years, more common in boys, presenting with hip pain and limp. Initial X-rays are often normal, while bone scan or MRI reveals decreased femoral head perfusion early in the disease course, distinguishing it from SCFE, which occurs in older, obese adolescents.",
-      "id": "2026-09-12-23"
+      "id": "2026-09-13-18"
     },
     {
       "format": "simple4",
-      "stem": "Acetylcholine-mediated vasodilation of vascular smooth muscle occurs through which of the following sequences?",
+      "overview": "Alpha-2 receptors provide negative feedback on presynaptic sympathetic neurons; agonists like clonidine and methyldopa act centrally to inhibit norepinephrine release, reducing sympathetic outflow and blood pressure. Sedation is a major side effect, and apraclonidine uses the same mechanism topically to lower intraocular pressure in glaucoma.",
+      "stem": "Clonidine lowers blood pressure primarily through which mechanism?",
       "options": [
-        "Acetylcholine directly opens L-type calcium channels on smooth muscle cells to increase contraction",
-        "Acetylcholine stimulates endothelial cells to release nitric oxide, which activates guanylyl cyclase to increase cGMP and activate myosin light chain phosphatase",
-        "Acetylcholine increases cAMP directly in smooth muscle to activate myosin light chain kinase",
-        "Acetylcholine stimulates release of RANK-L from endothelial cells to activate osteoclasts"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect \u2014 acetylcholine does not directly act on smooth muscle L-type calcium channels; its vasodilatory effect requires an intact endothelium to generate nitric oxide.",
-        "Correct \u2014 acetylcholine acts indirectly on vascular smooth muscle by stimulating endothelial cells to synthesize nitric oxide (EDRF), which diffuses into smooth muscle, activates guanylyl cyclase to raise cGMP, and increases myosin light chain phosphatase activity, causing relaxation.",
-        "Incorrect \u2014 cAMP does increase in some smooth muscle relaxation pathways but inhibits, rather than activates, myosin light chain kinase; this is also not the acetylcholine-nitric oxide pathway described.",
-        "Incorrect \u2014 RANK-L/osteoclast signaling pertains to bone remodeling, unrelated to smooth muscle relaxation via nitric oxide."
-      ],
-      "overview": "Acetylcholine causes vasodilation indirectly by stimulating endothelial cells to synthesize nitric oxide (EDRF) from L-arginine; nitric oxide diffuses into adjacent smooth muscle cells and activates guanylyl cyclase, raising cGMP levels. Increased cGMP activates myosin light chain phosphatase, dephosphorylating myosin and causing smooth muscle relaxation.",
-      "id": "2026-09-12-24"
-    },
-    {
-      "format": "simple4",
-      "stem": "Muscle biopsy in a patient with proximal muscle weakness shows perimysial inflammation predominantly composed of CD4+ T-cells. Which diagnosis is most consistent with this finding?",
-      "options": [
-        "Dermatomyositis",
-        "Fibromyalgia",
-        "Polymyalgia rheumatica",
-        "Polymyositis"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct \u2014 dermatomyositis shows perimysial inflammation with CD4+ T-cells as the predominant cell type on muscle biopsy, along with characteristic skin findings such as heliotrope rash and Gottron papules.",
-        "Incorrect \u2014 fibromyalgia biopsy shows no inflammation or muscle damage, unlike the perimysial CD4+ infiltrate described.",
-        "Incorrect \u2014 polymyalgia rheumatica does not have a characteristic inflammatory myopathy biopsy pattern and does not cause true muscle weakness.",
-        "Incorrect \u2014 polymyositis shows endomysial inflammation predominantly composed of CD8+ T-cells, not the perimysial CD4+ pattern described."
-      ],
-      "overview": "Inflammatory myopathies are distinguished on muscle biopsy by the location and type of infiltrate: polymyositis shows endomysial inflammation with predominant CD8+ T-cells, while dermatomyositis shows perimysial inflammation with predominant CD4+ T-cells. Dermatomyositis is also distinguished clinically by pathognomonic skin findings like the heliotrope rash and Gottron papules.",
-      "id": "2026-09-12-25"
-    },
-    {
-      "format": "simple4",
-      "stem": "A tennis player develops pain over the lateral elbow that worsens with resisted wrist extension. Tenderness is noted at the lateral epicondyle. Which structures classically originate at this site?",
-      "options": [
-        "Pronator muscles",
-        "Wrist flexor muscles",
-        "Wrist extensor muscles",
-        "Elbow flexor muscles"
+        "Beta-1 receptor blockade reducing cardiac output",
+        "Peripheral alpha-1 receptor blockade",
+        "Central alpha-2 agonism reducing sympathetic outflow",
+        "Direct vasodilation via nitric oxide release"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect \u2014 pronator muscles (e.g., pronator teres) originate near the medial epicondyle, not the lateral epicondyle, and are unrelated to this presentation.",
-        "Incorrect \u2014 wrist flexor muscles originate at the medial epicondyle, and their overuse causes medial epicondylitis (golfer's elbow), not the lateral pain described.",
-        "Correct \u2014 the lateral epicondyle is the origin of the wrist extensor muscles; overuse causes lateral epicondylitis (tennis elbow), presenting with lateral elbow tenderness and pain worsened by resisted wrist extension.",
-        "Incorrect \u2014 elbow flexors (e.g., biceps, brachialis) do not originate at the lateral epicondyle and are not implicated in epicondylitis."
+        "Clonidine is not a beta blocker and does not act on beta-1 receptors.",
+        "Clonidine does not act as a peripheral alpha-1 blocker; its action is central alpha-2 agonism.",
+        "Correct \u2014 clonidine is a centrally acting alpha-2 agonist that inhibits norepinephrine release, reducing sympathetic outflow and lowering blood pressure, with sedation as a major side effect.",
+        "Clonidine does not work via nitric oxide-mediated vasodilation."
       ],
-      "overview": "Epicondylitis is a form of chronic tendinosis from overuse, distinguished by the epicondyle involved: lateral epicondylitis (tennis elbow) affects the origin of wrist extensor muscles and causes pain with resisted wrist extension, while medial epicondylitis (golfer's elbow) affects wrist flexor origins and causes pain with resisted wrist flexion.",
-      "id": "2026-09-12-26"
+      "id": "2026-09-13-19"
     },
     {
       "format": "simple4",
-      "stem": "A patient undergoes pelvic surgery involving trocar placement and subsequently develops weakness of thigh adduction and numbness of the medial thigh. Which nerve was most likely injured?",
+      "overview": "Cutaneous sensory receptors differ by adaptation speed and depth: Meissner's corpuscles (superficial, touch), Pacinian corpuscles (deep, vibration/rapid pressure changes, rapidly adapting), Merkel's disks (pressure/position, slowly adapting), and free nerve endings (pain/temperature). All except free nerve endings use large myelinated A-alpha/A-beta fibers.",
+      "stem": "Which sensory receptor is a rapidly adapting structure located deep in the skin, joints, and ligaments that detects vibration and rapid changes in pressure?",
       "options": [
-        "Genitofemoral nerve",
-        "Femoral nerve",
-        "Pudendal nerve",
-        "Obturator nerve"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect \u2014 genitofemoral nerve injury affects the cremasteric reflex and sensation of the anterior scrotum/thigh, not thigh adduction strength.",
-        "Incorrect \u2014 femoral nerve injury causes weak hip flexion/knee extension and an absent patellar reflex, not isolated adductor weakness and medial thigh numbness.",
-        "Incorrect \u2014 pudendal nerve injury affects perineal sensation and continence, not thigh adduction or medial thigh sensation.",
-        "Correct \u2014 the obturator nerve (L2-L4) supplies the thigh adductor muscles and sensation to the medial thigh; it courses through the posterior pelvis and is vulnerable to injury during pelvic surgery (e.g., trocar placement), causing weak adduction and medial thigh numbness."
-      ],
-      "overview": "The obturator nerve (L2-L4) innervates the thigh adductor muscles (adductor longus, brevis, magnus, gracilis, obturator externus) and provides sensation to the medial thigh. It courses through the posterior pelvis, making it vulnerable to injury during pelvic surgery, resulting in weak thigh adduction and medial thigh numbness.",
-      "id": "2026-09-12-27"
-    },
-    {
-      "format": "simple4",
-      "stem": "A 14-year-old presents with an asymptomatic lytic lesion in the diaphysis of the femur, found incidentally. Biopsy shows irregular trabeculae of woven bone surrounded by fibrous connective tissue stroma. Which of the following best describes this condition?",
-      "options": [
-        "Chondrosarcoma, a malignant tumor of chondrocytes",
-        "Fibrous dysplasia, a benign tumor of woven bone and fibroblasts",
-        "Osteosarcoma, a malignant tumor of osteoblasts",
-        "Giant cell tumor, composed of multinucleated osteoclast-like cells"
+        "Meissner's corpuscle",
+        "Pacinian corpuscle",
+        "Free nerve ending",
+        "Merkel's disk"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect \u2014 chondrosarcoma is a malignant cartilage tumor in older adults, typically in the pelvis or proximal femur/humerus, not matching this benign adolescent diaphyseal lesion.",
-        "Correct \u2014 fibrous dysplasia is a benign bone tumor composed of woven bone surrounded by fibroblastic stroma, occurring in early adolescence in the medulla/diaphysis, often asymptomatic but capable of causing pain or fracture, and growth stops when the growth plate closes.",
-        "Incorrect \u2014 osteosarcoma is malignant, occurs in the metaphysis, shows pleomorphic cells with irregular osteoid, and classically presents with a painful enlarging mass, not the benign incidental lesion described.",
-        "Incorrect \u2014 giant cell tumor shows multinucleated giant cells in the epiphysis, not the fibrous stroma with woven bone trabeculae described in this diaphyseal lesion."
+        "Meissner's corpuscles are rapidly adapting touch receptors near the skin surface (glabrous skin), not deep structures detecting vibration.",
+        "Correct \u2014 Pacinian corpuscles are rapidly adapting, egg-shaped receptors located deep in skin, joints, and ligaments that detect vibration and rapid pressure changes via large myelinated A-alpha fibers.",
+        "Free nerve endings sense pain and temperature via C and A-delta fibers, not vibration.",
+        "Merkel's disks are slowly adapting pressure/position receptors that provide continuous information rather than detecting vibration."
       ],
-      "overview": "Fibrous dysplasia is a benign bone tumor of woven bone surrounded by fibrous connective tissue stroma, occurring in the medulla/diaphysis during early adolescence and growing until the growth plate closes. It is often asymptomatic but can cause pain or pathologic fractures, appearing as a lytic lesion in the diaphysis on X-ray.",
-      "id": "2026-09-12-28"
+      "id": "2026-09-13-20"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Trigeminal neuralgia causes brief, severe, unilateral, shock-like facial pain in the V2/V3 distribution, often triggered by light touch such as chewing, brushing teeth, or wind. It is commonly caused by vascular compression of the nerve and is strongly associated with multiple sclerosis. First-line treatment is carbamazepine, a sodium channel-blocking anticonvulsant.",
+      "stem": "A 68-year-old woman reports recurrent episodes of severe, unilateral, shock-like facial pain lasting seconds, triggered by chewing and brushing her teeth. Pain is localized to the cheek and jaw. Neurologic examination is otherwise normal. Which of the following is the most appropriate first-line pharmacologic treatment?",
+      "options": [
+        "Prednisone",
+        "Baclofen alone",
+        "Carbamazepine",
+        "High-flow oxygen",
+        "Sumatriptan"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Prednisone is not standard first-line therapy for trigeminal neuralgia.",
+        "Baclofen may be used as an adjunct or second-line agent in some cases but is not first-line; carbamazepine is preferred.",
+        "Correct \u2014 carbamazepine, a sodium channel blocker, is the first-line treatment for trigeminal neuralgia.",
+        "High-flow oxygen is the acute treatment for cluster headache, not trigeminal neuralgia.",
+        "Sumatriptan is used for abortive migraine treatment, not trigeminal neuralgia."
+      ],
+      "id": "2026-09-13-21"
     },
     {
       "format": "simple4",
-      "stem": "A competitive swimmer develops shoulder pain with overhead activity. Exam shows pain with resisted abduction when the arms are positioned at 90 degrees of abduction and 30 degrees of forward flexion with thumbs pointing down. Which structure is most likely impinged, and between what two structures does this occur?",
+      "overview": "Neurofibromatosis type 2 is an autosomal dominant disorder caused by NF2 gene mutation, characterized by bilateral vestibular (acoustic) schwannomas occurring in nearly all patients, along with meningiomas and ependymomas (mnemonic: MISME \u2014 multiple inherited schwannomas, meningiomas, ependymomas).",
+      "stem": "A patient found to have bilateral vestibular schwannomas along with multiple meningiomas most likely has a mutation in which gene?",
       "options": [
-        "Supraspinatus tendon; between the humeral head and acromion process",
-        "Long head of biceps tendon; between the clavicle and first rib",
-        "Infraspinatus tendon; between the humeral head and coracoid process",
-        "Subscapularis tendon; between the scapula and rib cage"
+        "NF2",
+        "TSC1",
+        "NF1",
+        "VHL"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct \u2014 the supraspinatus tendon is compressed in the subacromial space between the humeral head and acromion process, producing impingement (swimmer's shoulder/thrower's shoulder); the empty can test (thumbs down) reproduces pain by increasing this impingement.",
-        "Incorrect \u2014 thoracic outlet syndrome, not biceps tendon impingement, involves compression between the clavicle and ribs; the empty/full can test specifically evaluates the supraspinatus.",
-        "Incorrect \u2014 the infraspinatus assists external rotation and is not the classic tendon compressed against the acromion in impingement syndrome, nor is the coracoid process the site of the described impingement.",
-        "Incorrect \u2014 the subscapularis mediates internal rotation and is not compressed against the rib cage; scapular winging against the rib cage relates to long thoracic nerve/serratus anterior dysfunction, not rotator cuff impingement."
+        "Correct \u2014 Neurofibromatosis type 2 is caused by mutation of the NF2 gene and classically presents with bilateral vestibular schwannomas, meningiomas, and ependymomas (MISME).",
+        "TSC1 mutations cause tuberous sclerosis, not bilateral vestibular schwannomas.",
+        "NF1 mutations cause neurofibromatosis type 1, characterized by neurofibromas, caf\u00e9-au-lait spots, and Lisch nodules, not bilateral schwannomas.",
+        "VHL mutations cause von Hippel-Lindau disease, associated with hemangioblastomas, renal cell carcinoma, and pheochromocytomas, not bilateral schwannomas."
       ],
-      "overview": "Supraspinatus impingement is the most common rotator cuff injury, resulting from tendon compression in the subacromial space between the humeral head and acromion process, commonly seen in swimmers and throwers. The empty can test (arms abducted 90\u00b0, thumbs down) and full can test (thumbs up) help identify supraspinatus pathology, with pain suggesting tendinopathy or tear.",
-      "id": "2026-09-12-29"
+      "id": "2026-09-13-22"
     },
     {
-      "format": "simple4",
-      "stem": "Which of the following correctly distinguishes the structural relationship between the sarcoplasmic reticulum and T-tubules in cardiac muscle compared to skeletal muscle?",
+      "format": "vignette5",
+      "overview": "Lambert-Eaton myasthenic syndrome (LEMS) is a paraneoplastic neuromuscular junction disorder, most often associated with small cell lung cancer, caused by autoantibodies against presynaptic voltage-gated calcium channels that impair acetylcholine release. Unlike myasthenia gravis, LEMS causes proximal weakness that improves with muscle use, is associated with autonomic symptoms such as dry mouth and erectile dysfunction, and shows hyporeflexia.",
+      "stem": "A 63-year-old man with a 40-pack-year smoking history presents with progressive proximal muscle weakness that improves temporarily with repeated muscle use. He also reports dry mouth and erectile dysfunction. Reflexes are diminished. Chest CT reveals a central lung mass, and biopsy confirms small cell lung carcinoma. Which of the following is the most likely underlying mechanism of his neurologic symptoms?",
       "options": [
-        "Both cardiac and skeletal muscle form triads with two terminal cisternae per T-tubule",
-        "Cardiac muscle forms dyads (one T-tubule with one terminal cisterna), while skeletal muscle forms triads (one T-tubule with two terminal cisternae)",
-        "Cardiac muscle forms triads, while skeletal muscle forms dyads",
-        "Neither cardiac nor skeletal muscle contains specialized T-tubule/SR junctions"
+        "Toxin-mediated blockade of acetylcholine release at the neuromuscular junction",
+        "Antibodies against presynaptic voltage-gated calcium channels",
+        "Autoantibodies against the myelin sheath of the corticospinal tract",
+        "Antibodies against postsynaptic acetylcholine receptors",
+        "Demyelination of peripheral nerves due to molecular mimicry"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect \u2014 only skeletal muscle forms triads with two terminal cisternae per T-tubule; cardiac muscle has the simpler dyad arrangement.",
-        "Correct \u2014 cardiac muscle has a less extensive sarcoplasmic reticulum and forms dyads (one T-tubule paired with one terminal cisterna), whereas skeletal muscle forms triads (one T-tubule flanked by two terminal cisternae).",
-        "Incorrect \u2014 this reverses the correct pairing; dyads are characteristic of cardiac muscle, and triads are characteristic of skeletal muscle.",
-        "Incorrect \u2014 both muscle types have specialized T-tubule/SR junctions essential for excitation-contraction coupling, just with different structural arrangements (dyads vs. triads)."
+        "Toxin-mediated blockade of acetylcholine release describes botulism, not the antibody-mediated mechanism of LEMS.",
+        "Correct \u2014 LEMS is a paraneoplastic disorder, classically associated with small cell lung cancer, caused by antibodies against presynaptic voltage-gated calcium channels that impair acetylcholine release, producing proximal weakness and autonomic symptoms that improve with repeated muscle use.",
+        "Corticospinal tract demyelination is not a feature of LEMS, which is a neuromuscular junction disorder.",
+        "Antibodies against postsynaptic acetylcholine receptors describe myasthenia gravis, which worsens (rather than improves) with repeated use, unlike this patient's presentation.",
+        "Demyelination via molecular mimicry describes Guillain-Barre syndrome, not LEMS."
       ],
-      "overview": "Cardiac and skeletal muscle share sarcomeric structure but differ in their T-tubule/sarcoplasmic reticulum arrangement: cardiac muscle has a less extensive SR forming dyads (one T-tubule with one terminal cisterna), while skeletal muscle forms triads (one T-tubule flanked by two terminal cisternae). Cardiac muscle also uniquely depends on extracellular calcium influx through L-type channels to trigger calcium-induced calcium release during phase 2 of its action potential.",
-      "id": "2026-09-12-30"
+      "id": "2026-09-13-23"
+    },
+    {
+      "format": "simple4",
+      "overview": "The locus ceruleus in the posterior pons is the principal noradrenergic nucleus of the brain, sending widespread projections that activate under stress and are implicated in opiate withdrawal symptoms. Norepinephrine levels are increased in anxiety and decreased in depression, and several antidepressants (SNRIs, MAOIs) work by increasing NE levels.",
+      "stem": "Which brainstem structure is the primary source of norepinephrine in the brain and is activated during stress and opiate withdrawal?",
+      "options": [
+        "Raphe nuclei",
+        "Nucleus accumbens",
+        "Locus ceruleus",
+        "Substantia nigra pars compacta"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "The raphe nuclei are the primary source of serotonin, not norepinephrine.",
+        "The nucleus accumbens is part of the dopaminergic reward pathway, not a source of norepinephrine.",
+        "Correct \u2014 the locus ceruleus, located in the posterior pons, is the main source of norepinephrine in the brain and is activated during stress and opiate withdrawal.",
+        "The substantia nigra pars compacta is the main source of dopamine, not norepinephrine."
+      ],
+      "id": "2026-09-13-24"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Friedreich's ataxia is an autosomal recessive disorder caused by GAA trinucleotide repeat expansion in the frataxin gene, leading to mitochondrial dysfunction and degeneration of the spinocerebellar tracts, dorsal columns, and lateral corticospinal tracts. Clinical features include progressive ataxia, dysarthria, loss of vibration/proprioception, hyporeflexia, pes cavus, kyphoscoliosis, and hypertrophic cardiomyopathy, a common cause of death.",
+      "stem": "A 14-year-old boy presents with progressive gait ataxia, dysarthria, decreased deep tendon reflexes, and loss of vibration and position sense. Examination also reveals pes cavus and kyphoscoliosis. Echocardiogram shows hypertrophic cardiomyopathy. Genetic testing reveals GAA trinucleotide repeat expansion in a gene encoding a mitochondrial protein. Which of the following is most likely deficient in this patient?",
+      "options": [
+        "Frataxin",
+        "Survival motor neuron protein",
+        "Superoxide dismutase 1",
+        "Hypocretin",
+        "Dystrophin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 Friedreich's ataxia is caused by GAA trinucleotide repeat expansion in the frataxin gene, leading to decreased frataxin (a mitochondrial protein) and degeneration of the spinocerebellar tracts, dorsal columns, and corticospinal tracts, plus hypertrophic cardiomyopathy and skeletal abnormalities.",
+        "Survival motor neuron protein deficiency causes spinal muscular atrophy, not Friedreich's ataxia.",
+        "Superoxide dismutase 1 mutations are associated with familial ALS, not Friedreich's ataxia.",
+        "Hypocretin deficiency causes narcolepsy, unrelated to this presentation.",
+        "Dystrophin deficiency causes Duchenne muscular dystrophy, not Friedreich's ataxia."
+      ],
+      "id": "2026-09-13-25"
+    },
+    {
+      "format": "vignette5",
+      "overview": "Craniopharyngioma is the most common supratentorial childhood brain tumor, arising from epithelial remnants of Rathke's pouch. It classically presents with visual field defects (bitemporal hemianopia from optic chiasm compression), hypopituitarism, and calcified suprasellar masses with cholesterol-rich \"motor oil\" cyst fluid on imaging and pathology.",
+      "stem": "An 8-year-old boy presents with headaches, short stature, and progressive bitemporal visual field loss. MRI shows a suprasellar mass with calcifications. Biopsy reveals nodules of \"wet\" keratin and cholesterol-laden cyst fluid. From which embryologic structure does this tumor most likely arise?",
+      "options": [
+        "Rhombic lip neuroectoderm",
+        "Ependymal lining of the fourth ventricle",
+        "Notochord remnants",
+        "Rathke's pouch remnants",
+        "Neural crest cells"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Failure of rhombic lip fusion is implicated in Dandy-Walker malformation and medulloblastoma origin, not craniopharyngioma.",
+        "Ependymal lining gives rise to ependymomas, typically found within the ventricles, not the suprasellar region.",
+        "Notochord remnants form the nucleus pulposus and are associated with chordomas, not craniopharyngioma.",
+        "Correct \u2014 craniopharyngioma arises from remnants of Rathke's pouch (the ectodermal invagination forming the anterior pituitary), explaining the suprasellar location, calcifications, and keratin/cholesterol-rich cyst contents.",
+        "Neural crest cells give rise to schwannomas and other tumors, not craniopharyngioma."
+      ],
+      "id": "2026-09-13-26"
+    },
+    {
+      "format": "simple4",
+      "overview": "Phenytoin, a sodium channel-blocking anticonvulsant, has numerous adverse effects including nystagmus and ataxia (early toxicity signs), gingival hyperplasia (via increased PDGF activity), hirsutism, peripheral neuropathy, osteoporosis, and teratogenicity, plus dose-dependent zero-order kinetics at high or toxic doses.",
+      "stem": "A patient on long-term phenytoin therapy for seizures develops gum overgrowth. This adverse effect is thought to result from increased activity of which factor?",
+      "options": [
+        "Epidermal growth factor receptor (EGFR)",
+        "Insulin-like growth factor (IGF-1)",
+        "Platelet-derived growth factor (PDGF) in gingival tissue",
+        "Vascular endothelial growth factor (VEGF)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "EGFR amplification is associated with glioblastoma pathology, not phenytoin-induced gingival hyperplasia.",
+        "IGF-1 is not the growth factor implicated in phenytoin's gingival side effect.",
+        "Correct \u2014 phenytoin causes gingival hyperplasia, thought to result from increased PDGF activity in gum tissue, along with other adverse effects like hirsutism and coarse facial features.",
+        "VEGF is involved in angiogenesis and is not the mechanism implicated in phenytoin-induced gingival hyperplasia."
+      ],
+      "id": "2026-09-13-27"
+    },
+    {
+      "format": "simple4",
+      "overview": "Dopamine's peripheral effects are dose-dependent: low doses activate D1 receptors causing renal vasodilation, medium doses activate beta-1 receptors increasing heart rate/contractility/cardiac output, and high doses activate alpha-1 receptors causing vasoconstriction. This dose-dependent profile underlies its use in shock, especially when renal perfusion is a concern.",
+      "stem": "At low doses, dopamine acts primarily on which receptor to produce renal vasodilation?",
+      "options": [
+        "Alpha-1 receptors",
+        "Beta-1 receptors",
+        "D1 receptors",
+        "Beta-2 receptors"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Alpha-1 receptor activation predominates at high doses of dopamine, causing vasoconstriction, the opposite of the low-dose effect.",
+        "Beta-1 receptor activation predominates at medium doses of dopamine, increasing heart rate and contractility, not causing renal vasodilation.",
+        "Correct \u2014 at low doses, dopamine acts on D1 receptors in the renal vasculature, causing vasodilation and increased renal blood flow.",
+        "Beta-2 receptors are not the primary target of low-dose dopamine; the low-dose renal effect is mediated via D1 receptors."
+      ],
+      "id": "2026-09-13-28"
+    },
+    {
+      "format": "simple4",
+      "overview": "Creutzfeldt-Jakob disease is a rapidly progressive prion disease causing spongiform encephalopathy (vacuolization of neuropil), presenting with rapid dementia and startle myoclonus. EEG classically shows periodic sharp wave complexes, and CSF may show elevated 14-3-3 protein; brain biopsy remains the gold standard, though the disease is usually fatal.",
+      "stem": "Which EEG finding is classically associated with Creutzfeldt-Jakob disease?",
+      "options": [
+        "Diffuse background slowing without epileptiform activity",
+        "3 Hz spike-and-wave discharges",
+        "Sleep spindles and K complexes",
+        "Periodic sharp wave complexes"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Diffuse slowing without epileptiform activity is a nonspecific finding seen in delirium, not the specific periodic sharp wave pattern of Creutzfeldt-Jakob disease.",
+        "3 Hz spike-and-wave discharges are characteristic of absence seizures, not Creutzfeldt-Jakob disease.",
+        "Sleep spindles and K complexes are normal features of stage N2 sleep, not associated with Creutzfeldt-Jakob disease.",
+        "Correct \u2014 Creutzfeldt-Jakob disease classically shows periodic sharp wave complexes on EEG, occurring at regular intervals (0.5-2 seconds), reflecting the rapidly progressive spongiform encephalopathy."
+      ],
+      "id": "2026-09-13-29"
+    },
+    {
+      "format": "simple4",
+      "overview": "Central pontine myelinolysis (osmotic demyelination syndrome) results from overly rapid correction of chronic hyponatremia, causing osmotic-induced demyelination of pontine axons. Clinical features include pseudobulbar palsy and quadriparesis, sometimes progressing to locked-in syndrome; the mnemonic \"from low to high, your pons will die\" captures the mechanism.",
+      "stem": "Overly rapid correction of severe hyponatremia places a patient at risk for which complication?",
+      "options": [
+        "Central pontine myelinolysis",
+        "Subacute combined degeneration",
+        "Wernicke encephalopathy",
+        "Guillain-Barre syndrome"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 rapid correction of hyponatremia can cause osmotic demyelination of central pontine axons, presenting with quadriparesis and pseudobulbar palsy, and can progress to locked-in syndrome.",
+        "Subacute combined degeneration results from vitamin B12 deficiency affecting the posterior columns and corticospinal tracts, not osmotic changes.",
+        "Wernicke encephalopathy results from thiamine deficiency, not sodium correction.",
+        "Guillain-Barre syndrome is an autoimmune demyelinating polyradiculoneuropathy typically following infection, unrelated to osmotic shifts."
+      ],
+      "id": "2026-09-13-30"
     }
   ]
 }
