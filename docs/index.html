@@ -316,7 +316,9 @@ function renderForState(state) {
     case 'bookmarks': startBookmarksQuiz(false); break;
     case 'subjects': renderSubjectMenu(false); break;
     case 'stats': renderStats(false); break;
-    case 'subjectList': startSubjectQuiz(state.params.subject, false); break;
+    case 'subjectList': renderSubjectBatches(state.params.subject, false); break;
+    case 'subjectBatch': startSubjectBatchQuiz(state.params.subject, state.params.date, false); break;
+    case 'subjectMissed': startSubjectMissedQuiz(state.params.subject, false); break;
     // A mid-quiz question isn't itself reconstructable (which question,
     // which filtered list) from a popped state, and forward-navigating back
     // into one is a rare edge case — fall back to Home, same as what every
@@ -795,24 +797,122 @@ async function renderSubjectMenu(push = true) {
   `);
   document.getElementById('btn-home').addEventListener('click', goBack);
   document.querySelectorAll('.subject-tile').forEach(btn => {
-    btn.addEventListener('click', () => startSubjectQuiz(btn.dataset.subject));
+    btn.addEventListener('click', () => renderSubjectBatches(btn.dataset.subject));
   });
 }
 
-async function startSubjectQuiz(subject, push = true) {
-  if (push) pushScreen('subjectList', { subject });
-  let data;
+async function fetchSubjectQuestions(subject) {
   try {
     const res = await fetch(`archive/${encodeURIComponent(subject)}.json?v=${Date.now()}`, { cache: 'no-store' });
     if (!res.ok) throw new Error('not found');
-    data = await res.json();
+    const data = await res.json();
+    return data.questions || [];
   } catch (e) {
-    data = { questions: [] };
+    return [];
   }
-  renderQuestionList(data.questions, {
-    title: subject,
-    emptyMessage: `No archived questions yet for ${subject}.`,
+}
+
+// Question ids are "{generation-date}-{NN}" (see generate.py) — the date is
+// reused here as a free grouping key, so a subject's growing archive reads
+// as a list of quizzes instead of one ever-longer flat list.
+function batchDateFromId(id) {
+  const m = /^(\d{4}-\d{2}-\d{2})-\d+$/.exec(id);
+  return m ? m[1] : 'unknown';
+}
+
+function groupIntoBatches(questions) {
+  const byDate = {};
+  questions.forEach(q => {
+    const date = batchDateFromId(q.id);
+    (byDate[date] = byDate[date] || []).push(q);
+  });
+  return Object.entries(byDate)
+    .map(([date, qs]) => ({ date, questions: qs }))
+    .sort((a, b) => b.date.localeCompare(a.date)); // newest quiz first
+}
+
+function formatBatchDate(dateStr) {
+  if (dateStr === 'unknown') return 'Unknown date';
+  const [y, m, d] = dateStr.split('-').map(Number);
+  return new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+}
+
+async function renderSubjectBatches(subject, push = true) {
+  if (push) pushScreen('subjectList', { subject });
+  const questions = await fetchSubjectQuestions(subject);
+
+  if (questions.length === 0) {
+    render(`
+      <div class="top-bar-simple">
+        <button class="back-link" id="btn-home">${BACK_ICON}</button>
+        <h1 style="margin:0;">${escapeHtml(subject)}</h1>
+      </div>
+      <div class="empty-state">No archived questions yet for ${escapeHtml(subject)}.</div>
+    `);
+    document.getElementById('btn-home').addEventListener('click', goBack);
+    return;
+  }
+
+  const subjectIds = new Set(questions.map(q => q.id));
+  const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
+  const missedCount = Object.keys(wrongBank).filter(id => subjectIds.has(id)).length;
+
+  const batches = groupIntoBatches(questions);
+  const batchRows = batches.map(b => `
+    <button class="list-item batch-row" data-date="${escapeHtml(b.date)}">
+      <div style="display:flex; justify-content:space-between; align-items:center;">
+        <span>${escapeHtml(formatBatchDate(b.date))}</span>
+        <span style="color:var(--muted); font-size:12px;">${b.questions.length} questions</span>
+      </div>
+    </button>
+  `).join('');
+
+  render(`
+    <div class="top-bar-simple">
+      <button class="back-link" id="btn-home">${BACK_ICON}</button>
+      <h1 style="margin:0;">${escapeHtml(subject)}</h1>
+    </div>
+    <button class="tile" id="btn-subject-missed" style="width:100%; flex-direction:row; align-items:center; margin-bottom:20px; ${missedCount === 0 ? 'opacity:0.5; cursor:default;' : ''}">
+      <div class="tile-icon" style="background:rgba(248,113,113,0.16); flex-shrink:0;">${REVIEW_ICON}</div>
+      <div style="text-align:left;"><div class="tile-title">Missed in ${escapeHtml(subject)}</div><div class="tile-sub">${missedCount} question${missedCount === 1 ? '' : 's'}</div></div>
+    </button>
+    <div class="section-label">Quizzes</div>
+    ${batchRows}
+  `);
+  document.getElementById('btn-home').addEventListener('click', goBack);
+  if (missedCount > 0) {
+    document.getElementById('btn-subject-missed').addEventListener('click', () => startSubjectMissedQuiz(subject));
+  }
+  document.querySelectorAll('.batch-row').forEach(btn => {
+    btn.addEventListener('click', () => startSubjectBatchQuiz(subject, btn.dataset.date));
+  });
+}
+
+async function startSubjectBatchQuiz(subject, date, push = true) {
+  if (push) pushScreen('subjectBatch', { subject, date });
+  const questions = await fetchSubjectQuestions(subject);
+  const batchQuestions = questions.filter(q => batchDateFromId(q.id) === date);
+  renderQuestionList(batchQuestions, {
+    title: `${subject} · ${formatBatchDate(date)}`,
+    emptyMessage: 'No questions found for this quiz.',
     mode: 'subject',
+  });
+}
+
+async function startSubjectMissedQuiz(subject, push = true) {
+  if (push) pushScreen('subjectMissed', { subject });
+  const questions = await fetchSubjectQuestions(subject);
+  const subjectIds = new Set(questions.map(q => q.id));
+  const wrongBank = loadJSON(LS_KEYS.wrongBank, {});
+  const missed = Object.values(wrongBank)
+    .filter(entry => subjectIds.has(entry.question.id))
+    .map(entry => entry.question);
+  renderQuestionList(missed, {
+    title: `${subject} · Missed`,
+    emptyMessage: `Nothing missed in ${subject} yet.`,
+    // 'review' mode so answering correctly here also clears it from the
+    // global wrong-bank, same as the main Review Missed flow.
+    mode: 'review',
   });
 }
 
