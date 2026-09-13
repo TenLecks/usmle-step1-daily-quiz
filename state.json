@@ -491,66 +491,246 @@
       }
     ],
     "Endocrinology": [
-      "In a pregnant woman with a normal thyroid gland, estrogen raises thyroxine-binding globulin (TBG) le",
-      "Which hormone is synthesized in the paraventricular nucleus of the hypothalamus and released from th",
-      "A 42-year-old man has resistant hypertension despite a three-drug regimen and mild hypokalemia with ",
-      "A 2-week-old female infant presents with vomiting, dehydration, and hypotension. Ambiguous genitalia",
-      "A 70-year-old man with type 2 diabetes and limited fluid intake presents with severe dehydration and",
-      "Which glucose transporter is stored in intracellular vesicles and translocated to the cell surface o",
-      "A child has a painless midline neck mass that moves upward with swallowing and tongue protrusion. Th",
-      "A 58-year-old woman is found on routine labs to have hypercalcemia. She reports recurrent kidney sto",
-      "Which anterior pituitary hormone signals through the JAK/STAT pathway rather than the cAMP second me",
-      "A 28-year-old woman presents with amenorrhea, galactorrhea, and bitemporal visual field loss. Serum ",
-      "A 27-year-old obese woman presents with oligomenorrhea, hirsutism, and acne. Her LH:FSH ratio is app",
-      "A 38-year-old man has episodic headaches, palpitations, diaphoresis, and pallor with paroxysmal hype",
-      "In the two-cell, two-gonadotropin model of ovarian estrogen synthesis, which cell type converts andr",
-      "A 45-year-old woman presents with fatigue, weight loss, nausea, and craving for salty foods for the ",
-      "Which autoantibody is most specific for Graves' disease and directly stimulates thyroid hormone synt",
-      "A 34-year-old woman has central obesity, moon facies, purple abdominal striae, hypertension, and hyp",
-      "Which zone of the adrenal cortex produces aldosterone, and what enzyme is uniquely expressed there t",
-      "Which insulin formulation consists of regular insulin complexed with protamine, producing a peak eff",
-      "Which histologic finding is classic for Hashimoto's (chronic autoimmune) thyroiditis?",
-      "Which contraceptive method works primarily through a hormone-free local inflammatory response toxic ",
-      "A 46,XY infant has normal male internal genitalia (epididymis, vas deferens, seminal vesicles) but a",
-      "A 46,XY phenotypic female has primary amenorrhea with normal breast development but absent pubic and",
-      "What is the direct effect of parathyroid hormone (PTH) on phosphate handling in the kidney?",
-      "What mechanism triggers the mid-cycle LH surge that causes ovulation?",
-      "A 45-year-old man reports that his rings no longer fit and his shoe size has increased over the past",
-      "A young man presents with a marfanoid body habitus, mucosal neuromas of the lips and tongue, an elev",
-      "Which combination of histologic findings is characteristic of papillary thyroid carcinoma?",
-      "A 16-year-old boy presents with polyuria, polydipsia, weight loss, abdominal pain, and Kussmaul brea",
-      "Which of the following is the most feared, potentially life-threatening adverse effect of metformin ",
-      "A patient develops new hyperglycemia along with a painful, itchy, blistering rash that migrates acro",
-      "A 52-year-old woman presents with fatigue, weight loss, and nausea. She denies any skin darkening. L",
-      "A 32-year-old woman presents with a painful, tender, enlarged thyroid gland two weeks after a viral ",
-      "A patient with longstanding primary hyperparathyroidism develops bone pain and pathologic fractures.",
-      "A 22-year-old woman presents with hirsutism, severe acne, and oligomenorrhea. She reports that she d",
-      "Administration of a large iodine load transiently inhibits thyroid hormone synthesis by which of the",
-      "A 35-year-old man presents with a thyroid nodule found to be medullary thyroid carcinoma on biopsy. ",
-      "A 25-year-old asymptomatic woman is found to have mildly elevated serum calcium, normal PTH, and low",
-      "Which protein, co-released with catecholamines from adrenal chromaffin cells, is used as a serum dia",
-      "Acute hemorrhagic destruction of the adrenal glands leading to Waterhouse-Friderichsen syndrome is c",
-      "GLP-1 receptor agonists lower blood glucose and promote weight loss primarily through which mechanis",
-      "A 34-year-old woman presents with 8 months of amenorrhea, hot flashes, and vaginal dryness. Urine pr",
-      "A 32-year-old woman with a history of dilation and curettage after a miscarriage now presents with s",
-      "In primary hyperaldosteronism, the phenomenon of 'aldosterone escape' prevents which of the followin",
-      "The MEN1 syndrome results from loss-of-function mutations in a tumor suppressor gene located on whic",
-      "Which of the following best describes the physiologic role of somatostatin in the anterior pituitary",
-      "A 6-year-old boy presents with fever, a petechial rash, and altered mental status. Within hours he d",
-      "A child presents with hypertension, hypokalemia, and metabolic alkalosis but has a low plasma aldost",
-      "A 55-year-old woman reports recurrent episodes of confusion, diaphoresis, and palpitations that occu",
-      "SGLT2 inhibitors such as canagliflozin and empagliflozin lower blood glucose by which mechanism?",
-      "A 40-year-old woman with a history of Cushing disease underwent bilateral adrenalectomy 2 years ago ",
-      "A 4-year-old girl presents with atypical genitalia and hypertension. Serum studies reveal elevated 1",
-      "A 29-year-old woman experienced severe postpartum hemorrhage complicated by hypovolemic shock during",
-      "An 8-year-old boy presents with headaches, bitemporal visual field deficits, and short stature. Head",
-      "Sulfonylureas lower blood glucose primarily through which of the following mechanisms?",
-      "An infant presents with recurrent infections, hypocalcemic tetany, and a congenital heart defect. Wh",
-      "Which effect of growth hormone is mediated directly by GH itself rather than indirectly through IGF-",
-      "Why should a beta-blocker never be administered before an alpha-blocker in the preoperative manageme",
-      "A radiologic finding of an enlarged sella turcica incompletely filled with pituitary tissue, often s",
-      "A 16-year-old boy has delayed puberty, small testes, and an inability to smell. Laboratory studies s",
-      "A child presents with short stature, short fourth and fifth metacarpals, round facies, hypocalcemia,"
+      {
+        "topic": "Thyroxine-binding globulin changes in pregnancy",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Oxytocin",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Primary hyperaldosteronism",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "21-hydroxylase deficiency (classic CAH)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hyperosmolar hyperglycemic state",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "GLUT4",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Thyroglossal duct cyst",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Primary hyperparathyroidism",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Growth hormone signaling",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Prolactinoma",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Polycystic ovary syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Pheochromocytoma",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Two-cell, two-gonadotropin model of ovarian steroidogenesis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Primary adrenal insufficiency (Addison disease)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Graves' disease",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Cushing disease (ACTH-secreting pituitary adenoma)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Zona glomerulosa / aldosterone synthase",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "NPH insulin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hashimoto thyroiditis",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Copper intrauterine device",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "5-alpha-reductase deficiency",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Androgen insensitivity syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Parathyroid hormone renal effects",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "LH surge and ovulation",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Acromegaly",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Multiple endocrine neoplasia type 2B",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Papillary thyroid carcinoma",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Diabetic ketoacidosis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Metformin",
+        "angle": "complications"
+      },
+      {
+        "topic": "Glucagonoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Secondary adrenal insufficiency",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Subacute (de Quervain) thyroiditis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Brown tumor (osteitis fibrosa cystica)",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Nonclassic congenital adrenal hyperplasia",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Wolff-Chaikoff effect",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Multiple endocrine neoplasia type 2A",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Familial hypocalciuric hypercalcemia",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Chromogranin A",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Waterhouse-Friderichsen syndrome",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "GLP-1 receptor agonists",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Primary ovarian insufficiency",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Asherman syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Aldosterone escape",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "MEN1 syndrome",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Somatostatin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Waterhouse-Friderichsen syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Apparent mineralocorticoid excess (11\u03b2-HSD2 deficiency)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Insulinoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "SGLT2 inhibitors",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Nelson syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "11\u03b2-hydroxylase deficiency",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Sheehan syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Craniopharyngioma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Sulfonylureas",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "DiGeorge syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Growth hormone",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Pheochromocytoma perioperative management",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Empty sella syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Kallmann syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Pseudohypoparathyroidism type 1A",
+        "angle": "mechanism"
+      }
     ],
     "Gastroenterology": [
       "Long-term PPI use can lead to vitamin B12 deficiency. What is the mechanism?",
