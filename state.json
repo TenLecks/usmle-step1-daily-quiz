@@ -1,5 +1,5 @@
 {
-  "cycle_index": 9,
+  "cycle_index": 10,
   "cycle_number": 2,
   "tail_order": [
     "Reproductive",
@@ -2304,6 +2304,126 @@
       {
         "topic": "Acute angle-closure glaucoma",
         "angle": "treatment"
+      },
+      {
+        "topic": "Acute angle-closure glaucoma",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Central retinal vein occlusion (CRVO)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Retinal detachment",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Giant cell arteritis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Horner syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Homonymous hemianopsia",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Internuclear ophthalmoplegia",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Open-angle glaucoma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Idiopathic intracranial hypertension",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Non-arteritic anterior ischemic optic neuropathy (NAION)",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Vitreous humor",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Posterior vitreous detachment",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Episcleritis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Corneal abrasion",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Herpes zoster ophthalmicus",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Adie's tonic pupil",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Abducens nerve (CN VI) palsy",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Frontal eye fields",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Pilocarpine",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Timolol",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Epinephrine (glaucoma)",
+        "angle": "complications"
+      },
+      {
+        "topic": "Presbyopia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Homocystinuria",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Cataracts",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Galactosemia",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Leber hereditary optic neuropathy",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Optic neuritis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Hypertensive retinopathy",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Age-related macular degeneration (wet/neovascular)",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Retinitis pigmentosa",
+        "angle": "clinical_presentation"
       }
     ],
     "Pathology": [
