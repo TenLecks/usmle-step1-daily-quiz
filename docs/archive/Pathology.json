@@ -650,6 +650,656 @@
       "id": "2026-08-30-30",
       "topic": "Follicular lymphoma",
       "angle": "mechanism"
+    },
+    {
+      "format": "simple4",
+      "stem": "Platelet-derived growth factor (PDGF) contributes to wound healing primarily by which of the following actions?",
+      "options": [
+        "Stimulating fibroblast and smooth muscle cell growth, migration, and collagen synthesis",
+        "Serving as the primary pyrogen responsible for fever during inflammation",
+        "Inhibiting angiogenesis to limit excessive vascular proliferation",
+        "Directly cross-linking collagen fibers during scar maturation"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - PDGF, released by platelets, macrophages, and endothelial cells, stimulates fibroblast and smooth muscle cell growth, migration, and collagen synthesis, and is implicated in conditions like myelofibrosis and scleroderma.",
+        "Incorrect - the pyrogens described in the notes are IL-1 and TNF (endogenous) and LPS (exogenous), not PDGF.",
+        "Incorrect - PDGF is not described as an angiogenesis inhibitor; angiogenesis is driven by VEGF and FGF.",
+        "Incorrect - collagen cross-linking is performed by lysyl oxidase, not PDGF."
+      ],
+      "overview": "PDGF is released by platelets, macrophages, and endothelial cells and stimulates fibroblast and smooth muscle cell proliferation, migration, and collagen synthesis during wound healing. Excessive or dysregulated PDGF signaling is implicated in fibrotic conditions such as myelofibrosis and scleroderma.",
+      "topic": "PDGF",
+      "angle": "mechanism",
+      "id": "2026-09-18-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to cancer epidemiology data, which of the following correctly ranks cancer mortality (death rate) from highest to lowest among the listed cancer types?",
+      "options": [
+        "Colorectal cancer, then lung cancer, then breast/prostate cancer",
+        "Breast/prostate cancer, then lung cancer, then colorectal cancer",
+        "Lung cancer, then breast/prostate cancer, then colorectal cancer",
+        "Breast/prostate cancer, then colorectal cancer, then lung cancer"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - colorectal cancer has lower mortality than both lung and breast/prostate cancer.",
+        "Incorrect - this reverses lung cancer's position; lung cancer has the highest mortality despite lower incidence than breast/prostate cancer.",
+        "Correct - lung cancer has the highest cancer mortality, followed by breast/prostate cancer, then colorectal cancer, even though breast/prostate cancers have higher incidence.",
+        "Incorrect - lung cancer, not breast/prostate cancer, has the highest mortality rate."
+      ],
+      "overview": "While breast and prostate cancers have the highest incidence (new cases) after lung cancer, lung cancer remains the leading cause of cancer death, followed by breast/prostate cancer and then colorectal cancer. Cancer is the second leading cause of death overall, after heart disease.",
+      "topic": "Cancer epidemiology (incidence/mortality)",
+      "angle": "epidemiology",
+      "id": "2026-09-18-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following best describes the role of lysyl oxidase in wound healing, and the effect of its deficiency?",
+      "options": [
+        "A copper-dependent enzyme that cross-links collagen; deficiency impairs wound maturation",
+        "An enzyme that converts fibroblasts into myofibroblasts; deficiency prevents wound contraction",
+        "A vitamin C-dependent enzyme that hydroxylates proline; deficiency causes scurvy",
+        "A zinc-dependent enzyme that degrades type III collagen; deficiency impairs granulation tissue formation"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - lysyl oxidase is a copper-dependent enzyme that cross-links collagen during the remodeling/maturation phase of wound healing; copper deficiency impairs this cross-linking and results in poor wound healing.",
+        "Incorrect - myofibroblast differentiation is a separate process from lysyl oxidase's collagen cross-linking role.",
+        "Incorrect - hydroxylation of proline in collagen synthesis is a vitamin C-dependent process, distinct from lysyl oxidase's copper-dependent cross-linking function.",
+        "Incorrect - degrading type III collagen (collagenase activity) describes metalloproteinases (zinc-dependent), not lysyl oxidase."
+      ],
+      "overview": "During wound remodeling, lysyl oxidase, a copper-dependent enzyme, cross-links collagen fibers to increase scar tensile strength, while metalloproteinases (zinc-dependent) degrade type III collagen. Copper deficiency, like zinc or vitamin C deficiency, impairs proper wound maturation and healing.",
+      "topic": "Lysyl oxidase",
+      "angle": "mechanism",
+      "id": "2026-09-18-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "The Warburg effect in cancer cells is best described by which of the following?",
+      "options": [
+        "Complete loss of glucose uptake by malignant cells",
+        "Preferential metabolism of glucose to lactate for ATP production, even in the presence of oxygen",
+        "Selective activation of the electron transport chain to maximize ATP yield per glucose molecule",
+        "Preferential use of oxidative phosphorylation over glycolysis, even under hypoxic conditions"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - cancer cells show increased, not absent, glucose uptake, which is exploited diagnostically with PET scanning.",
+        "Correct - the Warburg effect describes \"aerobic glycolysis,\" in which cancer cells preferentially metabolize glucose to lactate for ATP even when oxygen is available, producing less ATP per glucose than oxidative phosphorylation but resulting in high glucose uptake, which is the basis for PET scanning.",
+        "Incorrect - the Warburg effect specifically involves bypassing efficient oxidative phosphorylation in favor of less efficient glycolysis.",
+        "Incorrect - the Warburg effect describes increased reliance on glycolysis, not oxidative phosphorylation, even when oxygen is present."
+      ],
+      "overview": "The Warburg effect describes cancer cells' preference for aerobic glycolysis, converting glucose to lactate for ATP even when oxygen is available, despite yielding less ATP per glucose molecule than oxidative phosphorylation. This results in markedly increased glucose uptake by tumor cells, which is the physiologic basis for FDG-PET imaging in oncology.",
+      "topic": "Warburg effect",
+      "angle": "mechanism",
+      "id": "2026-09-18-04"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 22-year-old woman has recurrent episodes of non-pruritic swelling of the lips, face, and airway without urticaria, triggered by minor trauma or stress. Family history is positive for similar episodes. Serum complement studies reveal low levels of a specific inhibitory protein. Which of the following best explains the mechanism of her swelling episodes?",
+      "options": [
+        "Deficiency of ACE leads to excessive bradykinin degradation",
+        "Deficiency of C1 inhibitor leads to unopposed bradykinin generation, increasing vascular permeability",
+        "Overactivation of the complement membrane attack complex directly lyses endothelial cells",
+        "Overproduction of histamine by mast cells causes IgE-mediated urticaria and angioedema",
+        "Deficiency of alpha-1 antitrypsin leads to unopposed neutrophil elastase activity"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - ACE normally degrades bradykinin, so ACE deficiency would not raise bradykinin; this vignette describes hereditary C1 inhibitor deficiency, not an ACE-related process.",
+        "Correct - C1 inhibitor normally degrades bradykinin; its deficiency in hereditary angioedema leads to unchecked bradykinin, causing vasodilation, increased vascular permeability, and angioedema without urticaria.",
+        "Incorrect - the notes describe C1 inhibitor's role in bradykinin regulation, not direct membrane attack complex-mediated lysis as the cause of angioedema.",
+        "Incorrect - hereditary angioedema is not IgE/histamine mediated, which is why urticaria is absent.",
+        "Incorrect - alpha-1 antitrypsin deficiency is unrelated to the bradykinin/angioedema pathway described in the notes."
+      ],
+      "overview": "Bradykinin is a potent vasodilator that increases vascular permeability and causes pain. It is normally degraded by ACE and by C1 inhibitor. Hereditary angioedema results from C1 inhibitor deficiency, causing unopposed bradykinin accumulation and recurrent, non-pruritic angioedema without urticaria.",
+      "topic": "Hereditary angioedema (C1 inhibitor deficiency)",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 3-year-old boy has recurrent infections with Staphylococcus aureus, Serratia marcescens, and Aspergillus, including a hepatic abscess. Neutrophil function testing shows absent respiratory burst activity. Which of the following best explains why catalase-positive organisms cause disproportionate infections in this disorder, compared to catalase-negative organisms?",
+      "options": [
+        "Catalase-positive organisms produce toxins that directly inhibit neutrophil chemotaxis",
+        "Catalase-positive organisms activate excessive complement leading to immune complex disease",
+        "Catalase-positive organisms are obligate intracellular pathogens resistant to lysosomal enzymes",
+        "Catalase-positive organisms degrade the small amount of H2O2 they generate, leaving phagocytes without any H2O2 to use against them",
+        "Catalase-positive organisms lack a cell wall, evading phagocytosis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - the notes do not describe toxin-mediated chemotaxis inhibition as the mechanism.",
+        "Incorrect - CGD susceptibility relates to NADPH oxidase deficiency, not complement/immune complex disease.",
+        "Incorrect - the classic CGD organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) are not defined by being obligate intracellular pathogens.",
+        "Correct - CGD patients lack NADPH oxidase; catalase-positive bacteria destroy their own H2O2, leaving no substrate for the deficient myeloperoxidase system, unlike catalase-negative organisms which generate H2O2 that phagocytes can still use.",
+        "Incorrect - cell wall status is not the relevant mechanism in CGD susceptibility."
+      ],
+      "overview": "CGD results from loss-of-function mutations in NADPH oxidase, preventing the respiratory burst that generates H2O2 in phagocytes. Catalase-positive organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) degrade their own H2O2, denying phagocytes the peroxide needed for myeloperoxidase-mediated killing, causing recurrent infections and granuloma formation.",
+      "topic": "Chronic granulomatous disease",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A lung nodule is found to contain a disorganized but mature mixture of cartilage, smooth muscle, and respiratory epithelium, all normally found in the lung. This lesion is best classified as which of the following?",
+      "options": [
+        "Carcinoma in situ",
+        "Hamartoma",
+        "Teratoma",
+        "Choristoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - carcinoma in situ describes dysplasia of the entire epithelial layer without invasion, not a disorganized benign mass of mature tissue types.",
+        "Correct - a hamartoma is a mass of mature but disorganized cells that are normally found at that site (e.g., a lung hamartoma containing disorganized lung tissue), representing a developmental anomaly that is benign.",
+        "Incorrect - a teratoma contains cells derived from multiple germ layers arising from germ cells, not a disorganized mixture of native lung tissue types.",
+        "Incorrect - a choristoma is mature, well-differentiated tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum), not disorganized native tissue in its normal organ."
+      ],
+      "overview": "Hamartomas and choristomas are both benign, non-neoplastic developmental anomalies. A hamartoma is disorganized but mature tissue native to the site where it is found (e.g., lung tissue in a lung hamartoma), whereas a choristoma is mature, normal tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum).",
+      "topic": "Hamartoma vs choristoma",
+      "angle": "other",
+      "id": "2026-09-18-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following correctly pairs a carcinogen with its associated malignancy, as described in the notes?",
+      "options": [
+        "HPV infection \u2014 mesothelioma",
+        "Ionizing radiation \u2014 cervical cancer",
+        "Asbestos exposure \u2014 mesothelioma",
+        "Sunlight exposure \u2014 hepatocellular carcinoma"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - HPV is associated with cervical cancer, not mesothelioma, which is linked to asbestos.",
+        "Incorrect - HPV, not ionizing radiation, is the carcinogen linked to cervical cancer in the notes.",
+        "Correct - asbestos is a chemical carcinogen classically associated with mesothelioma.",
+        "Incorrect - sunlight (UV radiation) is associated with skin cancer, not hepatocellular carcinoma."
+      ],
+      "overview": "Carcinogens include chemicals, viruses, and radiation. Asbestos exposure is classically linked to mesothelioma, HPV infection to cervical cancer, and UV sunlight exposure to skin cancer, illustrating how nonlethal DNA damage from environmental exposures drives carcinogenesis.",
+      "topic": "Carcinogens",
+      "angle": "risk_factors",
+      "id": "2026-09-18-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following correctly lists the sequence of steps by which neutrophils exit post-capillary venules to enter inflamed tissue?",
+      "options": [
+        "Migration \u2192 rolling \u2192 transmigration \u2192 crawling",
+        "Rolling \u2192 crawling \u2192 transmigration \u2192 migration",
+        "Crawling \u2192 migration \u2192 rolling \u2192 transmigration",
+        "Transmigration \u2192 rolling \u2192 crawling \u2192 migration"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - migration is the final step, not the first.",
+        "Correct - the notes describe four steps of neutrophil extravasation at post-capillary venules in this order: rolling, crawling, transmigration, migration.",
+        "Incorrect - crawling follows rolling; this order is scrambled.",
+        "Incorrect - transmigration occurs after rolling and crawling, not first."
+      ],
+      "overview": "Neutrophils exit the bloodstream at post-capillary venules through a four-step process: rolling along the endothelium, firm adhesion/crawling, transmigration through the endothelial layer, and migration into the tissue toward the site of injury. Neutrophils dominate the first ~2 days of acute inflammation before undergoing apoptosis.",
+      "topic": "Neutrophil extravasation",
+      "angle": "mechanism",
+      "id": "2026-09-18-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man with a 15-year history of gastroesophageal reflux disease undergoes upper endoscopy for surveillance. Biopsy of the distal esophagus shows replacement of the normal stratified squamous epithelium with columnar, mucin-producing epithelium containing goblet cells. Which of the following best characterizes this histologic finding?",
+      "options": [
+        "Metaplasia, a potentially reversible adaptive change that can progress to dysplasia and adenocarcinoma",
+        "Anaplasia, an undifferentiated proliferation seen in aggressive malignancy",
+        "Hyperplasia, an increase in the number of native squamous epithelial cells",
+        "Hypertrophy, an increase in the size of individual epithelial cells",
+        "Dysplasia, an irreversible pre-cancerous change with abnormal nuclear pleomorphism"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Barrett esophagus is intestinal (columnar) metaplasia of the esophageal squamous epithelium in response to chronic acid exposure; metaplasia is potentially reversible but can progress toward dysplasia and adenocarcinoma.",
+        "Incorrect - anaplasia describes undifferentiated malignant cells, not the orderly columnar epithelium seen here.",
+        "Incorrect - hyperplasia is an increase in cell number of the same cell type, not a change in cell type.",
+        "Incorrect - hypertrophy is an increase in cell size, not a change in cell type.",
+        "Incorrect - dysplasia is a distinct, more advanced step characterized by pleomorphism and abnormal nuclei, which may follow metaplasia but is not what is described here (columnar replacement of squamous epithelium)."
+      ],
+      "overview": "Barrett esophagus is a classic example of metaplasia, in which chronic gastric acid exposure causes the normal stratified squamous epithelium of the esophagus to be replaced by columnar, intestinal-type epithelium better suited to withstand the acidic stressor. Metaplasia is potentially reversible but predisposes to dysplasia and esophageal adenocarcinoma.",
+      "topic": "Barrett esophagus",
+      "angle": "diagnosis",
+      "id": "2026-09-18-10"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 24-year-old woman with darker skin pigmentation had ear piercing 6 months ago. She now has a raised, firm, pink mass at the piercing site that extends beyond the original wound margins onto adjacent normal skin. She reports it has continued to grow rather than regress. Which of the following best describes this lesion?",
+      "options": [
+        "Granulation tissue, composed of proliferating fibroblasts and new capillaries typically seen days after injury",
+        "Keloid, caused by excessive collagen deposition that extends beyond the boundaries of the original wound",
+        "Dystrophic calcification within a healed wound",
+        "Hypertrophic scar, which remains confined within the original wound margins and often regresses spontaneously",
+        "Fat necrosis, resulting from local trauma to subcutaneous adipose tissue"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - granulation tissue develops 3-5 days after injury and is an early transient stage of healing, not a persistent raised mass 6 months later.",
+        "Correct - keloids are raised scars that extend beyond the original wound borders due to excessive fibroblast activity, growth factors, and disorganized type I and III collagen; they are more common in certain locations (earlobe, deltoid, upper back) and do not regress.",
+        "Incorrect - dystrophic calcification produces calcium deposits in damaged tissue, not a raised, growing fibrous mass.",
+        "Incorrect - hypertrophic scars stay within wound borders, are composed mostly of organized type III collagen, and often regress spontaneously, unlike this persistent lesion extending beyond the wound.",
+        "Incorrect - fat necrosis produces chalky-white saponified fat, not a raised fibrous mass at a piercing site."
+      ],
+      "overview": "Keloids are raised scars resulting from excessive wound healing, with increased fibroblasts, growth factors, and disorganized type I and III collagen extending beyond the original wound borders. They are more common at the earlobe, deltoid, and upper back, rare on palms/soles/eyelids, and have a high recurrence rate after surgical removal.",
+      "topic": "Keloid",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "In the TNM cancer staging system, which of the following correctly matches each letter with what it represents?",
+      "options": [
+        "T = tissue type, N = necrosis extent, M = metabolic activity",
+        "T = tumor grade, N = number of mitoses, M = molecular markers",
+        "T = primary tumor size, N = regional lymph node involvement, M = distant metastasis",
+        "T = tumor location, N = nuclear atypia, M = mortality risk"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - TNM does not stand for tissue type, necrosis extent, or metabolic activity.",
+        "Incorrect - tumor grade reflects differentiation determined by biopsy, which is separate from the TNM staging categories.",
+        "Correct - TNM staging denotes T (primary tumor size, T1-T4), N (degree of regional lymph node spread, N0-N3), and M (presence or absence of metastases, M0 or M1).",
+        "Incorrect - TNM does not stand for tumor location, nuclear atypia, or mortality risk directly."
+      ],
+      "overview": "Cancer staging (TNM) describes the anatomic extent of tumor spread: T for primary tumor size, N for regional lymph node involvement, and M for distant metastasis. Staging is typically determined by imaging and is distinct from grading, which reflects the degree of tumor differentiation determined by biopsy.",
+      "topic": "TNM staging system",
+      "angle": "other",
+      "id": "2026-09-18-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 52-year-old woman with a history of alcohol use presents with severe epigastric pain radiating to the back, nausea, and vomiting. Serum lipase is markedly elevated. CT shows peripancreatic fat stranding with chalky-white foci. Which of the following best describes the mechanism producing the chalky-white foci?",
+      "options": [
+        "Mycobacterial infection causes granulomatous necrosis of peripancreatic tissue",
+        "Ischemia causes coagulative necrosis with preserved tissue architecture",
+        "Immune complexes deposit in small vessel walls, causing fibrin leakage",
+        "Lipases released from injured pancreatic acinar cells break down peritoneal fat, and the liberated fatty acids combine with calcium to form soaps",
+        "Bacterial proteases liquefy peripancreatic tissue, forming a purulent abscess cavity"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - this describes caseous necrosis seen in tuberculosis, not fat necrosis.",
+        "Incorrect - coagulative necrosis preserves architecture and occurs in infarction, and does not explain chalky-white foci.",
+        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel process, not fat necrosis.",
+        "Correct - in fat necrosis (classically acute pancreatitis), released lipases break down peritoneal fat, and the resulting fatty acids saponify with calcium to produce chalky-white deposits.",
+        "Incorrect - this describes liquefactive necrosis (abscess), not fat necrosis."
+      ],
+      "overview": "Fat necrosis classically occurs in acute pancreatitis, where lipases released from damaged pancreatic acinar cells break down peritoneal fat. The liberated fatty acids combine with calcium in a process called saponification, producing grossly chalky-white tissue deposits. It can also occur in the breast after trauma or surgery, where it can mimic breast cancer.",
+      "topic": "Fat necrosis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Bradykinin contributes to the cardinal signs of inflammation through which of the following mechanisms?",
+      "options": [
+        "Direct activation of complement's membrane attack complex",
+        "Inhibition of cyclooxygenase in the hypothalamus",
+        "Vasodilation, increased vascular permeability, and pain sensitization",
+        "Stimulation of hepatic synthesis of C-reactive protein"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - bradykinin is generated through the kinin cascade, not by direct activation of the complement membrane attack complex.",
+        "Incorrect - bradykinin does not inhibit hypothalamic cyclooxygenase; prostaglandins via COX actually raise the hypothalamic set point in fever, an unrelated pathway.",
+        "Correct - bradykinin, generated via the kinin system after Hageman factor (XII) activation, causes vasodilation, increases vascular permeability, and produces pain.",
+        "Incorrect - hepatic CRP synthesis is driven by IL-6, not bradykinin."
+      ],
+      "overview": "Activated Hageman factor (factor XII) triggers the kinin cascade, converting prekallikrein to kallikrein, which cleaves high molecular weight kininogen to release bradykinin. Bradykinin is a vasodilator that increases vascular permeability and causes pain, and is degraded by ACE and C1 inhibitor.",
+      "topic": "Bradykinin",
+      "angle": "mechanism",
+      "id": "2026-09-18-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Alternative (M2) macrophage activation is primarily driven by which of the following cytokines and is associated with which functional outcome?",
+      "options": [
+        "TNF-\u03b1; promotes granuloma maintenance",
+        "IL-4 and IL-13; promotes tissue repair and angiogenesis",
+        "IL-1; promotes fever via hypothalamic prostaglandin synthesis",
+        "IFN-\u03b3; promotes microbial destruction via reactive oxygen species"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - TNF-\u03b1 maintains granulomatous inflammation but is not the defining cytokine for M2 (alternative) activation.",
+        "Correct - M2 (alternative) macrophage activation is driven by T-cell cytokines IL-4 and IL-13, inhibits classical activation, and promotes tissue repair with growth factors that drive angiogenesis.",
+        "Incorrect - IL-1 is a pyrogen involved in fever, not the primary driver of M2 macrophage activation.",
+        "Incorrect - IFN-\u03b3 drives classical (M1) activation, associated with reactive oxygen species and microbial killing, not M2 activation."
+      ],
+      "overview": "Macrophages can be classically activated (M1) by IFN-\u03b3 to destroy microbes via reactive oxygen species, or alternatively activated (M2) by IL-4/IL-13 to promote tissue repair and angiogenesis while inhibiting classical activation. This M1/M2 balance shapes the outcome of chronic inflammation.",
+      "topic": "M2 macrophage activation",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with long-standing rheumatoid arthritis develops proteinuria and is found to have amyloid deposits on renal biopsy. Which of the following serum proteins, elevated during chronic inflammation, is the precursor for this type of amyloid?",
+      "options": [
+        "C-reactive protein",
+        "Serum amyloid A protein",
+        "Ferritin",
+        "Fibrinogen"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - CRP is an acute phase reactant that binds bacterial polysaccharides and activates complement, but it is not the precursor protein for AA amyloidosis.",
+        "Correct - serum amyloid A (SAA) is an acute phase apolipoprotein whose chronically elevated levels in conditions like rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis.",
+        "Incorrect - ferritin is an iron storage protein and acute phase reactant, not the precursor for AA amyloid.",
+        "Incorrect - fibrinogen is a clotting factor and acute phase reactant that promotes cellular adhesion, not the precursor for AA amyloid."
+      ],
+      "overview": "Serum amyloid A (SAA) is an acute phase reactant apolipoprotein synthesized during inflammation. Chronic elevation of SAA in long-standing inflammatory conditions such as rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis, with deposits commonly affecting the kidneys.",
+      "topic": "Secondary (AA) amyloidosis",
+      "angle": "complications",
+      "id": "2026-09-18-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "Histologic examination of tissue obtained 5 days after a surgical incision would be expected to show which of the following as the dominant components of granulation tissue?",
+      "options": [
+        "Multinucleated giant cells surrounding a necrotic core",
+        "Sheets of neutrophils with abundant caseous debris",
+        "Dense, avascular, acellular type I collagen with maximal tensile strength",
+        "Proliferating fibroblasts, new capillaries from angiogenesis, and extracellular matrix"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - giant cells around a necrotic core describe granulomatous/caseous necrosis, not granulation tissue.",
+        "Incorrect - sheets of neutrophils with caseous debris describes a different process (e.g., abscess or caseous necrosis), not granulation tissue.",
+        "Incorrect - dense, avascular, acellular collagen describes a mature scar, which forms months later, not granulation tissue at day 5.",
+        "Correct - granulation tissue develops 3-5 days after injury and consists histologically of proliferating fibroblasts, new small capillaries from angiogenesis, extracellular matrix, and some inflammatory cells (especially macrophages)."
+      ],
+      "overview": "Granulation tissue is the early scaffold of wound healing, appearing 3-5 days after injury. It is composed of proliferating fibroblasts, new capillaries formed by angiogenesis, extracellular matrix, and macrophages, and it matures over time into a collagen-rich scar.",
+      "topic": "Granulation tissue",
+      "angle": "anatomy_histology",
+      "id": "2026-09-18-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old man from an endemic region presents with chronic cough, night sweats, and weight loss. Chest imaging shows a cavitary upper lobe lesion. Biopsy reveals granulomas with a central area of cheese-like, structureless necrotic debris surrounded by epithelioid macrophages and giant cells. Which of the following best characterizes this type of necrosis?",
+      "options": [
+        "Characterized by saponification of fat with calcium",
+        "Characterized by preserved tissue architecture with red-pink cytoplasm and loss of nuclei, seen in myocardial infarction",
+        "Combines features of coagulative and liquefactive necrosis, classically associated with mycobacterial infection",
+        "Characterized by fibrin deposition in vessel walls associated with immune complex disease",
+        "Characterized by complete liquefaction of tissue into a purulent mass"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - this describes fat necrosis, not caseous necrosis.",
+        "Incorrect - this describes coagulative necrosis, seen in infarcts like myocardial infarction, not caseous necrosis.",
+        "Correct - caseous necrosis has a cheese-like gross appearance combining features of coagulative and liquefactive necrosis and is classically seen in tuberculosis, where mycobacteria resist digestion and macrophages form giant cells around the necrotic center.",
+        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel wall process.",
+        "Incorrect - this describes liquefactive necrosis (e.g., abscess), not caseous necrosis, which retains a granulomatous structure."
+      ],
+      "overview": "Caseous necrosis produces a grossly cheese-like substance and microscopically shows granulomatous inflammation with a necrotic center surrounded by epithelioid macrophages, lymphocytes, and giant cells. It is classically associated with tuberculosis, where mycobacteria resist degradation, leading to slow, incomplete breakdown of infected tissue.",
+      "topic": "Caseous necrosis",
+      "angle": "diagnosis",
+      "id": "2026-09-18-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with sickle cell anemia has an infection but her erythrocyte sedimentation rate remains within the normal range despite significant inflammation. Which of the following best explains this discrepancy?",
+      "options": [
+        "Sickle cell anemia increases red cell negative surface charge, accelerating sedimentation",
+        "Abnormally shaped red blood cells impede the normal stacking and sedimentation that acute phase reactants would otherwise promote",
+        "Sickle cell anemia causes an isolated deficiency of C-reactive protein",
+        "Sickle cell anemia is associated with reduced fibrinogen synthesis, independent of red cell shape"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - increased negative charge would inhibit, not accelerate, sedimentation by promoting red cell repulsion, and this is not the mechanism given in the notes.",
+        "Correct - the notes list abnormal red cell shapes such as sickle cells and spherocytes as causes of a falsely low/normal ESR, because misshapen cells cannot stack normally (rouleaux formation) even with elevated acute phase reactants like fibrinogen.",
+        "Incorrect - the notes do not describe an isolated CRP deficiency in sickle cell anemia as the explanation for a low ESR.",
+        "Incorrect - the mechanism described in the notes is abnormal cell shape impeding sedimentation, not a primary fibrinogen synthesis defect."
+      ],
+      "overview": "ESR reflects the balance between pro-sedimentation acute phase reactants (especially fibrinogen) and anti-sedimentation red cell negative charge. Abnormal red cell shapes, such as sickle cells, spherocytes, or microcytes, physically impede normal stacking (rouleaux formation), so ESR may remain falsely low or normal despite active inflammation.",
+      "topic": "Erythrocyte sedimentation rate",
+      "angle": "diagnosis",
+      "id": "2026-09-18-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 58-year-old woman with end-stage renal disease on hemodialysis develops painful, violaceous skin nodules on her thighs that progress to necrotic ulcers. Laboratory studies show markedly elevated serum phosphate. Biopsy shows calcification of small dermal vessel walls. Which of the following best explains the underlying process?",
+      "options": [
+        "Immune complex deposition in dermal vessels triggers fibrinoid necrosis",
+        "Chronic hyperphosphatemia drives vascular smooth muscle cells to undergo osteogenic transformation, leading to vessel wall calcification, thrombosis, and skin necrosis",
+        "Elevated serum calcium alone causes calcium phosphate precipitation in areas of high internal pH such as the kidney and lungs",
+        "Excess parathyroid hormone directly deposits calcium in the skin independent of phosphate levels",
+        "Local tissue necrosis releases phospholipids that bind calcium at physiologic serum calcium levels"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - the notes attribute calciphylaxis to hyperphosphatemia-driven vascular calcification, not immune complex-mediated fibrinoid necrosis.",
+        "Correct - calciphylaxis occurs in chronic kidney disease with hyperphosphatemia, where excess phosphate is taken up by vascular smooth muscle, driving osteogenic transformation and vascular wall calcification, leading to small vessel thrombosis and painful skin necrosis.",
+        "Incorrect - this describes metastatic calcification's general mechanism/locations (GI, kidney, lung), not the specific vascular smooth muscle osteogenesis of calciphylaxis.",
+        "Incorrect - the mechanism described is phosphate-driven vascular smooth muscle osteogenesis, not direct PTH deposition of calcium in skin.",
+        "Incorrect - this describes dystrophic calcification, which occurs with normal serum calcium in necrotic tissue, not calciphylaxis."
+      ],
+      "overview": "Calciphylaxis occurs in chronic kidney disease with chronic hyperphosphatemia, where vascular smooth muscle cells undergo osteogenic change and calcify, leading to small vessel thrombosis, increased blood pressure, and painful skin nodules that progress to necrosis. It is a form of metastatic calcification affecting blood vessels.",
+      "topic": "Calciphylaxis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Psammoma bodies, seen histologically in certain neoplasms such as papillary thyroid carcinoma, are best described as which of the following?",
+      "options": [
+        "Clusters of multinucleated giant cells surrounding necrotic debris",
+        "Deposits of amyloid protein with apple-green birefringence on Congo red stain",
+        "Calcifications with a concentric, layered pattern",
+        "Aggregates of hemosiderin-laden macrophages"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - multinucleated giant cells surrounding necrotic debris describes granulomatous/caseous necrosis, not psammoma bodies.",
+        "Incorrect - apple-green birefringence on Congo red staining is characteristic of amyloid deposits, not psammoma bodies.",
+        "Correct - psammoma bodies are calcifications with a distinctive layered (concentric, laminated) pattern seen in certain neoplasms, such as thyroid cancer, and represent a form of dystrophic calcification.",
+        "Incorrect - hemosiderin-laden macrophages are a separate histologic finding unrelated to psammoma bodies."
+      ],
+      "overview": "Psammoma bodies are calcified structures with a characteristic concentric, layered appearance on microscopy, representing a form of dystrophic calcification. They are classically associated with certain neoplasms, including papillary thyroid carcinoma.",
+      "topic": "Psammoma bodies",
+      "angle": "anatomy_histology",
+      "id": "2026-09-18-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with poor dietary intake and delayed wound healing is found to have vitamin C deficiency. Which of the following best explains the role of vitamin C in normal wound healing?",
+      "options": [
+        "It is required as a cofactor for lysyl oxidase-mediated collagen cross-linking",
+        "It activates metalloproteinases to degrade type III collagen",
+        "It is necessary for collagen synthesis by fibroblasts",
+        "It stimulates VEGF-mediated angiogenesis at the wound site"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - collagen cross-linking is a copper-dependent (lysyl oxidase) process, not vitamin C-dependent, per the notes.",
+        "Incorrect - metalloproteinases are zinc-dependent enzymes; vitamin C's described role is in collagen synthesis, not activating collagen-degrading enzymes.",
+        "Correct - the notes state that vitamin C (ascorbic acid) is necessary for collagen synthesis, and its deficiency results in poor wound healing.",
+        "Incorrect - angiogenesis is primarily driven by VEGF and FGF, not vitamin C."
+      ],
+      "overview": "Vitamin C (ascorbic acid) is required for normal collagen synthesis by fibroblasts during wound healing. Deficiency impairs collagen production and results in poor wound healing, distinct from copper deficiency (impaired collagen cross-linking) and zinc deficiency (impaired collagen remodeling).",
+      "topic": "Vitamin C deficiency (wound healing)",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "C-reactive protein is synthesized by the liver primarily in response to which cytokine, and performs which of the following functions?",
+      "options": [
+        "IL-6; binds bacterial polysaccharides and activates complement",
+        "IL-1; inhibits iron transport via ferroportin",
+        "IFN-\u03b3; activates macrophages to form giant cells",
+        "TNF-\u03b1; cross-links collagen fibers during wound remodeling"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - CRP is an acute phase reactant synthesized by the liver in response to IL-6 (produced by macrophages); it binds bacterial polysaccharides and activates the complement system.",
+        "Incorrect - inhibiting iron transport via ferroportin describes hepcidin, not CRP.",
+        "Incorrect - IFN-\u03b3 activates macrophages (M1), but this is not the CRP mechanism; giant cell formation is a granuloma feature, not a CRP function.",
+        "Incorrect - collagen cross-linking is performed by lysyl oxidase, unrelated to CRP or TNF-\u03b1."
+      ],
+      "overview": "C-reactive protein is an acute phase reactant produced by the liver in response to IL-6 released by macrophages during inflammation. It binds bacterial polysaccharides and activates complement, and chronically elevated levels are associated with coronary artery disease.",
+      "topic": "C-reactive protein",
+      "angle": "mechanism",
+      "id": "2026-09-18-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 19-year-old man presents with tremor, dysarthria, and liver dysfunction. Slit-lamp exam reveals Kayser-Fleischer rings. Serum ceruloplasmin is low, and hepatic copper content is elevated. Which of the following best explains a mechanism by which excess free copper contributes to cellular injury in this disorder?",
+      "options": [
+        "Free copper directly inhibits Na/K-ATPase, causing cellular swelling",
+        "Free copper activates caspases directly, triggering apoptosis",
+        "Free copper inhibits telomerase, accelerating cellular senescence",
+        "Free copper binds transferrin, preventing iron delivery to erythroid precursors",
+        "Free copper reacts with hydrogen peroxide via the Fenton reaction to generate hydroxyl radicals that damage lipids, proteins, and DNA"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect - the notes describe copper toxicity via free radical (Fenton reaction) generation, not direct Na/K-ATPase inhibition.",
+        "Incorrect - copper's described mechanism of injury is free radical generation, not direct caspase activation.",
+        "Incorrect - telomerase inhibition is not a mechanism described for copper toxicity in the notes.",
+        "Incorrect - transferrin is an iron transport protein; copper is transported by ceruloplasmin, not transferrin.",
+        "Correct - excess free copper (normally bound by ceruloplasmin) participates in the Fenton reaction (H2O2 + Cu+ \u2192 Cu2+ + OH\u00b7), generating hydroxyl radicals that cause lipid peroxidation, protein oxidation, and DNA damage, contributing to hepatocyte and neuronal injury in Wilson disease."
+      ],
+      "overview": "Wilson disease causes copper accumulation due to impaired biliary excretion, with low ceruloplasmin allowing free copper to accumulate in the liver, brain, and eyes (Kayser-Fleischer rings). Free copper, like free iron in hemochromatosis, drives the Fenton reaction, converting hydrogen peroxide into damaging hydroxyl radicals that injure cells via lipid peroxidation and macromolecule damage.",
+      "topic": "Wilson disease (copper-mediated free radical injury)",
+      "angle": "complications",
+      "id": "2026-09-18-24"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old man presents with painless, diffuse lymphadenopathy. Lymph node biopsy shows a nodular pattern of small, cleaved lymphocytes. Cytogenetic testing reveals a t(14;18) translocation resulting in overexpression of an anti-apoptotic protein located in the mitochondrial membrane. Which of the following mechanisms best explains how this overexpression contributes to malignancy?",
+      "options": [
+        "The overexpressed protein prevents cytochrome c release from mitochondria, blocking caspase activation and allowing uncontrolled B-cell survival",
+        "The overexpressed protein binds Fas ligand, preventing death receptor signaling on the cell surface",
+        "The overexpressed protein inhibits NADPH oxidase, preventing reactive oxygen species generation",
+        "The overexpressed protein degrades p53, preventing cell cycle arrest",
+        "The overexpressed protein activates telomerase, allowing unlimited replication"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - follicular lymphoma is driven by BCL-2 overexpression, which keeps mitochondrial pores closed, prevents cytochrome c release, blocks caspase activation, and prevents apoptosis, leading to uncontrolled B-cell accumulation.",
+        "Incorrect - this describes the extrinsic Fas pathway, not the mitochondrial intrinsic pathway that BCL-2 regulates.",
+        "Incorrect - BCL-2 has no described role in inhibiting NADPH oxidase or respiratory burst.",
+        "Incorrect - BCL-2 does not act by degrading p53; it acts at the mitochondrial membrane.",
+        "Incorrect - telomerase activation is a separate hallmark of malignancy, not the mechanism of BCL-2 overexpression described in the notes."
+      ],
+      "overview": "Follicular lymphoma, a B-cell non-Hodgkin lymphoma, is characterized by overexpression of BCL-2, an anti-apoptotic protein in the mitochondrial membrane. This prevents mitochondrial pore opening and cytochrome c release, blocking caspase activation and apoptosis, resulting in uncontrolled clonal B-cell growth.",
+      "topic": "Follicular lymphoma",
+      "angle": "diagnosis",
+      "id": "2026-09-18-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Transforming growth factor-beta (TGF-\u03b2) promotes wound healing and scar formation through which of the following combined effects?",
+      "options": [
+        "Inhibits fibroblast migration to limit excessive scarring",
+        "Stimulates neutrophil chemotaxis and promotes fever via hypothalamic prostaglandins",
+        "Stimulates osteoclast-like transformation of vascular smooth muscle",
+        "Stimulates collagen production, inhibits collagen breakdown, and inhibits lymphocyte proliferation"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - TGF-\u03b2 promotes, not inhibits, fibroblast activity and collagen production in wound healing.",
+        "Incorrect - neutrophil chemotaxis and fever are not the primary described functions of TGF-\u03b2 in the notes.",
+        "Incorrect - osteogenic transformation of vascular smooth muscle is a feature of calciphylaxis, unrelated to TGF-\u03b2's wound healing role.",
+        "Correct - TGF-\u03b2, released by platelets, T cells, macrophages, and endothelial cells, stimulates collagen production, inhibits collagen breakdown, and is anti-inflammatory by inhibiting lymphocyte proliferation; TGF-\u03b2 knockout mice show widespread inflammation."
+      ],
+      "overview": "TGF-\u03b2 is released by platelets, T cells, macrophages, and endothelial cells during wound healing. It promotes scar formation by stimulating collagen synthesis and inhibiting its breakdown, while also acting as an anti-inflammatory signal that suppresses lymphocyte proliferation.",
+      "topic": "TGF-beta",
+      "angle": "mechanism",
+      "id": "2026-09-18-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "Bevacizumab is used in the treatment of certain cancers based on which of the following mechanisms of action?",
+      "options": [
+        "Inhibition of cyclooxygenase, reducing prostaglandin-mediated pain",
+        "Inhibition of VEGF-A, reducing tumor angiogenesis",
+        "Inhibition of TNF-\u03b1, reducing granulomatous inflammation",
+        "Inhibition of BCL-2, promoting apoptosis of malignant cells"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - bevacizumab does not inhibit cyclooxygenase; that mechanism describes NSAIDs.",
+        "Correct - bevacizumab is a VEGF inhibitor used in cancer therapy that blocks VEGF-A-mediated angiogenesis, limiting the new blood vessel growth tumors need to grow.",
+        "Incorrect - anti-TNF drugs like infliximab and etanercept, not bevacizumab, are used for granulomatous/autoimmune inflammatory conditions.",
+        "Incorrect - bevacizumab targets VEGF, not BCL-2, which is a different therapeutic mechanism not described as bevacizumab's target in the notes."
+      ],
+      "overview": "VEGF-A is a key stimulator of angiogenesis, secreted by tumors to fuel their own vascular supply. Bevacizumab is a VEGF inhibitor used in cancer treatment to block this angiogenic signal, while ranibizumab, another VEGF inhibitor, is used in retinopathy.",
+      "topic": "Bevacizumab (VEGF inhibition)",
+      "angle": "treatment",
+      "id": "2026-09-18-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "Elevated hepcidin during chronic inflammation contributes to anemia of chronic disease through which of the following mechanisms?",
+      "options": [
+        "Inhibiting erythropoietin receptor signaling in the bone marrow",
+        "Directly lysing red blood cells via complement activation",
+        "Binding ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin",
+        "Increasing transferrin synthesis to enhance iron delivery to erythroid precursors"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - the notes do not describe hepcidin acting on erythropoietin receptor signaling.",
+        "Incorrect - hepcidin's described mechanism is iron sequestration via ferroportin inhibition, not complement-mediated red cell lysis.",
+        "Correct - hepcidin, an acute phase reactant with antibacterial properties, binds ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin and limiting iron availability for erythropoiesis, contributing to anemia of chronic disease.",
+        "Incorrect - hepcidin limits iron availability; transferrin is a negative acute phase reactant whose levels fall, not rise, during inflammation."
+      ],
+      "overview": "Hepcidin is an acute phase reactant that has antibacterial properties by limiting iron availability to invading organisms. It binds ferroportin on enterocytes and macrophages, trapping iron as intracellular ferritin, which contributes to the anemia of chronic disease seen with prolonged inflammatory states.",
+      "topic": "Hepcidin",
+      "angle": "mechanism",
+      "id": "2026-09-18-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a bacterial infection has a complete blood count showing an increased proportion of immature band neutrophils along with increased total neutrophils. This finding is best described as which of the following?",
+      "options": [
+        "Leukemoid reaction limited to lymphocytosis",
+        "Left shift, a normal bone marrow response to infection",
+        "Anaplasia of myeloid precursors",
+        "Karyorrhexis of circulating neutrophils"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - a leukemoid reaction can resemble leukemia due to marked leukocytosis but is not specifically defined as lymphocytosis; bacterial infections typically cause neutrophilia, not lymphocytosis.",
+        "Correct - a \"left shift\" describes an increase in immature neutrophil forms (bands) along with mature neutrophils in the blood, a normal response to infection driven by cytokines (TNF and IL-1) mobilizing cells from the bone marrow.",
+        "Incorrect - anaplasia refers to undifferentiated malignant cell growth, unrelated to a left shift.",
+        "Incorrect - karyorrhexis is a nuclear change seen in necrosis, not a description of circulating band neutrophils."
+      ],
+      "overview": "In response to infection, cytokines such as TNF and IL-1 stimulate the bone marrow to release neutrophils, including immature band forms, into circulation \u2014 a \"left shift.\" This is a normal, expected response to bacterial infection and reflects increased granulopoietic demand.",
+      "topic": "Left shift (leukemoid reaction)",
+      "angle": "diagnosis",
+      "id": "2026-09-18-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old boy presents with massive lymphadenopathy, splenomegaly, and hepatomegaly. Laboratory studies show an increased number of double-negative T cells and polyclonal hypergammaglobulinemia. Genetic testing identifies a mutation impairing a death-receptor pathway responsible for eliminating self-reactive lymphocytes. Which of the following best describes the expected downstream consequence of this mutation?",
+      "options": [
+        "Defective p53 signaling prevents cell cycle arrest, resulting in unchecked epithelial proliferation",
+        "Defective NADPH oxidase impairs bacterial killing, leading to recurrent catalase-positive infections",
+        "Defective caspase-independent necrosis increases inflammatory cell death",
+        "Defective Fas-Fas ligand signaling impairs negative selection, resulting in excess lymphocyte survival and increased lymphoma risk",
+        "Defective BCL-2 downregulation increases mitochondrial apoptosis of thymocytes"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - ALPS is not described as a p53/cell cycle disorder; it is a death-receptor apoptosis defect.",
+        "Incorrect - this describes chronic granulomatous disease, a distinct entity from ALPS.",
+        "Incorrect - the notes describe ALPS as an apoptosis defect via Fas-FasL, not a necrosis-related process.",
+        "Correct - ALPS is caused by a defective Fas-Fas ligand extrinsic apoptosis pathway, impairing negative selection of self-reactive T cells in the thymic medulla, leading to lymphocyte overproduction, lymphadenopathy, hepatosplenomegaly, and increased lymphoma risk.",
+        "Incorrect - ALPS involves decreased, not increased, apoptosis due to a defective extrinsic pathway, not altered mitochondrial signaling."
+      ],
+      "overview": "Autoimmune lymphoproliferative syndrome (ALPS) results from a defective Fas-Fas ligand pathway, which normally mediates negative selection of self-reactive T cells in the thymic medulla. Impaired apoptosis leads to lymphocyte accumulation, causing lymphadenopathy, hepatosplenomegaly, autoimmune disease, and an increased risk of lymphoma.",
+      "topic": "Autoimmune lymphoproliferative syndrome",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-30"
     }
   ]
 }

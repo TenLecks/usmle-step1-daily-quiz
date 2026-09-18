@@ -1,5 +1,5 @@
 {
-  "cycle_index": 10,
+  "cycle_index": 11,
   "cycle_number": 2,
   "tail_order": [
     "Reproductive",
@@ -2546,6 +2546,126 @@
       {
         "topic": "Follicular lymphoma",
         "angle": "mechanism"
+      },
+      {
+        "topic": "Chronic granulomatous disease",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Fat necrosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Follicular lymphoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Caseous necrosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hereditary angioedema (C1 inhibitor deficiency)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Autoimmune lymphoproliferative syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Calciphylaxis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Wilson disease (copper-mediated free radical injury)",
+        "angle": "complications"
+      },
+      {
+        "topic": "Barrett esophagus",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Keloid",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Neutrophil extravasation",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "M2 macrophage activation",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Bradykinin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "C-reactive protein",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Erythrocyte sedimentation rate",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hepcidin",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Left shift (leukemoid reaction)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Granulation tissue",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Bevacizumab (VEGF inhibition)",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Lysyl oxidase",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Vitamin C deficiency (wound healing)",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "TGF-beta",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "PDGF",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Hamartoma vs choristoma",
+        "angle": "other"
+      },
+      {
+        "topic": "TNM staging system",
+        "angle": "other"
+      },
+      {
+        "topic": "Warburg effect",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Carcinogens",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Psammoma bodies",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Secondary (AA) amyloidosis",
+        "angle": "complications"
+      },
+      {
+        "topic": "Cancer epidemiology (incidence/mortality)",
+        "angle": "epidemiology"
       }
     ],
     "Psychiatry": [

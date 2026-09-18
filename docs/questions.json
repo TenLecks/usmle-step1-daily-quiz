@@ -1,656 +1,656 @@
 {
-  "date": "2026-09-16",
-  "subject": "Ophthalmology",
+  "date": "2026-09-18",
+  "subject": "Pathology",
   "questions": [
     {
       "format": "simple4",
-      "topic": "Pilocarpine",
+      "stem": "Platelet-derived growth factor (PDGF) contributes to wound healing primarily by which of the following actions?",
+      "options": [
+        "Stimulating fibroblast and smooth muscle cell growth, migration, and collagen synthesis",
+        "Serving as the primary pyrogen responsible for fever during inflammation",
+        "Inhibiting angiogenesis to limit excessive vascular proliferation",
+        "Directly cross-linking collagen fibers during scar maturation"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - PDGF, released by platelets, macrophages, and endothelial cells, stimulates fibroblast and smooth muscle cell growth, migration, and collagen synthesis, and is implicated in conditions like myelofibrosis and scleroderma.",
+        "Incorrect - the pyrogens described in the notes are IL-1 and TNF (endogenous) and LPS (exogenous), not PDGF.",
+        "Incorrect - PDGF is not described as an angiogenesis inhibitor; angiogenesis is driven by VEGF and FGF.",
+        "Incorrect - collagen cross-linking is performed by lysyl oxidase, not PDGF."
+      ],
+      "overview": "PDGF is released by platelets, macrophages, and endothelial cells and stimulates fibroblast and smooth muscle cell proliferation, migration, and collagen synthesis during wound healing. Excessive or dysregulated PDGF signaling is implicated in fibrotic conditions such as myelofibrosis and scleroderma.",
+      "topic": "PDGF",
       "angle": "mechanism",
-      "stem": "Which of the following best describes the mechanism by which pilocarpine lowers intraocular pressure in glaucoma?",
-      "options": [
-        "Muscarinic agonism causing contraction of the ciliary muscle, which opens the trabecular meshwork and increases aqueous outflow",
-        "Alpha-2 agonism, decreasing aqueous humor production by the ciliary epithelium",
-        "Beta-1 receptor blockade, decreasing aqueous humor production",
-        "Carbonic anhydrase inhibition, decreasing aqueous humor synthesis"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - pilocarpine is a muscarinic agonist (parasympathomimetic) that contracts the ciliary muscle, causing miosis and opening the trabecular meshwork to increase aqueous humor drainage.",
-        "This describes alpha agonists like brimonidine/apraclonidine, not pilocarpine.",
-        "This describes the mechanism of beta blockers like timolol, not pilocarpine.",
-        "This describes carbonic anhydrase inhibitors like acetazolamide, not pilocarpine."
-      ],
-      "overview": "Pilocarpine and carbachol are muscarinic agonists (parasympathomimetics) used in glaucoma treatment that contract the ciliary muscle, causing miosis and opening the trabecular meshwork to increase aqueous humor outflow. A common side effect is blurry vision and impaired night vision due to sustained pupillary constriction.",
-      "id": "2026-09-16-01"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Open-angle glaucoma",
-      "angle": "risk_factors",
-      "stem": "A 72-year-old man presents for a routine eye exam with no visual complaints. His father had glaucoma, and he has type 2 diabetes. Tonometry shows IOP of 26 mmHg bilaterally, and fundoscopy reveals a cup-to-disc ratio of 0.7. Which of the following best characterizes the typical risk factor profile and disease course for his most likely diagnosis?",
-      "options": [
-        "Increasing age, family history, and diabetes are major risk factors, and vision loss is typically asymptomatic until peripheral fields are affected",
-        "Female sex and pregnancy are the major risk factors, with acute headache and halos",
-        "Contact lens use is the major risk factor, with rapid painful corneal ulceration",
-        "Young age and hyperopia are the major risk factors, with sudden painful vision loss",
-        "Recent ocular trauma is the major risk factor, with hyphema and blurred vision"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - open-angle glaucoma's major risk factors are increased age, family history, and diabetes; it is typically asymptomatic until peripheral (then central) vision loss occurs, matching this patient's elevated IOP and increased cup-to-disc ratio.",
-        "This describes acute angle-closure glaucoma, not open-angle glaucoma.",
-        "This describes risk factors for Pseudomonas keratitis, unrelated to glaucoma.",
-        "This describes risk factors more typical of anatomically predisposed angle-closure glaucoma, which presents acutely and painfully, not open-angle disease.",
-        "This describes risk factors for hyphema, not open-angle glaucoma."
-      ],
-      "overview": "Open-angle glaucoma is the most common form of glaucoma, caused by increased resistance to aqueous outflow through the trabecular meshwork. Major risk factors include increasing age, family history, and diabetes, and the disease is typically asymptomatic until peripheral, and later central, vision loss occurs, making screening with tonometry and fundoscopic exam for disc cupping essential.",
-      "id": "2026-09-16-02"
+      "id": "2026-09-18-01"
     },
     {
       "format": "simple4",
-      "topic": "Presbyopia",
-      "angle": "pathophysiology",
-      "stem": "A 50-year-old man notices increasing difficulty reading fine print, requiring him to hold reading material farther away. Which of the following best explains the underlying mechanism of this condition?",
+      "stem": "According to cancer epidemiology data, which of the following correctly ranks cancer mortality (death rate) from highest to lowest among the listed cancer types?",
       "options": [
-        "Opacification of the lens due to accumulation of sorbitol",
-        "Corneal curvature that fails to match the size of the eye",
-        "Age-related stiffening of the lens, impairing its ability to round and focus on near objects",
-        "Progressive elongation of the globe, causing the focal point to fall in front of the retina"
+        "Colorectal cancer, then lung cancer, then breast/prostate cancer",
+        "Breast/prostate cancer, then lung cancer, then colorectal cancer",
+        "Lung cancer, then breast/prostate cancer, then colorectal cancer",
+        "Breast/prostate cancer, then colorectal cancer, then lung cancer"
       ],
       "correctIndex": 2,
       "explanations": [
-        "This describes diabetic cataract formation via the polyol pathway, not presbyopia.",
-        "This describes the general mechanism of refractive errors like myopia/hyperopia/astigmatism, not the age-related lens stiffening of presbyopia.",
-        "Correct - presbyopia results from age-related stiffening of the lens, which impairs the lens's ability to round and increase its optical power for near vision (accommodation).",
-        "This describes myopia, not presbyopia."
+        "Incorrect - colorectal cancer has lower mortality than both lung and breast/prostate cancer.",
+        "Incorrect - this reverses lung cancer's position; lung cancer has the highest mortality despite lower incidence than breast/prostate cancer.",
+        "Correct - lung cancer has the highest cancer mortality, followed by breast/prostate cancer, then colorectal cancer, even though breast/prostate cancers have higher incidence.",
+        "Incorrect - lung cancer, not breast/prostate cancer, has the highest mortality rate."
       ],
-      "overview": "Presbyopia is the age-related stiffening of the lens that impairs accommodation, making it difficult to focus on near objects such as reading material. It is commonly corrected with bifocal or multifocal lenses that provide distinct zones of optical power for near and distance vision.",
-      "id": "2026-09-16-03"
+      "overview": "While breast and prostate cancers have the highest incidence (new cases) after lung cancer, lung cancer remains the leading cause of cancer death, followed by breast/prostate cancer and then colorectal cancer. Cancer is the second leading cause of death overall, after heart disease.",
+      "topic": "Cancer epidemiology (incidence/mortality)",
+      "angle": "epidemiology",
+      "id": "2026-09-18-02"
     },
     {
       "format": "simple4",
-      "topic": "Herpes zoster ophthalmicus",
-      "angle": "clinical_presentation",
-      "stem": "An elderly immunocompromised man presents with a prodrome of headache and malaise followed by a vesicular rash along the forehead and tip of the nose, with associated conjunctivitis and keratitis. Which of the following best describes this condition?",
+      "stem": "Which of the following best describes the role of lysyl oxidase in wound healing, and the effect of its deficiency?",
       "options": [
-        "Autoimmune inflammation of the sclera associated with rheumatoid arthritis",
-        "Primary infection with herpes simplex virus type 1 of the optic nerve",
-        "Reactivation of cytomegalovirus in an HIV patient with a low CD4 count",
-        "Reactivation of varicella-zoster virus involving the ophthalmic division of the trigeminal nerve"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Scleritis is associated with rheumatologic disease but does not present with a vesicular rash along a dermatome.",
-        "This describes recurrent ocular HSV disease, a distinct entity caused by HSV-1, not varicella-zoster virus.",
-        "CMV retinitis occurs in severely immunocompromised HIV patients with low CD4 counts and presents with retinal hemorrhages and necrosis, not a vesicular dermatomal rash.",
-        "Correct - herpes zoster ophthalmicus results from reactivation of latent varicella-zoster virus involving the ophthalmic (V1) division of the trigeminal nerve, presenting with a prodrome followed by vesicular rash and ocular involvement (conjunctivitis, uveitis, episcleritis, keratitis), typically in older or immunocompromised patients."
-      ],
-      "overview": "Herpes zoster ophthalmicus results from reactivation of latent varicella-zoster virus in the ophthalmic division of the trigeminal nerve, typically in older or immunocompromised patients. It presents with a prodrome of headache, malaise, and fever, followed by a vesicular rash, and can cause conjunctivitis, uveitis, episcleritis, and keratitis.",
-      "id": "2026-09-16-04"
-    },
-    {
-      "format": "simple4",
-      "topic": "Vitreous humor",
-      "angle": "anatomy_histology",
-      "stem": "Which of the following best describes the composition and primary function of the vitreous humor?",
-      "options": [
-        "A gel-like substance that is approximately 99% water and helps maintain eye shape and support the retina",
-        "A water-like fluid produced by the ciliary epithelium that flows through the pupil to the anterior chamber",
-        "A protein-rich fluid produced by the retinal pigment epithelium that nourishes the cornea",
-        "A collagen-based membrane that separates the choroid from the sclera"
+        "A copper-dependent enzyme that cross-links collagen; deficiency impairs wound maturation",
+        "An enzyme that converts fibroblasts into myofibroblasts; deficiency prevents wound contraction",
+        "A vitamin C-dependent enzyme that hydroxylates proline; deficiency causes scurvy",
+        "A zinc-dependent enzyme that degrades type III collagen; deficiency impairs granulation tissue formation"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - vitreous humor is a transparent, gel-like substance, approximately 99% water plus collagen and glycosaminoglycans, that maintains eye shape, supports the retina, and provides shock absorption.",
-        "This describes aqueous humor, produced by the ciliary body, not vitreous humor.",
-        "Vitreous humor is not produced by the RPE, and it does not nourish the cornea.",
-        "This does not describe the vitreous humor, which is a fluid-filled gel, not a membrane."
+        "Correct - lysyl oxidase is a copper-dependent enzyme that cross-links collagen during the remodeling/maturation phase of wound healing; copper deficiency impairs this cross-linking and results in poor wound healing.",
+        "Incorrect - myofibroblast differentiation is a separate process from lysyl oxidase's collagen cross-linking role.",
+        "Incorrect - hydroxylation of proline in collagen synthesis is a vitamin C-dependent process, distinct from lysyl oxidase's copper-dependent cross-linking function.",
+        "Incorrect - degrading type III collagen (collagenase activity) describes metalloproteinases (zinc-dependent), not lysyl oxidase."
       ],
-      "overview": "The vitreous humor is a transparent, gel-like substance filling the space between the lens and retina, composed of about 99% water along with collagen and glycosaminoglycans. It maintains the shape of the eye, supports the retina, transmits light, and provides shock absorption; age-related degeneration of the vitreous is a common cause of floaters.",
-      "id": "2026-09-16-05"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Non-arteritic anterior ischemic optic neuropathy (NAION)",
-      "angle": "risk_factors",
-      "stem": "A 66-year-old man with poorly controlled hypertension, type 2 diabetes, and obstructive sleep apnea wakes up with painless loss of vision in his right eye. Fundoscopy shows a swollen optic disc. ESR and CRP are within normal limits, and his optic disc is noted to be small and crowded. Which of the following best describes the underlying process and key predisposing factor for his condition?",
-      "options": [
-        "Hypoperfusion of the optic nerve head in a patient with vascular risk factors and a small, crowded (\"at risk\") optic disc",
-        "Embolic occlusion of the central retinal artery from a carotid plaque",
-        "Elevated intracranial pressure causing impaired axoplasmic flow",
-        "Demyelination of the optic nerve associated with multiple sclerosis",
-        "Inflammatory arteritis of the posterior ciliary arteries requiring emergent steroid therapy"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - NAION results from hypoperfusion of the optic nerve head, associated with vascular risk factors (diabetes, hypertension, sleep apnea) and a small \"disc at risk\"; it typically presents with sudden painless vision loss on awakening and normal inflammatory markers.",
-        "CRAO produces a cherry-red spot with a pale retina and is typically embolic, but this patient's swollen disc is consistent with anterior ischemic optic neuropathy, not CRAO.",
-        "This describes the mechanism of papilledema, which is bilateral and due to elevated ICP, not this patient's unilateral presentation with vascular risk factors.",
-        "MS-related optic neuritis is a demyelinating, painful process typically in younger patients, not matching this vascular risk profile.",
-        "This describes AAION from giant cell arteritis, which would show elevated ESR/CRP, not the normal values seen in this patient."
-      ],
-      "overview": "Non-arteritic anterior ischemic optic neuropathy (NAION) is caused by hypoperfusion of the optic nerve head and is associated with vascular risk factors such as diabetes, hypertension, hypercholesterolemia, and obstructive sleep apnea, plus a small, crowded \"disc at risk.\" Unlike arteritic AION from giant cell arteritis, ESR/CRP are normal, and it presents as sudden painless monocular vision loss, typically noticed upon awakening, with no specific treatment beyond risk factor management.",
-      "id": "2026-09-16-06"
+      "overview": "During wound remodeling, lysyl oxidase, a copper-dependent enzyme, cross-links collagen fibers to increase scar tensile strength, while metalloproteinases (zinc-dependent) degrade type III collagen. Copper deficiency, like zinc or vitamin C deficiency, impairs proper wound maturation and healing.",
+      "topic": "Lysyl oxidase",
+      "angle": "mechanism",
+      "id": "2026-09-18-03"
     },
     {
       "format": "simple4",
-      "topic": "Optic neuritis",
-      "angle": "clinical_presentation",
-      "stem": "A 32-year-old woman presents with pain that worsens with eye movement and progressive loss of vision in one eye over several days, along with decreased color perception. Exam reveals an afferent pupillary defect. Which of the following is the most likely diagnosis?",
+      "stem": "The Warburg effect in cancer cells is best described by which of the following?",
       "options": [
-        "Acute angle-closure glaucoma",
-        "Cataract",
-        "Optic neuritis",
-        "Retinal detachment"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Acute angle-closure glaucoma presents with severe pain, red eye, halos, and a fixed mid-dilated pupil, not the pattern of vision loss and pain with eye movement described here.",
-        "Cataracts are painless and cause gradual vision loss, not the acute painful presentation described.",
-        "Correct - optic neuritis presents with monocular vision loss (central more than peripheral), loss of color vision, pain that worsens with eye movement, and an afferent pupillary defect, commonly associated with multiple sclerosis.",
-        "Retinal detachment presents with floaters, flashes, and a curtain-like visual field loss, not eye pain with movement or color desaturation."
-      ],
-      "overview": "Optic neuritis is inflammation and demyelination of the optic nerve, commonly associated with multiple sclerosis, presenting with monocular vision loss (central greater than peripheral), loss of color vision, flickering lights, and eye pain that worsens with movement, with an afferent pupillary defect on exam. Diagnosis involves OCT showing decreased retinal layer thickness and MRI showing optic nerve enhancement; treatment is with steroids.",
-      "id": "2026-09-16-07"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Giant cell arteritis",
-      "angle": "diagnosis",
-      "stem": "A 68-year-old woman presents with several weeks of unilateral throbbing headache, scalp tenderness when brushing her hair, and jaw pain while chewing that improves with rest. She also reports a 5-kg weight loss and low-grade fevers. Labs show ESR 95 mm/hr and markedly elevated CRP. Which of the following is the most appropriate next step to confirm the diagnosis?",
-      "options": [
-        "Fluorescein angiography of the retina",
-        "MRI of the brain with contrast",
-        "Temporal artery biopsy",
-        "Genetic testing for mitochondrial mutations",
-        "Lumbar puncture with opening pressure measurement"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Fluorescein angiography is not the confirmatory test for GCA described in the notes.",
-        "MRI of the brain does not confirm arteritis and is not the diagnostic test for GCA.",
-        "Correct - temporal artery biopsy is the diagnostic gold standard for giant cell (temporal) arteritis.",
-        "Genetic testing is used for Leber hereditary optic neuropathy, a mitochondrial disorder, not GCA.",
-        "LP with opening pressure is used to evaluate idiopathic intracranial hypertension, not GCA."
-      ],
-      "overview": "Giant cell (temporal) arteritis is a vasculitis affecting women over 50, presenting with unilateral headache, temporal artery tenderness, jaw claudication, and elevated ESR/CRP. It can cause arteritic anterior ischemic optic neuropathy (AAION), an emergency causing sudden painless monocular vision loss with a swollen, pale disc; diagnosis is confirmed by temporal artery biopsy, and urgent steroids are needed to prevent blindness and stroke.",
-      "id": "2026-09-16-08"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Homonymous hemianopsia",
-      "angle": "anatomy_histology",
-      "stem": "A 62-year-old man develops sudden loss of vision in the left half of his visual field in both eyes after an ischemic stroke. Central (macular) vision is preserved. Which of the following vascular territories and lesion locations best explains this presentation?",
-      "options": [
-        "Bilateral optic nerve demyelination from multiple sclerosis",
-        "Right posterior cerebral artery infarct affecting the right optic tract/occipital cortex, with macular sparing due to dual blood supply",
-        "Left middle cerebral artery infarct affecting the left optic chiasm",
-        "Left posterior communicating artery aneurysm compressing the left oculomotor nerve",
-        "Right anterior cerebral artery infarct affecting the right optic nerve"
+        "Complete loss of glucose uptake by malignant cells",
+        "Preferential metabolism of glucose to lactate for ATP production, even in the presence of oxygen",
+        "Selective activation of the electron transport chain to maximize ATP yield per glucose molecule",
+        "Preferential use of oxidative phosphorylation over glycolysis, even under hypoxic conditions"
       ],
       "correctIndex": 1,
       "explanations": [
-        "MS causes optic neuritis, typically monocular vision loss, not bilateral homonymous hemianopsia with macular sparing.",
-        "Correct - loss of the left visual field in both eyes indicates a right-sided post-chiasmal lesion (optic tract to occipital cortex); PCA strokes classically spare the macula due to its dual MCA/PCA blood supply.",
-        "The optic chiasm is not in MCA territory, and a chiasmal lesion causes bitemporal, not homonymous, field loss.",
-        "A PCOM aneurysm compresses CN III, causing ptosis, a dilated pupil, and the eye positioned down and out, not a visual field defect.",
-        "The optic nerve is pre-chiasmal; a lesion here causes monocular vision loss, not homonymous hemianopsia, and is not typically due to an ACA infarct."
+        "Incorrect - cancer cells show increased, not absent, glucose uptake, which is exploited diagnostically with PET scanning.",
+        "Correct - the Warburg effect describes \"aerobic glycolysis,\" in which cancer cells preferentially metabolize glucose to lactate for ATP even when oxygen is available, producing less ATP per glucose than oxidative phosphorylation but resulting in high glucose uptake, which is the basis for PET scanning.",
+        "Incorrect - the Warburg effect specifically involves bypassing efficient oxidative phosphorylation in favor of less efficient glycolysis.",
+        "Incorrect - the Warburg effect describes increased reliance on glycolysis, not oxidative phosphorylation, even when oxygen is present."
       ],
-      "overview": "Homonymous hemianopsia results from lesions posterior to the optic chiasm (optic tract, optic radiations, or occipital cortex) and causes loss of the same-sided visual field in both eyes. PCA strokes affecting the occipital cortex classically spare the macula because of its dual blood supply from the MCA and PCA.",
-      "id": "2026-09-16-09"
+      "overview": "The Warburg effect describes cancer cells' preference for aerobic glycolysis, converting glucose to lactate for ATP even when oxygen is available, despite yielding less ATP per glucose molecule than oxidative phosphorylation. This results in markedly increased glucose uptake by tumor cells, which is the physiologic basis for FDG-PET imaging in oncology.",
+      "topic": "Warburg effect",
+      "angle": "mechanism",
+      "id": "2026-09-18-04"
     },
     {
       "format": "vignette5",
-      "topic": "Acute angle-closure glaucoma",
-      "angle": "clinical_presentation",
-      "stem": "A 68-year-old woman presents to the ED with acute onset severe right eye pain, headache, nausea, and vomiting after sitting in a dark movie theater. Exam shows a red right eye, hazy cornea, a fixed and mid-dilated pupil, and IOP of 52 mmHg. Which of the following best describes the pathophysiologic mechanism causing her symptoms?",
+      "stem": "A 22-year-old woman has recurrent episodes of non-pruritic swelling of the lips, face, and airway without urticaria, triggered by minor trauma or stress. Family history is positive for similar episodes. Serum complement studies reveal low levels of a specific inhibitory protein. Which of the following best explains the mechanism of her swelling episodes?",
       "options": [
-        "Optic nerve demyelination from autoimmune inflammation",
-        "Occlusion of the central retinal artery by an embolus",
-        "Increased episcleral venous pressure from a carotid-cavernous fistula",
-        "Chronic scarring of the trabecular meshwork due to long-standing uveitis",
-        "Anteriorly displaced lens causing pupillary block and obstruction of aqueous outflow through the angle"
+        "Deficiency of ACE leads to excessive bradykinin degradation",
+        "Deficiency of C1 inhibitor leads to unopposed bradykinin generation, increasing vascular permeability",
+        "Overactivation of the complement membrane attack complex directly lyses endothelial cells",
+        "Overproduction of histamine by mast cells causes IgE-mediated urticaria and angioedema",
+        "Deficiency of alpha-1 antitrypsin leads to unopposed neutrophil elastase activity"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - ACE normally degrades bradykinin, so ACE deficiency would not raise bradykinin; this vignette describes hereditary C1 inhibitor deficiency, not an ACE-related process.",
+        "Correct - C1 inhibitor normally degrades bradykinin; its deficiency in hereditary angioedema leads to unchecked bradykinin, causing vasodilation, increased vascular permeability, and angioedema without urticaria.",
+        "Incorrect - the notes describe C1 inhibitor's role in bradykinin regulation, not direct membrane attack complex-mediated lysis as the cause of angioedema.",
+        "Incorrect - hereditary angioedema is not IgE/histamine mediated, which is why urticaria is absent.",
+        "Incorrect - alpha-1 antitrypsin deficiency is unrelated to the bradykinin/angioedema pathway described in the notes."
+      ],
+      "overview": "Bradykinin is a potent vasodilator that increases vascular permeability and causes pain. It is normally degraded by ACE and by C1 inhibitor. Hereditary angioedema results from C1 inhibitor deficiency, causing unopposed bradykinin accumulation and recurrent, non-pruritic angioedema without urticaria.",
+      "topic": "Hereditary angioedema (C1 inhibitor deficiency)",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 3-year-old boy has recurrent infections with Staphylococcus aureus, Serratia marcescens, and Aspergillus, including a hepatic abscess. Neutrophil function testing shows absent respiratory burst activity. Which of the following best explains why catalase-positive organisms cause disproportionate infections in this disorder, compared to catalase-negative organisms?",
+      "options": [
+        "Catalase-positive organisms produce toxins that directly inhibit neutrophil chemotaxis",
+        "Catalase-positive organisms activate excessive complement leading to immune complex disease",
+        "Catalase-positive organisms are obligate intracellular pathogens resistant to lysosomal enzymes",
+        "Catalase-positive organisms degrade the small amount of H2O2 they generate, leaving phagocytes without any H2O2 to use against them",
+        "Catalase-positive organisms lack a cell wall, evading phagocytosis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - the notes do not describe toxin-mediated chemotaxis inhibition as the mechanism.",
+        "Incorrect - CGD susceptibility relates to NADPH oxidase deficiency, not complement/immune complex disease.",
+        "Incorrect - the classic CGD organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) are not defined by being obligate intracellular pathogens.",
+        "Correct - CGD patients lack NADPH oxidase; catalase-positive bacteria destroy their own H2O2, leaving no substrate for the deficient myeloperoxidase system, unlike catalase-negative organisms which generate H2O2 that phagocytes can still use.",
+        "Incorrect - cell wall status is not the relevant mechanism in CGD susceptibility."
+      ],
+      "overview": "CGD results from loss-of-function mutations in NADPH oxidase, preventing the respiratory burst that generates H2O2 in phagocytes. Catalase-positive organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) degrade their own H2O2, denying phagocytes the peroxide needed for myeloperoxidase-mediated killing, causing recurrent infections and granuloma formation.",
+      "topic": "Chronic granulomatous disease",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-06"
+    },
+    {
+      "format": "simple4",
+      "stem": "A lung nodule is found to contain a disorganized but mature mixture of cartilage, smooth muscle, and respiratory epithelium, all normally found in the lung. This lesion is best classified as which of the following?",
+      "options": [
+        "Carcinoma in situ",
+        "Hamartoma",
+        "Teratoma",
+        "Choristoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - carcinoma in situ describes dysplasia of the entire epithelial layer without invasion, not a disorganized benign mass of mature tissue types.",
+        "Correct - a hamartoma is a mass of mature but disorganized cells that are normally found at that site (e.g., a lung hamartoma containing disorganized lung tissue), representing a developmental anomaly that is benign.",
+        "Incorrect - a teratoma contains cells derived from multiple germ layers arising from germ cells, not a disorganized mixture of native lung tissue types.",
+        "Incorrect - a choristoma is mature, well-differentiated tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum), not disorganized native tissue in its normal organ."
+      ],
+      "overview": "Hamartomas and choristomas are both benign, non-neoplastic developmental anomalies. A hamartoma is disorganized but mature tissue native to the site where it is found (e.g., lung tissue in a lung hamartoma), whereas a choristoma is mature, normal tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum).",
+      "topic": "Hamartoma vs choristoma",
+      "angle": "other",
+      "id": "2026-09-18-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following correctly pairs a carcinogen with its associated malignancy, as described in the notes?",
+      "options": [
+        "HPV infection \u2014 mesothelioma",
+        "Ionizing radiation \u2014 cervical cancer",
+        "Asbestos exposure \u2014 mesothelioma",
+        "Sunlight exposure \u2014 hepatocellular carcinoma"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - HPV is associated with cervical cancer, not mesothelioma, which is linked to asbestos.",
+        "Incorrect - HPV, not ionizing radiation, is the carcinogen linked to cervical cancer in the notes.",
+        "Correct - asbestos is a chemical carcinogen classically associated with mesothelioma.",
+        "Incorrect - sunlight (UV radiation) is associated with skin cancer, not hepatocellular carcinoma."
+      ],
+      "overview": "Carcinogens include chemicals, viruses, and radiation. Asbestos exposure is classically linked to mesothelioma, HPV infection to cervical cancer, and UV sunlight exposure to skin cancer, illustrating how nonlethal DNA damage from environmental exposures drives carcinogenesis.",
+      "topic": "Carcinogens",
+      "angle": "risk_factors",
+      "id": "2026-09-18-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following correctly lists the sequence of steps by which neutrophils exit post-capillary venules to enter inflamed tissue?",
+      "options": [
+        "Migration \u2192 rolling \u2192 transmigration \u2192 crawling",
+        "Rolling \u2192 crawling \u2192 transmigration \u2192 migration",
+        "Crawling \u2192 migration \u2192 rolling \u2192 transmigration",
+        "Transmigration \u2192 rolling \u2192 crawling \u2192 migration"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - migration is the final step, not the first.",
+        "Correct - the notes describe four steps of neutrophil extravasation at post-capillary venules in this order: rolling, crawling, transmigration, migration.",
+        "Incorrect - crawling follows rolling; this order is scrambled.",
+        "Incorrect - transmigration occurs after rolling and crawling, not first."
+      ],
+      "overview": "Neutrophils exit the bloodstream at post-capillary venules through a four-step process: rolling along the endothelium, firm adhesion/crawling, transmigration through the endothelial layer, and migration into the tissue toward the site of injury. Neutrophils dominate the first ~2 days of acute inflammation before undergoing apoptosis.",
+      "topic": "Neutrophil extravasation",
+      "angle": "mechanism",
+      "id": "2026-09-18-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man with a 15-year history of gastroesophageal reflux disease undergoes upper endoscopy for surveillance. Biopsy of the distal esophagus shows replacement of the normal stratified squamous epithelium with columnar, mucin-producing epithelium containing goblet cells. Which of the following best characterizes this histologic finding?",
+      "options": [
+        "Metaplasia, a potentially reversible adaptive change that can progress to dysplasia and adenocarcinoma",
+        "Anaplasia, an undifferentiated proliferation seen in aggressive malignancy",
+        "Hyperplasia, an increase in the number of native squamous epithelial cells",
+        "Hypertrophy, an increase in the size of individual epithelial cells",
+        "Dysplasia, an irreversible pre-cancerous change with abnormal nuclear pleomorphism"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - Barrett esophagus is intestinal (columnar) metaplasia of the esophageal squamous epithelium in response to chronic acid exposure; metaplasia is potentially reversible but can progress toward dysplasia and adenocarcinoma.",
+        "Incorrect - anaplasia describes undifferentiated malignant cells, not the orderly columnar epithelium seen here.",
+        "Incorrect - hyperplasia is an increase in cell number of the same cell type, not a change in cell type.",
+        "Incorrect - hypertrophy is an increase in cell size, not a change in cell type.",
+        "Incorrect - dysplasia is a distinct, more advanced step characterized by pleomorphism and abnormal nuclei, which may follow metaplasia but is not what is described here (columnar replacement of squamous epithelium)."
+      ],
+      "overview": "Barrett esophagus is a classic example of metaplasia, in which chronic gastric acid exposure causes the normal stratified squamous epithelium of the esophagus to be replaced by columnar, intestinal-type epithelium better suited to withstand the acidic stressor. Metaplasia is potentially reversible but predisposes to dysplasia and esophageal adenocarcinoma.",
+      "topic": "Barrett esophagus",
+      "angle": "diagnosis",
+      "id": "2026-09-18-10"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 24-year-old woman with darker skin pigmentation had ear piercing 6 months ago. She now has a raised, firm, pink mass at the piercing site that extends beyond the original wound margins onto adjacent normal skin. She reports it has continued to grow rather than regress. Which of the following best describes this lesion?",
+      "options": [
+        "Granulation tissue, composed of proliferating fibroblasts and new capillaries typically seen days after injury",
+        "Keloid, caused by excessive collagen deposition that extends beyond the boundaries of the original wound",
+        "Dystrophic calcification within a healed wound",
+        "Hypertrophic scar, which remains confined within the original wound margins and often regresses spontaneously",
+        "Fat necrosis, resulting from local trauma to subcutaneous adipose tissue"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - granulation tissue develops 3-5 days after injury and is an early transient stage of healing, not a persistent raised mass 6 months later.",
+        "Correct - keloids are raised scars that extend beyond the original wound borders due to excessive fibroblast activity, growth factors, and disorganized type I and III collagen; they are more common in certain locations (earlobe, deltoid, upper back) and do not regress.",
+        "Incorrect - dystrophic calcification produces calcium deposits in damaged tissue, not a raised, growing fibrous mass.",
+        "Incorrect - hypertrophic scars stay within wound borders, are composed mostly of organized type III collagen, and often regress spontaneously, unlike this persistent lesion extending beyond the wound.",
+        "Incorrect - fat necrosis produces chalky-white saponified fat, not a raised fibrous mass at a piercing site."
+      ],
+      "overview": "Keloids are raised scars resulting from excessive wound healing, with increased fibroblasts, growth factors, and disorganized type I and III collagen extending beyond the original wound borders. They are more common at the earlobe, deltoid, and upper back, rare on palms/soles/eyelids, and have a high recurrence rate after surgical removal.",
+      "topic": "Keloid",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "In the TNM cancer staging system, which of the following correctly matches each letter with what it represents?",
+      "options": [
+        "T = tissue type, N = necrosis extent, M = metabolic activity",
+        "T = tumor grade, N = number of mitoses, M = molecular markers",
+        "T = primary tumor size, N = regional lymph node involvement, M = distant metastasis",
+        "T = tumor location, N = nuclear atypia, M = mortality risk"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - TNM does not stand for tissue type, necrosis extent, or metabolic activity.",
+        "Incorrect - tumor grade reflects differentiation determined by biopsy, which is separate from the TNM staging categories.",
+        "Correct - TNM staging denotes T (primary tumor size, T1-T4), N (degree of regional lymph node spread, N0-N3), and M (presence or absence of metastases, M0 or M1).",
+        "Incorrect - TNM does not stand for tumor location, nuclear atypia, or mortality risk directly."
+      ],
+      "overview": "Cancer staging (TNM) describes the anatomic extent of tumor spread: T for primary tumor size, N for regional lymph node involvement, and M for distant metastasis. Staging is typically determined by imaging and is distinct from grading, which reflects the degree of tumor differentiation determined by biopsy.",
+      "topic": "TNM staging system",
+      "angle": "other",
+      "id": "2026-09-18-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 52-year-old woman with a history of alcohol use presents with severe epigastric pain radiating to the back, nausea, and vomiting. Serum lipase is markedly elevated. CT shows peripancreatic fat stranding with chalky-white foci. Which of the following best describes the mechanism producing the chalky-white foci?",
+      "options": [
+        "Mycobacterial infection causes granulomatous necrosis of peripancreatic tissue",
+        "Ischemia causes coagulative necrosis with preserved tissue architecture",
+        "Immune complexes deposit in small vessel walls, causing fibrin leakage",
+        "Lipases released from injured pancreatic acinar cells break down peritoneal fat, and the liberated fatty acids combine with calcium to form soaps",
+        "Bacterial proteases liquefy peripancreatic tissue, forming a purulent abscess cavity"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - this describes caseous necrosis seen in tuberculosis, not fat necrosis.",
+        "Incorrect - coagulative necrosis preserves architecture and occurs in infarction, and does not explain chalky-white foci.",
+        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel process, not fat necrosis.",
+        "Correct - in fat necrosis (classically acute pancreatitis), released lipases break down peritoneal fat, and the resulting fatty acids saponify with calcium to produce chalky-white deposits.",
+        "Incorrect - this describes liquefactive necrosis (abscess), not fat necrosis."
+      ],
+      "overview": "Fat necrosis classically occurs in acute pancreatitis, where lipases released from damaged pancreatic acinar cells break down peritoneal fat. The liberated fatty acids combine with calcium in a process called saponification, producing grossly chalky-white tissue deposits. It can also occur in the breast after trauma or surgery, where it can mimic breast cancer.",
+      "topic": "Fat necrosis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Bradykinin contributes to the cardinal signs of inflammation through which of the following mechanisms?",
+      "options": [
+        "Direct activation of complement's membrane attack complex",
+        "Inhibition of cyclooxygenase in the hypothalamus",
+        "Vasodilation, increased vascular permeability, and pain sensitization",
+        "Stimulation of hepatic synthesis of C-reactive protein"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - bradykinin is generated through the kinin cascade, not by direct activation of the complement membrane attack complex.",
+        "Incorrect - bradykinin does not inhibit hypothalamic cyclooxygenase; prostaglandins via COX actually raise the hypothalamic set point in fever, an unrelated pathway.",
+        "Correct - bradykinin, generated via the kinin system after Hageman factor (XII) activation, causes vasodilation, increases vascular permeability, and produces pain.",
+        "Incorrect - hepatic CRP synthesis is driven by IL-6, not bradykinin."
+      ],
+      "overview": "Activated Hageman factor (factor XII) triggers the kinin cascade, converting prekallikrein to kallikrein, which cleaves high molecular weight kininogen to release bradykinin. Bradykinin is a vasodilator that increases vascular permeability and causes pain, and is degraded by ACE and C1 inhibitor.",
+      "topic": "Bradykinin",
+      "angle": "mechanism",
+      "id": "2026-09-18-14"
+    },
+    {
+      "format": "simple4",
+      "stem": "Alternative (M2) macrophage activation is primarily driven by which of the following cytokines and is associated with which functional outcome?",
+      "options": [
+        "TNF-\u03b1; promotes granuloma maintenance",
+        "IL-4 and IL-13; promotes tissue repair and angiogenesis",
+        "IL-1; promotes fever via hypothalamic prostaglandin synthesis",
+        "IFN-\u03b3; promotes microbial destruction via reactive oxygen species"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - TNF-\u03b1 maintains granulomatous inflammation but is not the defining cytokine for M2 (alternative) activation.",
+        "Correct - M2 (alternative) macrophage activation is driven by T-cell cytokines IL-4 and IL-13, inhibits classical activation, and promotes tissue repair with growth factors that drive angiogenesis.",
+        "Incorrect - IL-1 is a pyrogen involved in fever, not the primary driver of M2 macrophage activation.",
+        "Incorrect - IFN-\u03b3 drives classical (M1) activation, associated with reactive oxygen species and microbial killing, not M2 activation."
+      ],
+      "overview": "Macrophages can be classically activated (M1) by IFN-\u03b3 to destroy microbes via reactive oxygen species, or alternatively activated (M2) by IL-4/IL-13 to promote tissue repair and angiogenesis while inhibiting classical activation. This M1/M2 balance shapes the outcome of chronic inflammation.",
+      "topic": "M2 macrophage activation",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with long-standing rheumatoid arthritis develops proteinuria and is found to have amyloid deposits on renal biopsy. Which of the following serum proteins, elevated during chronic inflammation, is the precursor for this type of amyloid?",
+      "options": [
+        "C-reactive protein",
+        "Serum amyloid A protein",
+        "Ferritin",
+        "Fibrinogen"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - CRP is an acute phase reactant that binds bacterial polysaccharides and activates complement, but it is not the precursor protein for AA amyloidosis.",
+        "Correct - serum amyloid A (SAA) is an acute phase apolipoprotein whose chronically elevated levels in conditions like rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis.",
+        "Incorrect - ferritin is an iron storage protein and acute phase reactant, not the precursor for AA amyloid.",
+        "Incorrect - fibrinogen is a clotting factor and acute phase reactant that promotes cellular adhesion, not the precursor for AA amyloid."
+      ],
+      "overview": "Serum amyloid A (SAA) is an acute phase reactant apolipoprotein synthesized during inflammation. Chronic elevation of SAA in long-standing inflammatory conditions such as rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis, with deposits commonly affecting the kidneys.",
+      "topic": "Secondary (AA) amyloidosis",
+      "angle": "complications",
+      "id": "2026-09-18-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "Histologic examination of tissue obtained 5 days after a surgical incision would be expected to show which of the following as the dominant components of granulation tissue?",
+      "options": [
+        "Multinucleated giant cells surrounding a necrotic core",
+        "Sheets of neutrophils with abundant caseous debris",
+        "Dense, avascular, acellular type I collagen with maximal tensile strength",
+        "Proliferating fibroblasts, new capillaries from angiogenesis, and extracellular matrix"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - giant cells around a necrotic core describe granulomatous/caseous necrosis, not granulation tissue.",
+        "Incorrect - sheets of neutrophils with caseous debris describes a different process (e.g., abscess or caseous necrosis), not granulation tissue.",
+        "Incorrect - dense, avascular, acellular collagen describes a mature scar, which forms months later, not granulation tissue at day 5.",
+        "Correct - granulation tissue develops 3-5 days after injury and consists histologically of proliferating fibroblasts, new small capillaries from angiogenesis, extracellular matrix, and some inflammatory cells (especially macrophages)."
+      ],
+      "overview": "Granulation tissue is the early scaffold of wound healing, appearing 3-5 days after injury. It is composed of proliferating fibroblasts, new capillaries formed by angiogenesis, extracellular matrix, and macrophages, and it matures over time into a collagen-rich scar.",
+      "topic": "Granulation tissue",
+      "angle": "anatomy_histology",
+      "id": "2026-09-18-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old man from an endemic region presents with chronic cough, night sweats, and weight loss. Chest imaging shows a cavitary upper lobe lesion. Biopsy reveals granulomas with a central area of cheese-like, structureless necrotic debris surrounded by epithelioid macrophages and giant cells. Which of the following best characterizes this type of necrosis?",
+      "options": [
+        "Characterized by saponification of fat with calcium",
+        "Characterized by preserved tissue architecture with red-pink cytoplasm and loss of nuclei, seen in myocardial infarction",
+        "Combines features of coagulative and liquefactive necrosis, classically associated with mycobacterial infection",
+        "Characterized by fibrin deposition in vessel walls associated with immune complex disease",
+        "Characterized by complete liquefaction of tissue into a purulent mass"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - this describes fat necrosis, not caseous necrosis.",
+        "Incorrect - this describes coagulative necrosis, seen in infarcts like myocardial infarction, not caseous necrosis.",
+        "Correct - caseous necrosis has a cheese-like gross appearance combining features of coagulative and liquefactive necrosis and is classically seen in tuberculosis, where mycobacteria resist digestion and macrophages form giant cells around the necrotic center.",
+        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel wall process.",
+        "Incorrect - this describes liquefactive necrosis (e.g., abscess), not caseous necrosis, which retains a granulomatous structure."
+      ],
+      "overview": "Caseous necrosis produces a grossly cheese-like substance and microscopically shows granulomatous inflammation with a necrotic center surrounded by epithelioid macrophages, lymphocytes, and giant cells. It is classically associated with tuberculosis, where mycobacteria resist degradation, leading to slow, incomplete breakdown of infected tissue.",
+      "topic": "Caseous necrosis",
+      "angle": "diagnosis",
+      "id": "2026-09-18-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with sickle cell anemia has an infection but her erythrocyte sedimentation rate remains within the normal range despite significant inflammation. Which of the following best explains this discrepancy?",
+      "options": [
+        "Sickle cell anemia increases red cell negative surface charge, accelerating sedimentation",
+        "Abnormally shaped red blood cells impede the normal stacking and sedimentation that acute phase reactants would otherwise promote",
+        "Sickle cell anemia causes an isolated deficiency of C-reactive protein",
+        "Sickle cell anemia is associated with reduced fibrinogen synthesis, independent of red cell shape"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - increased negative charge would inhibit, not accelerate, sedimentation by promoting red cell repulsion, and this is not the mechanism given in the notes.",
+        "Correct - the notes list abnormal red cell shapes such as sickle cells and spherocytes as causes of a falsely low/normal ESR, because misshapen cells cannot stack normally (rouleaux formation) even with elevated acute phase reactants like fibrinogen.",
+        "Incorrect - the notes do not describe an isolated CRP deficiency in sickle cell anemia as the explanation for a low ESR.",
+        "Incorrect - the mechanism described in the notes is abnormal cell shape impeding sedimentation, not a primary fibrinogen synthesis defect."
+      ],
+      "overview": "ESR reflects the balance between pro-sedimentation acute phase reactants (especially fibrinogen) and anti-sedimentation red cell negative charge. Abnormal red cell shapes, such as sickle cells, spherocytes, or microcytes, physically impede normal stacking (rouleaux formation), so ESR may remain falsely low or normal despite active inflammation.",
+      "topic": "Erythrocyte sedimentation rate",
+      "angle": "diagnosis",
+      "id": "2026-09-18-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 58-year-old woman with end-stage renal disease on hemodialysis develops painful, violaceous skin nodules on her thighs that progress to necrotic ulcers. Laboratory studies show markedly elevated serum phosphate. Biopsy shows calcification of small dermal vessel walls. Which of the following best explains the underlying process?",
+      "options": [
+        "Immune complex deposition in dermal vessels triggers fibrinoid necrosis",
+        "Chronic hyperphosphatemia drives vascular smooth muscle cells to undergo osteogenic transformation, leading to vessel wall calcification, thrombosis, and skin necrosis",
+        "Elevated serum calcium alone causes calcium phosphate precipitation in areas of high internal pH such as the kidney and lungs",
+        "Excess parathyroid hormone directly deposits calcium in the skin independent of phosphate levels",
+        "Local tissue necrosis releases phospholipids that bind calcium at physiologic serum calcium levels"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - the notes attribute calciphylaxis to hyperphosphatemia-driven vascular calcification, not immune complex-mediated fibrinoid necrosis.",
+        "Correct - calciphylaxis occurs in chronic kidney disease with hyperphosphatemia, where excess phosphate is taken up by vascular smooth muscle, driving osteogenic transformation and vascular wall calcification, leading to small vessel thrombosis and painful skin necrosis.",
+        "Incorrect - this describes metastatic calcification's general mechanism/locations (GI, kidney, lung), not the specific vascular smooth muscle osteogenesis of calciphylaxis.",
+        "Incorrect - the mechanism described is phosphate-driven vascular smooth muscle osteogenesis, not direct PTH deposition of calcium in skin.",
+        "Incorrect - this describes dystrophic calcification, which occurs with normal serum calcium in necrotic tissue, not calciphylaxis."
+      ],
+      "overview": "Calciphylaxis occurs in chronic kidney disease with chronic hyperphosphatemia, where vascular smooth muscle cells undergo osteogenic change and calcify, leading to small vessel thrombosis, increased blood pressure, and painful skin nodules that progress to necrosis. It is a form of metastatic calcification affecting blood vessels.",
+      "topic": "Calciphylaxis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-18-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Psammoma bodies, seen histologically in certain neoplasms such as papillary thyroid carcinoma, are best described as which of the following?",
+      "options": [
+        "Clusters of multinucleated giant cells surrounding necrotic debris",
+        "Deposits of amyloid protein with apple-green birefringence on Congo red stain",
+        "Calcifications with a concentric, layered pattern",
+        "Aggregates of hemosiderin-laden macrophages"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - multinucleated giant cells surrounding necrotic debris describes granulomatous/caseous necrosis, not psammoma bodies.",
+        "Incorrect - apple-green birefringence on Congo red staining is characteristic of amyloid deposits, not psammoma bodies.",
+        "Correct - psammoma bodies are calcifications with a distinctive layered (concentric, laminated) pattern seen in certain neoplasms, such as thyroid cancer, and represent a form of dystrophic calcification.",
+        "Incorrect - hemosiderin-laden macrophages are a separate histologic finding unrelated to psammoma bodies."
+      ],
+      "overview": "Psammoma bodies are calcified structures with a characteristic concentric, layered appearance on microscopy, representing a form of dystrophic calcification. They are classically associated with certain neoplasms, including papillary thyroid carcinoma.",
+      "topic": "Psammoma bodies",
+      "angle": "anatomy_histology",
+      "id": "2026-09-18-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with poor dietary intake and delayed wound healing is found to have vitamin C deficiency. Which of the following best explains the role of vitamin C in normal wound healing?",
+      "options": [
+        "It is required as a cofactor for lysyl oxidase-mediated collagen cross-linking",
+        "It activates metalloproteinases to degrade type III collagen",
+        "It is necessary for collagen synthesis by fibroblasts",
+        "It stimulates VEGF-mediated angiogenesis at the wound site"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect - collagen cross-linking is a copper-dependent (lysyl oxidase) process, not vitamin C-dependent, per the notes.",
+        "Incorrect - metalloproteinases are zinc-dependent enzymes; vitamin C's described role is in collagen synthesis, not activating collagen-degrading enzymes.",
+        "Correct - the notes state that vitamin C (ascorbic acid) is necessary for collagen synthesis, and its deficiency results in poor wound healing.",
+        "Incorrect - angiogenesis is primarily driven by VEGF and FGF, not vitamin C."
+      ],
+      "overview": "Vitamin C (ascorbic acid) is required for normal collagen synthesis by fibroblasts during wound healing. Deficiency impairs collagen production and results in poor wound healing, distinct from copper deficiency (impaired collagen cross-linking) and zinc deficiency (impaired collagen remodeling).",
+      "topic": "Vitamin C deficiency (wound healing)",
+      "angle": "pathophysiology",
+      "id": "2026-09-18-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "C-reactive protein is synthesized by the liver primarily in response to which cytokine, and performs which of the following functions?",
+      "options": [
+        "IL-6; binds bacterial polysaccharides and activates complement",
+        "IL-1; inhibits iron transport via ferroportin",
+        "IFN-\u03b3; activates macrophages to form giant cells",
+        "TNF-\u03b1; cross-links collagen fibers during wound remodeling"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - CRP is an acute phase reactant synthesized by the liver in response to IL-6 (produced by macrophages); it binds bacterial polysaccharides and activates the complement system.",
+        "Incorrect - inhibiting iron transport via ferroportin describes hepcidin, not CRP.",
+        "Incorrect - IFN-\u03b3 activates macrophages (M1), but this is not the CRP mechanism; giant cell formation is a granuloma feature, not a CRP function.",
+        "Incorrect - collagen cross-linking is performed by lysyl oxidase, unrelated to CRP or TNF-\u03b1."
+      ],
+      "overview": "C-reactive protein is an acute phase reactant produced by the liver in response to IL-6 released by macrophages during inflammation. It binds bacterial polysaccharides and activates complement, and chronically elevated levels are associated with coronary artery disease.",
+      "topic": "C-reactive protein",
+      "angle": "mechanism",
+      "id": "2026-09-18-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 19-year-old man presents with tremor, dysarthria, and liver dysfunction. Slit-lamp exam reveals Kayser-Fleischer rings. Serum ceruloplasmin is low, and hepatic copper content is elevated. Which of the following best explains a mechanism by which excess free copper contributes to cellular injury in this disorder?",
+      "options": [
+        "Free copper directly inhibits Na/K-ATPase, causing cellular swelling",
+        "Free copper activates caspases directly, triggering apoptosis",
+        "Free copper inhibits telomerase, accelerating cellular senescence",
+        "Free copper binds transferrin, preventing iron delivery to erythroid precursors",
+        "Free copper reacts with hydrogen peroxide via the Fenton reaction to generate hydroxyl radicals that damage lipids, proteins, and DNA"
       ],
       "correctIndex": 4,
       "explanations": [
-        "This describes optic neuritis, which is unrelated to acute angle closure.",
-        "CRAO causes sudden painless vision loss with a pale retina and cherry-red spot, not a painful red eye with markedly elevated IOP.",
-        "This mechanism is not discussed in the notes as a cause of acute angle-closure glaucoma.",
-        "This describes a chronic secondary open-angle process, not the acute pupillary block mechanism of this presentation.",
-        "Correct - this is the mechanism of pupillary block in angle-closure glaucoma: the anteriorly displaced lens blocks flow through the pupil, pressure builds in the posterior chamber, and the peripheral iris pushes against the cornea, obstructing the drainage angle."
+        "Incorrect - the notes describe copper toxicity via free radical (Fenton reaction) generation, not direct Na/K-ATPase inhibition.",
+        "Incorrect - copper's described mechanism of injury is free radical generation, not direct caspase activation.",
+        "Incorrect - telomerase inhibition is not a mechanism described for copper toxicity in the notes.",
+        "Incorrect - transferrin is an iron transport protein; copper is transported by ceruloplasmin, not transferrin.",
+        "Correct - excess free copper (normally bound by ceruloplasmin) participates in the Fenton reaction (H2O2 + Cu+ \u2192 Cu2+ + OH\u00b7), generating hydroxyl radicals that cause lipid peroxidation, protein oxidation, and DNA damage, contributing to hepatocyte and neuronal injury in Wilson disease."
       ],
-      "overview": "Acute angle-closure glaucoma occurs when the peripheral iris blocks the trabecular meshwork, often precipitated by pupillary dilation (e.g., dark environments, mydriatic drugs), causing an abrupt increase in IOP. It presents with severe eye pain, halos around lights, a fixed mid-dilated pupil, and nausea/vomiting, and is an ophthalmologic emergency.",
-      "id": "2026-09-16-10"
-    },
-    {
-      "format": "simple4",
-      "topic": "Leber hereditary optic neuropathy",
-      "angle": "epidemiology",
-      "stem": "A 22-year-old man presents with painless, subacute vision loss in one eye that progresses to involve the other eye over the following weeks. His mother has a history of unexplained vision loss at a young age, but his father is unaffected. Which of the following best describes the inheritance pattern of the most likely diagnosis?",
-      "options": [
-        "Autosomal recessive",
-        "Mitochondrial, maternally inherited",
-        "Autosomal dominant",
-        "X-linked recessive"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "LHON is not autosomal recessive; it follows mitochondrial inheritance.",
-        "Correct - Leber hereditary optic neuropathy is caused by mutations in electron transport chain complexes and follows mitochondrial, maternal inheritance, consistent with the mother's history of vision loss and the father being unaffected.",
-        "LHON is not autosomal dominant; it follows mitochondrial inheritance.",
-        "LHON is not X-linked; it is inherited through mitochondrial (maternal) DNA."
-      ],
-      "overview": "Leber hereditary optic neuropathy is a mitochondrially (maternally) inherited disorder caused by mutations in electron transport chain complexes, typically presenting with painless, subacute monocular vision loss with central scotoma and color vision deficiency between ages 10-30, with the other eye affected within weeks to months. Diagnosis is by genetic testing, and there is no cure.",
-      "id": "2026-09-16-11"
-    },
-    {
-      "format": "simple4",
-      "topic": "Adie's tonic pupil",
-      "angle": "clinical_presentation",
-      "stem": "A 30-year-old woman is found to have a unilaterally dilated pupil. It reacts poorly to direct light but constricts more briskly when she focuses on a near object. Which of the following best characterizes this pupillary abnormality?",
-      "options": [
-        "Sluggish or absent reaction to light with a relatively preserved, better response to accommodation",
-        "Bilateral small pupils with no reaction to light but normal reaction to accommodation",
-        "Fixed and mid-dilated pupil with severe eye pain",
-        "Normal reaction to light with absent reaction to accommodation"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Adie's tonic pupil is a dilated pupil with sluggish/absent light reaction but a relatively better response to accommodation (\"light-near dissociation\" favoring accommodation), most often idiopathic.",
-        "This describes the Argyll Robertson pupil, associated with neurosyphilis, not Adie's tonic pupil (which is typically unilateral and dilated, not bilateral and small).",
-        "This describes acute angle-closure glaucoma, a painful condition unrelated to Adie's pupil.",
-        "This is the reverse of the actual finding in Adie's pupil, which has an abnormal, not normal, light reaction."
-      ],
-      "overview": "Adie's tonic pupil is a dilated pupil caused by impaired parasympathetic innervation, most commonly idiopathic, though it can result from disorders of the ciliary ganglion (tumor, inflammation, trauma, surgery, infection). It characteristically shows a poor/sluggish reaction to light but a relatively preserved reaction to accommodation, distinguishing it from other causes of anisocoria.",
-      "id": "2026-09-16-12"
-    },
-    {
-      "format": "simple4",
-      "topic": "Age-related macular degeneration (wet/neovascular)",
-      "angle": "treatment",
-      "stem": "A patient with wet (neovascular) age-related macular degeneration is being started on treatment to reduce abnormal blood vessel growth. Which of the following classes of medication is most appropriate?",
-      "options": [
-        "Oral carbonic anhydrase inhibitors",
-        "Oral antioxidant vitamin supplements (vitamin C/E, zinc, copper)",
-        "Topical beta blockers",
-        "Anti-VEGF agents such as ranibizumab or bevacizumab"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Carbonic anhydrase inhibitors are used for glaucoma, not AMD.",
-        "Antioxidant vitamin/mineral supplementation may help slow dry AMD progression, not wet AMD, which requires anti-VEGF therapy.",
-        "Topical beta blockers are used for glaucoma, not AMD.",
-        "Correct - wet AMD is treated with anti-VEGF agents (ranibizumab, bevacizumab) and laser therapy, targeting the increased VEGF-driven retinal neovascularization that characterizes this form of AMD."
-      ],
-      "overview": "Wet (neovascular) AMD, though less common than dry AMD, can progress rapidly due to a break in Bruch's membrane and VEGF-driven retinal neovascularization, causing metamorphopsia and vision loss from vessel leakage/hemorrhage. It is treated with laser therapy and anti-VEGF agents such as ranibizumab and bevacizumab, in contrast to dry AMD, which has no specific treatment beyond antioxidant supplementation.",
-      "id": "2026-09-16-13"
-    },
-    {
-      "format": "simple4",
-      "topic": "Episcleritis",
-      "angle": "clinical_presentation",
-      "stem": "A 34-year-old woman with rheumatoid arthritis presents with a localized area of redness in one eye, mild tearing, and mild discomfort, with no discharge and no significant pain. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Bacterial conjunctivitis",
-        "Scleritis",
-        "Episcleritis",
-        "Keratitis"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Bacterial conjunctivitis typically presents with purulent discharge, which this patient does not have.",
-        "Scleritis presents with severe, \"boring\" pain that worsens with eye movement and can be sight-threatening, unlike this patient's mild symptoms.",
-        "Correct - episcleritis presents with localized redness, tearing, and mild or no pain/discomfort, often idiopathic but associated with rheumatoid arthritis, and is usually self-limited.",
-        "Keratitis presents with significant pain, photophobia, and foreign body sensation, often in contact lens wearers, not matching this presentation."
-      ],
-      "overview": "Episcleritis is acute inflammation of the episcleral layer between the conjunctiva and sclera, causing localized redness and tearing with mild or no pain; it is usually idiopathic and self-limited but can be associated with rheumatoid arthritis. It is distinguished from the more severe, painful scleritis by its milder course and lack of vision-threatening potential.",
-      "id": "2026-09-16-14"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Idiopathic intracranial hypertension",
-      "angle": "diagnosis",
-      "stem": "A 27-year-old obese woman presents with several weeks of progressive headache and pulsatile tinnitus, plus intermittent horizontal diplopia. Fundoscopy reveals bilateral optic disc swelling with blurred margins. MRI of the brain shows no mass lesion but does reveal bilateral transverse venous sinus narrowing. Which of the following is the most appropriate next diagnostic step?",
-      "options": [
-        "Lumbar puncture to measure opening pressure",
-        "Genetic testing for mitochondrial DNA mutations",
-        "Fluorescein angiography",
-        "Tonometry",
-        "Temporal artery biopsy"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - after neuroimaging rules out a mass lesion or other structural cause, lumbar puncture is used to confirm elevated intracranial pressure and can also provide short-term symptomatic relief in idiopathic intracranial hypertension.",
-        "Genetic testing is used for Leber hereditary optic neuropathy, not IIH.",
-        "Fluorescein angiography is not the diagnostic test described for IIH in the notes.",
-        "Tonometry measures intraocular pressure, which is not the mechanism of visual loss in IIH (that involves intracranial, not intraocular, pressure).",
-        "Temporal artery biopsy is used to diagnose giant cell arteritis, not IIH."
-      ],
-      "overview": "Idiopathic intracranial hypertension (pseudotumor cerebri) presents classically in obese women of childbearing age with headache, pulsatile tinnitus, diplopia (often CN VI palsy), and papilledema from impaired axoplasmic flow at the optic nerve head, without a mass lesion on imaging (though venous sinus stenosis is often seen). Diagnosis requires MRI to exclude other causes of elevated ICP, followed by lumbar puncture to confirm and, if needed, transiently lower the opening pressure; treatment includes acetazolamide, weight loss, and, in refractory cases, shunting or optic nerve sheath fenestration.",
-      "id": "2026-09-16-15"
-    },
-    {
-      "format": "simple4",
-      "topic": "Hypertensive retinopathy",
-      "angle": "clinical_presentation",
-      "stem": "A patient with long-standing poorly controlled hypertension undergoes a routine fundoscopic exam. Which of the following findings is classically associated with hypertensive retinopathy?",
-      "options": [
-        "\"Blood and thunder\" fundus",
-        "Bone-spicule pigmentation",
-        "Arteriovenous nicking",
-        "Cherry-red spot"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "\"Blood and thunder\" fundus is characteristic of central retinal vein occlusion, not hypertensive retinopathy.",
-        "Bone-spicule pigmentation is characteristic of retinitis pigmentosa, not hypertensive retinopathy.",
-        "Correct - arteriovenous nicking, along with arteriolar narrowing, hemorrhages, cotton-wool spots, hard exudates, and microaneurysms, is a classic fundoscopic finding of hypertensive retinopathy.",
-        "A cherry-red spot is classic for central retinal artery occlusion (and Tay-Sachs/Niemann-Pick disease), not hypertensive retinopathy."
-      ],
-      "overview": "Hypertensive retinopathy results from sclerosis and fibrinoid necrosis of retinal vessels due to chronic hypertension, with classic fundoscopic findings including arteriovenous nicking, arteriolar narrowing and wall thickening, hemorrhages, cotton-wool spots, and hard exudates; severe cases can cause papilledema requiring emergent treatment.",
-      "id": "2026-09-16-16"
-    },
-    {
-      "format": "simple4",
-      "topic": "Posterior vitreous detachment",
-      "angle": "clinical_presentation",
-      "stem": "A 68-year-old woman presents with new floaters and occasional flashes of light in one eye, with no pain or vision loss. This is most consistent with which of the following processes?",
-      "options": [
-        "Posterior vitreous detachment, an age-related separation of the vitreous gel from the retina",
-        "Bacterial endophthalmitis",
-        "Acute angle-closure glaucoma",
-        "Central retinal artery occlusion"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - posterior vitreous detachment is a common, often benign, age-related process in which the vitreous gel separates from the retina, causing floaters and flashes of light; it can occasionally lead to retinal tears or detachment.",
-        "Endophthalmitis presents with pain, redness, and hypopyon, not isolated floaters and flashes.",
-        "Angle-closure glaucoma presents with severe eye pain, redness, and halos, not painless floaters and flashes.",
-        "CRAO causes sudden painless but severe vision loss, not isolated floaters and flashes."
-      ],
-      "overview": "Posterior vitreous detachment occurs when the aging vitreous gel separates from the retina, most often producing floaters and flashes of light and typically remaining asymptomatic and benign. However, traction on the retina during this process can cause retinal tears, so patients should be monitored for progression to retinal detachment.",
-      "id": "2026-09-16-17"
-    },
-    {
-      "format": "simple4",
-      "topic": "Frontal eye fields",
-      "angle": "clinical_presentation",
-      "stem": "Following a large right middle cerebral artery stroke affecting the frontal eye field, a patient's eyes are noted to deviate persistently in which direction?",
-      "options": [
-        "Toward the right (side of the lesion)",
-        "Toward the left (away from the lesion)",
-        "Downward and to the right",
-        "The eyes remain midline and unaffected"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - a destructive lesion of the frontal eye field causes both eyes to deviate toward the side of the lesion, since the contralateral (unaffected) frontal eye field's input is unopposed.",
-        "This is the pattern seen with stimulation (e.g., a seizure) of the frontal eye field, not a destructive lesion such as stroke.",
-        "The described deviation pattern is not associated with FEF lesions in the notes.",
-        "FEF lesions characteristically cause eye deviation, not a neutral midline position."
-      ],
-      "overview": "The frontal eye fields (Brodmann area 8), supplied by the MCA, project to the contralateral PPRF to initiate conjugate gaze to the opposite side. A destructive lesion (e.g., MCA stroke) causes both eyes to deviate toward the side of the lesion, while stimulation (e.g., seizure activity) causes deviation to the opposite side.",
-      "id": "2026-09-16-18"
-    },
-    {
-      "format": "simple4",
-      "topic": "Cataracts",
-      "angle": "risk_factors",
-      "stem": "Which of the following is a well-established risk factor for the development of cataracts?",
-      "options": [
-        "Hyperopia",
-        "Chronic corticosteroid use",
-        "Young age",
-        "Iris melanin deficiency"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Hyperopia is a refractive error and is not listed as a cataract risk factor in the notes.",
-        "Correct - chronic corticosteroid use is a recognized risk factor for cataract formation, along with older age, smoking, alcohol use, excessive sunlight exposure, trauma, and infection.",
-        "Older age, not young age, is a risk factor for cataracts.",
-        "Low iris melanin (light eye color) is a risk factor for uveal melanoma, not cataracts."
-      ],
-      "overview": "Cataracts are a painless opacification of the lens leading to decreased vision, with risk factors including older age, smoking, alcohol use, excessive sunlight exposure, corticosteroid use, trauma, and infection. Treatment is surgical lens replacement.",
-      "id": "2026-09-16-19"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Horner syndrome",
-      "angle": "diagnosis",
-      "stem": "A 45-year-old man has mild ptosis and miosis of the left eye, with decreased sweating on the left side of his face. Apraclonidine eye drops are applied to both eyes. In the affected left eye, the pupil dilates, while the normal right eye shows minimal change. Which of the following best explains this finding?",
-      "options": [
-        "Blockade of muscarinic receptors on the sphincter pupillae",
-        "Impaired parasympathetic input to the ciliary ganglion",
-        "Direct stimulation of the Edinger-Westphal nucleus",
-        "Denervation supersensitivity of alpha-1 receptors on the dilator pupillae due to loss of sympathetic innervation",
-        "Increased intraocular pressure causing mechanical pupil dilation"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Muscarinic blockade would affect the sphincter pupillae and is not the mechanism of the apraclonidine test.",
-        "Horner syndrome is a sympathetic, not parasympathetic, lesion; the ciliary ganglion is not involved.",
-        "The Edinger-Westphal nucleus governs parasympathetic pupillary constriction and is unrelated to this sympathetic test.",
-        "Correct - apraclonidine, an alpha-1 agonist, causes exaggerated dilation of the miotic Horner pupil due to denervation supersensitivity of the dilator pupillae, while it has little effect on a normal pupil.",
-        "The test is pharmacologic, not related to intraocular pressure."
-      ],
-      "overview": "Horner syndrome results from disruption of the oculosympathetic pathway, producing miosis, ptosis, and anhidrosis. Apraclonidine, an alpha-1 agonist, is used diagnostically: it paradoxically dilates the miotic Horner pupil due to denervation supersensitivity while causing little change in the normal eye, confirming the pupillary dilator muscle itself is functional.",
-      "id": "2026-09-16-20"
-    },
-    {
-      "format": "simple4",
-      "topic": "Epinephrine (glaucoma)",
+      "overview": "Wilson disease causes copper accumulation due to impaired biliary excretion, with low ceruloplasmin allowing free copper to accumulate in the liver, brain, and eyes (Kayser-Fleischer rings). Free copper, like free iron in hemochromatosis, drives the Fenton reaction, converting hydrogen peroxide into damaging hydroxyl radicals that injure cells via lipid peroxidation and macromolecule damage.",
+      "topic": "Wilson disease (copper-mediated free radical injury)",
       "angle": "complications",
-      "stem": "A patient with chronic open-angle glaucoma is prescribed epinephrine eye drops. Which of the following is an important contraindication or risk associated with this medication?",
-      "options": [
-        "It is contraindicated in diabetic patients due to risk of hypoglycemia",
-        "It is the first-line treatment for acute angle-closure glaucoma",
-        "It commonly causes profound bradycardia when used topically",
-        "It should never be given in angle-closure glaucoma because it dilates the pupil and can worsen angle closure"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "The notes do not describe a contraindication related to diabetes or hypoglycemia for epinephrine eye drops.",
-        "Epinephrine is contraindicated, not first-line, in angle-closure glaucoma because it worsens angle closure by dilating the pupil.",
-        "This is not a described complication of topical epinephrine in the notes.",
-        "Correct - epinephrine, a mixed alpha-beta agonist, dilates the pupil and should never be given in closed-angle glaucoma because it worsens angle closure."
-      ],
-      "overview": "Epinephrine is a mixed alpha-beta agonist used in open-angle glaucoma that initially raises aqueous humor via a beta effect before later causing ciliary body vasoconstriction and decreased aqueous production. Because it dilates the pupil, it is contraindicated in angle-closure glaucoma, where it would worsen angle closure and precipitate an acute attack.",
-      "id": "2026-09-16-21"
-    },
-    {
-      "format": "simple4",
-      "topic": "Corneal abrasion",
-      "angle": "diagnosis",
-      "stem": "A contact lens wearer presents with eye pain and a foreign body sensation after removing her lenses. Which of the following is the best method to confirm the diagnosis of corneal abrasion?",
-      "options": [
-        "Swinging flashlight test",
-        "Tonometry",
-        "Fluorescein dye staining examined under blue light",
-        "Temporal artery biopsy"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "The swinging flashlight test detects an afferent pupillary defect, not a corneal abrasion.",
-        "Tonometry measures intraocular pressure and is used to evaluate for glaucoma, not corneal abrasions.",
-        "Correct - corneal abrasions are visualized using fluorescein dye, which stains the area of epithelial defect, examined under blue light.",
-        "Temporal artery biopsy is used to diagnose giant cell arteritis, unrelated to corneal abrasion."
-      ],
-      "overview": "Corneal abrasions are common among contact lens wearers and cause significant pain due to the dense sensory innervation of the corneal epithelium. Diagnosis is made using fluorescein dye and blue light examination, and abrasions can become secondarily infected with Pseudomonas, often treated prophylactically with ciprofloxacin eye drops.",
-      "id": "2026-09-16-22"
-    },
-    {
-      "format": "simple4",
-      "topic": "Galactosemia",
-      "angle": "pathophysiology",
-      "stem": "An infant with classic galactosemia develops cataracts. Which of the following best explains the mechanism of cataract formation in this condition?",
-      "options": [
-        "Excess glucose directly precipitates as crystals within the lens fibers",
-        "Deficient type IV collagen in the lens capsule leads to lens rupture",
-        "Galactose is converted to galactitol by aldose reductase, which accumulates in the lens and increases osmolarity",
-        "Autoimmune destruction of lens epithelial cells"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Glucose does not directly precipitate as crystals; cataract formation in sugar disorders is due to osmotic accumulation of sugar alcohols, not direct crystal precipitation.",
-        "Defective type IV collagen describes Alport syndrome's lens involvement, not galactosemia.",
-        "Correct - in galactosemia, galactose is metabolized by aldose reductase to galactitol, which accumulates in the lens, increases osmolarity, and draws in water, leading to cataract formation, analogous to the sorbitol pathway in diabetes.",
-        "Cataract formation in galactosemia is a metabolic/osmotic process, not autoimmune."
-      ],
-      "overview": "Classic galactosemia and galactokinase deficiency both cause cataracts through accumulation of galactitol, produced from galactose by aldose reductase in the lens, which raises lens osmolarity and draws in water. Classic galactosemia presents in infancy with liver failure and cataracts, while galactokinase deficiency is milder, with cataracts as the main problem in childhood/young adulthood.",
-      "id": "2026-09-16-23"
+      "id": "2026-09-18-24"
     },
     {
       "format": "vignette5",
-      "topic": "Internuclear ophthalmoplegia",
-      "angle": "clinical_presentation",
-      "stem": "A 29-year-old woman with a history of relapsing neurologic symptoms is asked to look to the right. Her right eye abducts normally but shows nystagmus, while her left eye fails to adduct past the midline. Convergence is intact. Which of the following is the most likely diagnosis and lesion location?",
+      "stem": "A 60-year-old man presents with painless, diffuse lymphadenopathy. Lymph node biopsy shows a nodular pattern of small, cleaved lymphocytes. Cytogenetic testing reveals a t(14;18) translocation resulting in overexpression of an anti-apoptotic protein located in the mitochondrial membrane. Which of the following mechanisms best explains how this overexpression contributes to malignancy?",
       "options": [
-        "Left PPRF lesion with complete gaze palsy",
-        "Internuclear ophthalmoplegia due to a lesion of the left medial longitudinal fasciculus",
-        "Internuclear ophthalmoplegia due to a lesion of the right medial longitudinal fasciculus",
-        "Right frontal eye field lesion",
-        "Left CN VI nerve palsy"
+        "The overexpressed protein prevents cytochrome c release from mitochondria, blocking caspase activation and allowing uncontrolled B-cell survival",
+        "The overexpressed protein binds Fas ligand, preventing death receptor signaling on the cell surface",
+        "The overexpressed protein inhibits NADPH oxidase, preventing reactive oxygen species generation",
+        "The overexpressed protein degrades p53, preventing cell cycle arrest",
+        "The overexpressed protein activates telomerase, allowing unlimited replication"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct - follicular lymphoma is driven by BCL-2 overexpression, which keeps mitochondrial pores closed, prevents cytochrome c release, blocks caspase activation, and prevents apoptosis, leading to uncontrolled B-cell accumulation.",
+        "Incorrect - this describes the extrinsic Fas pathway, not the mitochondrial intrinsic pathway that BCL-2 regulates.",
+        "Incorrect - BCL-2 has no described role in inhibiting NADPH oxidase or respiratory burst.",
+        "Incorrect - BCL-2 does not act by degrading p53; it acts at the mitochondrial membrane.",
+        "Incorrect - telomerase activation is a separate hallmark of malignancy, not the mechanism of BCL-2 overexpression described in the notes."
+      ],
+      "overview": "Follicular lymphoma, a B-cell non-Hodgkin lymphoma, is characterized by overexpression of BCL-2, an anti-apoptotic protein in the mitochondrial membrane. This prevents mitochondrial pore opening and cytochrome c release, blocking caspase activation and apoptosis, resulting in uncontrolled clonal B-cell growth.",
+      "topic": "Follicular lymphoma",
+      "angle": "diagnosis",
+      "id": "2026-09-18-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Transforming growth factor-beta (TGF-\u03b2) promotes wound healing and scar formation through which of the following combined effects?",
+      "options": [
+        "Inhibits fibroblast migration to limit excessive scarring",
+        "Stimulates neutrophil chemotaxis and promotes fever via hypothalamic prostaglandins",
+        "Stimulates osteoclast-like transformation of vascular smooth muscle",
+        "Stimulates collagen production, inhibits collagen breakdown, and inhibits lymphocyte proliferation"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect - TGF-\u03b2 promotes, not inhibits, fibroblast activity and collagen production in wound healing.",
+        "Incorrect - neutrophil chemotaxis and fever are not the primary described functions of TGF-\u03b2 in the notes.",
+        "Incorrect - osteogenic transformation of vascular smooth muscle is a feature of calciphylaxis, unrelated to TGF-\u03b2's wound healing role.",
+        "Correct - TGF-\u03b2, released by platelets, T cells, macrophages, and endothelial cells, stimulates collagen production, inhibits collagen breakdown, and is anti-inflammatory by inhibiting lymphocyte proliferation; TGF-\u03b2 knockout mice show widespread inflammation."
+      ],
+      "overview": "TGF-\u03b2 is released by platelets, T cells, macrophages, and endothelial cells during wound healing. It promotes scar formation by stimulating collagen synthesis and inhibiting its breakdown, while also acting as an anti-inflammatory signal that suppresses lymphocyte proliferation.",
+      "topic": "TGF-beta",
+      "angle": "mechanism",
+      "id": "2026-09-18-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "Bevacizumab is used in the treatment of certain cancers based on which of the following mechanisms of action?",
+      "options": [
+        "Inhibition of cyclooxygenase, reducing prostaglandin-mediated pain",
+        "Inhibition of VEGF-A, reducing tumor angiogenesis",
+        "Inhibition of TNF-\u03b1, reducing granulomatous inflammation",
+        "Inhibition of BCL-2, promoting apoptosis of malignant cells"
       ],
       "correctIndex": 1,
       "explanations": [
-        "A PPRF lesion causes complete gaze palsy to that side (loss of both adduction and abduction), not an isolated adduction deficit with preserved convergence.",
-        "Correct - the eye that cannot adduct (left) has the MLF lesion; convergence is spared because it uses a different pathway, and the abducting eye shows nystagmus, classic for INO, commonly caused by MS.",
-        "The affected (non-adducting) eye is the left eye, so the lesion is on the left, not the right.",
-        "A frontal eye field lesion causes both eyes to deviate toward the lesion side, not an isolated adduction deficit.",
-        "A CN VI palsy would impair abduction of the affected eye, not adduction of the opposite eye, and would not spare convergence via the MLF pathway logic."
+        "Incorrect - bevacizumab does not inhibit cyclooxygenase; that mechanism describes NSAIDs.",
+        "Correct - bevacizumab is a VEGF inhibitor used in cancer therapy that blocks VEGF-A-mediated angiogenesis, limiting the new blood vessel growth tumors need to grow.",
+        "Incorrect - anti-TNF drugs like infliximab and etanercept, not bevacizumab, are used for granulomatous/autoimmune inflammatory conditions.",
+        "Incorrect - bevacizumab targets VEGF, not BCL-2, which is a different therapeutic mechanism not described as bevacizumab's target in the notes."
       ],
-      "overview": "Internuclear ophthalmoplegia results from a lesion of the medial longitudinal fasciculus, which connects the CN VI nucleus to the contralateral CN III nucleus for conjugate horizontal gaze. It produces impaired adduction of the eye ipsilateral to the lesion with nystagmus of the contralateral abducting eye, while convergence remains intact; it is commonly seen in multiple sclerosis due to the MLF's high degree of myelination.",
-      "id": "2026-09-16-24"
+      "overview": "VEGF-A is a key stimulator of angiogenesis, secreted by tumors to fuel their own vascular supply. Bevacizumab is a VEGF inhibitor used in cancer treatment to block this angiogenic signal, while ranibizumab, another VEGF inhibitor, is used in retinopathy.",
+      "topic": "Bevacizumab (VEGF inhibition)",
+      "angle": "treatment",
+      "id": "2026-09-18-27"
     },
     {
       "format": "simple4",
-      "topic": "Timolol",
-      "angle": "mechanism",
-      "stem": "Timolol is used in the treatment of glaucoma. Which of the following best describes its mechanism of action?",
+      "stem": "Elevated hepcidin during chronic inflammation contributes to anemia of chronic disease through which of the following mechanisms?",
       "options": [
-        "Contracts the ciliary muscle to open the trabecular meshwork",
-        "Increases aqueous humor outflow via the uveoscleral pathway",
-        "Decreases aqueous humor production by blocking beta receptors on the ciliary epithelium",
-        "Reduces cell stiffness in the trabecular meshwork to increase outflow"
+        "Inhibiting erythropoietin receptor signaling in the bone marrow",
+        "Directly lysing red blood cells via complement activation",
+        "Binding ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin",
+        "Increasing transferrin synthesis to enhance iron delivery to erythroid precursors"
       ],
       "correctIndex": 2,
       "explanations": [
-        "This describes the mechanism of muscarinic agonists like pilocarpine, not timolol.",
-        "This describes the mechanism of prostaglandin analogues (e.g., latanoprost), not timolol.",
-        "Correct - timolol is a beta blocker that decreases aqueous humor production by blocking beta receptors on the ciliary epithelium (sympathetic stimulation normally increases aqueous production via beta receptors).",
-        "This describes the mechanism of rho kinase inhibitors, not timolol."
+        "Incorrect - the notes do not describe hepcidin acting on erythropoietin receptor signaling.",
+        "Incorrect - hepcidin's described mechanism is iron sequestration via ferroportin inhibition, not complement-mediated red cell lysis.",
+        "Correct - hepcidin, an acute phase reactant with antibacterial properties, binds ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin and limiting iron availability for erythropoiesis, contributing to anemia of chronic disease.",
+        "Incorrect - hepcidin limits iron availability; transferrin is a negative acute phase reactant whose levels fall, not rise, during inflammation."
       ],
-      "overview": "Beta blockers such as timolol, betaxolol, and carteolol lower intraocular pressure by blocking beta receptors on the ciliary epithelium, decreasing aqueous humor production (sympathetic beta-2 stimulation normally increases fluid production, particularly relevant during fight-or-flight responses).",
-      "id": "2026-09-16-25"
+      "overview": "Hepcidin is an acute phase reactant that has antibacterial properties by limiting iron availability to invading organisms. It binds ferroportin on enterocytes and macrophages, trapping iron as intracellular ferritin, which contributes to the anemia of chronic disease seen with prolonged inflammatory states.",
+      "topic": "Hepcidin",
+      "angle": "mechanism",
+      "id": "2026-09-18-28"
     },
     {
       "format": "simple4",
-      "topic": "Retinitis pigmentosa",
-      "angle": "clinical_presentation",
-      "stem": "A 25-year-old man reports progressive difficulty seeing at night and a gradually constricting visual field since childhood. Fundoscopy reveals dark, bone-spicule-shaped pigment deposits in the peripheral retina, disc pallor, and attenuated retinal vessels. Which of the following is the most likely diagnosis?",
+      "stem": "A patient with a bacterial infection has a complete blood count showing an increased proportion of immature band neutrophils along with increased total neutrophils. This finding is best described as which of the following?",
       "options": [
-        "Retinoblastoma",
-        "Central retinal vein occlusion",
-        "Age-related macular degeneration",
-        "Retinitis pigmentosa"
+        "Leukemoid reaction limited to lymphocytosis",
+        "Left shift, a normal bone marrow response to infection",
+        "Anaplasia of myeloid precursors",
+        "Karyorrhexis of circulating neutrophils"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect - a leukemoid reaction can resemble leukemia due to marked leukocytosis but is not specifically defined as lymphocytosis; bacterial infections typically cause neutrophilia, not lymphocytosis.",
+        "Correct - a \"left shift\" describes an increase in immature neutrophil forms (bands) along with mature neutrophils in the blood, a normal response to infection driven by cytokines (TNF and IL-1) mobilizing cells from the bone marrow.",
+        "Incorrect - anaplasia refers to undifferentiated malignant cell growth, unrelated to a left shift.",
+        "Incorrect - karyorrhexis is a nuclear change seen in necrosis, not a description of circulating band neutrophils."
+      ],
+      "overview": "In response to infection, cytokines such as TNF and IL-1 stimulate the bone marrow to release neutrophils, including immature band forms, into circulation \u2014 a \"left shift.\" This is a normal, expected response to bacterial infection and reflects increased granulopoietic demand.",
+      "topic": "Left shift (leukemoid reaction)",
+      "angle": "diagnosis",
+      "id": "2026-09-18-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-year-old boy presents with massive lymphadenopathy, splenomegaly, and hepatomegaly. Laboratory studies show an increased number of double-negative T cells and polyclonal hypergammaglobulinemia. Genetic testing identifies a mutation impairing a death-receptor pathway responsible for eliminating self-reactive lymphocytes. Which of the following best describes the expected downstream consequence of this mutation?",
+      "options": [
+        "Defective p53 signaling prevents cell cycle arrest, resulting in unchecked epithelial proliferation",
+        "Defective NADPH oxidase impairs bacterial killing, leading to recurrent catalase-positive infections",
+        "Defective caspase-independent necrosis increases inflammatory cell death",
+        "Defective Fas-Fas ligand signaling impairs negative selection, resulting in excess lymphocyte survival and increased lymphoma risk",
+        "Defective BCL-2 downregulation increases mitochondrial apoptosis of thymocytes"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Retinoblastoma is a childhood intraocular malignancy presenting with leukocoria, not progressive night blindness and bone-spicule pigmentation.",
-        "CRVO causes sudden painless vision loss with a \"blood and thunder\" fundus, not progressive night blindness since childhood.",
-        "AMD affects central vision (macula) in older patients and does not present with bone-spicule pigmentation or childhood onset.",
-        "Correct - retinitis pigmentosa is an inherited degenerative retinal disorder causing progressive loss of night and peripheral vision beginning in childhood, with bone-spicule pigmentation, disc pallor, and retinal vessel attenuation on fundoscopy."
+        "Incorrect - ALPS is not described as a p53/cell cycle disorder; it is a death-receptor apoptosis defect.",
+        "Incorrect - this describes chronic granulomatous disease, a distinct entity from ALPS.",
+        "Incorrect - the notes describe ALPS as an apoptosis defect via Fas-FasL, not a necrosis-related process.",
+        "Correct - ALPS is caused by a defective Fas-Fas ligand extrinsic apoptosis pathway, impairing negative selection of self-reactive T cells in the thymic medulla, leading to lymphocyte overproduction, lymphadenopathy, hepatosplenomegaly, and increased lymphoma risk.",
+        "Incorrect - ALPS involves decreased, not increased, apoptosis due to a defective extrinsic pathway, not altered mitochondrial signaling."
       ],
-      "overview": "Retinitis pigmentosa is an inherited degenerative retinal disorder caused by apoptosis of photoreceptors, leading to progressive night and peripheral vision loss (constricted visual field) beginning in childhood, with most patients legally blind by age 40. Fundoscopy classically shows bone-spicule pigmentation, optic disc pallor, and retinal vessel attenuation, and there is no cure.",
-      "id": "2026-09-16-26"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Retinal detachment",
-      "angle": "pathophysiology",
-      "stem": "A 55-year-old man with high myopia reports a sudden shower of floaters and flashes of light in his left eye over the past day, now followed by a curtain-like shadow spreading across his peripheral vision. Fundoscopy shows a wrinkled, opacified area of retina with altered vessel direction. Which of the following best explains the mechanism underlying his vision loss?",
-      "options": [
-        "Separation of the neurosensory retina from the retinal pigment epithelium, leading to loss of choroidal blood supply and photoreceptor hypoxia",
-        "Autoimmune demyelination of the optic nerve",
-        "Occlusion of the central retinal artery by an embolus from the carotid artery",
-        "Increased intraocular pressure causing optic nerve cupping",
-        "Accumulation of drusen between Bruch's membrane and the retinal pigment epithelium"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - retinal detachment involves separation of the neurosensory retina from the RPE, cutting off the choroidal blood supply and causing photoreceptor hypoxia and degeneration.",
-        "This describes optic neuritis, unrelated to this presentation.",
-        "This describes CRAO, which causes acute painless vision loss with a cherry-red spot, not floaters, a curtain, and retinal wrinkling.",
-        "This describes the mechanism of glaucoma, not retinal detachment.",
-        "This describes dry AMD pathophysiology, not retinal detachment."
-      ],
-      "overview": "Retinal detachment separates the neurosensory retina from the underlying RPE, disrupting the choroidal blood supply and causing photoreceptor hypoxia and degeneration. Rhegmatogenous detachment, the most common type, follows a retinal tear often associated with posterior vitreous detachment and high myopia, presenting with floaters, flashes, and curtain-like visual field loss requiring urgent surgical repair.",
-      "id": "2026-09-16-27"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Central retinal vein occlusion (CRVO)",
-      "angle": "diagnosis",
-      "stem": "A 70-year-old man with hypertension presents with sudden painless loss of vision in one eye. Fundoscopic exam reveals diffuse retinal hemorrhages in all four quadrants, dilated and tortuous retinal veins, and optic disc edema. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Rhegmatogenous retinal detachment",
-        "Branch retinal vein occlusion",
-        "Central retinal vein occlusion",
-        "Central retinal artery occlusion",
-        "Nonproliferative diabetic retinopathy"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Retinal detachment shows an opacified, wrinkled retina with floaters and curtain-like vision loss, not diffuse hemorrhage in all quadrants.",
-        "BRVO causes a sectoral, wedge-shaped hemorrhage limited to the distribution of one vessel, not diffuse involvement of all four quadrants.",
-        "Correct - the \"blood and thunder\" fundus with hemorrhages in all quadrants, dilated tortuous veins, and disc edema describes central retinal vein occlusion.",
-        "CRAO produces a cherry-red spot with a pale retina from arterial ischemia, not diffuse hemorrhages in all quadrants.",
-        "Diabetic retinopathy shows microaneurysms, dot-blot hemorrhages, and cotton-wool spots, not the diffuse \"blood and thunder\" pattern described."
-      ],
-      "overview": "CRVO usually results from a primary thrombotic occlusion of the central retinal vein, producing the classic \"blood and thunder\" fundus - engorged, tortuous veins with hemorrhages in all quadrants and possible disc edema. It presents with sudden, painless vision loss and is distinguished from BRVO, which is localized to a single vascular sector.",
-      "id": "2026-09-16-28"
-    },
-    {
-      "format": "simple4",
-      "topic": "Abducens nerve (CN VI) palsy",
+      "overview": "Autoimmune lymphoproliferative syndrome (ALPS) results from a defective Fas-Fas ligand pathway, which normally mediates negative selection of self-reactive T cells in the thymic medulla. Impaired apoptosis leads to lymphocyte accumulation, causing lymphadenopathy, hepatosplenomegaly, autoimmune disease, and an increased risk of lymphoma.",
+      "topic": "Autoimmune lymphoproliferative syndrome",
       "angle": "clinical_presentation",
-      "stem": "A patient is unable to move her left eye laterally on exam, and the left eye appears pulled medially at rest. Which cranial nerve palsy best explains this finding?",
-      "options": [
-        "Abducens nerve (CN VI) palsy",
-        "Trochlear nerve (CN IV) palsy",
-        "Oculomotor nerve (CN III) palsy",
-        "Optic nerve (CN II) lesion"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - the abducens nerve innervates the lateral rectus muscle; its palsy impairs lateral eye movement (abduction), and the affected eye may be pulled medially at rest due to unopposed medial rectus action.",
-        "CN IV palsy affects the superior oblique, causing difficulty looking down and in, with compensatory head tilt, not an inability to abduct the eye.",
-        "CN III palsy causes the eye to rest down and out with ptosis and a dilated pupil, not a medially deviated eye unable to abduct.",
-        "The optic nerve carries visual signals and does not control eye movement; a lesion here causes vision loss, not diplopia from muscle weakness."
-      ],
-      "overview": "The abducens nerve (CN VI) innervates the lateral rectus muscle, responsible for eye abduction. Palsy of this nerve causes an inability to move the affected eye laterally, with the eye often pulled medially at rest, and symptoms of diplopia that worsen on horizontal gaze.",
-      "id": "2026-09-16-29"
-    },
-    {
-      "format": "simple4",
-      "topic": "Homocystinuria",
-      "angle": "clinical_presentation",
-      "stem": "A child with a marfanoid body habitus, developmental delay, and markedly elevated plasma homocysteine is found to have bilateral lens dislocation. Which direction of lens dislocation is classically associated with this condition?",
-      "options": [
-        "Directly anterior into the anterior chamber",
-        "Upward and outward",
-        "Downward and inward",
-        "Directly posterior into the vitreous"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Anterior dislocation into the anterior chamber is not the classic direction described for homocystinuria.",
-        "Upward and outward lens dislocation is classic for Marfan syndrome, not homocystinuria.",
-        "Correct - homocystinuria, caused by cystathionine beta-synthase deficiency, classically causes downward and inward lens dislocation.",
-        "Posterior dislocation into the vitreous is not the classic direction described for homocystinuria."
-      ],
-      "overview": "Homocystinuria results from cystathionine beta-synthase deficiency, causing markedly elevated homocysteine levels and a marfanoid body habitus. Unlike Marfan syndrome's upward/outward lens dislocation, homocystinuria classically causes downward and inward ectopia lentis.",
-      "id": "2026-09-16-30"
+      "id": "2026-09-18-30"
     }
   ]
 }
