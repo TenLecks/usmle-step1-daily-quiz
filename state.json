@@ -1,5 +1,5 @@
 {
-  "cycle_index": 11,
+  "cycle_index": 12,
   "cycle_number": 2,
   "tail_order": [
     "Reproductive",
@@ -2788,6 +2788,126 @@
       {
         "topic": "Agoraphobia (panic disorder)",
         "angle": "diagnosis"
+      },
+      {
+        "topic": "Panic attack",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Serotonin syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Wernicke encephalopathy",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Anorexia nervosa",
+        "angle": "complications"
+      },
+      {
+        "topic": "Lithium toxicity",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Alcohol withdrawal",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Postpartum psychosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Tricyclic antidepressant overdose",
+        "angle": "complications"
+      },
+      {
+        "topic": "Schizoaffective disorder",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Opioid overdose",
+        "angle": "treatment"
+      },
+      {
+        "topic": "ADHD",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Autism spectrum disorder",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Guanfacine",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Generalized anxiety disorder",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Obsessive-compulsive disorder",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Reactive attachment disorder",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Tourette syndrome",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Oppositional defiant disorder",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Dissociative fugue",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Binge eating disorder",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Persistent depressive disorder",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Antisocial personality disorder",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Avoidant personality disorder",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Factitious disorder",
+        "angle": "other"
+      },
+      {
+        "topic": "Malingering",
+        "angle": "other"
+      },
+      {
+        "topic": "MAO inhibitors",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Clozapine",
+        "angle": "complications"
+      },
+      {
+        "topic": "Tardive dyskinesia",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Classical conditioning",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Caffeine",
+        "angle": "mechanism"
       }
     ],
     "Pulmonary": [

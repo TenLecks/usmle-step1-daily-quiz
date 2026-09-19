@@ -1,656 +1,656 @@
 {
-  "date": "2026-09-18",
-  "subject": "Pathology",
+  "date": "2026-09-19",
+  "subject": "Psychiatry",
   "questions": [
     {
-      "format": "simple4",
-      "stem": "Platelet-derived growth factor (PDGF) contributes to wound healing primarily by which of the following actions?",
+      "format": "vignette5",
+      "topic": "Postpartum psychosis",
+      "angle": "diagnosis",
+      "stem": "A 26-year-old woman with a history of bipolar I disorder, who discontinued her lithium during pregnancy, presents 10 days after delivery with disorganized behavior, auditory hallucinations, and the delusional belief that something evil has possessed her baby. Which of the following is the most likely diagnosis?",
       "options": [
-        "Stimulating fibroblast and smooth muscle cell growth, migration, and collagen synthesis",
-        "Serving as the primary pyrogen responsible for fever during inflammation",
-        "Inhibiting angiogenesis to limit excessive vascular proliferation",
-        "Directly cross-linking collagen fibers during scar maturation"
+        "Postpartum blues",
+        "Postpartum psychosis",
+        "Brief psychotic disorder unrelated to the postpartum period",
+        "Postpartum depression",
+        "Schizophreniform disorder"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "explanations": [
-        "Correct - PDGF, released by platelets, macrophages, and endothelial cells, stimulates fibroblast and smooth muscle cell growth, migration, and collagen synthesis, and is implicated in conditions like myelofibrosis and scleroderma.",
-        "Incorrect - the pyrogens described in the notes are IL-1 and TNF (endogenous) and LPS (exogenous), not PDGF.",
-        "Incorrect - PDGF is not described as an angiogenesis inhibitor; angiogenesis is driven by VEGF and FGF.",
-        "Incorrect - collagen cross-linking is performed by lysyl oxidase, not PDGF."
+        "Postpartum blues involves depressed mood, insomnia, fatigue, and poor concentration starting 2-3 days after delivery and resolving within two weeks; it does not include psychotic symptoms such as delusions and hallucinations.",
+        "This presentation\u2014psychosis occurring within 2 weeks after delivery in a woman with known bipolar disorder who stopped her mood stabilizer during pregnancy, with delusions involving the baby\u2014is classic for postpartum psychosis.",
+        "The temporal relationship to delivery (within 2 weeks), history of bipolar disorder, and discontinuation of psychiatric medication during pregnancy are classic risk factors for postpartum psychosis, making an unrelated brief psychotic disorder less likely.",
+        "Postpartum depression involves persistent depressive symptoms after two weeks postpartum but does not typically include frank psychosis with delusions and hallucinations.",
+        "Schizophreniform disorder is a psychotic disorder meeting schizophrenia criteria but lasting less than 6 months, and is not specifically linked to the postpartum period or this patient's bipolar history."
       ],
-      "overview": "PDGF is released by platelets, macrophages, and endothelial cells and stimulates fibroblast and smooth muscle cell proliferation, migration, and collagen synthesis during wound healing. Excessive or dysregulated PDGF signaling is implicated in fibrotic conditions such as myelofibrosis and scleroderma.",
-      "topic": "PDGF",
-      "angle": "mechanism",
-      "id": "2026-09-18-01"
+      "overview": "Postpartum psychosis is a rare but serious condition occurring within 2 weeks after delivery, most often in women with an underlying psychiatric disorder (especially bipolar disorder), particularly if medications were stopped during pregnancy. It presents with delusions, hallucinations, and disorganized thought, often involving the baby, and carries a high risk of suicide and harm to the infant, requiring hospitalization and treatment with medication and sometimes ECT.",
+      "id": "2026-09-19-01"
     },
     {
       "format": "simple4",
-      "stem": "According to cancer epidemiology data, which of the following correctly ranks cancer mortality (death rate) from highest to lowest among the listed cancer types?",
+      "topic": "Classical conditioning",
+      "angle": "mechanism",
+      "stem": "An enuresis alarm pad that awakens a child when it senses moisture eventually trains the child to wake up from the sensation of a full bladder alone, before wetting occurs. This training relies on which learning mechanism?",
       "options": [
-        "Colorectal cancer, then lung cancer, then breast/prostate cancer",
-        "Breast/prostate cancer, then lung cancer, then colorectal cancer",
-        "Lung cancer, then breast/prostate cancer, then colorectal cancer",
-        "Breast/prostate cancer, then colorectal cancer, then lung cancer"
+        "Negative punishment",
+        "Classical conditioning, pairing urinary fullness (conditioned stimulus) with awakening",
+        "Habituation",
+        "Operant conditioning via positive reinforcement"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Negative punishment involves removing a desired stimulus to decrease behavior, which does not describe this scenario of an involuntary response being conditioned.",
+        "This is a classical conditioning example: the alarm (unconditioned stimulus) naturally causes awakening (unconditioned response); over repeated pairings, urinary fullness becomes a conditioned stimulus that alone triggers awakening (conditioned response).",
+        "Habituation refers to a decreased response with repeated exposure to a stimulus, not the pairing of two stimuli to create a new learned response.",
+        "Operant conditioning involves voluntary behavior modified by reward or punishment, whereas this example involves an involuntary response (awakening) linked to a stimulus, which is classical conditioning."
+      ],
+      "overview": "Classical conditioning links an unconditioned stimulus and response (e.g., an alarm causing awakening) to a conditioned stimulus (e.g., urinary fullness) that comes to elicit the same involuntary response through repeated pairing. The enuresis alarm is a classic clinical example, used to treat bed-wetting by conditioning children to wake from the sensation of a full bladder.",
+      "id": "2026-09-19-02"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Wernicke encephalopathy",
+      "angle": "treatment",
+      "stem": "A 52-year-old man with a long history of heavy alcohol use and poor nutrition is admitted with confusion and an unsteady, ataxic gait. His family reports he has been eating very little for weeks. Which of the following should be urgently administered to prevent progression to an irreversible memory disorder?",
+      "options": [
+        "Niacin (vitamin B3)",
+        "Vitamin B12",
+        "Thiamine (vitamin B1)",
+        "Folate",
+        "Pyridoxine (vitamin B6)"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - colorectal cancer has lower mortality than both lung and breast/prostate cancer.",
-        "Incorrect - this reverses lung cancer's position; lung cancer has the highest mortality despite lower incidence than breast/prostate cancer.",
-        "Correct - lung cancer has the highest cancer mortality, followed by breast/prostate cancer, then colorectal cancer, even though breast/prostate cancers have higher incidence.",
-        "Incorrect - lung cancer, not breast/prostate cancer, has the highest mortality rate."
+        "Niacin deficiency is not implicated in Wernicke-Korsakoff syndrome.",
+        "Vitamin B12 deficiency is not the mechanism described in Wernicke-Korsakoff syndrome, which is specifically linked to thiamine deficiency.",
+        "Wernicke encephalopathy is caused by thiamine (vitamin B1) deficiency, classically in the setting of alcoholism and poor nutrition; prompt thiamine repletion can prevent progression to the permanent memory impairment of Korsakoff syndrome.",
+        "Folate deficiency is not the cause of Wernicke-Korsakoff syndrome in this notes-based framework.",
+        "Pyridoxine deficiency is not the vitamin deficiency associated with Wernicke-Korsakoff syndrome."
       ],
-      "overview": "While breast and prostate cancers have the highest incidence (new cases) after lung cancer, lung cancer remains the leading cause of cancer death, followed by breast/prostate cancer and then colorectal cancer. Cancer is the second leading cause of death overall, after heart disease.",
-      "topic": "Cancer epidemiology (incidence/mortality)",
-      "angle": "epidemiology",
-      "id": "2026-09-18-02"
+      "overview": "Wernicke encephalopathy is an acute encephalopathy caused by thiamine (B1) deficiency, most often seen in alcoholism, and is associated with atrophy of the mammillary bodies. If untreated, it can progress to Korsakoff syndrome, a permanent condition marked by anterograde amnesia (worse than retrograde), confabulation, apathy, and personality changes. Prompt thiamine replacement is key to preventing irreversible damage.",
+      "id": "2026-09-19-03"
     },
     {
       "format": "simple4",
-      "stem": "Which of the following best describes the role of lysyl oxidase in wound healing, and the effect of its deficiency?",
-      "options": [
-        "A copper-dependent enzyme that cross-links collagen; deficiency impairs wound maturation",
-        "An enzyme that converts fibroblasts into myofibroblasts; deficiency prevents wound contraction",
-        "A vitamin C-dependent enzyme that hydroxylates proline; deficiency causes scurvy",
-        "A zinc-dependent enzyme that degrades type III collagen; deficiency impairs granulation tissue formation"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - lysyl oxidase is a copper-dependent enzyme that cross-links collagen during the remodeling/maturation phase of wound healing; copper deficiency impairs this cross-linking and results in poor wound healing.",
-        "Incorrect - myofibroblast differentiation is a separate process from lysyl oxidase's collagen cross-linking role.",
-        "Incorrect - hydroxylation of proline in collagen synthesis is a vitamin C-dependent process, distinct from lysyl oxidase's copper-dependent cross-linking function.",
-        "Incorrect - degrading type III collagen (collagenase activity) describes metalloproteinases (zinc-dependent), not lysyl oxidase."
-      ],
-      "overview": "During wound remodeling, lysyl oxidase, a copper-dependent enzyme, cross-links collagen fibers to increase scar tensile strength, while metalloproteinases (zinc-dependent) degrade type III collagen. Copper deficiency, like zinc or vitamin C deficiency, impairs proper wound maturation and healing.",
-      "topic": "Lysyl oxidase",
+      "topic": "Guanfacine",
       "angle": "mechanism",
-      "id": "2026-09-18-03"
+      "stem": "Guanfacine, used in the treatment of ADHD, works primarily through which mechanism?",
+      "options": [
+        "Blocking dopamine reuptake in the striatum",
+        "Stimulating alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity",
+        "Inhibiting MAO-B enzyme activity",
+        "Blocking postsynaptic D2 receptors"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Guanfacine is not a dopamine reuptake inhibitor; that mechanism describes stimulant drugs like methylphenidate.",
+        "Guanfacine is an alpha-2 agonist whose major effects are on alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity to help regulate attention and behavior.",
+        "Guanfacine does not act through MAO-B inhibition; that mechanism describes selegiline.",
+        "Guanfacine does not block D2 receptors; that mechanism describes antipsychotic drugs."
+      ],
+      "overview": "Alpha-2 agonists such as guanfacine and clonidine are used in ADHD treatment. Guanfacine's major effect is on alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity to help regulate attention and behavior, whereas clonidine (an older hypertension drug) is more notable for sedation.",
+      "id": "2026-09-19-04"
     },
     {
       "format": "simple4",
-      "stem": "The Warburg effect in cancer cells is best described by which of the following?",
+      "topic": "Tourette syndrome",
+      "angle": "treatment",
+      "stem": "Which of the following high-potency dopamine-blocking agents is used to treat tics in Tourette syndrome?",
       "options": [
-        "Complete loss of glucose uptake by malignant cells",
-        "Preferential metabolism of glucose to lactate for ATP production, even in the presence of oxygen",
-        "Selective activation of the electron transport chain to maximize ATP yield per glucose molecule",
-        "Preferential use of oxidative phosphorylation over glycolysis, even under hypoxic conditions"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - cancer cells show increased, not absent, glucose uptake, which is exploited diagnostically with PET scanning.",
-        "Correct - the Warburg effect describes \"aerobic glycolysis,\" in which cancer cells preferentially metabolize glucose to lactate for ATP even when oxygen is available, producing less ATP per glucose than oxidative phosphorylation but resulting in high glucose uptake, which is the basis for PET scanning.",
-        "Incorrect - the Warburg effect specifically involves bypassing efficient oxidative phosphorylation in favor of less efficient glycolysis.",
-        "Incorrect - the Warburg effect describes increased reliance on glycolysis, not oxidative phosphorylation, even when oxygen is present."
-      ],
-      "overview": "The Warburg effect describes cancer cells' preference for aerobic glycolysis, converting glucose to lactate for ATP even when oxygen is available, despite yielding less ATP per glucose molecule than oxidative phosphorylation. This results in markedly increased glucose uptake by tumor cells, which is the physiologic basis for FDG-PET imaging in oncology.",
-      "topic": "Warburg effect",
-      "angle": "mechanism",
-      "id": "2026-09-18-04"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 22-year-old woman has recurrent episodes of non-pruritic swelling of the lips, face, and airway without urticaria, triggered by minor trauma or stress. Family history is positive for similar episodes. Serum complement studies reveal low levels of a specific inhibitory protein. Which of the following best explains the mechanism of her swelling episodes?",
-      "options": [
-        "Deficiency of ACE leads to excessive bradykinin degradation",
-        "Deficiency of C1 inhibitor leads to unopposed bradykinin generation, increasing vascular permeability",
-        "Overactivation of the complement membrane attack complex directly lyses endothelial cells",
-        "Overproduction of histamine by mast cells causes IgE-mediated urticaria and angioedema",
-        "Deficiency of alpha-1 antitrypsin leads to unopposed neutrophil elastase activity"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - ACE normally degrades bradykinin, so ACE deficiency would not raise bradykinin; this vignette describes hereditary C1 inhibitor deficiency, not an ACE-related process.",
-        "Correct - C1 inhibitor normally degrades bradykinin; its deficiency in hereditary angioedema leads to unchecked bradykinin, causing vasodilation, increased vascular permeability, and angioedema without urticaria.",
-        "Incorrect - the notes describe C1 inhibitor's role in bradykinin regulation, not direct membrane attack complex-mediated lysis as the cause of angioedema.",
-        "Incorrect - hereditary angioedema is not IgE/histamine mediated, which is why urticaria is absent.",
-        "Incorrect - alpha-1 antitrypsin deficiency is unrelated to the bradykinin/angioedema pathway described in the notes."
-      ],
-      "overview": "Bradykinin is a potent vasodilator that increases vascular permeability and causes pain. It is normally degraded by ACE and by C1 inhibitor. Hereditary angioedema results from C1 inhibitor deficiency, causing unopposed bradykinin accumulation and recurrent, non-pruritic angioedema without urticaria.",
-      "topic": "Hereditary angioedema (C1 inhibitor deficiency)",
-      "angle": "pathophysiology",
-      "id": "2026-09-18-05"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 3-year-old boy has recurrent infections with Staphylococcus aureus, Serratia marcescens, and Aspergillus, including a hepatic abscess. Neutrophil function testing shows absent respiratory burst activity. Which of the following best explains why catalase-positive organisms cause disproportionate infections in this disorder, compared to catalase-negative organisms?",
-      "options": [
-        "Catalase-positive organisms produce toxins that directly inhibit neutrophil chemotaxis",
-        "Catalase-positive organisms activate excessive complement leading to immune complex disease",
-        "Catalase-positive organisms are obligate intracellular pathogens resistant to lysosomal enzymes",
-        "Catalase-positive organisms degrade the small amount of H2O2 they generate, leaving phagocytes without any H2O2 to use against them",
-        "Catalase-positive organisms lack a cell wall, evading phagocytosis"
+        "Lithium",
+        "Bupropion",
+        "Naltrexone",
+        "Fluphenazine"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - the notes do not describe toxin-mediated chemotaxis inhibition as the mechanism.",
-        "Incorrect - CGD susceptibility relates to NADPH oxidase deficiency, not complement/immune complex disease.",
-        "Incorrect - the classic CGD organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) are not defined by being obligate intracellular pathogens.",
-        "Correct - CGD patients lack NADPH oxidase; catalase-positive bacteria destroy their own H2O2, leaving no substrate for the deficient myeloperoxidase system, unlike catalase-negative organisms which generate H2O2 that phagocytes can still use.",
-        "Incorrect - cell wall status is not the relevant mechanism in CGD susceptibility."
+        "Lithium is a mood stabilizer for bipolar disorder, not a treatment for Tourette syndrome.",
+        "Bupropion is an antidepressant/smoking cessation drug, not a treatment for Tourette syndrome.",
+        "Naltrexone is an opioid antagonist used in alcohol and opioid use disorders, not for tic disorders.",
+        "Fluphenazine is a high-potency dopamine (D2) receptor blocker used, along with risperidone, haloperidol, and pimozide, to treat tics in Tourette syndrome."
       ],
-      "overview": "CGD results from loss-of-function mutations in NADPH oxidase, preventing the respiratory burst that generates H2O2 in phagocytes. Catalase-positive organisms (Staph aureus, Pseudomonas, Serratia, Nocardia, Aspergillus) degrade their own H2O2, denying phagocytes the peroxide needed for myeloperoxidase-mediated killing, causing recurrent infections and granuloma formation.",
-      "topic": "Chronic granulomatous disease",
-      "angle": "clinical_presentation",
-      "id": "2026-09-18-06"
+      "overview": "Tourette syndrome is a neurologic disorder of children marked by recurrent motor and phonic tics lasting at least a year, commonly co-occurring with ADHD and OCD. Treatment includes behavioral therapy and dopamine blockade with high-potency neuroleptics (fluphenazine, risperidone, haloperidol, pimozide) or dopamine depletion with tetrabenazine.",
+      "id": "2026-09-19-05"
     },
     {
-      "format": "simple4",
-      "stem": "A lung nodule is found to contain a disorganized but mature mixture of cartilage, smooth muscle, and respiratory epithelium, all normally found in the lung. This lesion is best classified as which of the following?",
-      "options": [
-        "Carcinoma in situ",
-        "Hamartoma",
-        "Teratoma",
-        "Choristoma"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - carcinoma in situ describes dysplasia of the entire epithelial layer without invasion, not a disorganized benign mass of mature tissue types.",
-        "Correct - a hamartoma is a mass of mature but disorganized cells that are normally found at that site (e.g., a lung hamartoma containing disorganized lung tissue), representing a developmental anomaly that is benign.",
-        "Incorrect - a teratoma contains cells derived from multiple germ layers arising from germ cells, not a disorganized mixture of native lung tissue types.",
-        "Incorrect - a choristoma is mature, well-differentiated tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum), not disorganized native tissue in its normal organ."
-      ],
-      "overview": "Hamartomas and choristomas are both benign, non-neoplastic developmental anomalies. A hamartoma is disorganized but mature tissue native to the site where it is found (e.g., lung tissue in a lung hamartoma), whereas a choristoma is mature, normal tissue found in an abnormal location (e.g., gastric tissue in a Meckel diverticulum).",
-      "topic": "Hamartoma vs choristoma",
-      "angle": "other",
-      "id": "2026-09-18-07"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which of the following correctly pairs a carcinogen with its associated malignancy, as described in the notes?",
-      "options": [
-        "HPV infection \u2014 mesothelioma",
-        "Ionizing radiation \u2014 cervical cancer",
-        "Asbestos exposure \u2014 mesothelioma",
-        "Sunlight exposure \u2014 hepatocellular carcinoma"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect - HPV is associated with cervical cancer, not mesothelioma, which is linked to asbestos.",
-        "Incorrect - HPV, not ionizing radiation, is the carcinogen linked to cervical cancer in the notes.",
-        "Correct - asbestos is a chemical carcinogen classically associated with mesothelioma.",
-        "Incorrect - sunlight (UV radiation) is associated with skin cancer, not hepatocellular carcinoma."
-      ],
-      "overview": "Carcinogens include chemicals, viruses, and radiation. Asbestos exposure is classically linked to mesothelioma, HPV infection to cervical cancer, and UV sunlight exposure to skin cancer, illustrating how nonlethal DNA damage from environmental exposures drives carcinogenesis.",
-      "topic": "Carcinogens",
+      "format": "vignette5",
+      "topic": "Lithium toxicity",
       "angle": "risk_factors",
-      "id": "2026-09-18-08"
-    },
-    {
-      "format": "simple4",
-      "stem": "Which of the following correctly lists the sequence of steps by which neutrophils exit post-capillary venules to enter inflamed tissue?",
+      "stem": "A 68-year-old woman on chronic lithium therapy for bipolar disorder is started on hydrochlorothiazide for newly diagnosed hypertension. Two weeks later she develops a new coarse tremor, nausea, ataxia, and confusion. What is the most likely explanation for her presentation?",
       "options": [
-        "Migration \u2192 rolling \u2192 transmigration \u2192 crawling",
-        "Rolling \u2192 crawling \u2192 transmigration \u2192 migration",
-        "Crawling \u2192 migration \u2192 rolling \u2192 transmigration",
-        "Transmigration \u2192 rolling \u2192 crawling \u2192 migration"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - migration is the final step, not the first.",
-        "Correct - the notes describe four steps of neutrophil extravasation at post-capillary venules in this order: rolling, crawling, transmigration, migration.",
-        "Incorrect - crawling follows rolling; this order is scrambled.",
-        "Incorrect - transmigration occurs after rolling and crawling, not first."
-      ],
-      "overview": "Neutrophils exit the bloodstream at post-capillary venules through a four-step process: rolling along the endothelium, firm adhesion/crawling, transmigration through the endothelial layer, and migration into the tissue toward the site of injury. Neutrophils dominate the first ~2 days of acute inflammation before undergoing apoptosis.",
-      "topic": "Neutrophil extravasation",
-      "angle": "mechanism",
-      "id": "2026-09-18-09"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 55-year-old man with a 15-year history of gastroesophageal reflux disease undergoes upper endoscopy for surveillance. Biopsy of the distal esophagus shows replacement of the normal stratified squamous epithelium with columnar, mucin-producing epithelium containing goblet cells. Which of the following best characterizes this histologic finding?",
-      "options": [
-        "Metaplasia, a potentially reversible adaptive change that can progress to dysplasia and adenocarcinoma",
-        "Anaplasia, an undifferentiated proliferation seen in aggressive malignancy",
-        "Hyperplasia, an increase in the number of native squamous epithelial cells",
-        "Hypertrophy, an increase in the size of individual epithelial cells",
-        "Dysplasia, an irreversible pre-cancerous change with abnormal nuclear pleomorphism"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - Barrett esophagus is intestinal (columnar) metaplasia of the esophageal squamous epithelium in response to chronic acid exposure; metaplasia is potentially reversible but can progress toward dysplasia and adenocarcinoma.",
-        "Incorrect - anaplasia describes undifferentiated malignant cells, not the orderly columnar epithelium seen here.",
-        "Incorrect - hyperplasia is an increase in cell number of the same cell type, not a change in cell type.",
-        "Incorrect - hypertrophy is an increase in cell size, not a change in cell type.",
-        "Incorrect - dysplasia is a distinct, more advanced step characterized by pleomorphism and abnormal nuclei, which may follow metaplasia but is not what is described here (columnar replacement of squamous epithelium)."
-      ],
-      "overview": "Barrett esophagus is a classic example of metaplasia, in which chronic gastric acid exposure causes the normal stratified squamous epithelium of the esophagus to be replaced by columnar, intestinal-type epithelium better suited to withstand the acidic stressor. Metaplasia is potentially reversible but predisposes to dysplasia and esophageal adenocarcinoma.",
-      "topic": "Barrett esophagus",
-      "angle": "diagnosis",
-      "id": "2026-09-18-10"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 24-year-old woman with darker skin pigmentation had ear piercing 6 months ago. She now has a raised, firm, pink mass at the piercing site that extends beyond the original wound margins onto adjacent normal skin. She reports it has continued to grow rather than regress. Which of the following best describes this lesion?",
-      "options": [
-        "Granulation tissue, composed of proliferating fibroblasts and new capillaries typically seen days after injury",
-        "Keloid, caused by excessive collagen deposition that extends beyond the boundaries of the original wound",
-        "Dystrophic calcification within a healed wound",
-        "Hypertrophic scar, which remains confined within the original wound margins and often regresses spontaneously",
-        "Fat necrosis, resulting from local trauma to subcutaneous adipose tissue"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - granulation tissue develops 3-5 days after injury and is an early transient stage of healing, not a persistent raised mass 6 months later.",
-        "Correct - keloids are raised scars that extend beyond the original wound borders due to excessive fibroblast activity, growth factors, and disorganized type I and III collagen; they are more common in certain locations (earlobe, deltoid, upper back) and do not regress.",
-        "Incorrect - dystrophic calcification produces calcium deposits in damaged tissue, not a raised, growing fibrous mass.",
-        "Incorrect - hypertrophic scars stay within wound borders, are composed mostly of organized type III collagen, and often regress spontaneously, unlike this persistent lesion extending beyond the wound.",
-        "Incorrect - fat necrosis produces chalky-white saponified fat, not a raised fibrous mass at a piercing site."
-      ],
-      "overview": "Keloids are raised scars resulting from excessive wound healing, with increased fibroblasts, growth factors, and disorganized type I and III collagen extending beyond the original wound borders. They are more common at the earlobe, deltoid, and upper back, rare on palms/soles/eyelids, and have a high recurrence rate after surgical removal.",
-      "topic": "Keloid",
-      "angle": "clinical_presentation",
-      "id": "2026-09-18-11"
-    },
-    {
-      "format": "simple4",
-      "stem": "In the TNM cancer staging system, which of the following correctly matches each letter with what it represents?",
-      "options": [
-        "T = tissue type, N = necrosis extent, M = metabolic activity",
-        "T = tumor grade, N = number of mitoses, M = molecular markers",
-        "T = primary tumor size, N = regional lymph node involvement, M = distant metastasis",
-        "T = tumor location, N = nuclear atypia, M = mortality risk"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect - TNM does not stand for tissue type, necrosis extent, or metabolic activity.",
-        "Incorrect - tumor grade reflects differentiation determined by biopsy, which is separate from the TNM staging categories.",
-        "Correct - TNM staging denotes T (primary tumor size, T1-T4), N (degree of regional lymph node spread, N0-N3), and M (presence or absence of metastases, M0 or M1).",
-        "Incorrect - TNM does not stand for tumor location, nuclear atypia, or mortality risk directly."
-      ],
-      "overview": "Cancer staging (TNM) describes the anatomic extent of tumor spread: T for primary tumor size, N for regional lymph node involvement, and M for distant metastasis. Staging is typically determined by imaging and is distinct from grading, which reflects the degree of tumor differentiation determined by biopsy.",
-      "topic": "TNM staging system",
-      "angle": "other",
-      "id": "2026-09-18-12"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 52-year-old woman with a history of alcohol use presents with severe epigastric pain radiating to the back, nausea, and vomiting. Serum lipase is markedly elevated. CT shows peripancreatic fat stranding with chalky-white foci. Which of the following best describes the mechanism producing the chalky-white foci?",
-      "options": [
-        "Mycobacterial infection causes granulomatous necrosis of peripancreatic tissue",
-        "Ischemia causes coagulative necrosis with preserved tissue architecture",
-        "Immune complexes deposit in small vessel walls, causing fibrin leakage",
-        "Lipases released from injured pancreatic acinar cells break down peritoneal fat, and the liberated fatty acids combine with calcium to form soaps",
-        "Bacterial proteases liquefy peripancreatic tissue, forming a purulent abscess cavity"
+        "Development of nephrogenic diabetes insipidus unrelated to the new medication",
+        "Thiazide-induced increased renal clearance of lithium, lowering her serum lithium level",
+        "Hydrochlorothiazide causing direct neurotoxicity independent of lithium levels",
+        "Thiazide-induced increased proximal tubular reabsorption of lithium, raising her serum lithium level",
+        "Serotonin syndrome from a thiazide-SSRI interaction"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - this describes caseous necrosis seen in tuberculosis, not fat necrosis.",
-        "Incorrect - coagulative necrosis preserves architecture and occurs in infarction, and does not explain chalky-white foci.",
-        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel process, not fat necrosis.",
-        "Correct - in fat necrosis (classically acute pancreatitis), released lipases break down peritoneal fat, and the resulting fatty acids saponify with calcium to produce chalky-white deposits.",
-        "Incorrect - this describes liquefactive necrosis (abscess), not fat necrosis."
+        "While lithium can cause nephrogenic diabetes insipidus over the long term, the acute onset of tremor, ataxia, and confusion shortly after starting a thiazide is better explained by a drug interaction raising lithium levels.",
+        "Thiazide diuretics increase, not decrease, serum lithium levels, which is why they are a known risk factor for lithium toxicity.",
+        "The symptoms described (tremor, ataxia, confusion, nausea) are classic for lithium toxicity, not direct thiazide neurotoxicity, and the temporal relationship to a known lithium-interacting drug points to lithium toxicity.",
+        "Lithium is reabsorbed in the proximal tubule similarly to sodium; thiazide diuretics cause volume depletion that increases proximal reabsorption of both sodium and lithium, raising serum lithium levels and precipitating toxicity (tremor, nausea, ataxia, confusion).",
+        "There is no SSRI mentioned, and thiazides are not serotonergic agents, so serotonin syndrome is not applicable here."
       ],
-      "overview": "Fat necrosis classically occurs in acute pancreatitis, where lipases released from damaged pancreatic acinar cells break down peritoneal fat. The liberated fatty acids combine with calcium in a process called saponification, producing grossly chalky-white tissue deposits. It can also occur in the breast after trauma or surgery, where it can mimic breast cancer.",
-      "topic": "Fat necrosis",
-      "angle": "clinical_presentation",
-      "id": "2026-09-18-13"
+      "overview": "Lithium has a narrow therapeutic index and is eliminated by the kidneys, being reabsorbed in the proximal tubule like sodium. Thiazide diuretics, NSAIDs, and ACE inhibitors increase serum lithium levels and risk of toxicity, while potassium-sparing diuretics decrease lithium levels. Risk factors for lithium toxicity include renal insufficiency, volume depletion, and older age with reduced GFR; tremor is the most common early symptom of toxicity.",
+      "id": "2026-09-19-06"
     },
     {
       "format": "simple4",
-      "stem": "Bradykinin contributes to the cardinal signs of inflammation through which of the following mechanisms?",
+      "topic": "MAO inhibitors",
+      "angle": "mechanism",
+      "stem": "Monoamine oxidase inhibitors (MAOIs) increase synaptic levels of monoamines through which mechanism?",
       "options": [
-        "Direct activation of complement's membrane attack complex",
-        "Inhibition of cyclooxygenase in the hypothalamus",
-        "Vasodilation, increased vascular permeability, and pain sensitization",
-        "Stimulation of hepatic synthesis of C-reactive protein"
+        "Blocking presynaptic reuptake of serotonin only",
+        "Activating presynaptic alpha-2 autoreceptors to increase norepinephrine release",
+        "Blocking postsynaptic D2 receptors",
+        "Inhibiting the enzyme that breaks down dopamine, serotonin, and norepinephrine"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Blocking serotonin reuptake describes SSRIs, not MAOIs.",
+        "Activating alpha-2 autoreceptors would decrease, not increase, norepinephrine release, and this is not how MAOIs work.",
+        "Blocking D2 receptors describes the mechanism of antipsychotics, not MAOIs.",
+        "MAO inhibitors work by inhibiting monoamine oxidase, the enzyme responsible for breaking down dopamine, serotonin, and norepinephrine, thereby increasing their levels."
+      ],
+      "overview": "MAO inhibitors (e.g., tranylcypromine, phenelzine, isocarboxazid, and the MAO-B selective selegiline) work by inhibiting monoamine oxidase, reducing breakdown of dopamine, serotonin, and norepinephrine. They are rarely used today due to dietary tyramine interactions (hypertensive crisis) and serotonin syndrome risk with other serotonergic drugs.",
+      "id": "2026-09-19-07"
+    },
+    {
+      "format": "simple4",
+      "topic": "ADHD",
+      "angle": "epidemiology",
+      "stem": "Which of the following best describes the epidemiology of attention deficit hyperactivity disorder (ADHD)?",
+      "options": [
+        "It is about 2 times more common in females, and symptoms resolve completely by adulthood in all cases",
+        "It has an equal sex distribution, and only about one-third of cases persist into adulthood",
+        "It is about 4 times more common in males, and up to two-thirds of cases have symptoms that persist into adulthood",
+        "It is about 4 times more common in males, and symptoms never persist into adulthood"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - bradykinin is generated through the kinin cascade, not by direct activation of the complement membrane attack complex.",
-        "Incorrect - bradykinin does not inhibit hypothalamic cyclooxygenase; prostaglandins via COX actually raise the hypothalamic set point in fever, an unrelated pathway.",
-        "Correct - bradykinin, generated via the kinin system after Hageman factor (XII) activation, causes vasodilation, increases vascular permeability, and produces pain.",
-        "Incorrect - hepatic CRP synthesis is driven by IL-6, not bradykinin."
+        "ADHD is more common in males, not females, and a majority of cases do not fully resolve by adulthood.",
+        "ADHD has a clear male predominance (4x), not an equal sex distribution, and persistence into adulthood is higher than one-third.",
+        "ADHD is four times more common in males, and symptoms persist into adulthood in up to two-thirds of cases, matching known epidemiology.",
+        "ADHD is indeed four times more common in males, but symptoms do persist into adulthood in a majority (up to two-thirds) of cases, contradicting this statement."
       ],
-      "overview": "Activated Hageman factor (factor XII) triggers the kinin cascade, converting prekallikrein to kallikrein, which cleaves high molecular weight kininogen to release bradykinin. Bradykinin is a vasodilator that increases vascular permeability and causes pain, and is degraded by ACE and C1 inhibitor.",
-      "topic": "Bradykinin",
-      "angle": "mechanism",
-      "id": "2026-09-18-14"
+      "overview": "ADHD is a childhood-onset disorder of inattention, hyperactivity, and impulsivity with normal intelligence, most commonly diagnosed in children ages 6 to 12. It is four times more common in males, and symptoms persist into adulthood in up to two-thirds of cases. Diagnosis requires symptoms in more than one setting, present before age 12, and impairing function.",
+      "id": "2026-09-19-08"
     },
     {
       "format": "simple4",
-      "stem": "Alternative (M2) macrophage activation is primarily driven by which of the following cytokines and is associated with which functional outcome?",
+      "topic": "Antisocial personality disorder",
+      "angle": "diagnosis",
+      "stem": "Diagnosis of antisocial personality disorder requires the patient to be at least what age, with evidence of conduct disorder before what age?",
       "options": [
-        "TNF-\u03b1; promotes granuloma maintenance",
-        "IL-4 and IL-13; promotes tissue repair and angiogenesis",
-        "IL-1; promotes fever via hypothalamic prostaglandin synthesis",
-        "IFN-\u03b3; promotes microbial destruction via reactive oxygen species"
+        "At least 21 years old, with conduct disorder evidence before age 18",
+        "At least 18 years old, with evidence of conduct disorder before age 15",
+        "At least 16 years old, with no childhood history required",
+        "Any age, as long as conduct disorder is present currently"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - TNF-\u03b1 maintains granulomatous inflammation but is not the defining cytokine for M2 (alternative) activation.",
-        "Correct - M2 (alternative) macrophage activation is driven by T-cell cytokines IL-4 and IL-13, inhibits classical activation, and promotes tissue repair with growth factors that drive angiogenesis.",
-        "Incorrect - IL-1 is a pyrogen involved in fever, not the primary driver of M2 macrophage activation.",
-        "Incorrect - IFN-\u03b3 drives classical (M1) activation, associated with reactive oxygen species and microbial killing, not M2 activation."
+        "Twenty-one years old and conduct disorder before 18 are not the correct age thresholds specified.",
+        "Antisocial personality disorder requires the patient to be at least 18 years old, with evidence of conduct disorder present before age 15.",
+        "Sixteen years old is not the diagnostic age threshold, and childhood conduct disorder history is required, not optional.",
+        "A diagnosis of antisocial personality disorder cannot be made at any age; the patient must be at least 18 with prior conduct disorder evidence."
       ],
-      "overview": "Macrophages can be classically activated (M1) by IFN-\u03b3 to destroy microbes via reactive oxygen species, or alternatively activated (M2) by IL-4/IL-13 to promote tissue repair and angiogenesis while inhibiting classical activation. This M1/M2 balance shapes the outcome of chronic inflammation.",
-      "topic": "M2 macrophage activation",
-      "angle": "pathophysiology",
-      "id": "2026-09-18-15"
+      "overview": "Antisocial personality disorder is a Cluster B personality disorder more common in men, marked by disregard for others' rights, impulsivity, and lack of remorse. It requires the patient to be at least 18 years old with evidence of conduct disorder (its childhood counterpart) before age 15; 25% of girls and 40% of boys with conduct disorder progress to antisocial personality disorder.",
+      "id": "2026-09-19-09"
     },
     {
       "format": "simple4",
-      "stem": "A patient with long-standing rheumatoid arthritis develops proteinuria and is found to have amyloid deposits on renal biopsy. Which of the following serum proteins, elevated during chronic inflammation, is the precursor for this type of amyloid?",
+      "topic": "Obsessive-compulsive disorder",
+      "angle": "treatment",
+      "stem": "Which pharmacologic options are used as first-line adjuncts to exposure and response prevention therapy for obsessive-compulsive disorder?",
       "options": [
-        "C-reactive protein",
-        "Serum amyloid A protein",
-        "Ferritin",
-        "Fibrinogen"
+        "Bupropion",
+        "SSRIs and clomipramine",
+        "Lithium",
+        "Benzodiazepines as first-line monotherapy"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - CRP is an acute phase reactant that binds bacterial polysaccharides and activates complement, but it is not the precursor protein for AA amyloidosis.",
-        "Correct - serum amyloid A (SAA) is an acute phase apolipoprotein whose chronically elevated levels in conditions like rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis.",
-        "Incorrect - ferritin is an iron storage protein and acute phase reactant, not the precursor for AA amyloid.",
-        "Incorrect - fibrinogen is a clotting factor and acute phase reactant that promotes cellular adhesion, not the precursor for AA amyloid."
+        "Bupropion is not indicated for OCD in these notes; it is used for depression and smoking cessation.",
+        "OCD is treated with cognitive behavioral therapy (exposure and response prevention), along with SSRIs and clomipramine (a tricyclic antidepressant).",
+        "Lithium is a mood stabilizer used in bipolar disorder, not a first-line treatment for OCD.",
+        "Benzodiazepines are not identified as a first-line pharmacologic treatment for OCD in these notes."
       ],
-      "overview": "Serum amyloid A (SAA) is an acute phase reactant apolipoprotein synthesized during inflammation. Chronic elevation of SAA in long-standing inflammatory conditions such as rheumatoid arthritis, ankylosing spondylitis, and inflammatory bowel disease can lead to AA (secondary) amyloidosis, with deposits commonly affecting the kidneys.",
-      "topic": "Secondary (AA) amyloidosis",
+      "overview": "OCD involves intrusive, distressing obsessions and repetitive compulsions performed to relieve anxiety, and is egodystonic (conflicting with the patient's goals), distinguishing it from obsessive-compulsive personality disorder. Treatment centers on cognitive behavioral therapy with exposure and response prevention, along with SSRIs and clomipramine.",
+      "id": "2026-09-19-10"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Tricyclic antidepressant overdose",
       "angle": "complications",
-      "id": "2026-09-18-16"
-    },
-    {
-      "format": "simple4",
-      "stem": "Histologic examination of tissue obtained 5 days after a surgical incision would be expected to show which of the following as the dominant components of granulation tissue?",
+      "stem": "A young woman is found unresponsive after ingesting a large quantity of amitriptyline. She is hyperthermic with dry, flushed skin, dilated pupils, urinary retention, and absent bowel sounds. Blood pressure is low, and ECG shows a markedly widened QRS complex. Which complication poses the greatest immediate risk to her life?",
       "options": [
-        "Multinucleated giant cells surrounding a necrotic core",
-        "Sheets of neutrophils with abundant caseous debris",
-        "Dense, avascular, acellular type I collagen with maximal tensile strength",
-        "Proliferating fibroblasts, new capillaries from angiogenesis, and extracellular matrix"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect - giant cells around a necrotic core describe granulomatous/caseous necrosis, not granulation tissue.",
-        "Incorrect - sheets of neutrophils with caseous debris describes a different process (e.g., abscess or caseous necrosis), not granulation tissue.",
-        "Incorrect - dense, avascular, acellular collagen describes a mature scar, which forms months later, not granulation tissue at day 5.",
-        "Correct - granulation tissue develops 3-5 days after injury and consists histologically of proliferating fibroblasts, new small capillaries from angiogenesis, extracellular matrix, and some inflammatory cells (especially macrophages)."
-      ],
-      "overview": "Granulation tissue is the early scaffold of wound healing, appearing 3-5 days after injury. It is composed of proliferating fibroblasts, new capillaries formed by angiogenesis, extracellular matrix, and macrophages, and it matures over time into a collagen-rich scar.",
-      "topic": "Granulation tissue",
-      "angle": "anatomy_histology",
-      "id": "2026-09-18-17"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 45-year-old man from an endemic region presents with chronic cough, night sweats, and weight loss. Chest imaging shows a cavitary upper lobe lesion. Biopsy reveals granulomas with a central area of cheese-like, structureless necrotic debris surrounded by epithelioid macrophages and giant cells. Which of the following best characterizes this type of necrosis?",
-      "options": [
-        "Characterized by saponification of fat with calcium",
-        "Characterized by preserved tissue architecture with red-pink cytoplasm and loss of nuclei, seen in myocardial infarction",
-        "Combines features of coagulative and liquefactive necrosis, classically associated with mycobacterial infection",
-        "Characterized by fibrin deposition in vessel walls associated with immune complex disease",
-        "Characterized by complete liquefaction of tissue into a purulent mass"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect - this describes fat necrosis, not caseous necrosis.",
-        "Incorrect - this describes coagulative necrosis, seen in infarcts like myocardial infarction, not caseous necrosis.",
-        "Correct - caseous necrosis has a cheese-like gross appearance combining features of coagulative and liquefactive necrosis and is classically seen in tuberculosis, where mycobacteria resist digestion and macrophages form giant cells around the necrotic center.",
-        "Incorrect - this describes fibrinoid necrosis, an autoimmune vessel wall process.",
-        "Incorrect - this describes liquefactive necrosis (e.g., abscess), not caseous necrosis, which retains a granulomatous structure."
-      ],
-      "overview": "Caseous necrosis produces a grossly cheese-like substance and microscopically shows granulomatous inflammation with a necrotic center surrounded by epithelioid macrophages, lymphocytes, and giant cells. It is classically associated with tuberculosis, where mycobacteria resist degradation, leading to slow, incomplete breakdown of infected tissue.",
-      "topic": "Caseous necrosis",
-      "angle": "diagnosis",
-      "id": "2026-09-18-18"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with sickle cell anemia has an infection but her erythrocyte sedimentation rate remains within the normal range despite significant inflammation. Which of the following best explains this discrepancy?",
-      "options": [
-        "Sickle cell anemia increases red cell negative surface charge, accelerating sedimentation",
-        "Abnormally shaped red blood cells impede the normal stacking and sedimentation that acute phase reactants would otherwise promote",
-        "Sickle cell anemia causes an isolated deficiency of C-reactive protein",
-        "Sickle cell anemia is associated with reduced fibrinogen synthesis, independent of red cell shape"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - increased negative charge would inhibit, not accelerate, sedimentation by promoting red cell repulsion, and this is not the mechanism given in the notes.",
-        "Correct - the notes list abnormal red cell shapes such as sickle cells and spherocytes as causes of a falsely low/normal ESR, because misshapen cells cannot stack normally (rouleaux formation) even with elevated acute phase reactants like fibrinogen.",
-        "Incorrect - the notes do not describe an isolated CRP deficiency in sickle cell anemia as the explanation for a low ESR.",
-        "Incorrect - the mechanism described in the notes is abnormal cell shape impeding sedimentation, not a primary fibrinogen synthesis defect."
-      ],
-      "overview": "ESR reflects the balance between pro-sedimentation acute phase reactants (especially fibrinogen) and anti-sedimentation red cell negative charge. Abnormal red cell shapes, such as sickle cells, spherocytes, or microcytes, physically impede normal stacking (rouleaux formation), so ESR may remain falsely low or normal despite active inflammation.",
-      "topic": "Erythrocyte sedimentation rate",
-      "angle": "diagnosis",
-      "id": "2026-09-18-19"
-    },
-    {
-      "format": "vignette5",
-      "stem": "A 58-year-old woman with end-stage renal disease on hemodialysis develops painful, violaceous skin nodules on her thighs that progress to necrotic ulcers. Laboratory studies show markedly elevated serum phosphate. Biopsy shows calcification of small dermal vessel walls. Which of the following best explains the underlying process?",
-      "options": [
-        "Immune complex deposition in dermal vessels triggers fibrinoid necrosis",
-        "Chronic hyperphosphatemia drives vascular smooth muscle cells to undergo osteogenic transformation, leading to vessel wall calcification, thrombosis, and skin necrosis",
-        "Elevated serum calcium alone causes calcium phosphate precipitation in areas of high internal pH such as the kidney and lungs",
-        "Excess parathyroid hormone directly deposits calcium in the skin independent of phosphate levels",
-        "Local tissue necrosis releases phospholipids that bind calcium at physiologic serum calcium levels"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Incorrect - the notes attribute calciphylaxis to hyperphosphatemia-driven vascular calcification, not immune complex-mediated fibrinoid necrosis.",
-        "Correct - calciphylaxis occurs in chronic kidney disease with hyperphosphatemia, where excess phosphate is taken up by vascular smooth muscle, driving osteogenic transformation and vascular wall calcification, leading to small vessel thrombosis and painful skin necrosis.",
-        "Incorrect - this describes metastatic calcification's general mechanism/locations (GI, kidney, lung), not the specific vascular smooth muscle osteogenesis of calciphylaxis.",
-        "Incorrect - the mechanism described is phosphate-driven vascular smooth muscle osteogenesis, not direct PTH deposition of calcium in skin.",
-        "Incorrect - this describes dystrophic calcification, which occurs with normal serum calcium in necrotic tissue, not calciphylaxis."
-      ],
-      "overview": "Calciphylaxis occurs in chronic kidney disease with chronic hyperphosphatemia, where vascular smooth muscle cells undergo osteogenic change and calcify, leading to small vessel thrombosis, increased blood pressure, and painful skin nodules that progress to necrosis. It is a form of metastatic calcification affecting blood vessels.",
-      "topic": "Calciphylaxis",
-      "angle": "clinical_presentation",
-      "id": "2026-09-18-20"
-    },
-    {
-      "format": "simple4",
-      "stem": "Psammoma bodies, seen histologically in certain neoplasms such as papillary thyroid carcinoma, are best described as which of the following?",
-      "options": [
-        "Clusters of multinucleated giant cells surrounding necrotic debris",
-        "Deposits of amyloid protein with apple-green birefringence on Congo red stain",
-        "Calcifications with a concentric, layered pattern",
-        "Aggregates of hemosiderin-laden macrophages"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect - multinucleated giant cells surrounding necrotic debris describes granulomatous/caseous necrosis, not psammoma bodies.",
-        "Incorrect - apple-green birefringence on Congo red staining is characteristic of amyloid deposits, not psammoma bodies.",
-        "Correct - psammoma bodies are calcifications with a distinctive layered (concentric, laminated) pattern seen in certain neoplasms, such as thyroid cancer, and represent a form of dystrophic calcification.",
-        "Incorrect - hemosiderin-laden macrophages are a separate histologic finding unrelated to psammoma bodies."
-      ],
-      "overview": "Psammoma bodies are calcified structures with a characteristic concentric, layered appearance on microscopy, representing a form of dystrophic calcification. They are classically associated with certain neoplasms, including papillary thyroid carcinoma.",
-      "topic": "Psammoma bodies",
-      "angle": "anatomy_histology",
-      "id": "2026-09-18-21"
-    },
-    {
-      "format": "simple4",
-      "stem": "A patient with poor dietary intake and delayed wound healing is found to have vitamin C deficiency. Which of the following best explains the role of vitamin C in normal wound healing?",
-      "options": [
-        "It is required as a cofactor for lysyl oxidase-mediated collagen cross-linking",
-        "It activates metalloproteinases to degrade type III collagen",
-        "It is necessary for collagen synthesis by fibroblasts",
-        "It stimulates VEGF-mediated angiogenesis at the wound site"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Incorrect - collagen cross-linking is a copper-dependent (lysyl oxidase) process, not vitamin C-dependent, per the notes.",
-        "Incorrect - metalloproteinases are zinc-dependent enzymes; vitamin C's described role is in collagen synthesis, not activating collagen-degrading enzymes.",
-        "Correct - the notes state that vitamin C (ascorbic acid) is necessary for collagen synthesis, and its deficiency results in poor wound healing.",
-        "Incorrect - angiogenesis is primarily driven by VEGF and FGF, not vitamin C."
-      ],
-      "overview": "Vitamin C (ascorbic acid) is required for normal collagen synthesis by fibroblasts during wound healing. Deficiency impairs collagen production and results in poor wound healing, distinct from copper deficiency (impaired collagen cross-linking) and zinc deficiency (impaired collagen remodeling).",
-      "topic": "Vitamin C deficiency (wound healing)",
-      "angle": "pathophysiology",
-      "id": "2026-09-18-22"
-    },
-    {
-      "format": "simple4",
-      "stem": "C-reactive protein is synthesized by the liver primarily in response to which cytokine, and performs which of the following functions?",
-      "options": [
-        "IL-6; binds bacterial polysaccharides and activates complement",
-        "IL-1; inhibits iron transport via ferroportin",
-        "IFN-\u03b3; activates macrophages to form giant cells",
-        "TNF-\u03b1; cross-links collagen fibers during wound remodeling"
+        "Ventricular arrhythmia from cardiac sodium channel blockade",
+        "Serotonin syndrome",
+        "Extrapyramidal symptoms",
+        "Respiratory alkalosis",
+        "Hypoglycemia"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Correct - CRP is an acute phase reactant synthesized by the liver in response to IL-6 (produced by macrophages); it binds bacterial polysaccharides and activates the complement system.",
-        "Incorrect - inhibiting iron transport via ferroportin describes hepcidin, not CRP.",
-        "Incorrect - IFN-\u03b3 activates macrophages (M1), but this is not the CRP mechanism; giant cell formation is a granuloma feature, not a CRP function.",
-        "Incorrect - collagen cross-linking is performed by lysyl oxidase, unrelated to CRP or TNF-\u03b1."
+        "TCAs block cardiac sodium channels, prolonging the QRS interval and predisposing to life-threatening ventricular arrhythmias, which is the major cause of death in TCA overdose.",
+        "While TCAs affect serotonin reuptake, the described findings (widened QRS, anticholinergic toxidrome) point to cardiac sodium channel blockade as the dominant life-threatening process in overdose, not serotonin syndrome.",
+        "Extrapyramidal symptoms are associated with antipsychotic dopamine blockade, not TCA overdose.",
+        "TCA overdose is not characterized by respiratory alkalosis; the major toxicities relate to anticholinergic effects and cardiac conduction abnormalities.",
+        "Hypoglycemia is not a recognized feature of TCA overdose toxicity."
       ],
-      "overview": "C-reactive protein is an acute phase reactant produced by the liver in response to IL-6 released by macrophages during inflammation. It binds bacterial polysaccharides and activates complement, and chronically elevated levels are associated with coronary artery disease.",
-      "topic": "C-reactive protein",
-      "angle": "mechanism",
-      "id": "2026-09-18-23"
+      "overview": "TCA overdose is potentially fatal, causing seizures, coma, and anticholinergic toxicity (hyperthermia, flushed dry skin, dilated pupils, ileus, urinary retention). The most dangerous effect is cardiac sodium channel blockade, seen as QRS widening on ECG, which can progress to fatal ventricular arrhythmias; this is treated with sodium bicarbonate to overcome the sodium channel blockade and favor the inactive form of the drug.",
+      "id": "2026-09-19-11"
+    },
+    {
+      "format": "simple4",
+      "topic": "Dissociative fugue",
+      "angle": "clinical_presentation",
+      "stem": "A man who was recently fired from his job is later found in another state, working under a completely different name, with no recollection of his prior identity or employment. This presentation is most consistent with which condition?",
+      "options": [
+        "Dissociative identity disorder",
+        "Malingering",
+        "Dissociative fugue",
+        "Depersonalization/derealization disorder"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Dissociative identity disorder involves two or more distinct personality states, not simply amnesia and travel following a stressor.",
+        "Malingering involves consciously fabricated symptoms for external/secondary gain, which is not suggested by this case.",
+        "Dissociative fugue, a subtype of dissociative amnesia, involves sudden, unplanned travel or wandering associated with amnesia for one's identity, exactly as described.",
+        "Depersonalization/derealization disorder involves feeling detached from oneself or one's surroundings, not memory loss for identity and unplanned travel."
+      ],
+      "overview": "Dissociative fugue is a subtype of dissociative amnesia involving sudden, unexplained travel or wandering in a dissociated state, typically following overwhelming stress, with loss of memory for one's prior identity, job, or home. Memories may resurface later, distinguishing it from more permanent memory loss.",
+      "id": "2026-09-19-12"
+    },
+    {
+      "format": "simple4",
+      "topic": "Factitious disorder",
+      "angle": "other",
+      "stem": "A patient consciously fabricates symptoms of illness and repeatedly requests invasive testing and procedures, motivated by an internal desire to occupy the role of a sick patient rather than any external reward. This behavior is best classified as which of the following?",
+      "options": [
+        "Factitious disorder",
+        "Malingering",
+        "Somatic symptom disorder",
+        "Conversion disorder"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Factitious disorder (Munchausen syndrome) involves consciously falsified symptoms motivated by primary (internal) gain from occupying the sick role, matching this description.",
+        "Malingering is driven by external (secondary) gain, such as financial compensation or avoiding work, not an internal desire to be sick.",
+        "Somatic symptom disorder involves genuine distress about real or perceived physical symptoms, not consciously fabricated illness for the sick role.",
+        "Conversion disorder involves genuine (not consciously produced) neurologic symptoms following a stressor, with the patient unaware they are not organic."
+      ],
+      "overview": "Factitious disorder on self (Munchausen syndrome) involves consciously falsifying medical or psychiatric symptoms, sometimes aggravating real illness, driven by a desire for the primary/internal gain of occupying the sick role, often to resolve an internal conflict. Risk factors include female sex, being unmarried, and a healthcare worker background.",
+      "id": "2026-09-19-13"
+    },
+    {
+      "format": "simple4",
+      "topic": "Binge eating disorder",
+      "angle": "treatment",
+      "stem": "Which two medications have shown efficacy in clinical trials for reducing binge eating episodes and promoting weight loss in binge eating disorder?",
+      "options": [
+        "Lisdexamfetamine and topiramate",
+        "Lithium and valproic acid",
+        "Olanzapine and clozapine",
+        "Disulfiram and naltrexone"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Lisdexamfetamine (an ADHD stimulant) and topiramate (a seizure medication) have shown increased abstinence from binge episodes and reduced weight in clinical trials for binge eating disorder.",
+        "Lithium and valproic acid are mood stabilizers for bipolar disorder, not treatments for binge eating disorder.",
+        "Olanzapine and clozapine are antipsychotics; olanzapine is used in anorexia nervosa, not specifically as a binge eating disorder treatment in these notes.",
+        "Disulfiram and naltrexone are used in alcohol use disorder treatment, not binge eating disorder."
+      ],
+      "overview": "Binge eating disorder involves recurrent episodes of eating unusually large amounts of food with a feeling of loss of control, without compensatory behaviors, occurring at least once weekly for three months. First-line treatment is psychotherapy (CBT), which has a greater effect than medication, though lisdexamfetamine and topiramate have shown efficacy in reducing binge episodes and weight.",
+      "id": "2026-09-19-14"
+    },
+    {
+      "format": "simple4",
+      "topic": "Generalized anxiety disorder",
+      "angle": "diagnosis",
+      "stem": "Diagnosis of generalized anxiety disorder requires chronic worry about multiple activities for more than 6 months plus at least three of which of the following symptoms?",
+      "options": [
+        "Recurrent unexpected panic attacks",
+        "Restlessness, fatigue, difficulty concentrating, irritability, muscle tension, or sleep disturbance",
+        "Four or more autonomic symptoms occurring during a discrete attack",
+        "Obsessions and compulsions causing significant distress"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Recurrent unexpected panic attacks are the hallmark of panic disorder, not generalized anxiety disorder.",
+        "Generalized anxiety disorder requires at least 3 of these six symptoms (restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance) alongside chronic, persistent worry lasting more than 6 months.",
+        "This describes the diagnostic criteria for a panic attack, not generalized anxiety disorder.",
+        "Obsessions and compulsions are the hallmark of obsessive-compulsive disorder, not generalized anxiety disorder."
+      ],
+      "overview": "Generalized anxiety disorder is characterized by chronic, persistent anxiety about many different events or activities, occurring more days than not for at least 6 months, along with at least 3 of: restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbance.",
+      "id": "2026-09-19-15"
+    },
+    {
+      "format": "simple4",
+      "topic": "Persistent depressive disorder",
+      "angle": "diagnosis",
+      "stem": "Persistent depressive disorder (dysthymia) is characterized by depressed mood present most of the time for at least how long, without a symptom-free period lasting more than two months?",
+      "options": [
+        "5 years",
+        "2 years",
+        "6 months",
+        "1 month"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Five years is not the specified minimum duration; two years is the diagnostic threshold.",
+        "Persistent depressive disorder (dysthymia) is a low-grade, chronic form of depression that lasts for at least two years, with no symptom-free periods lasting longer than two months.",
+        "Six months is too short; persistent depressive disorder requires a much longer duration of chronic low-grade depression.",
+        "One month is far too short for this chronic condition."
+      ],
+      "overview": "Persistent depressive disorder (dysthymia) is a low-grade but chronic form of depression, less severe than major depressive disorder but more persistent, requiring depressed mood most of the time for at least two years without symptom-free periods longer than two months.",
+      "id": "2026-09-19-16"
     },
     {
       "format": "vignette5",
-      "stem": "A 19-year-old man presents with tremor, dysarthria, and liver dysfunction. Slit-lamp exam reveals Kayser-Fleischer rings. Serum ceruloplasmin is low, and hepatic copper content is elevated. Which of the following best explains a mechanism by which excess free copper contributes to cellular injury in this disorder?",
+      "topic": "Opioid overdose",
+      "angle": "treatment",
+      "stem": "A man is found unresponsive with pinpoint pupils, a respiratory rate of 6 breaths per minute, and needle track marks on his arm. Which of the following is the most appropriate immediate treatment?",
       "options": [
-        "Free copper directly inhibits Na/K-ATPase, causing cellular swelling",
-        "Free copper activates caspases directly, triggering apoptosis",
-        "Free copper inhibits telomerase, accelerating cellular senescence",
-        "Free copper binds transferrin, preventing iron delivery to erythroid precursors",
-        "Free copper reacts with hydrogen peroxide via the Fenton reaction to generate hydroxyl radicals that damage lipids, proteins, and DNA"
+        "Buprenorphine",
+        "Flumazenil",
+        "Naloxone",
+        "Methadone",
+        "Naltrexone"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Buprenorphine is a partial opioid agonist used for withdrawal/addiction maintenance treatment, not for reversing acute overdose.",
+        "Flumazenil is a benzodiazepine receptor antagonist used for benzodiazepine overdose, not opioid overdose, and can precipitate seizures.",
+        "Naloxone is a short-acting opioid antagonist used to rapidly reverse life-threatening opioid overdose, including respiratory depression and miosis, as seen in this patient.",
+        "Methadone is a long-acting opioid agonist used for maintenance therapy in opioid use disorder, not for reversing acute overdose.",
+        "Naltrexone is a long-acting opioid antagonist used to prevent relapse in detoxified patients, not for acute overdose reversal."
+      ],
+      "overview": "Opioid overdose is the most common cause of drug overdose death and presents with decreased respiratory rate, decreased bowel sounds, and miotic pupils, progressing to depressed mental status. Naloxone, a short-acting opioid antagonist, is the immediate treatment for overdose but may precipitate withdrawal, especially if dosed too high.",
+      "id": "2026-09-19-17"
+    },
+    {
+      "format": "simple4",
+      "topic": "Caffeine",
+      "angle": "mechanism",
+      "stem": "Caffeine produces its stimulant and diuretic effects primarily through which mechanism?",
+      "options": [
+        "Agonism of serotonin 5-HT2A receptors",
+        "Antagonism of adenosine receptors, increasing dopamine/norepinephrine release and causing renal diuresis",
+        "Inhibition of monoamine oxidase",
+        "Blockade of NMDA glutamate receptors"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Serotonin 5-HT2A receptor agonism describes the mechanism of LSD, not caffeine.",
+        "Caffeine is a methylxanthine that antagonizes adenosine receptors, leading to increased release of dopamine and norepinephrine (stimulant effect) and renal adenosine blockade causing diuresis.",
+        "Monoamine oxidase inhibition describes MAOIs, not caffeine.",
+        "NMDA receptor blockade describes the mechanism of PCP, not caffeine."
+      ],
+      "overview": "Caffeine is a methylxanthine that acts as an adenosine receptor antagonist, leading to increased dopamine and norepinephrine release (producing its stimulant effects) and renal adenosine blockade causing diuresis. Caffeine (along with theophylline) can also blunt the vasodilatory effect of intravenous adenosine used in chemical cardiac stress testing.",
+      "id": "2026-09-19-18"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Anorexia nervosa",
+      "angle": "complications",
+      "stem": "A 17-year-old girl with a BMI of 15.5 kg/m2 has been severely restricting food intake and exercising excessively for the past year, with amenorrhea for the last 6 months. On exam she has bradycardia, hypotension, dry scaly skin, and fine lanugo hair. Which of the following laboratory abnormalities is she most likely to also have?",
+      "options": [
+        "Hypocortisolism",
+        "Elevated bone mineral density",
+        "Macrocytic anemia from vitamin B12 deficiency",
+        "Hyperkalemia and thrombocytosis",
+        "Hyponatremia and leukopenia"
       ],
       "correctIndex": 4,
       "explanations": [
-        "Incorrect - the notes describe copper toxicity via free radical (Fenton reaction) generation, not direct Na/K-ATPase inhibition.",
-        "Incorrect - copper's described mechanism of injury is free radical generation, not direct caspase activation.",
-        "Incorrect - telomerase inhibition is not a mechanism described for copper toxicity in the notes.",
-        "Incorrect - transferrin is an iron transport protein; copper is transported by ceruloplasmin, not transferrin.",
-        "Correct - excess free copper (normally bound by ceruloplasmin) participates in the Fenton reaction (H2O2 + Cu+ \u2192 Cu2+ + OH\u00b7), generating hydroxyl radicals that cause lipid peroxidation, protein oxidation, and DNA damage, contributing to hepatocyte and neuronal injury in Wilson disease."
+        "Anorexia nervosa is associated with high cortisol levels, contributing to bone loss, not hypocortisolism.",
+        "Anorexia nervosa causes decreased bone density (osteopenia/osteoporosis) due to low estrogen and high cortisol, not elevated bone density.",
+        "Bone marrow suppression in anorexia typically causes anemia, but it is not specifically described as macrocytic B12-deficiency anemia in these notes.",
+        "Anorexia nervosa is more commonly associated with hypokalemia (especially with purging) and thrombocytopenia from bone marrow suppression, not hyperkalemia or thrombocytosis.",
+        "Patients with anorexia nervosa lose the ability to concentrate urine, leading to hyponatremia and volume depletion, and commonly develop bone marrow suppression causing anemia, leukopenia, and thrombocytopenia."
       ],
-      "overview": "Wilson disease causes copper accumulation due to impaired biliary excretion, with low ceruloplasmin allowing free copper to accumulate in the liver, brain, and eyes (Kayser-Fleischer rings). Free copper, like free iron in hemochromatosis, drives the Fenton reaction, converting hydrogen peroxide into damaging hydroxyl radicals that injure cells via lipid peroxidation and macromolecule damage.",
-      "topic": "Wilson disease (copper-mediated free radical injury)",
-      "angle": "complications",
-      "id": "2026-09-18-24"
+      "overview": "Anorexia nervosa causes numerous systemic complications from malnutrition: endocrine effects (functional hypothalamic amenorrhea from decreased GnRH/LH/FSH), electrolyte disturbances (hyponatremia from impaired urinary concentration, hypokalemia if purging), decreased bone density from low estrogen and high cortisol, and bone marrow suppression causing anemia, leukopenia, and thrombocytopenia. Physical exam findings include bradycardia, hypotension, lanugo hair, and dry skin.",
+      "id": "2026-09-19-19"
     },
     {
       "format": "vignette5",
-      "stem": "A 60-year-old man presents with painless, diffuse lymphadenopathy. Lymph node biopsy shows a nodular pattern of small, cleaved lymphocytes. Cytogenetic testing reveals a t(14;18) translocation resulting in overexpression of an anti-apoptotic protein located in the mitochondrial membrane. Which of the following mechanisms best explains how this overexpression contributes to malignancy?",
-      "options": [
-        "The overexpressed protein prevents cytochrome c release from mitochondria, blocking caspase activation and allowing uncontrolled B-cell survival",
-        "The overexpressed protein binds Fas ligand, preventing death receptor signaling on the cell surface",
-        "The overexpressed protein inhibits NADPH oxidase, preventing reactive oxygen species generation",
-        "The overexpressed protein degrades p53, preventing cell cycle arrest",
-        "The overexpressed protein activates telomerase, allowing unlimited replication"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Correct - follicular lymphoma is driven by BCL-2 overexpression, which keeps mitochondrial pores closed, prevents cytochrome c release, blocks caspase activation, and prevents apoptosis, leading to uncontrolled B-cell accumulation.",
-        "Incorrect - this describes the extrinsic Fas pathway, not the mitochondrial intrinsic pathway that BCL-2 regulates.",
-        "Incorrect - BCL-2 has no described role in inhibiting NADPH oxidase or respiratory burst.",
-        "Incorrect - BCL-2 does not act by degrading p53; it acts at the mitochondrial membrane.",
-        "Incorrect - telomerase activation is a separate hallmark of malignancy, not the mechanism of BCL-2 overexpression described in the notes."
-      ],
-      "overview": "Follicular lymphoma, a B-cell non-Hodgkin lymphoma, is characterized by overexpression of BCL-2, an anti-apoptotic protein in the mitochondrial membrane. This prevents mitochondrial pore opening and cytochrome c release, blocking caspase activation and apoptosis, resulting in uncontrolled clonal B-cell growth.",
-      "topic": "Follicular lymphoma",
+      "topic": "Schizoaffective disorder",
       "angle": "diagnosis",
-      "id": "2026-09-18-25"
-    },
-    {
-      "format": "simple4",
-      "stem": "Transforming growth factor-beta (TGF-\u03b2) promotes wound healing and scar formation through which of the following combined effects?",
+      "stem": "Over an 8-month period, a patient has experienced a 3-week stretch of hallucinations and delusions occurring with no mood symptoms, interspersed with separate episodes of mania and depression during which psychotic features were also present. Which of the following is the most likely diagnosis?",
       "options": [
-        "Inhibits fibroblast migration to limit excessive scarring",
-        "Stimulates neutrophil chemotaxis and promotes fever via hypothalamic prostaglandins",
-        "Stimulates osteoclast-like transformation of vascular smooth muscle",
-        "Stimulates collagen production, inhibits collagen breakdown, and inhibits lymphocyte proliferation"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Incorrect - TGF-\u03b2 promotes, not inhibits, fibroblast activity and collagen production in wound healing.",
-        "Incorrect - neutrophil chemotaxis and fever are not the primary described functions of TGF-\u03b2 in the notes.",
-        "Incorrect - osteogenic transformation of vascular smooth muscle is a feature of calciphylaxis, unrelated to TGF-\u03b2's wound healing role.",
-        "Correct - TGF-\u03b2, released by platelets, T cells, macrophages, and endothelial cells, stimulates collagen production, inhibits collagen breakdown, and is anti-inflammatory by inhibiting lymphocyte proliferation; TGF-\u03b2 knockout mice show widespread inflammation."
-      ],
-      "overview": "TGF-\u03b2 is released by platelets, T cells, macrophages, and endothelial cells during wound healing. It promotes scar formation by stimulating collagen synthesis and inhibiting its breakdown, while also acting as an anti-inflammatory signal that suppresses lymphocyte proliferation.",
-      "topic": "TGF-beta",
-      "angle": "mechanism",
-      "id": "2026-09-18-26"
-    },
-    {
-      "format": "simple4",
-      "stem": "Bevacizumab is used in the treatment of certain cancers based on which of the following mechanisms of action?",
-      "options": [
-        "Inhibition of cyclooxygenase, reducing prostaglandin-mediated pain",
-        "Inhibition of VEGF-A, reducing tumor angiogenesis",
-        "Inhibition of TNF-\u03b1, reducing granulomatous inflammation",
-        "Inhibition of BCL-2, promoting apoptosis of malignant cells"
+        "Bipolar I disorder with psychotic features",
+        "Schizoaffective disorder",
+        "Schizophreniform disorder",
+        "Schizophrenia",
+        "Brief psychotic disorder"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Incorrect - bevacizumab does not inhibit cyclooxygenase; that mechanism describes NSAIDs.",
-        "Correct - bevacizumab is a VEGF inhibitor used in cancer therapy that blocks VEGF-A-mediated angiogenesis, limiting the new blood vessel growth tumors need to grow.",
-        "Incorrect - anti-TNF drugs like infliximab and etanercept, not bevacizumab, are used for granulomatous/autoimmune inflammatory conditions.",
-        "Incorrect - bevacizumab targets VEGF, not BCL-2, which is a different therapeutic mechanism not described as bevacizumab's target in the notes."
+        "In bipolar disorder with psychotic features, all psychotic episodes occur together with mood episodes; the presence of a distinct 3-week period of psychosis without mood symptoms rules this out.",
+        "Schizoaffective disorder requires at least 2 weeks of psychotic symptoms occurring in the absence of a mood episode, in addition to periods of mania or depression with psychotic features\u2014exactly what is described here.",
+        "Schizophreniform disorder is essentially schizophrenia lasting less than 6 months, without the required mood episodes seen in this patient.",
+        "Schizophrenia does not typically feature prominent, recurring mood episodes (mania/depression) as a core component of the illness course.",
+        "Brief psychotic disorder involves psychotic symptoms with full remission within one month and is usually a single episode following a stressor, not a recurring pattern over 8 months with mood episodes."
       ],
-      "overview": "VEGF-A is a key stimulator of angiogenesis, secreted by tumors to fuel their own vascular supply. Bevacizumab is a VEGF inhibitor used in cancer treatment to block this angiogenic signal, while ranibizumab, another VEGF inhibitor, is used in retinopathy.",
-      "topic": "Bevacizumab (VEGF inhibition)",
-      "angle": "treatment",
-      "id": "2026-09-18-27"
+      "overview": "Schizoaffective disorder combines features of schizophrenia with episodes of mania or depression. The key diagnostic requirement distinguishing it from a mood disorder with psychotic features is that the patient must have at least 2 weeks of psychotic symptoms occurring in the absence of any mood episode, in addition to mood episodes that include psychotic features.",
+      "id": "2026-09-19-20"
     },
     {
       "format": "simple4",
-      "stem": "Elevated hepcidin during chronic inflammation contributes to anemia of chronic disease through which of the following mechanisms?",
+      "topic": "Malingering",
+      "angle": "other",
+      "stem": "A construction worker consciously exaggerates the severity of a back injury in order to obtain workers' compensation payments, and his symptoms resolve once his claim is settled. This behavior is best classified as which of the following?",
       "options": [
-        "Inhibiting erythropoietin receptor signaling in the bone marrow",
-        "Directly lysing red blood cells via complement activation",
-        "Binding ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin",
-        "Increasing transferrin synthesis to enhance iron delivery to erythroid precursors"
+        "Illness anxiety disorder",
+        "Conversion disorder",
+        "Malingering",
+        "Factitious disorder"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Incorrect - the notes do not describe hepcidin acting on erythropoietin receptor signaling.",
-        "Incorrect - hepcidin's described mechanism is iron sequestration via ferroportin inhibition, not complement-mediated red cell lysis.",
-        "Correct - hepcidin, an acute phase reactant with antibacterial properties, binds ferroportin on enterocytes and macrophages, trapping iron intracellularly as ferritin and limiting iron availability for erythropoiesis, contributing to anemia of chronic disease.",
-        "Incorrect - hepcidin limits iron availability; transferrin is a negative acute phase reactant whose levels fall, not rise, during inflammation."
+        "Illness anxiety disorder involves genuine preoccupation and anxiety about having an undiagnosed illness, not conscious fabrication for external gain.",
+        "Conversion disorder involves genuine, unconsciously produced neurologic symptoms following a stressor, not conscious fabrication for financial gain.",
+        "Malingering involves consciously falsified symptoms for secondary (external) gain, such as financial compensation, and is self-limited, ending once the gain is achieved\u2014exactly as described.",
+        "Factitious disorder is motivated by internal gain (the sick role), not external financial compensation as seen here."
       ],
-      "overview": "Hepcidin is an acute phase reactant that has antibacterial properties by limiting iron availability to invading organisms. It binds ferroportin on enterocytes and macrophages, trapping iron as intracellular ferritin, which contributes to the anemia of chronic disease seen with prolonged inflammatory states.",
-      "topic": "Hepcidin",
-      "angle": "mechanism",
-      "id": "2026-09-18-28"
+      "overview": "Malingering involves consciously falsifying symptoms for secondary (external) gain, such as obtaining workers' compensation, avoiding work, or securing disability payments. It is distinguished from factitious disorder by the presence of an identifiable external motive, and it is self-limited, typically resolving once the desired gain is achieved.",
+      "id": "2026-09-19-21"
     },
     {
       "format": "simple4",
-      "stem": "A patient with a bacterial infection has a complete blood count showing an increased proportion of immature band neutrophils along with increased total neutrophils. This finding is best described as which of the following?",
+      "topic": "Tardive dyskinesia",
+      "angle": "clinical_presentation",
+      "stem": "A patient who has taken a first-generation antipsychotic for several years develops involuntary lip smacking, tongue movements, and facial grimacing that persist even after the drug is discontinued. This is most consistent with which extrapyramidal symptom?",
       "options": [
-        "Leukemoid reaction limited to lymphocytosis",
-        "Left shift, a normal bone marrow response to infection",
-        "Anaplasia of myeloid precursors",
-        "Karyorrhexis of circulating neutrophils"
+        "Tardive dyskinesia",
+        "Acute dystonia",
+        "Drug-induced parkinsonism (bradykinesia)",
+        "Akathisia"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "explanations": [
-        "Incorrect - a leukemoid reaction can resemble leukemia due to marked leukocytosis but is not specifically defined as lymphocytosis; bacterial infections typically cause neutrophilia, not lymphocytosis.",
-        "Correct - a \"left shift\" describes an increase in immature neutrophil forms (bands) along with mature neutrophils in the blood, a normal response to infection driven by cytokines (TNF and IL-1) mobilizing cells from the bone marrow.",
-        "Incorrect - anaplasia refers to undifferentiated malignant cell growth, unrelated to a left shift.",
-        "Incorrect - karyorrhexis is a nuclear change seen in necrosis, not a description of circulating band neutrophils."
+        "Tardive dyskinesia occurs months to years after starting an antipsychotic and presents as choreoathetosis, including lip smacking, tongue movements, and grimacing; it is often irreversible even after stopping the drug.",
+        "Acute dystonia occurs within hours to days of starting the drug, presenting as muscle spasms and stiffness, not the choreoathetoid facial/oral movements described here after years of use.",
+        "Drug-induced parkinsonism (bradykinesia) presents as slow movements resembling Parkinson's disease weeks after starting the drug, not choreoathetoid facial movements.",
+        "Akathisia presents as restlessness and an urge to move, occurring within days of starting the drug, not the specific orofacial movements described."
       ],
-      "overview": "In response to infection, cytokines such as TNF and IL-1 stimulate the bone marrow to release neutrophils, including immature band forms, into circulation \u2014 a \"left shift.\" This is a normal, expected response to bacterial infection and reflects increased granulopoietic demand.",
-      "topic": "Left shift (leukemoid reaction)",
-      "angle": "diagnosis",
-      "id": "2026-09-18-29"
+      "overview": "Extrapyramidal symptoms from dopamine receptor blockade include acute dystonia (hours-days), akathisia (days), drug-induced parkinsonism/bradykinesia (weeks), and tardive dyskinesia (months-years). Tardive dyskinesia presents as choreoathetosis (irregular movements and writhing) of the mouth, tongue, face, and limbs, and is often irreversible even after stopping the offending drug.",
+      "id": "2026-09-19-22"
     },
     {
       "format": "vignette5",
-      "stem": "A 6-year-old boy presents with massive lymphadenopathy, splenomegaly, and hepatomegaly. Laboratory studies show an increased number of double-negative T cells and polyclonal hypergammaglobulinemia. Genetic testing identifies a mutation impairing a death-receptor pathway responsible for eliminating self-reactive lymphocytes. Which of the following best describes the expected downstream consequence of this mutation?",
+      "topic": "Panic attack",
+      "angle": "diagnosis",
+      "stem": "A 28-year-old woman is brought to the emergency department after a sudden episode during a movie in which she felt an intense wave of fear with no clear trigger. She describes a pounding heart, sweating, trembling, chest tightness, and a strange sensation of watching herself from outside her body. The episode lasted about 20 minutes and then resolved completely. Vital signs and cardiac workup are now normal. Which of the following is the most likely diagnosis?",
       "options": [
-        "Defective p53 signaling prevents cell cycle arrest, resulting in unchecked epithelial proliferation",
-        "Defective NADPH oxidase impairs bacterial killing, leading to recurrent catalase-positive infections",
-        "Defective caspase-independent necrosis increases inflammatory cell death",
-        "Defective Fas-Fas ligand signaling impairs negative selection, resulting in excess lymphocyte survival and increased lymphoma risk",
-        "Defective BCL-2 downregulation increases mitochondrial apoptosis of thymocytes"
+        "Panic attack",
+        "Social anxiety disorder (specific phobia of social settings)",
+        "Acute stress disorder",
+        "Agoraphobia",
+        "Generalized anxiety disorder"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "This sudden, brief surge of intense fear with palpitations, sweating, trembling, chest discomfort, and depersonalization (watching herself from outside her body) that peaks and resolves within minutes to an hour is the classic description of a panic attack.",
+        "Social anxiety disorder involves fear specific to social or performance situations and being judged, which is not described here since the attack was not related to social scrutiny.",
+        "Acute stress disorder requires exposure to a specific traumatic event (threatened death, injury, or sexual assault) with dissociative symptoms lasting less than one month; there is no described trauma here.",
+        "Agoraphobia is fear of being unable to escape or get help in public/open spaces, not simply the occurrence of a discrete panic attack.",
+        "Generalized anxiety disorder involves chronic, persistent worry about multiple activities lasting more than 6 months, not a sudden, brief episode of intense fear like this one."
+      ],
+      "overview": "A panic attack is a sudden, discrete surge of intense fear peaking within minutes, with at least 4 of a defined list of physical and cognitive symptoms including palpitations, sweating, trembling, chest discomfort, dizziness, fear of dying, and depersonalization/derealization. Panic attacks can occur in isolation or as part of panic disorder, which requires recurrent unexpected attacks followed by at least a month of worry about future attacks or behavioral change. Panic attacks are brief, lasting minutes to about an hour, distinguishing them from more chronic anxiety conditions.",
+      "id": "2026-09-19-23"
+    },
+    {
+      "format": "simple4",
+      "topic": "Reactive attachment disorder",
+      "angle": "clinical_presentation",
+      "stem": "A child with reactive attachment disorder, associated with severe early deprivation, would most likely display which behavior?",
+      "options": [
+        "Excessive clinginess and reluctance to leave the caregiver",
+        "Indiscriminate hugging of and sitting on the laps of strangers",
+        "Repetitive hand-wringing with loss of purposeful hand use",
+        "Detached, withdrawn behavior that is unresponsive to comforting"
       ],
       "correctIndex": 3,
       "explanations": [
-        "Incorrect - ALPS is not described as a p53/cell cycle disorder; it is a death-receptor apoptosis defect.",
-        "Incorrect - this describes chronic granulomatous disease, a distinct entity from ALPS.",
-        "Incorrect - the notes describe ALPS as an apoptosis defect via Fas-FasL, not a necrosis-related process.",
-        "Correct - ALPS is caused by a defective Fas-Fas ligand extrinsic apoptosis pathway, impairing negative selection of self-reactive T cells in the thymic medulla, leading to lymphocyte overproduction, lymphadenopathy, hepatosplenomegaly, and increased lymphoma risk.",
-        "Incorrect - ALPS involves decreased, not increased, apoptosis due to a defective extrinsic pathway, not altered mitochondrial signaling."
+        "Excessive clinginess describes separation anxiety disorder, not reactive attachment disorder, which is characterized by detachment rather than clinginess.",
+        "Indiscriminate affection toward strangers describes disinhibited social engagement disorder (DSED), the opposite pattern of attachment disorder.",
+        "Repetitive hand-wringing with loss of purposeful hand use is a hallmark of Rett syndrome, not reactive attachment disorder.",
+        "Reactive attachment disorder presents with a detached, inhibited child who is unresponsive to comforting and withdrawn/avoidant, resulting from severe early deprivation."
       ],
-      "overview": "Autoimmune lymphoproliferative syndrome (ALPS) results from a defective Fas-Fas ligand pathway, which normally mediates negative selection of self-reactive T cells in the thymic medulla. Impaired apoptosis leads to lymphocyte accumulation, causing lymphadenopathy, hepatosplenomegaly, autoimmune disease, and an increased risk of lymphoma.",
-      "topic": "Autoimmune lymphoproliferative syndrome",
+      "overview": "Reactive attachment disorder is a DSM-5 disorder of attachment associated with severe early deprivation, presenting as a detached, inhibited child who is unresponsive to comforting and withdrawn/avoidant. It contrasts with disinhibited social engagement disorder, in which children show little reluctance to interact with or seek comfort from unfamiliar adults.",
+      "id": "2026-09-19-24"
+    },
+    {
+      "format": "simple4",
+      "topic": "Oppositional defiant disorder",
+      "angle": "treatment",
+      "stem": "What is the first-line treatment for oppositional defiant disorder, a condition that resolves in most children?",
+      "options": [
+        "Lithium",
+        "Antipsychotic medication as first-line therapy",
+        "Stimulant medication alone",
+        "Cognitive behavioral therapy"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Lithium is used for bipolar disorder, not oppositional defiant disorder.",
+        "Antipsychotics are not the first-line treatment for oppositional defiant disorder.",
+        "Stimulants are used for ADHD, not specifically for oppositional defiant disorder as a first-line treatment.",
+        "Oppositional defiant disorder is treated with cognitive behavioral therapy, and it resolves in most children."
+      ],
+      "overview": "Oppositional defiant disorder presents as an angry, irritable, argumentative, and defiant child who is vindictive toward authority figures, with symptoms lasting at least six months and occurring with at least one non-sibling individual. First-line treatment is cognitive behavioral therapy, and the disorder resolves in most children.",
+      "id": "2026-09-19-25"
+    },
+    {
+      "format": "simple4",
+      "topic": "Autism spectrum disorder",
+      "angle": "risk_factors",
+      "stem": "Which genetic disorder is most classically associated with autism spectrum disorder, featuring a long face, large ears, and macroorchidism?",
+      "options": [
+        "Turner syndrome",
+        "Fragile X syndrome",
+        "Klinefelter syndrome",
+        "Down syndrome"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Turner syndrome is not identified as an autism-associated disorder in these notes.",
+        "Fragile X syndrome, an X-linked trinucleotide repeat disorder, is associated with autism spectrum disorder and features a long face, large ears, and large testes (macroorchidism).",
+        "Klinefelter syndrome is not the disorder described; double Y males (XYY, tall with severe acne) are the other associated karyotype abnormality mentioned, not Klinefelter.",
+        "Down syndrome is not the genetic disorder classically linked to autism spectrum disorder in these notes."
+      ],
+      "overview": "Autism spectrum disorder is a neurodevelopmental disorder marked by abnormal social communication/interaction and restricted, repetitive behaviors, typically diagnosed around age 2 and more common in males (4x). Associated genetic disorders include Fragile X syndrome (long face, large ears, large testes) and double Y males (XYY, tall with severe acne).",
+      "id": "2026-09-19-26"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Alcohol withdrawal",
+      "angle": "treatment",
+      "stem": "A patient with a history of heavy daily alcohol use presents 18 hours after his last drink with tremor, anxiety, diaphoresis, tachycardia, and nausea. He is alert and oriented with no hallucinations or seizure activity. What is the most appropriate initial management?",
+      "options": [
+        "Haloperidol",
+        "Benzodiazepine dosing guided by a symptom-triggered protocol (e.g., CIWA scale)",
+        "Immediate ICU admission for delirium tremens",
+        "Disulfiram",
+        "Naltrexone"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Haloperidol is not the treatment for alcohol withdrawal and does not address the underlying GABA-glutamate imbalance driving withdrawal symptoms.",
+        "Benzodiazepines improve withdrawal symptoms and prevent progression to more severe stages (seizures, delirium tremens); symptom-triggered dosing using a scale such as CIWA allows regular assessment and administration based on symptom severity.",
+        "This patient has early, mild withdrawal symptoms (onset 6-24 hours, intact mental status, no hallucinations or seizures) rather than delirium tremens, which occurs 72-96 hours after the last drink with severe delirium; ICU admission is not yet indicated.",
+        "Disulfiram is used for relapse prevention by causing an aversive reaction to alcohol; it is not used to treat active withdrawal.",
+        "Naltrexone is used to reduce relapse risk in alcohol use disorder after detoxification, not to treat acute withdrawal symptoms."
+      ],
+      "overview": "Alcohol withdrawal begins 6-24 hours after the last drink with tremor, anxiety, GI upset, headache, sweating, and palpitations while mental status remains intact. More severe manifestations include withdrawal seizures (6-48 hours), alcoholic hallucinosis (12-48 hours), and delirium tremens (72-96 hours), the most severe and potentially fatal stage. Benzodiazepines, often dosed using a symptom-triggered scale like CIWA, are the mainstay of treatment to control symptoms and prevent progression.",
+      "id": "2026-09-19-27"
+    },
+    {
+      "format": "simple4",
+      "topic": "Clozapine",
+      "angle": "complications",
+      "stem": "Patients on clozapine require regular monitoring of which laboratory value due to the risk of a potentially fatal complication?",
+      "options": [
+        "Serum creatinine, due to the risk of nephrogenic diabetes insipidus",
+        "Thyroid stimulating hormone, due to the risk of goiter",
+        "Liver enzymes, due to the risk of hepatotoxicity from a drug interaction with cannabis",
+        "White blood cell count, due to the risk of agranulocytosis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Nephrogenic diabetes insipidus with creatinine monitoring is associated with lithium use, not clozapine.",
+        "Goiter and TSH monitoring are associated with lithium, which acts as a goitrogen, not clozapine.",
+        "Hepatotoxicity from a cannabis interaction is not a recognized clozapine complication in these notes; clozapine's key monitored complication is agranulocytosis.",
+        "Clozapine is toxic to bone marrow and can cause agranulocytosis in 1-2% of patients, requiring regular WBC monitoring (weekly initially, then less frequently); this is reversible when the drug is stopped."
+      ],
+      "overview": "Clozapine is a second-generation (atypical) antipsychotic that carries a risk of agranulocytosis in 1-2% of patients, requiring regular white blood cell count monitoring (weekly at first, then less frequently), with reversibility upon discontinuation. It can also cause seizures in a dose-related fashion and is associated with metabolic syndrome (weight gain, hyperglycemia, hyperlipidemia).",
+      "id": "2026-09-19-28"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Serotonin syndrome",
+      "angle": "diagnosis",
+      "stem": "A patient who has been taking fluoxetine for depression is started on tramadol for post-surgical pain. Two days later she develops agitation, diaphoresis, tachycardia, hyperthermia, tremor, hyperreflexia, clonus, and bilateral Babinski signs. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Alcohol withdrawal",
+        "Serotonin syndrome",
+        "PCP intoxication",
+        "Neuroleptic malignant syndrome",
+        "Anticholinergic toxicity"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Alcohol withdrawal occurs after cessation of chronic alcohol use with tremor and autonomic symptoms, but there is no history of alcohol use or cessation described, and it does not produce this neuromuscular hyperactivity pattern from a drug interaction.",
+        "The combination of mental status changes (agitation), autonomic hyperactivity (diaphoresis, tachycardia, hyperthermia), and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski) is the classic triad of serotonin syndrome, precipitated by combining an SSRI (fluoxetine) with tramadol, which also inhibits serotonin reuptake.",
+        "PCP intoxication causes agitation and hypertension but is associated with nystagmus and violent behavior rather than this specific serotonergic drug-interaction triad.",
+        "Neuroleptic malignant syndrome occurs after starting a neuroleptic/antipsychotic and features rigidity and elevated creatine kinase rather than the hyperreflexia/clonus pattern, and there is no antipsychotic exposure here.",
+        "Anticholinergic toxicity causes dry skin, mydriasis, urinary retention, and delirium but not the neuromuscular hyperactivity (clonus, hyperreflexia, Babinski signs) seen here."
+      ],
+      "overview": "Serotonin syndrome results from excess serotonergic activity, classically from combining two or more serotonergic drugs (SSRIs, SNRIs, MAOIs, TCAs, tramadol, meperidine, triptans, MDMA, linezolid, dextromethorphan, St. John's wort). It presents with a triad of mental status changes, autonomic hyperactivity, and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski signs), and is treated with the serotonin antagonist cyproheptadine.",
+      "id": "2026-09-19-29"
+    },
+    {
+      "format": "simple4",
+      "topic": "Avoidant personality disorder",
       "angle": "clinical_presentation",
-      "id": "2026-09-18-30"
+      "stem": "A patient desires close relationships but avoids them due to intense fear of embarrassment and rejection, differing from schizoid personality disorder in which the patient prefers isolation. Which personality disorder does this describe?",
+      "options": [
+        "Avoidant personality disorder",
+        "Dependent personality disorder",
+        "Schizotypal personality disorder",
+        "Schizoid personality disorder"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Avoidant personality disorder involves social inhibition and feelings of inadequacy, with a desire for relationships that is thwarted by fear of embarrassment or rejection\u2014distinct from schizoid personality disorder's preference for aloneness.",
+        "Dependent personality disorder involves clinginess and excessive reliance on others for decision-making, not primarily avoidance due to fear of embarrassment.",
+        "Schizotypal personality disorder involves odd beliefs, magical thinking, and social anxiety, not primarily a fear of rejection despite wanting relationships.",
+        "Schizoid personality disorder is characterized by a preference for social isolation and little interest in close relationships, the opposite of the desire for connection described here."
+      ],
+      "overview": "Avoidant personality disorder involves social inhibition, feelings of inadequacy, and hypersensitivity to criticism or rejection, causing the patient to avoid social interactions despite wanting relationships. This contrasts with schizoid personality disorder, in which the patient prefers to be alone and has little interest in socializing at all.",
+      "id": "2026-09-19-30"
     }
   ]
 }
