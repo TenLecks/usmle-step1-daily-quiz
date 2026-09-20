@@ -1270,6 +1270,656 @@
       "id": "2026-08-30-30",
       "topic": "Methemoglobinemia",
       "angle": "mechanism"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with longstanding pulmonary hypertension develops jugular venous distension, hepatomegaly, and lower extremity edema. What cardiac complication has developed?",
+      "options": [
+        "Aortic regurgitation",
+        "Cor pulmonale",
+        "Mitral stenosis",
+        "Isolated left ventricular hypertrophy"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Aortic regurgitation is a left-sided valvular disease unrelated to the right heart strain caused by pulmonary hypertension.",
+        "Correct. Chronic pulmonary hypertension increases right ventricular afterload, leading to right ventricular hypertrophy and eventually dilation and failure (cor pulmonale), presenting with jugular venous distension, hepatomegaly, and peripheral edema.",
+        "Mitral stenosis is a left-sided valvular lesion that can cause pulmonary venous hypertension but is not itself a complication of pulmonary hypertension.",
+        "Isolated left ventricular hypertrophy would result from systemic hypertension or aortic stenosis, not from pulmonary hypertension, which stresses the right ventricle."
+      ],
+      "overview": "Untreated pulmonary hypertension increases right ventricular afterload, causing right ventricular hypertrophy that progresses to dilation and right heart failure, known as cor pulmonale, with signs including jugular venous distension, hepatomegaly, and peripheral edema, and risk of death from heart failure or arrhythmia.",
+      "topic": "Pulmonary hypertension",
+      "angle": "complications",
+      "id": "2026-09-20-01"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 22-year-old man presents with intermittent episodes of dyspnea, wheezing, and cough that occur with exercise and cold air exposure. Physical examination and spirometry are entirely normal at this visit. His physician wants an objective test to confirm airway hyperresponsiveness before starting therapy.",
+      "options": [
+        "Sweat chloride test",
+        "Bronchoscopy with transbronchial biopsy",
+        "Methacholine challenge test with spirometry",
+        "DLCO measurement",
+        "Ventilation-perfusion (V/Q) scan"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "The sweat chloride test diagnoses cystic fibrosis, which does not fit this patient's episodic, trigger-related symptoms with a normal baseline exam.",
+        "Bronchoscopy with biopsy is invasive and not part of the standard workup for suspected asthma with a normal exam; methacholine challenge is the appropriate provocative test.",
+        "Correct. Methacholine, a muscarinic agonist, is given in increasing nebulized doses while spirometry is repeated; a significant drop in FEV1 at a low dose confirms airway hyperresponsiveness, supporting a diagnosis of asthma when baseline testing is normal.",
+        "DLCO evaluates gas diffusion capacity (useful in interstitial lung disease or emphysema), not airway hyperreactivity, so it would not confirm asthma in this patient.",
+        "V/Q scanning is used to evaluate for pulmonary embolism, not intermittent bronchoconstriction."
+      ],
+      "overview": "Asthma is a reversible, type I hypersensitivity-driven airway hyperresponsiveness that may present with a normal exam and normal spirometry between attacks. The methacholine challenge test provokes bronchoconstriction with a muscarinic agonist to unmask this hyperresponsiveness when the diagnosis is not obvious from history and baseline testing.",
+      "topic": "Methacholine challenge test",
+      "angle": "diagnosis",
+      "id": "2026-09-20-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which monoclonal antibody is used to prevent respiratory syncytial virus (RSV) infection in high-risk preterm infants?",
+      "options": [
+        "Omalizumab",
+        "Ribavirin",
+        "Palivizumab",
+        "Mepolizumab"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Omalizumab is an anti-IgE monoclonal antibody used in asthma, not for RSV prevention.",
+        "Ribavirin is an antiviral used to treat RSV infection (inhibiting guanine nucleotide synthesis), not a preventive monoclonal antibody.",
+        "Correct. Palivizumab is a monoclonal antibody directed against the RSV F (fusion) protein, used prophylactically in high-risk preterm infants to reduce the risk of severe RSV infection.",
+        "Mepolizumab is an anti-IL-5 monoclonal antibody used in eosinophilic asthma, unrelated to RSV prevention."
+      ],
+      "overview": "RSV is the most common cause of lower respiratory tract illness in young children, presenting with upper respiratory symptoms followed by wheezing and bronchiolitis. Palivizumab, a monoclonal antibody against the RSV fusion (F) protein, is used prophylactically in high-risk infants such as those born preterm or with congenital heart disease, while ribavirin is reserved for treatment.",
+      "topic": "RSV prophylaxis",
+      "angle": "prevention",
+      "id": "2026-09-20-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following is NOT a recognized cause of bronchiectasis according to standard teaching?",
+      "options": [
+        "Allergic bronchopulmonary aspergillosis",
+        "Cystic fibrosis",
+        "Alpha-1 antitrypsin deficiency",
+        "Kartagener syndrome"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "ABPA causes chronic airway inflammation and mucus plugging that leads to bronchiectasis, particularly in asthma and CF patients.",
+        "Cystic fibrosis is a classic cause of bronchiectasis due to chronic mucus retention and recurrent infection.",
+        "Correct. Alpha-1 antitrypsin deficiency causes panacinar emphysema due to unopposed protease activity, not bronchiectasis; it belongs in the obstructive category with emphysema rather than the bronchiectasis-causing conditions.",
+        "Kartagener syndrome (primary ciliary dyskinesia with situs inversus) impairs mucociliary clearance and classically causes bronchiectasis."
+      ],
+      "overview": "Bronchiectasis is permanent airway dilation from chronic, recurrent airway inflammation, with causes including cystic fibrosis, primary ciliary dyskinesia/Kartagener syndrome, allergic bronchopulmonary aspergillosis, and airway obstruction from tumor or foreign body. Alpha-1 antitrypsin deficiency instead causes emphysema through a protease-antiprotease imbalance.",
+      "topic": "Bronchiectasis",
+      "angle": "risk_factors",
+      "id": "2026-09-20-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient develops sudden dyspnea and hypoxemia after a pulmonary embolism. Which physiologic mechanism underlies the hypoxemia, and what is a key feature of it?",
+      "options": [
+        "Pure right-to-left shunt with no response to supplemental oxygen",
+        "Diffusion limitation from alveolar wall thickening",
+        "V/Q mismatch (V/Q <1), which typically improves with supplemental oxygen",
+        "Complete alveolar dead space with no blood flow to any lung region"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "A pure shunt (V/Q = 0) with poor response to oxygen is the mechanism in conditions like ARDS or intracardiac shunting, not the classic mechanism of pulmonary embolism.",
+        "Diffusion limitation from increased alveolar wall thickness is characteristic of interstitial lung diseases like pulmonary fibrosis, not pulmonary embolism.",
+        "Correct. Pulmonary embolism is the classic cause of V/Q mismatch, where perfusion to some regions is reduced relative to ventilation (V/Q <1); unlike shunt, hypoxemia from V/Q mismatch generally improves with supplemental oxygen.",
+        "Complete dead space refers to ventilated but unperfused alveoli in the obstructed vascular territory, but this reflects wasted ventilation rather than the mechanism producing systemic hypoxemia, which is due to V/Q mismatch in the remaining perfused lung."
+      ],
+      "overview": "Pulmonary embolism obstructs blood flow to part of the lung, creating V/Q mismatch (wasted ventilation) that produces hypoxemia responsive to supplemental oxygen, distinguishing it from a pure shunt. Compensatory hyperventilation often lowers PaCO2 toward or below normal despite the ventilation-perfusion mismatch.",
+      "topic": "V/Q mismatch",
+      "angle": "mechanism",
+      "id": "2026-09-20-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man who has worked for decades as a sandblaster presents with progressive dyspnea. Chest CT shows upper lobe nodular opacities and eggshell calcification of the hilar lymph nodes.",
+      "options": [
+        "Histoplasmosis",
+        "Legionellosis",
+        "Pneumocystis jirovecii pneumonia",
+        "Allergic bronchopulmonary aspergillosis",
+        "Tuberculosis"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Histoplasmosis is not a classically described complication of silicosis in these notes; silicosis is specifically linked to increased TB risk.",
+        "Legionellosis is related to inhalation of contaminated aerosolized water, not to silica-induced macrophage dysfunction.",
+        "Pneumocystis pneumonia occurs in immunocompromised hosts, particularly HIV/AIDS patients, not as a classic complication of silicosis.",
+        "ABPA is a hypersensitivity reaction to Aspergillus seen predominantly in asthma and cystic fibrosis patients, not a classic complication of silicosis.",
+        "Correct. Silica exposure impairs macrophage function, and patients with silicosis have a markedly increased prevalence of tuberculosis due to impaired intracellular killing of mycobacteria."
+      ],
+      "overview": "Silicosis results from chronic inhalation of silica dust (mining, sandblasting, foundry work) and causes macrophage activation, fibroblast proliferation, and fibrosis, classically producing upper lobe nodules with eggshell calcification of hilar nodes. Impaired macrophage function in silicosis significantly increases the risk of tuberculosis and bronchogenic carcinoma.",
+      "topic": "Silicosis",
+      "angle": "complications",
+      "id": "2026-09-20-06"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old man returns from a hotel stay and develops fever, a mildly productive cough, watery diarrhea, and confusion. Serum sodium is 128 mEq/L. Sputum Gram stain shows many neutrophils but no organisms.",
+      "options": [
+        "Serum ACE level",
+        "Urinary antigen test",
+        "Cold agglutinin titer",
+        "Tuberculin skin test (PPD)",
+        "Sputum Gram stain repeated with special stains"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Serum ACE is a nonspecific marker used in sarcoidosis, not in the diagnosis of an acute pneumonia syndrome.",
+        "Correct. Legionella does not stain well on Gram stain, and the combination of pneumonia, GI symptoms, hyponatremia, and confusion following exposure to aerosolized water (e.g., hotel water systems) is classic. The urinary antigen test is rapid and widely used, though it does not detect all Legionella serotypes.",
+        "Cold agglutinins are associated with Mycoplasma pneumoniae infection, which classically causes a milder atypical pneumonia without prominent GI symptoms or significant hyponatremia.",
+        "PPD testing evaluates for tuberculosis exposure and is not useful for diagnosing an acute pneumonia with this clinical picture.",
+        "Legionella characteristically does not stain well with Gram stain due to its cell wall properties; repeating the same test would not be diagnostic. Special culture on buffered charcoal yeast extract agar or urinary antigen testing is preferred."
+      ],
+      "overview": "Legionella pneumonia is caused by inhalation of aerosolized bacteria from contaminated water sources (e.g., hotel or hospital water systems) and classically presents with pneumonia plus GI symptoms (watery diarrhea) and hyponatremia. Because it does not Gram stain well and requires special culture media, the urinary antigen test is the fastest practical diagnostic tool.",
+      "topic": "Legionella pneumonia",
+      "angle": "diagnosis",
+      "id": "2026-09-20-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which mechanism of hypoxemia is characterized by poor improvement in oxygenation despite administration of 100% supplemental oxygen?",
+      "options": [
+        "Shunt (V/Q = 0)",
+        "Mild diffusion limitation",
+        "Hypoventilation",
+        "Exposure to high altitude"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. In shunting, blood bypasses ventilated alveoli entirely (V/Q = 0), so increasing inspired oxygen concentration cannot oxygenate blood that never contacts ventilated alveoli, resulting in poor response to supplemental oxygen.",
+        "Mild diffusion limitation can often be overcome by increasing the alveolar-capillary oxygen gradient with supplemental oxygen, unlike a true shunt.",
+        "Hypoxemia from hypoventilation responds well to supplemental oxygen since alveolar oxygen can still be raised by increasing inspired oxygen.",
+        "High-altitude hypoxemia results from low inspired oxygen and improves significantly with supplemental oxygen."
+      ],
+      "overview": "Among the three mechanisms of hypoxemia with an elevated A-a gradient (diffusion limitation, shunt, and V/Q mismatch), shunt is distinguished by its poor responsiveness to supplemental oxygen, since blood never contacts ventilated alveoli; classic causes include ARDS and intracardiac or vascular right-to-left shunts.",
+      "topic": "Shunt",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-08"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 50-year-old obese man has loud snoring, daytime somnolence, and hypertension. Laboratory testing reveals an elevated hematocrit despite no history of lung disease or smoking. Polysomnography confirms an apnea-hypopnea index of 35.",
+      "options": [
+        "Iron deficiency causing reactive marrow stimulation",
+        "Catecholamine-induced splenic contraction releasing stored red cells",
+        "Chronic nocturnal hypoxemia stimulating erythropoietin release",
+        "Volume depletion from excessive sweating during sleep",
+        "Chronic carbon monoxide exposure"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Iron deficiency causes microcytic anemia, not erythrocytosis, and is unrelated to the pathophysiology of sleep apnea.",
+        "Splenic contraction transiently raises hematocrit acutely but does not explain a persistently elevated hematocrit in a chronic condition like OSA; the correct mechanism is chronic EPO-driven erythropoiesis.",
+        "Correct. Repeated nocturnal desaturations in obstructive sleep apnea cause chronic hypoxia, which stimulates renal erythropoietin production and leads to secondary erythrocytosis (elevated hematocrit).",
+        "There is no mechanism by which sleep-related sweating would meaningfully raise hematocrit through volume depletion in this context; the elevated hematocrit reflects true increased red cell mass from EPO stimulation.",
+        "There is no indication of carbon monoxide exposure in this patient; the erythrocytosis is explained by hypoxia-driven EPO release from sleep apnea itself."
+      ],
+      "overview": "Obstructive sleep apnea causes recurrent nocturnal hypoxia due to soft tissue collapse in the pharynx, most strongly associated with obesity. Chronic hypoxia drives secondary erythrocytosis via increased erythropoietin, and it also contributes to hypertension, pulmonary hypertension, and arrhythmias through chronic sympathetic activation.",
+      "topic": "Obstructive sleep apnea",
+      "angle": "complications",
+      "id": "2026-09-20-09"
+    },
+    {
+      "format": "simple4",
+      "stem": "An asthmatic patient presents with recurrent fever, brownish mucus plugs, peripheral eosinophilia, and an elevated IgE level. Bronchiectasis is noted on imaging. Which organism is most likely responsible?",
+      "options": [
+        "Aspergillus fumigatus",
+        "Histoplasma capsulatum",
+        "Mycoplasma pneumoniae",
+        "Pseudomonas aeruginosa"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Allergic bronchopulmonary aspergillosis is a hypersensitivity reaction to Aspergillus fumigatus colonization, classically occurring in asthma and cystic fibrosis patients and causing eosinophilia, elevated IgE, brownish mucus plugs, and bronchiectasis.",
+        "Histoplasma is a dimorphic fungus causing a different clinical syndrome and is not linked to this eosinophilic hypersensitivity presentation.",
+        "Mycoplasma causes atypical pneumonia with a more indolent course and is not associated with eosinophilia or brownish mucus plugs.",
+        "Pseudomonas aeruginosa is a common colonizer in cystic fibrosis airways but does not cause the eosinophilic hypersensitivity reaction described here."
+      ],
+      "overview": "ABPA is a hypersensitivity (mixed Th2-mediated) reaction to Aspergillus fumigatus colonizing the airways, occurring predominantly in asthma and cystic fibrosis patients. It presents with recurrent cough, fever, brownish mucus plugs, hemoptysis, peripheral eosinophilia, elevated IgE, and bronchiectasis, and is treated with steroids and itraconazole.",
+      "topic": "Allergic bronchopulmonary aspergillosis",
+      "angle": "diagnosis",
+      "id": "2026-09-20-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which patient is at the highest risk for developing aspiration pneumonia?",
+      "options": [
+        "A patient with mild intermittent asthma",
+        "A young healthy marathon runner",
+        "A patient with well-controlled seasonal allergic rhinitis",
+        "A chronic alcoholic patient with reduced consciousness after a binge"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Mild intermittent asthma does not impair airway protective reflexes and is not associated with increased aspiration risk.",
+        "A young healthy runner has no risk factors for impaired airway protection and is not at increased risk for aspiration pneumonia.",
+        "Allergic rhinitis does not impair consciousness or swallowing and is not a risk factor for aspiration pneumonia.",
+        "Correct. Reduced consciousness (from alcohol intoxication, anesthesia, or seizures) is a major risk factor for aspiration pneumonia, as it impairs protective airway reflexes, allowing oropharyngeal or gastric contents to enter the lungs, classically involving anaerobic organisms."
+      ],
+      "overview": "Aspiration pneumonia occurs when oropharyngeal or gastric microorganisms enter the lungs, typically due to risk factors that impair airway protection such as reduced consciousness (alcohol use, anesthesia), seizures, or dysphagia from neuromuscular disease. It is often caused by anaerobic bacteria and treated with amoxicillin-clavulanate.",
+      "topic": "Aspiration pneumonia",
+      "angle": "risk_factors",
+      "id": "2026-09-20-11"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman develops sudden pleuritic chest pain, dyspnea, and tachycardia three days after abdominal surgery. An ECG is obtained showing a prominent S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III.",
+      "options": [
+        "Severe hyperkalemia",
+        "Acute right heart strain from pulmonary embolism",
+        "Acute anterior wall myocardial infarction",
+        "Acute pericarditis",
+        "Acute left ventricular failure"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Hyperkalemia produces peaked T waves and widened QRS complexes, not the S1Q3T3 pattern.",
+        "Correct. The S1Q3T3 pattern is a classic, though uncommon, ECG finding indicating acute right ventricular strain from sudden pressure overload, seen in massive or submassive pulmonary embolism; sinus tachycardia is the most common ECG finding overall.",
+        "Anterior MI would typically show ST elevations and Q waves in the anterior precordial leads (V1-V4), not the S1Q3T3 pattern.",
+        "Pericarditis classically causes diffuse ST elevations with PR depression, not the S1Q3T3 pattern.",
+        "Left ventricular failure does not produce the S1Q3T3 pattern, which specifically reflects right heart strain."
+      ],
+      "overview": "Pulmonary embolism most commonly causes sinus tachycardia on ECG, but the classic (though rare) S1Q3T3 pattern reflects acute right ventricular strain from sudden increased pulmonary vascular resistance. Clinical presentation includes pleuritic chest pain, dyspnea, tachypnea, and hypoxemia, often in a post-surgical or immobilized patient with risk factors from Virchow's triad.",
+      "topic": "Pulmonary embolism",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman with severe COPD (FEV1 35% predicted) is evaluated in clinic for chronic dyspnea on minimal exertion. Arterial blood gas on room air shows PaO2 52 mmHg and O2 saturation 86%. She is already using short- and long-acting bronchodilators and inhaled corticosteroids.",
+      "options": [
+        "Long-term home oxygen therapy",
+        "Starting theophylline",
+        "Starting roflumilast",
+        "Increasing inhaled albuterol frequency",
+        "Prophylactic azithromycin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. In COPD patients with PaO2 <55 mmHg or O2 saturation <88%, long-term supplemental oxygen therapy is the only intervention shown to improve survival.",
+        "Theophylline is a bronchodilator with a narrow therapeutic index used in refractory cases; it does not address hypoxemia or confer a survival benefit.",
+        "Roflumilast, a PDE-4 inhibitor, is reserved for severe COPD with chronic bronchitis to reduce exacerbations; it does not correct hypoxemia or improve survival on its own.",
+        "Increasing albuterol use treats symptoms of bronchoconstriction but does not address chronic hypoxemia or improve survival.",
+        "Azithromycin prophylaxis can reduce exacerbation frequency in select COPD patients but has not been shown to improve survival the way oxygen therapy has for hypoxemic patients."
+      ],
+      "overview": "Home oxygen therapy is indicated in COPD patients with resting PaO2 below 55 mmHg (or below 60 mmHg with cor pulmonale/polycythemia) or oxygen saturation below 88%, and it is the only COPD therapy proven to increase survival. Other therapies like bronchodilators, steroids, and roflumilast reduce symptoms and exacerbations but do not confer this same survival benefit.",
+      "topic": "COPD",
+      "angle": "treatment",
+      "id": "2026-09-20-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient has hypoxemia with a normal A-a gradient on room air. Which underlying process is most consistent with this finding?",
+      "options": [
+        "Pulmonary fibrosis",
+        "Acute respiratory distress syndrome (ARDS)",
+        "Pulmonary embolism",
+        "Hypoventilation"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Pulmonary fibrosis causes a diffusion limitation, which produces hypoxemia with an elevated A-a gradient, not a normal one.",
+        "ARDS causes significant intrapulmonary shunting, producing hypoxemia with a markedly elevated A-a gradient.",
+        "Pulmonary embolism produces V/Q mismatch, which causes hypoxemia with an elevated A-a gradient.",
+        "Correct. Hypoventilation causes hypoxemia through elevated PaCO2 lowering alveolar PAO2 (per the alveolar gas equation) while the A-a gradient itself remains normal, since both alveolar and arterial oxygen fall proportionally."
+      ],
+      "overview": "The A-a gradient distinguishes causes of hypoxemia: a normal gradient points to high altitude or hypoventilation (extrapulmonary causes), while an elevated gradient indicates a primary lung problem such as diffusion limitation, shunt, or V/Q mismatch. Calculating it requires the alveolar gas equation using PaCO2 and PIO2.",
+      "topic": "A-a gradient",
+      "angle": "diagnosis",
+      "id": "2026-09-20-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old man with a 40-year history of shipyard work presents with progressive dyspnea, dry cough, and chest pain. Imaging reveals pleural thickening and a pleural effusion. Symptoms began decades after his last occupational exposure.",
+      "options": [
+        "Crystalline silica exposure",
+        "Coal dust exposure",
+        "Radon exposure",
+        "Asbestos exposure",
+        "Cigarette smoking"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Silica exposure causes silicosis, a distinct pneumoconiosis, and is not linked to mesothelioma.",
+        "Coal dust exposure causes coal miner's lung (a pneumoconiosis with upper lobe nodular opacities), not mesothelioma.",
+        "Radon exposure is associated with increased lung cancer risk generally but is not the specific risk factor for mesothelioma described in these notes.",
+        "Correct. Asbestos is the only known risk factor for mesothelioma, a pleural tumor that characteristically presents with pleural thickening and effusion many decades after occupational exposure such as shipbuilding.",
+        "Cigarette smoking is strongly linked to lung cancers such as squamous and small cell carcinoma but is not a risk factor for mesothelioma."
+      ],
+      "overview": "Mesothelioma is a pleural tumor for which asbestos is the only known risk factor, with a latency of decades between exposure and disease onset. It presents with pleural thickening and effusion, slow-onset dyspnea, cough, and chest pain, and carries a poor prognosis despite treatment.",
+      "topic": "Mesothelioma",
+      "angle": "risk_factors",
+      "id": "2026-09-20-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with heart failure develops a pleural effusion. Which mechanism best explains this transudative effusion?",
+      "options": [
+        "Increased capillary permeability from inflammation",
+        "Increased pulmonary capillary hydrostatic pressure",
+        "Bacterial infection of the pleural space",
+        "Decreased lymphatic drainage from malignant obstruction"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Increased capillary permeability with high protein content characterizes exudative effusions (e.g., from pneumonia or malignancy), not the transudative effusion of heart failure.",
+        "Correct. Heart failure raises pulmonary capillary hydrostatic pressure, driving fluid out of capillaries into the pleural space with low protein content, producing a transudative effusion.",
+        "Bacterial infection produces an exudative effusion or empyema, not the transudative effusion seen in heart failure.",
+        "Lymphatic obstruction from malignancy or thoracic duct injury causes a chylothorax (an exudative lymphatic effusion), not a transudate from heart failure."
+      ],
+      "overview": "Transudative pleural effusions result from increased hydrostatic pressure (e.g., heart failure) or decreased oncotic pressure (e.g., cirrhosis, nephrotic syndrome) with an intact capillary membrane, producing low-protein fluid. This contrasts with exudative effusions, which arise from increased capillary permeability and have high protein content, often requiring drainage.",
+      "topic": "Transudative pleural effusion",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which serum marker is most useful for identifying neuroendocrine lung tumors such as carcinoid tumors?",
+      "options": [
+        "Carcinoembryonic antigen (CEA)",
+        "CA-125",
+        "Chromogranin A",
+        "Alpha-fetoprotein (AFP)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "CEA is a nonspecific tumor marker used in colorectal and other adenocarcinomas, not specific for neuroendocrine lung tumors.",
+        "CA-125 is associated with ovarian cancer, not neuroendocrine lung tumors.",
+        "Correct. Chromogranin A is a marker secreted by neuroendocrine cells and is elevated in neuroendocrine tumors of the lung, including carcinoid tumors and small cell carcinoma.",
+        "AFP is a marker for hepatocellular carcinoma and germ cell tumors, not neuroendocrine lung tumors."
+      ],
+      "overview": "Carcinoid tumors are well-differentiated neuroendocrine tumors of the lung, most common in nonsmokers, with an excellent prognosis and rare metastasis. Chromogranin A positivity confirms their neuroendocrine origin, and rare cases secrete serotonin causing carcinoid syndrome (flushing, diarrhea, wheezing).",
+      "topic": "Carcinoid tumor",
+      "angle": "diagnosis",
+      "id": "2026-09-20-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "A woman develops sudden respiratory distress, hypoxemia, and hypotension during labor, followed hours later by disseminated intravascular coagulation and massive hemorrhage. What best characterizes this second phase of her presentation?",
+      "options": [
+        "Isolated pulmonary hypertension without bleeding",
+        "Simple hypoxemia without any hematologic abnormality",
+        "Isolated right heart failure without coagulopathy",
+        "The hemorrhagic phase of amniotic fluid embolism, marked by DIC and bleeding"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Phase I involves pulmonary artery vasospasm and heart failure, but the question describes the later hemorrhagic complication, which specifically involves DIC and bleeding, not isolated pulmonary hypertension.",
+        "The described presentation specifically involves a coagulopathy (DIC) with hemorrhage, not merely hypoxemia without hematologic abnormality.",
+        "Right heart failure is part of Phase I; the scenario described (DIC and hemorrhage) is specific to Phase II, not isolated right heart failure.",
+        "Correct. Amniotic fluid embolism progresses in two phases: an initial phase with pulmonary vasospasm, right and left heart dysfunction, and hypoxemia, followed by a hemorrhagic phase characterized by DIC, massive hemorrhage, and seizures."
+      ],
+      "overview": "Amniotic fluid embolism occurs when amniotic fluid and fetal debris enter maternal circulation during or shortly after labor, triggering an inflammatory reaction. Phase I involves pulmonary vasospasm, right and left heart dysfunction, and hypoxemia from V/Q mismatch, while Phase II is a hemorrhagic phase with DIC, massive hemorrhage, and seizures, and the condition is often fatal.",
+      "topic": "Amniotic fluid embolism",
+      "angle": "complications",
+      "id": "2026-09-20-18"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-month-old infant has a history of recurrent respiratory infections and poor weight gain despite a good appetite. The stools are described as frequent, foul-smelling, oily, and prone to floating. The pediatrician suspects an inherited disorder of chloride transport.",
+      "options": [
+        "Fecal elastase level",
+        "Sputum culture for Pseudomonas aeruginosa",
+        "Genetic testing for the delta F508 mutation as the initial test",
+        "Nasal transepithelial potential difference measurement",
+        "Sweat chloride test via pilocarpine iontophoresis"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Fecal elastase assesses pancreatic exocrine function and can support a diagnosis of pancreatic insufficiency but is not the primary diagnostic test for cystic fibrosis itself.",
+        "Sputum culture would help identify infecting organisms in a patient already diagnosed with CF but is not used to establish the initial diagnosis.",
+        "While delta F508 is the most common CFTR mutation, genetic testing is typically performed after an abnormal sweat test rather than as the initial screening test in a symptomatic infant.",
+        "Nasal potential difference measurement is a secondary test used in patients with a negative or borderline sweat test, not the first-line diagnostic test.",
+        "Correct. The sweat chloride test using pilocarpine iontophoresis is the standard diagnostic test for cystic fibrosis; elevated sweat chloride reflects the CFTR defect in sweat gland chloride reabsorption. DNA testing is done if the sweat test is equivocal."
+      ],
+      "overview": "Cystic fibrosis results from CFTR mutations causing thick secretions in the lungs and GI tract, presenting in infancy with recurrent pulmonary infections, failure to thrive, and steatorrhea from pancreatic insufficiency. The sweat chloride test remains the standard diagnostic test, with DNA testing reserved for confirmatory or equivocal cases.",
+      "topic": "Cystic fibrosis",
+      "angle": "diagnosis",
+      "id": "2026-09-20-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which lung cancer subtype is most commonly diagnosed in nonsmoking women and typically arises peripherally in the lung?",
+      "options": [
+        "Large cell carcinoma",
+        "Adenocarcinoma",
+        "Small cell carcinoma",
+        "Squamous cell carcinoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Large cell carcinoma is a poorly differentiated tumor associated with smoking, not specifically linked to nonsmoking women.",
+        "Correct. Adenocarcinoma is the most common lung cancer overall and is the most common type found in nonsmokers and women, typically arising peripherally away from the mediastinum.",
+        "Small cell carcinoma is strongly associated with smoking, arises centrally, and is a fast-growing neuroendocrine tumor, not the typical nonsmoker/female presentation.",
+        "Squamous cell carcinoma is strongly associated with smoking and typically arises centrally as a hilar mass, not the classic profile of a nonsmoking female patient."
+      ],
+      "overview": "Adenocarcinoma is the most common lung cancer type overall and is the predominant subtype seen in nonsmokers and women, typically arising peripherally and staining for mucin. Its bronchioloalveolar (lepidic) subtype can mimic pneumonia on imaging and carries a comparatively better prognosis.",
+      "topic": "Adenocarcinoma",
+      "angle": "epidemiology",
+      "id": "2026-09-20-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Thoracentesis in a febrile patient reveals foul-smelling, purulent pleural fluid with a positive bacterial culture. What is this finding called?",
+      "options": [
+        "Empyema",
+        "Hemothorax",
+        "Transudative effusion",
+        "Chylothorax"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Empyema refers to infected pleural fluid, characterized by pus, putrid odor, and positive culture, typically requiring drainage and antibiotics.",
+        "Hemothorax is characterized by a high hematocrit in the pleural fluid from bleeding, not by pus and positive culture.",
+        "A transudative effusion has low protein content and clear fluid, not pus or positive bacterial culture.",
+        "Chylothorax is a lymphatic effusion from thoracic duct injury or obstruction, presenting as milky fluid with very high triglycerides, not pus."
+      ],
+      "overview": "Empyema is infected pleural fluid presenting as pus with a putrid odor and positive culture, representing a complication of pneumonia or other infections that typically requires drainage in addition to antibiotics, distinguishing it from other exudative or transudative effusions.",
+      "topic": "Empyema",
+      "angle": "diagnosis",
+      "id": "2026-09-20-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which drug class used in idiopathic pulmonary arterial hypertension acts as a potent vasodilator by mimicking a naturally occurring prostaglandin?",
+      "options": [
+        "Phosphodiesterase-5 inhibitors such as sildenafil",
+        "Prostacyclin (PGI2) analogs such as epoprostenol",
+        "Endothelin receptor antagonists such as bosentan",
+        "Soluble guanylate cyclase stimulators such as riociguat"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "PDE-5 inhibitors like sildenafil increase cAMP-mediated smooth muscle relaxation by preventing cGMP breakdown, a different mechanism than prostacyclin mimicry.",
+        "Correct. Epoprostenol and related synthetic analogs mimic prostacyclin (PGI2), a potent endogenous vasodilator, and are administered intravenously to lower pulmonary vascular resistance in PAH.",
+        "Endothelin receptor antagonists like bosentan block the vasoconstrictor endothelin-1 rather than mimicking a prostaglandin.",
+        "Riociguat stimulates soluble guanylate cyclase to relax pulmonary arteries via the nitric oxide pathway, not through prostacyclin mimicry."
+      ],
+      "overview": "Idiopathic pulmonary arterial hypertension features increased vasoconstrictor activity (endothelin) and decreased vasodilator activity (nitric oxide), and treatment options include prostacyclin analogs (mimicking PGI2), endothelin receptor antagonists, PDE-5 inhibitors, and soluble guanylate cyclase stimulators, all aimed at lowering pulmonary vascular resistance.",
+      "topic": "Idiopathic pulmonary arterial hypertension",
+      "angle": "treatment",
+      "id": "2026-09-20-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A male smoker presents with a hilar mass, confusion, and hypercalcemia. Biopsy shows keratin pearls and intercellular bridges. Which paraneoplastic mechanism best explains the hypercalcemia?",
+      "options": [
+        "Secretion of PTHrP by tumor cells",
+        "Autoantibodies against presynaptic calcium channels",
+        "Ectopic ACTH secretion",
+        "Ectopic ADH secretion"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Squamous cell carcinoma classically secretes PTHrP, which mimics parathyroid hormone action and causes hypercalcemia, manifesting with bone pain, abdominal pain, and confusion.",
+        "Antibodies against presynaptic calcium channels cause Lambert-Eaton myasthenic syndrome, a paraneoplastic feature of small cell carcinoma, not a cause of hypercalcemia.",
+        "Ectopic ACTH secretion causing Cushing syndrome is a paraneoplastic feature of small cell carcinoma, not squamous cell carcinoma.",
+        "Ectopic ADH secretion causing SIADH and hyponatremia is associated with small cell carcinoma, not squamous cell carcinoma or hypercalcemia."
+      ],
+      "overview": "Squamous cell carcinoma of the lung is a centrally located, smoking-associated non-small cell cancer characterized histologically by keratin pearls and intercellular bridges, and it classically causes hypercalcemia via PTHrP secretion (\"stones, bones, groans, and psychiatric overtones\").",
+      "topic": "Squamous cell carcinoma",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old man with a 40-pack-year smoking history presents with progressive right shoulder pain radiating toward the axilla, along with weakness and paresthesias of the right arm. On examination he has right-sided ptosis, miosis, and anhidrosis.",
+      "options": [
+        "Small cell carcinoma with Lambert-Eaton syndrome",
+        "Superior vena cava syndrome",
+        "Pancoast tumor with Horner syndrome",
+        "Malignant mesothelioma",
+        "Bronchial carcinoid tumor"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Lambert-Eaton syndrome from small cell lung cancer produces proximal muscle weakness from autoantibodies against presynaptic calcium channels, not localized shoulder/arm pain with Horner syndrome.",
+        "SVC syndrome presents with facial/arm swelling and head fullness from venous obstruction, not with arm plexus symptoms and Horner syndrome.",
+        "Correct. A Pancoast tumor arises at the lung apex in the superior sulcus and can compress the brachial plexus (arm pain, weakness, paresthesias) and the sympathetic chain, producing Horner syndrome (ptosis, miosis, anhidrosis).",
+        "Mesothelioma classically presents with pleural thickening, effusion, and slow-onset dyspnea/chest pain related to asbestos exposure, not with a Pancoast-type presentation.",
+        "Carcinoid tumors are typically indolent and may cause carcinoid syndrome (flushing, diarrhea) but do not classically produce Pancoast-type brachial plexus and sympathetic chain compression."
+      ],
+      "overview": "A Pancoast tumor is a lung cancer arising at the apex in the superior sulcus that can invade the brachial plexus (causing arm pain, weakness, and paresthesias) and the sympathetic chain (causing Horner syndrome: ptosis, miosis, anhidrosis). It is an important localized complication distinct from mediastinal or systemic paraneoplastic effects of lung cancer.",
+      "topic": "Pancoast tumor",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "An HIV-positive patient with a CD4 count of 80 cells/microL is diagnosed with Pneumocystis jirovecii pneumonia based on silver-stained sputum microscopy. What is the first-line treatment?",
+      "options": [
+        "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+        "Isoniazid",
+        "Voriconazole",
+        "Amphotericin B"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. TMP-SMX is the first-line treatment for Pneumocystis jirovecii pneumonia, and it is also used for prophylaxis in patients with CD4 counts below 200 cells/microL.",
+        "Isoniazid is used to treat and prevent tuberculosis, not Pneumocystis pneumonia.",
+        "Voriconazole is used to treat invasive aspergillosis, not Pneumocystis jirovecii pneumonia.",
+        "Amphotericin B is used for invasive fungal infections such as aspergillosis or cryptococcosis, not as the first-line treatment for PJP."
+      ],
+      "overview": "Pneumocystis jirovecii pneumonia is an AIDS-defining diffuse interstitial pneumonia occurring in immunocompromised hosts, diagnosed by silver staining of sputum or bronchoalveolar lavage since the organism cannot be cultured. TMP-SMX is first-line treatment and is also used for prophylaxis when CD4 counts fall below 200 cells/microL.",
+      "topic": "Pneumocystis jirovecii pneumonia",
+      "angle": "treatment",
+      "id": "2026-09-20-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child presents with a high-pitched inspiratory wheeze that is loudest over the neck, associated with partial obstruction of the upper airway. What is this finding called?",
+      "options": [
+        "Stridor",
+        "Rales",
+        "Wheezing",
+        "Rhonchi"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Stridor is a predominantly inspiratory sound loudest over the neck, indicating partial obstruction of the larynx or trachea, classically seen in croup, epiglottitis, retropharyngeal abscess, or diphtheria.",
+        "Rales (crackles) result from small airway popping open, as in pulmonary edema or pneumonia, and are distinct from the upper airway sound of stridor.",
+        "Wheezes are usually expiratory or biphasic sounds from narrowed lower airways (e.g., asthma), not the neck-localized inspiratory sound described here.",
+        "Rhonchi are coarse sounds from secretions in large airways, classically heard in COPD, not localized to the neck as an inspiratory sound."
+      ],
+      "overview": "Stridor is a high-pitched, predominantly inspiratory sound best heard over the neck that indicates partial obstruction of the larynx or trachea, with classic causes including croup, epiglottitis, retropharyngeal abscess, and diphtheria, distinguishing it from lower airway sounds like wheezes, rhonchi, and rales.",
+      "topic": "Stridor",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "A postoperative patient develops atelectasis due to shallow breathing from incisional pain. Which mechanical ventilation strategy helps prevent alveolar collapse by maintaining pressure during exhalation?",
+      "options": [
+        "Negative pressure ventilation",
+        "Positive end-expiratory pressure (PEEP)",
+        "Increasing FiO2 alone",
+        "Decreasing tidal volume"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Negative pressure ventilation (e.g., historical iron lung) is a different ventilatory approach and is not the standard method used to prevent atelectasis in modern postoperative or ICU care.",
+        "Correct. PEEP maintains a positive pressure at the end of exhalation (rather than allowing pressure to fall to atmospheric/zero), which keeps alveoli open and reduces collapse, commonly used to treat or prevent atelectasis in ventilated patients.",
+        "Increasing FiO2 improves oxygenation but does not directly prevent alveolar collapse the way PEEP does.",
+        "Decreasing tidal volume would provide less lung expansion and would not specifically prevent end-expiratory alveolar collapse."
+      ],
+      "overview": "Atelectasis (alveolar collapse) can be obstructive, compressive, adhesive (surfactant deficiency), or postoperative from reduced tidal volumes due to pain. Incentive spirometry encourages deep breathing to prevent postoperative atelectasis, while mechanical ventilation with PEEP keeps alveoli open by maintaining positive pressure during exhalation.",
+      "topic": "Atelectasis",
+      "angle": "treatment",
+      "id": "2026-09-20-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a small spontaneous pneumothorax is treated with 100% supplemental oxygen. What is the mechanism by which this speeds resolution of the pneumothorax?",
+      "options": [
+        "It directly applies positive pressure to reinflate the alveoli",
+        "It increases surfactant production to reinflate the lung",
+        "It reduces pleural inflammation and fibrin deposition",
+        "It creates a nitrogen partial pressure gradient favoring reabsorption of pleural air"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Supplemental oxygen via face mask or nasal cannula does not provide positive pressure ventilation; larger pneumothoraces requiring reinflation need a chest tube.",
+        "Oxygen therapy does not act by increasing surfactant production; surfactant relates to alveolar surface tension, not pneumothorax resolution.",
+        "The mechanism of benefit relates to a diffusion gradient for nitrogen reabsorption, not an anti-inflammatory or antifibrotic effect.",
+        "Correct. Breathing 100% oxygen reduces blood nitrogen content toward zero while the pleural air remains about 78% nitrogen, creating a gradient that promotes nitrogen (and therefore overall gas volume) reabsorption from the pleural space, shrinking the pneumothorax."
+      ],
+      "overview": "Small spontaneous pneumothoraces, often occurring in tall thin young men (primary) or older patients with lung disease (secondary), can be managed with observation and 100% oxygen, which promotes reabsorption of pleural air via a nitrogen concentration gradient; larger pneumothoraces require chest tube placement.",
+      "topic": "Spontaneous pneumothorax",
+      "angle": "treatment",
+      "id": "2026-09-20-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to the alveolar ventilation equation, what happens to alveolar PCO2 (PACO2) when a patient hypoventilates (decreased alveolar ventilation) with constant CO2 production?",
+      "options": [
+        "PACO2 decreases",
+        "PACO2 falls to zero",
+        "PACO2 increases",
+        "PACO2 remains unchanged"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "A decrease in PACO2 would occur with increased alveolar ventilation (hyperventilation), not hypoventilation.",
+        "PACO2 approaching zero would require extremely high alveolar ventilation relative to CO2 production, the opposite of hypoventilation.",
+        "Correct. The alveolar ventilation equation shows PACO2 is proportional to CO2 production divided by alveolar ventilation; when alveolar ventilation falls (hypoventilation), PACO2 rises for a given rate of CO2 production.",
+        "PACO2 is inversely related to alveolar ventilation, so a change in ventilation will change PACO2, not leave it unchanged."
+      ],
+      "overview": "The alveolar ventilation equation states that PACO2 is directly proportional to the rate of CO2 production and inversely proportional to alveolar ventilation. The three major causes of elevated CO2 are increased CO2 production, hypoventilation (decreased alveolar ventilation), and increased dead space ventilation.",
+      "topic": "Alveolar ventilation equation",
+      "angle": "mechanism",
+      "id": "2026-09-20-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A patient being treated with isoniazid for latent tuberculosis infection develops numbness, tingling, and burning pain in both feet several weeks into therapy.",
+      "options": [
+        "Co-administer pyridoxine (vitamin B6)",
+        "Co-administer folate",
+        "Discontinue isoniazid permanently with no substitute",
+        "Co-administer thiamine (vitamin B1)",
+        "Co-administer cyanocobalamin (vitamin B12)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Isoniazid competes with vitamin B6 (pyridoxine) as a cofactor in neurotransmitter synthesis, leading to peripheral neuropathy; pyridoxine is co-administered to prevent and treat this neurotoxicity.",
+        "Folate is not the cofactor depleted by isoniazid; the relevant vitamin is B6.",
+        "Isoniazid does not need to be permanently discontinued for this side effect; pyridoxine supplementation typically allows continued treatment.",
+        "Thiamine deficiency causes Wernicke-Korsakoff syndrome and beriberi, unrelated to isoniazid's mechanism of neurotoxicity.",
+        "Vitamin B12 deficiency causes a different type of neuropathy and is not the mechanism of isoniazid-induced neurotoxicity."
+      ],
+      "overview": "Isoniazid blocks mycolic acid synthesis in Mycobacterium tuberculosis but also causes peripheral neuropathy by competing with pyridoxine (B6) as a cofactor for neurotransmitter synthesis. Co-administration of pyridoxine limits this neurotoxicity, while hepatotoxicity is monitored separately.",
+      "topic": "Isoniazid",
+      "angle": "complications",
+      "id": "2026-09-20-30"
     }
   ]
 }

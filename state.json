@@ -1,5 +1,5 @@
 {
-  "cycle_index": 12,
+  "cycle_index": 13,
   "cycle_number": 2,
   "tail_order": [
     "Reproductive",
@@ -3150,6 +3150,126 @@
       {
         "topic": "Methemoglobinemia",
         "angle": "mechanism"
+      },
+      {
+        "topic": "Methacholine challenge test",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "COPD",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Legionella pneumonia",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Pancoast tumor",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Obstructive sleep apnea",
+        "angle": "complications"
+      },
+      {
+        "topic": "Pulmonary embolism",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Cystic fibrosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Silicosis",
+        "angle": "complications"
+      },
+      {
+        "topic": "Mesothelioma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Isoniazid",
+        "angle": "complications"
+      },
+      {
+        "topic": "Bronchiectasis",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Allergic bronchopulmonary aspergillosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Squamous cell carcinoma",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Adenocarcinoma",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Carcinoid tumor",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Transudative pleural effusion",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Empyema",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Spontaneous pneumothorax",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Atelectasis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Alveolar ventilation equation",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "A-a gradient",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "V/Q mismatch",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Shunt",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Pulmonary hypertension",
+        "angle": "complications"
+      },
+      {
+        "topic": "Idiopathic pulmonary arterial hypertension",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Stridor",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "RSV prophylaxis",
+        "angle": "prevention"
+      },
+      {
+        "topic": "Pneumocystis jirovecii pneumonia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Aspiration pneumonia",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Amniotic fluid embolism",
+        "angle": "complications"
       }
     ],
     "Reproductive": [

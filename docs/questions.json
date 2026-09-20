@@ -1,656 +1,656 @@
 {
-  "date": "2026-09-19",
-  "subject": "Psychiatry",
+  "date": "2026-09-20",
+  "subject": "Pulmonary",
   "questions": [
     {
-      "format": "vignette5",
-      "topic": "Postpartum psychosis",
-      "angle": "diagnosis",
-      "stem": "A 26-year-old woman with a history of bipolar I disorder, who discontinued her lithium during pregnancy, presents 10 days after delivery with disorganized behavior, auditory hallucinations, and the delusional belief that something evil has possessed her baby. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Postpartum blues",
-        "Postpartum psychosis",
-        "Brief psychotic disorder unrelated to the postpartum period",
-        "Postpartum depression",
-        "Schizophreniform disorder"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Postpartum blues involves depressed mood, insomnia, fatigue, and poor concentration starting 2-3 days after delivery and resolving within two weeks; it does not include psychotic symptoms such as delusions and hallucinations.",
-        "This presentation\u2014psychosis occurring within 2 weeks after delivery in a woman with known bipolar disorder who stopped her mood stabilizer during pregnancy, with delusions involving the baby\u2014is classic for postpartum psychosis.",
-        "The temporal relationship to delivery (within 2 weeks), history of bipolar disorder, and discontinuation of psychiatric medication during pregnancy are classic risk factors for postpartum psychosis, making an unrelated brief psychotic disorder less likely.",
-        "Postpartum depression involves persistent depressive symptoms after two weeks postpartum but does not typically include frank psychosis with delusions and hallucinations.",
-        "Schizophreniform disorder is a psychotic disorder meeting schizophrenia criteria but lasting less than 6 months, and is not specifically linked to the postpartum period or this patient's bipolar history."
-      ],
-      "overview": "Postpartum psychosis is a rare but serious condition occurring within 2 weeks after delivery, most often in women with an underlying psychiatric disorder (especially bipolar disorder), particularly if medications were stopped during pregnancy. It presents with delusions, hallucinations, and disorganized thought, often involving the baby, and carries a high risk of suicide and harm to the infant, requiring hospitalization and treatment with medication and sometimes ECT.",
-      "id": "2026-09-19-01"
-    },
-    {
       "format": "simple4",
-      "topic": "Classical conditioning",
-      "angle": "mechanism",
-      "stem": "An enuresis alarm pad that awakens a child when it senses moisture eventually trains the child to wake up from the sensation of a full bladder alone, before wetting occurs. This training relies on which learning mechanism?",
+      "stem": "A patient with longstanding pulmonary hypertension develops jugular venous distension, hepatomegaly, and lower extremity edema. What cardiac complication has developed?",
       "options": [
-        "Negative punishment",
-        "Classical conditioning, pairing urinary fullness (conditioned stimulus) with awakening",
-        "Habituation",
-        "Operant conditioning via positive reinforcement"
+        "Aortic regurgitation",
+        "Cor pulmonale",
+        "Mitral stenosis",
+        "Isolated left ventricular hypertrophy"
       ],
       "correctIndex": 1,
       "explanations": [
-        "Negative punishment involves removing a desired stimulus to decrease behavior, which does not describe this scenario of an involuntary response being conditioned.",
-        "This is a classical conditioning example: the alarm (unconditioned stimulus) naturally causes awakening (unconditioned response); over repeated pairings, urinary fullness becomes a conditioned stimulus that alone triggers awakening (conditioned response).",
-        "Habituation refers to a decreased response with repeated exposure to a stimulus, not the pairing of two stimuli to create a new learned response.",
-        "Operant conditioning involves voluntary behavior modified by reward or punishment, whereas this example involves an involuntary response (awakening) linked to a stimulus, which is classical conditioning."
+        "Aortic regurgitation is a left-sided valvular disease unrelated to the right heart strain caused by pulmonary hypertension.",
+        "Correct. Chronic pulmonary hypertension increases right ventricular afterload, leading to right ventricular hypertrophy and eventually dilation and failure (cor pulmonale), presenting with jugular venous distension, hepatomegaly, and peripheral edema.",
+        "Mitral stenosis is a left-sided valvular lesion that can cause pulmonary venous hypertension but is not itself a complication of pulmonary hypertension.",
+        "Isolated left ventricular hypertrophy would result from systemic hypertension or aortic stenosis, not from pulmonary hypertension, which stresses the right ventricle."
       ],
-      "overview": "Classical conditioning links an unconditioned stimulus and response (e.g., an alarm causing awakening) to a conditioned stimulus (e.g., urinary fullness) that comes to elicit the same involuntary response through repeated pairing. The enuresis alarm is a classic clinical example, used to treat bed-wetting by conditioning children to wake from the sensation of a full bladder.",
-      "id": "2026-09-19-02"
+      "overview": "Untreated pulmonary hypertension increases right ventricular afterload, causing right ventricular hypertrophy that progresses to dilation and right heart failure, known as cor pulmonale, with signs including jugular venous distension, hepatomegaly, and peripheral edema, and risk of death from heart failure or arrhythmia.",
+      "topic": "Pulmonary hypertension",
+      "angle": "complications",
+      "id": "2026-09-20-01"
     },
     {
       "format": "vignette5",
-      "topic": "Wernicke encephalopathy",
-      "angle": "treatment",
-      "stem": "A 52-year-old man with a long history of heavy alcohol use and poor nutrition is admitted with confusion and an unsteady, ataxic gait. His family reports he has been eating very little for weeks. Which of the following should be urgently administered to prevent progression to an irreversible memory disorder?",
+      "stem": "A 22-year-old man presents with intermittent episodes of dyspnea, wheezing, and cough that occur with exercise and cold air exposure. Physical examination and spirometry are entirely normal at this visit. His physician wants an objective test to confirm airway hyperresponsiveness before starting therapy.",
       "options": [
-        "Niacin (vitamin B3)",
-        "Vitamin B12",
-        "Thiamine (vitamin B1)",
-        "Folate",
-        "Pyridoxine (vitamin B6)"
+        "Sweat chloride test",
+        "Bronchoscopy with transbronchial biopsy",
+        "Methacholine challenge test with spirometry",
+        "DLCO measurement",
+        "Ventilation-perfusion (V/Q) scan"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Niacin deficiency is not implicated in Wernicke-Korsakoff syndrome.",
-        "Vitamin B12 deficiency is not the mechanism described in Wernicke-Korsakoff syndrome, which is specifically linked to thiamine deficiency.",
-        "Wernicke encephalopathy is caused by thiamine (vitamin B1) deficiency, classically in the setting of alcoholism and poor nutrition; prompt thiamine repletion can prevent progression to the permanent memory impairment of Korsakoff syndrome.",
-        "Folate deficiency is not the cause of Wernicke-Korsakoff syndrome in this notes-based framework.",
-        "Pyridoxine deficiency is not the vitamin deficiency associated with Wernicke-Korsakoff syndrome."
+        "The sweat chloride test diagnoses cystic fibrosis, which does not fit this patient's episodic, trigger-related symptoms with a normal baseline exam.",
+        "Bronchoscopy with biopsy is invasive and not part of the standard workup for suspected asthma with a normal exam; methacholine challenge is the appropriate provocative test.",
+        "Correct. Methacholine, a muscarinic agonist, is given in increasing nebulized doses while spirometry is repeated; a significant drop in FEV1 at a low dose confirms airway hyperresponsiveness, supporting a diagnosis of asthma when baseline testing is normal.",
+        "DLCO evaluates gas diffusion capacity (useful in interstitial lung disease or emphysema), not airway hyperreactivity, so it would not confirm asthma in this patient.",
+        "V/Q scanning is used to evaluate for pulmonary embolism, not intermittent bronchoconstriction."
       ],
-      "overview": "Wernicke encephalopathy is an acute encephalopathy caused by thiamine (B1) deficiency, most often seen in alcoholism, and is associated with atrophy of the mammillary bodies. If untreated, it can progress to Korsakoff syndrome, a permanent condition marked by anterograde amnesia (worse than retrograde), confabulation, apathy, and personality changes. Prompt thiamine replacement is key to preventing irreversible damage.",
-      "id": "2026-09-19-03"
+      "overview": "Asthma is a reversible, type I hypersensitivity-driven airway hyperresponsiveness that may present with a normal exam and normal spirometry between attacks. The methacholine challenge test provokes bronchoconstriction with a muscarinic agonist to unmask this hyperresponsiveness when the diagnosis is not obvious from history and baseline testing.",
+      "topic": "Methacholine challenge test",
+      "angle": "diagnosis",
+      "id": "2026-09-20-02"
     },
     {
       "format": "simple4",
-      "topic": "Guanfacine",
-      "angle": "mechanism",
-      "stem": "Guanfacine, used in the treatment of ADHD, works primarily through which mechanism?",
+      "stem": "Which monoclonal antibody is used to prevent respiratory syncytial virus (RSV) infection in high-risk preterm infants?",
       "options": [
-        "Blocking dopamine reuptake in the striatum",
-        "Stimulating alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity",
-        "Inhibiting MAO-B enzyme activity",
-        "Blocking postsynaptic D2 receptors"
+        "Omalizumab",
+        "Ribavirin",
+        "Palivizumab",
+        "Mepolizumab"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "explanations": [
-        "Guanfacine is not a dopamine reuptake inhibitor; that mechanism describes stimulant drugs like methylphenidate.",
-        "Guanfacine is an alpha-2 agonist whose major effects are on alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity to help regulate attention and behavior.",
-        "Guanfacine does not act through MAO-B inhibition; that mechanism describes selegiline.",
-        "Guanfacine does not block D2 receptors; that mechanism describes antipsychotic drugs."
+        "Omalizumab is an anti-IgE monoclonal antibody used in asthma, not for RSV prevention.",
+        "Ribavirin is an antiviral used to treat RSV infection (inhibiting guanine nucleotide synthesis), not a preventive monoclonal antibody.",
+        "Correct. Palivizumab is a monoclonal antibody directed against the RSV F (fusion) protein, used prophylactically in high-risk preterm infants to reduce the risk of severe RSV infection.",
+        "Mepolizumab is an anti-IL-5 monoclonal antibody used in eosinophilic asthma, unrelated to RSV prevention."
       ],
-      "overview": "Alpha-2 agonists such as guanfacine and clonidine are used in ADHD treatment. Guanfacine's major effect is on alpha-2A receptors in the prefrontal cortex, increasing prefrontal cortical activity to help regulate attention and behavior, whereas clonidine (an older hypertension drug) is more notable for sedation.",
-      "id": "2026-09-19-04"
+      "overview": "RSV is the most common cause of lower respiratory tract illness in young children, presenting with upper respiratory symptoms followed by wheezing and bronchiolitis. Palivizumab, a monoclonal antibody against the RSV fusion (F) protein, is used prophylactically in high-risk infants such as those born preterm or with congenital heart disease, while ribavirin is reserved for treatment.",
+      "topic": "RSV prophylaxis",
+      "angle": "prevention",
+      "id": "2026-09-20-03"
     },
     {
       "format": "simple4",
-      "topic": "Tourette syndrome",
-      "angle": "treatment",
-      "stem": "Which of the following high-potency dopamine-blocking agents is used to treat tics in Tourette syndrome?",
+      "stem": "Which of the following is NOT a recognized cause of bronchiectasis according to standard teaching?",
       "options": [
-        "Lithium",
-        "Bupropion",
-        "Naltrexone",
-        "Fluphenazine"
+        "Allergic bronchopulmonary aspergillosis",
+        "Cystic fibrosis",
+        "Alpha-1 antitrypsin deficiency",
+        "Kartagener syndrome"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "explanations": [
-        "Lithium is a mood stabilizer for bipolar disorder, not a treatment for Tourette syndrome.",
-        "Bupropion is an antidepressant/smoking cessation drug, not a treatment for Tourette syndrome.",
-        "Naltrexone is an opioid antagonist used in alcohol and opioid use disorders, not for tic disorders.",
-        "Fluphenazine is a high-potency dopamine (D2) receptor blocker used, along with risperidone, haloperidol, and pimozide, to treat tics in Tourette syndrome."
+        "ABPA causes chronic airway inflammation and mucus plugging that leads to bronchiectasis, particularly in asthma and CF patients.",
+        "Cystic fibrosis is a classic cause of bronchiectasis due to chronic mucus retention and recurrent infection.",
+        "Correct. Alpha-1 antitrypsin deficiency causes panacinar emphysema due to unopposed protease activity, not bronchiectasis; it belongs in the obstructive category with emphysema rather than the bronchiectasis-causing conditions.",
+        "Kartagener syndrome (primary ciliary dyskinesia with situs inversus) impairs mucociliary clearance and classically causes bronchiectasis."
       ],
-      "overview": "Tourette syndrome is a neurologic disorder of children marked by recurrent motor and phonic tics lasting at least a year, commonly co-occurring with ADHD and OCD. Treatment includes behavioral therapy and dopamine blockade with high-potency neuroleptics (fluphenazine, risperidone, haloperidol, pimozide) or dopamine depletion with tetrabenazine.",
-      "id": "2026-09-19-05"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Lithium toxicity",
+      "overview": "Bronchiectasis is permanent airway dilation from chronic, recurrent airway inflammation, with causes including cystic fibrosis, primary ciliary dyskinesia/Kartagener syndrome, allergic bronchopulmonary aspergillosis, and airway obstruction from tumor or foreign body. Alpha-1 antitrypsin deficiency instead causes emphysema through a protease-antiprotease imbalance.",
+      "topic": "Bronchiectasis",
       "angle": "risk_factors",
-      "stem": "A 68-year-old woman on chronic lithium therapy for bipolar disorder is started on hydrochlorothiazide for newly diagnosed hypertension. Two weeks later she develops a new coarse tremor, nausea, ataxia, and confusion. What is the most likely explanation for her presentation?",
-      "options": [
-        "Development of nephrogenic diabetes insipidus unrelated to the new medication",
-        "Thiazide-induced increased renal clearance of lithium, lowering her serum lithium level",
-        "Hydrochlorothiazide causing direct neurotoxicity independent of lithium levels",
-        "Thiazide-induced increased proximal tubular reabsorption of lithium, raising her serum lithium level",
-        "Serotonin syndrome from a thiazide-SSRI interaction"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "While lithium can cause nephrogenic diabetes insipidus over the long term, the acute onset of tremor, ataxia, and confusion shortly after starting a thiazide is better explained by a drug interaction raising lithium levels.",
-        "Thiazide diuretics increase, not decrease, serum lithium levels, which is why they are a known risk factor for lithium toxicity.",
-        "The symptoms described (tremor, ataxia, confusion, nausea) are classic for lithium toxicity, not direct thiazide neurotoxicity, and the temporal relationship to a known lithium-interacting drug points to lithium toxicity.",
-        "Lithium is reabsorbed in the proximal tubule similarly to sodium; thiazide diuretics cause volume depletion that increases proximal reabsorption of both sodium and lithium, raising serum lithium levels and precipitating toxicity (tremor, nausea, ataxia, confusion).",
-        "There is no SSRI mentioned, and thiazides are not serotonergic agents, so serotonin syndrome is not applicable here."
-      ],
-      "overview": "Lithium has a narrow therapeutic index and is eliminated by the kidneys, being reabsorbed in the proximal tubule like sodium. Thiazide diuretics, NSAIDs, and ACE inhibitors increase serum lithium levels and risk of toxicity, while potassium-sparing diuretics decrease lithium levels. Risk factors for lithium toxicity include renal insufficiency, volume depletion, and older age with reduced GFR; tremor is the most common early symptom of toxicity.",
-      "id": "2026-09-19-06"
+      "id": "2026-09-20-04"
     },
     {
       "format": "simple4",
-      "topic": "MAO inhibitors",
+      "stem": "A patient develops sudden dyspnea and hypoxemia after a pulmonary embolism. Which physiologic mechanism underlies the hypoxemia, and what is a key feature of it?",
+      "options": [
+        "Pure right-to-left shunt with no response to supplemental oxygen",
+        "Diffusion limitation from alveolar wall thickening",
+        "V/Q mismatch (V/Q <1), which typically improves with supplemental oxygen",
+        "Complete alveolar dead space with no blood flow to any lung region"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "A pure shunt (V/Q = 0) with poor response to oxygen is the mechanism in conditions like ARDS or intracardiac shunting, not the classic mechanism of pulmonary embolism.",
+        "Diffusion limitation from increased alveolar wall thickness is characteristic of interstitial lung diseases like pulmonary fibrosis, not pulmonary embolism.",
+        "Correct. Pulmonary embolism is the classic cause of V/Q mismatch, where perfusion to some regions is reduced relative to ventilation (V/Q <1); unlike shunt, hypoxemia from V/Q mismatch generally improves with supplemental oxygen.",
+        "Complete dead space refers to ventilated but unperfused alveoli in the obstructed vascular territory, but this reflects wasted ventilation rather than the mechanism producing systemic hypoxemia, which is due to V/Q mismatch in the remaining perfused lung."
+      ],
+      "overview": "Pulmonary embolism obstructs blood flow to part of the lung, creating V/Q mismatch (wasted ventilation) that produces hypoxemia responsive to supplemental oxygen, distinguishing it from a pure shunt. Compensatory hyperventilation often lowers PaCO2 toward or below normal despite the ventilation-perfusion mismatch.",
+      "topic": "V/Q mismatch",
       "angle": "mechanism",
-      "stem": "Monoamine oxidase inhibitors (MAOIs) increase synaptic levels of monoamines through which mechanism?",
-      "options": [
-        "Blocking presynaptic reuptake of serotonin only",
-        "Activating presynaptic alpha-2 autoreceptors to increase norepinephrine release",
-        "Blocking postsynaptic D2 receptors",
-        "Inhibiting the enzyme that breaks down dopamine, serotonin, and norepinephrine"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Blocking serotonin reuptake describes SSRIs, not MAOIs.",
-        "Activating alpha-2 autoreceptors would decrease, not increase, norepinephrine release, and this is not how MAOIs work.",
-        "Blocking D2 receptors describes the mechanism of antipsychotics, not MAOIs.",
-        "MAO inhibitors work by inhibiting monoamine oxidase, the enzyme responsible for breaking down dopamine, serotonin, and norepinephrine, thereby increasing their levels."
-      ],
-      "overview": "MAO inhibitors (e.g., tranylcypromine, phenelzine, isocarboxazid, and the MAO-B selective selegiline) work by inhibiting monoamine oxidase, reducing breakdown of dopamine, serotonin, and norepinephrine. They are rarely used today due to dietary tyramine interactions (hypertensive crisis) and serotonin syndrome risk with other serotonergic drugs.",
-      "id": "2026-09-19-07"
-    },
-    {
-      "format": "simple4",
-      "topic": "ADHD",
-      "angle": "epidemiology",
-      "stem": "Which of the following best describes the epidemiology of attention deficit hyperactivity disorder (ADHD)?",
-      "options": [
-        "It is about 2 times more common in females, and symptoms resolve completely by adulthood in all cases",
-        "It has an equal sex distribution, and only about one-third of cases persist into adulthood",
-        "It is about 4 times more common in males, and up to two-thirds of cases have symptoms that persist into adulthood",
-        "It is about 4 times more common in males, and symptoms never persist into adulthood"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "ADHD is more common in males, not females, and a majority of cases do not fully resolve by adulthood.",
-        "ADHD has a clear male predominance (4x), not an equal sex distribution, and persistence into adulthood is higher than one-third.",
-        "ADHD is four times more common in males, and symptoms persist into adulthood in up to two-thirds of cases, matching known epidemiology.",
-        "ADHD is indeed four times more common in males, but symptoms do persist into adulthood in a majority (up to two-thirds) of cases, contradicting this statement."
-      ],
-      "overview": "ADHD is a childhood-onset disorder of inattention, hyperactivity, and impulsivity with normal intelligence, most commonly diagnosed in children ages 6 to 12. It is four times more common in males, and symptoms persist into adulthood in up to two-thirds of cases. Diagnosis requires symptoms in more than one setting, present before age 12, and impairing function.",
-      "id": "2026-09-19-08"
-    },
-    {
-      "format": "simple4",
-      "topic": "Antisocial personality disorder",
-      "angle": "diagnosis",
-      "stem": "Diagnosis of antisocial personality disorder requires the patient to be at least what age, with evidence of conduct disorder before what age?",
-      "options": [
-        "At least 21 years old, with conduct disorder evidence before age 18",
-        "At least 18 years old, with evidence of conduct disorder before age 15",
-        "At least 16 years old, with no childhood history required",
-        "Any age, as long as conduct disorder is present currently"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Twenty-one years old and conduct disorder before 18 are not the correct age thresholds specified.",
-        "Antisocial personality disorder requires the patient to be at least 18 years old, with evidence of conduct disorder present before age 15.",
-        "Sixteen years old is not the diagnostic age threshold, and childhood conduct disorder history is required, not optional.",
-        "A diagnosis of antisocial personality disorder cannot be made at any age; the patient must be at least 18 with prior conduct disorder evidence."
-      ],
-      "overview": "Antisocial personality disorder is a Cluster B personality disorder more common in men, marked by disregard for others' rights, impulsivity, and lack of remorse. It requires the patient to be at least 18 years old with evidence of conduct disorder (its childhood counterpart) before age 15; 25% of girls and 40% of boys with conduct disorder progress to antisocial personality disorder.",
-      "id": "2026-09-19-09"
-    },
-    {
-      "format": "simple4",
-      "topic": "Obsessive-compulsive disorder",
-      "angle": "treatment",
-      "stem": "Which pharmacologic options are used as first-line adjuncts to exposure and response prevention therapy for obsessive-compulsive disorder?",
-      "options": [
-        "Bupropion",
-        "SSRIs and clomipramine",
-        "Lithium",
-        "Benzodiazepines as first-line monotherapy"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Bupropion is not indicated for OCD in these notes; it is used for depression and smoking cessation.",
-        "OCD is treated with cognitive behavioral therapy (exposure and response prevention), along with SSRIs and clomipramine (a tricyclic antidepressant).",
-        "Lithium is a mood stabilizer used in bipolar disorder, not a first-line treatment for OCD.",
-        "Benzodiazepines are not identified as a first-line pharmacologic treatment for OCD in these notes."
-      ],
-      "overview": "OCD involves intrusive, distressing obsessions and repetitive compulsions performed to relieve anxiety, and is egodystonic (conflicting with the patient's goals), distinguishing it from obsessive-compulsive personality disorder. Treatment centers on cognitive behavioral therapy with exposure and response prevention, along with SSRIs and clomipramine.",
-      "id": "2026-09-19-10"
+      "id": "2026-09-20-05"
     },
     {
       "format": "vignette5",
-      "topic": "Tricyclic antidepressant overdose",
-      "angle": "complications",
-      "stem": "A young woman is found unresponsive after ingesting a large quantity of amitriptyline. She is hyperthermic with dry, flushed skin, dilated pupils, urinary retention, and absent bowel sounds. Blood pressure is low, and ECG shows a markedly widened QRS complex. Which complication poses the greatest immediate risk to her life?",
+      "stem": "A 55-year-old man who has worked for decades as a sandblaster presents with progressive dyspnea. Chest CT shows upper lobe nodular opacities and eggshell calcification of the hilar lymph nodes.",
       "options": [
-        "Ventricular arrhythmia from cardiac sodium channel blockade",
-        "Serotonin syndrome",
-        "Extrapyramidal symptoms",
-        "Respiratory alkalosis",
-        "Hypoglycemia"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "TCAs block cardiac sodium channels, prolonging the QRS interval and predisposing to life-threatening ventricular arrhythmias, which is the major cause of death in TCA overdose.",
-        "While TCAs affect serotonin reuptake, the described findings (widened QRS, anticholinergic toxidrome) point to cardiac sodium channel blockade as the dominant life-threatening process in overdose, not serotonin syndrome.",
-        "Extrapyramidal symptoms are associated with antipsychotic dopamine blockade, not TCA overdose.",
-        "TCA overdose is not characterized by respiratory alkalosis; the major toxicities relate to anticholinergic effects and cardiac conduction abnormalities.",
-        "Hypoglycemia is not a recognized feature of TCA overdose toxicity."
-      ],
-      "overview": "TCA overdose is potentially fatal, causing seizures, coma, and anticholinergic toxicity (hyperthermia, flushed dry skin, dilated pupils, ileus, urinary retention). The most dangerous effect is cardiac sodium channel blockade, seen as QRS widening on ECG, which can progress to fatal ventricular arrhythmias; this is treated with sodium bicarbonate to overcome the sodium channel blockade and favor the inactive form of the drug.",
-      "id": "2026-09-19-11"
-    },
-    {
-      "format": "simple4",
-      "topic": "Dissociative fugue",
-      "angle": "clinical_presentation",
-      "stem": "A man who was recently fired from his job is later found in another state, working under a completely different name, with no recollection of his prior identity or employment. This presentation is most consistent with which condition?",
-      "options": [
-        "Dissociative identity disorder",
-        "Malingering",
-        "Dissociative fugue",
-        "Depersonalization/derealization disorder"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Dissociative identity disorder involves two or more distinct personality states, not simply amnesia and travel following a stressor.",
-        "Malingering involves consciously fabricated symptoms for external/secondary gain, which is not suggested by this case.",
-        "Dissociative fugue, a subtype of dissociative amnesia, involves sudden, unplanned travel or wandering associated with amnesia for one's identity, exactly as described.",
-        "Depersonalization/derealization disorder involves feeling detached from oneself or one's surroundings, not memory loss for identity and unplanned travel."
-      ],
-      "overview": "Dissociative fugue is a subtype of dissociative amnesia involving sudden, unexplained travel or wandering in a dissociated state, typically following overwhelming stress, with loss of memory for one's prior identity, job, or home. Memories may resurface later, distinguishing it from more permanent memory loss.",
-      "id": "2026-09-19-12"
-    },
-    {
-      "format": "simple4",
-      "topic": "Factitious disorder",
-      "angle": "other",
-      "stem": "A patient consciously fabricates symptoms of illness and repeatedly requests invasive testing and procedures, motivated by an internal desire to occupy the role of a sick patient rather than any external reward. This behavior is best classified as which of the following?",
-      "options": [
-        "Factitious disorder",
-        "Malingering",
-        "Somatic symptom disorder",
-        "Conversion disorder"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Factitious disorder (Munchausen syndrome) involves consciously falsified symptoms motivated by primary (internal) gain from occupying the sick role, matching this description.",
-        "Malingering is driven by external (secondary) gain, such as financial compensation or avoiding work, not an internal desire to be sick.",
-        "Somatic symptom disorder involves genuine distress about real or perceived physical symptoms, not consciously fabricated illness for the sick role.",
-        "Conversion disorder involves genuine (not consciously produced) neurologic symptoms following a stressor, with the patient unaware they are not organic."
-      ],
-      "overview": "Factitious disorder on self (Munchausen syndrome) involves consciously falsifying medical or psychiatric symptoms, sometimes aggravating real illness, driven by a desire for the primary/internal gain of occupying the sick role, often to resolve an internal conflict. Risk factors include female sex, being unmarried, and a healthcare worker background.",
-      "id": "2026-09-19-13"
-    },
-    {
-      "format": "simple4",
-      "topic": "Binge eating disorder",
-      "angle": "treatment",
-      "stem": "Which two medications have shown efficacy in clinical trials for reducing binge eating episodes and promoting weight loss in binge eating disorder?",
-      "options": [
-        "Lisdexamfetamine and topiramate",
-        "Lithium and valproic acid",
-        "Olanzapine and clozapine",
-        "Disulfiram and naltrexone"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Lisdexamfetamine (an ADHD stimulant) and topiramate (a seizure medication) have shown increased abstinence from binge episodes and reduced weight in clinical trials for binge eating disorder.",
-        "Lithium and valproic acid are mood stabilizers for bipolar disorder, not treatments for binge eating disorder.",
-        "Olanzapine and clozapine are antipsychotics; olanzapine is used in anorexia nervosa, not specifically as a binge eating disorder treatment in these notes.",
-        "Disulfiram and naltrexone are used in alcohol use disorder treatment, not binge eating disorder."
-      ],
-      "overview": "Binge eating disorder involves recurrent episodes of eating unusually large amounts of food with a feeling of loss of control, without compensatory behaviors, occurring at least once weekly for three months. First-line treatment is psychotherapy (CBT), which has a greater effect than medication, though lisdexamfetamine and topiramate have shown efficacy in reducing binge episodes and weight.",
-      "id": "2026-09-19-14"
-    },
-    {
-      "format": "simple4",
-      "topic": "Generalized anxiety disorder",
-      "angle": "diagnosis",
-      "stem": "Diagnosis of generalized anxiety disorder requires chronic worry about multiple activities for more than 6 months plus at least three of which of the following symptoms?",
-      "options": [
-        "Recurrent unexpected panic attacks",
-        "Restlessness, fatigue, difficulty concentrating, irritability, muscle tension, or sleep disturbance",
-        "Four or more autonomic symptoms occurring during a discrete attack",
-        "Obsessions and compulsions causing significant distress"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Recurrent unexpected panic attacks are the hallmark of panic disorder, not generalized anxiety disorder.",
-        "Generalized anxiety disorder requires at least 3 of these six symptoms (restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep disturbance) alongside chronic, persistent worry lasting more than 6 months.",
-        "This describes the diagnostic criteria for a panic attack, not generalized anxiety disorder.",
-        "Obsessions and compulsions are the hallmark of obsessive-compulsive disorder, not generalized anxiety disorder."
-      ],
-      "overview": "Generalized anxiety disorder is characterized by chronic, persistent anxiety about many different events or activities, occurring more days than not for at least 6 months, along with at least 3 of: restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbance.",
-      "id": "2026-09-19-15"
-    },
-    {
-      "format": "simple4",
-      "topic": "Persistent depressive disorder",
-      "angle": "diagnosis",
-      "stem": "Persistent depressive disorder (dysthymia) is characterized by depressed mood present most of the time for at least how long, without a symptom-free period lasting more than two months?",
-      "options": [
-        "5 years",
-        "2 years",
-        "6 months",
-        "1 month"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Five years is not the specified minimum duration; two years is the diagnostic threshold.",
-        "Persistent depressive disorder (dysthymia) is a low-grade, chronic form of depression that lasts for at least two years, with no symptom-free periods lasting longer than two months.",
-        "Six months is too short; persistent depressive disorder requires a much longer duration of chronic low-grade depression.",
-        "One month is far too short for this chronic condition."
-      ],
-      "overview": "Persistent depressive disorder (dysthymia) is a low-grade but chronic form of depression, less severe than major depressive disorder but more persistent, requiring depressed mood most of the time for at least two years without symptom-free periods longer than two months.",
-      "id": "2026-09-19-16"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Opioid overdose",
-      "angle": "treatment",
-      "stem": "A man is found unresponsive with pinpoint pupils, a respiratory rate of 6 breaths per minute, and needle track marks on his arm. Which of the following is the most appropriate immediate treatment?",
-      "options": [
-        "Buprenorphine",
-        "Flumazenil",
-        "Naloxone",
-        "Methadone",
-        "Naltrexone"
-      ],
-      "correctIndex": 2,
-      "explanations": [
-        "Buprenorphine is a partial opioid agonist used for withdrawal/addiction maintenance treatment, not for reversing acute overdose.",
-        "Flumazenil is a benzodiazepine receptor antagonist used for benzodiazepine overdose, not opioid overdose, and can precipitate seizures.",
-        "Naloxone is a short-acting opioid antagonist used to rapidly reverse life-threatening opioid overdose, including respiratory depression and miosis, as seen in this patient.",
-        "Methadone is a long-acting opioid agonist used for maintenance therapy in opioid use disorder, not for reversing acute overdose.",
-        "Naltrexone is a long-acting opioid antagonist used to prevent relapse in detoxified patients, not for acute overdose reversal."
-      ],
-      "overview": "Opioid overdose is the most common cause of drug overdose death and presents with decreased respiratory rate, decreased bowel sounds, and miotic pupils, progressing to depressed mental status. Naloxone, a short-acting opioid antagonist, is the immediate treatment for overdose but may precipitate withdrawal, especially if dosed too high.",
-      "id": "2026-09-19-17"
-    },
-    {
-      "format": "simple4",
-      "topic": "Caffeine",
-      "angle": "mechanism",
-      "stem": "Caffeine produces its stimulant and diuretic effects primarily through which mechanism?",
-      "options": [
-        "Agonism of serotonin 5-HT2A receptors",
-        "Antagonism of adenosine receptors, increasing dopamine/norepinephrine release and causing renal diuresis",
-        "Inhibition of monoamine oxidase",
-        "Blockade of NMDA glutamate receptors"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Serotonin 5-HT2A receptor agonism describes the mechanism of LSD, not caffeine.",
-        "Caffeine is a methylxanthine that antagonizes adenosine receptors, leading to increased release of dopamine and norepinephrine (stimulant effect) and renal adenosine blockade causing diuresis.",
-        "Monoamine oxidase inhibition describes MAOIs, not caffeine.",
-        "NMDA receptor blockade describes the mechanism of PCP, not caffeine."
-      ],
-      "overview": "Caffeine is a methylxanthine that acts as an adenosine receptor antagonist, leading to increased dopamine and norepinephrine release (producing its stimulant effects) and renal adenosine blockade causing diuresis. Caffeine (along with theophylline) can also blunt the vasodilatory effect of intravenous adenosine used in chemical cardiac stress testing.",
-      "id": "2026-09-19-18"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Anorexia nervosa",
-      "angle": "complications",
-      "stem": "A 17-year-old girl with a BMI of 15.5 kg/m2 has been severely restricting food intake and exercising excessively for the past year, with amenorrhea for the last 6 months. On exam she has bradycardia, hypotension, dry scaly skin, and fine lanugo hair. Which of the following laboratory abnormalities is she most likely to also have?",
-      "options": [
-        "Hypocortisolism",
-        "Elevated bone mineral density",
-        "Macrocytic anemia from vitamin B12 deficiency",
-        "Hyperkalemia and thrombocytosis",
-        "Hyponatremia and leukopenia"
+        "Histoplasmosis",
+        "Legionellosis",
+        "Pneumocystis jirovecii pneumonia",
+        "Allergic bronchopulmonary aspergillosis",
+        "Tuberculosis"
       ],
       "correctIndex": 4,
       "explanations": [
-        "Anorexia nervosa is associated with high cortisol levels, contributing to bone loss, not hypocortisolism.",
-        "Anorexia nervosa causes decreased bone density (osteopenia/osteoporosis) due to low estrogen and high cortisol, not elevated bone density.",
-        "Bone marrow suppression in anorexia typically causes anemia, but it is not specifically described as macrocytic B12-deficiency anemia in these notes.",
-        "Anorexia nervosa is more commonly associated with hypokalemia (especially with purging) and thrombocytopenia from bone marrow suppression, not hyperkalemia or thrombocytosis.",
-        "Patients with anorexia nervosa lose the ability to concentrate urine, leading to hyponatremia and volume depletion, and commonly develop bone marrow suppression causing anemia, leukopenia, and thrombocytopenia."
+        "Histoplasmosis is not a classically described complication of silicosis in these notes; silicosis is specifically linked to increased TB risk.",
+        "Legionellosis is related to inhalation of contaminated aerosolized water, not to silica-induced macrophage dysfunction.",
+        "Pneumocystis pneumonia occurs in immunocompromised hosts, particularly HIV/AIDS patients, not as a classic complication of silicosis.",
+        "ABPA is a hypersensitivity reaction to Aspergillus seen predominantly in asthma and cystic fibrosis patients, not a classic complication of silicosis.",
+        "Correct. Silica exposure impairs macrophage function, and patients with silicosis have a markedly increased prevalence of tuberculosis due to impaired intracellular killing of mycobacteria."
       ],
-      "overview": "Anorexia nervosa causes numerous systemic complications from malnutrition: endocrine effects (functional hypothalamic amenorrhea from decreased GnRH/LH/FSH), electrolyte disturbances (hyponatremia from impaired urinary concentration, hypokalemia if purging), decreased bone density from low estrogen and high cortisol, and bone marrow suppression causing anemia, leukopenia, and thrombocytopenia. Physical exam findings include bradycardia, hypotension, lanugo hair, and dry skin.",
-      "id": "2026-09-19-19"
+      "overview": "Silicosis results from chronic inhalation of silica dust (mining, sandblasting, foundry work) and causes macrophage activation, fibroblast proliferation, and fibrosis, classically producing upper lobe nodules with eggshell calcification of hilar nodes. Impaired macrophage function in silicosis significantly increases the risk of tuberculosis and bronchogenic carcinoma.",
+      "topic": "Silicosis",
+      "angle": "complications",
+      "id": "2026-09-20-06"
     },
     {
       "format": "vignette5",
-      "topic": "Schizoaffective disorder",
-      "angle": "diagnosis",
-      "stem": "Over an 8-month period, a patient has experienced a 3-week stretch of hallucinations and delusions occurring with no mood symptoms, interspersed with separate episodes of mania and depression during which psychotic features were also present. Which of the following is the most likely diagnosis?",
+      "stem": "A 45-year-old man returns from a hotel stay and develops fever, a mildly productive cough, watery diarrhea, and confusion. Serum sodium is 128 mEq/L. Sputum Gram stain shows many neutrophils but no organisms.",
       "options": [
-        "Bipolar I disorder with psychotic features",
-        "Schizoaffective disorder",
-        "Schizophreniform disorder",
-        "Schizophrenia",
-        "Brief psychotic disorder"
+        "Serum ACE level",
+        "Urinary antigen test",
+        "Cold agglutinin titer",
+        "Tuberculin skin test (PPD)",
+        "Sputum Gram stain repeated with special stains"
       ],
       "correctIndex": 1,
       "explanations": [
-        "In bipolar disorder with psychotic features, all psychotic episodes occur together with mood episodes; the presence of a distinct 3-week period of psychosis without mood symptoms rules this out.",
-        "Schizoaffective disorder requires at least 2 weeks of psychotic symptoms occurring in the absence of a mood episode, in addition to periods of mania or depression with psychotic features\u2014exactly what is described here.",
-        "Schizophreniform disorder is essentially schizophrenia lasting less than 6 months, without the required mood episodes seen in this patient.",
-        "Schizophrenia does not typically feature prominent, recurring mood episodes (mania/depression) as a core component of the illness course.",
-        "Brief psychotic disorder involves psychotic symptoms with full remission within one month and is usually a single episode following a stressor, not a recurring pattern over 8 months with mood episodes."
+        "Serum ACE is a nonspecific marker used in sarcoidosis, not in the diagnosis of an acute pneumonia syndrome.",
+        "Correct. Legionella does not stain well on Gram stain, and the combination of pneumonia, GI symptoms, hyponatremia, and confusion following exposure to aerosolized water (e.g., hotel water systems) is classic. The urinary antigen test is rapid and widely used, though it does not detect all Legionella serotypes.",
+        "Cold agglutinins are associated with Mycoplasma pneumoniae infection, which classically causes a milder atypical pneumonia without prominent GI symptoms or significant hyponatremia.",
+        "PPD testing evaluates for tuberculosis exposure and is not useful for diagnosing an acute pneumonia with this clinical picture.",
+        "Legionella characteristically does not stain well with Gram stain due to its cell wall properties; repeating the same test would not be diagnostic. Special culture on buffered charcoal yeast extract agar or urinary antigen testing is preferred."
       ],
-      "overview": "Schizoaffective disorder combines features of schizophrenia with episodes of mania or depression. The key diagnostic requirement distinguishing it from a mood disorder with psychotic features is that the patient must have at least 2 weeks of psychotic symptoms occurring in the absence of any mood episode, in addition to mood episodes that include psychotic features.",
-      "id": "2026-09-19-20"
+      "overview": "Legionella pneumonia is caused by inhalation of aerosolized bacteria from contaminated water sources (e.g., hotel or hospital water systems) and classically presents with pneumonia plus GI symptoms (watery diarrhea) and hyponatremia. Because it does not Gram stain well and requires special culture media, the urinary antigen test is the fastest practical diagnostic tool.",
+      "topic": "Legionella pneumonia",
+      "angle": "diagnosis",
+      "id": "2026-09-20-07"
     },
     {
       "format": "simple4",
-      "topic": "Malingering",
-      "angle": "other",
-      "stem": "A construction worker consciously exaggerates the severity of a back injury in order to obtain workers' compensation payments, and his symptoms resolve once his claim is settled. This behavior is best classified as which of the following?",
+      "stem": "Which mechanism of hypoxemia is characterized by poor improvement in oxygenation despite administration of 100% supplemental oxygen?",
       "options": [
-        "Illness anxiety disorder",
-        "Conversion disorder",
-        "Malingering",
-        "Factitious disorder"
+        "Shunt (V/Q = 0)",
+        "Mild diffusion limitation",
+        "Hypoventilation",
+        "Exposure to high altitude"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. In shunting, blood bypasses ventilated alveoli entirely (V/Q = 0), so increasing inspired oxygen concentration cannot oxygenate blood that never contacts ventilated alveoli, resulting in poor response to supplemental oxygen.",
+        "Mild diffusion limitation can often be overcome by increasing the alveolar-capillary oxygen gradient with supplemental oxygen, unlike a true shunt.",
+        "Hypoxemia from hypoventilation responds well to supplemental oxygen since alveolar oxygen can still be raised by increasing inspired oxygen.",
+        "High-altitude hypoxemia results from low inspired oxygen and improves significantly with supplemental oxygen."
+      ],
+      "overview": "Among the three mechanisms of hypoxemia with an elevated A-a gradient (diffusion limitation, shunt, and V/Q mismatch), shunt is distinguished by its poor responsiveness to supplemental oxygen, since blood never contacts ventilated alveoli; classic causes include ARDS and intracardiac or vascular right-to-left shunts.",
+      "topic": "Shunt",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-08"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 50-year-old obese man has loud snoring, daytime somnolence, and hypertension. Laboratory testing reveals an elevated hematocrit despite no history of lung disease or smoking. Polysomnography confirms an apnea-hypopnea index of 35.",
+      "options": [
+        "Iron deficiency causing reactive marrow stimulation",
+        "Catecholamine-induced splenic contraction releasing stored red cells",
+        "Chronic nocturnal hypoxemia stimulating erythropoietin release",
+        "Volume depletion from excessive sweating during sleep",
+        "Chronic carbon monoxide exposure"
       ],
       "correctIndex": 2,
       "explanations": [
-        "Illness anxiety disorder involves genuine preoccupation and anxiety about having an undiagnosed illness, not conscious fabrication for external gain.",
-        "Conversion disorder involves genuine, unconsciously produced neurologic symptoms following a stressor, not conscious fabrication for financial gain.",
-        "Malingering involves consciously falsified symptoms for secondary (external) gain, such as financial compensation, and is self-limited, ending once the gain is achieved\u2014exactly as described.",
-        "Factitious disorder is motivated by internal gain (the sick role), not external financial compensation as seen here."
+        "Iron deficiency causes microcytic anemia, not erythrocytosis, and is unrelated to the pathophysiology of sleep apnea.",
+        "Splenic contraction transiently raises hematocrit acutely but does not explain a persistently elevated hematocrit in a chronic condition like OSA; the correct mechanism is chronic EPO-driven erythropoiesis.",
+        "Correct. Repeated nocturnal desaturations in obstructive sleep apnea cause chronic hypoxia, which stimulates renal erythropoietin production and leads to secondary erythrocytosis (elevated hematocrit).",
+        "There is no mechanism by which sleep-related sweating would meaningfully raise hematocrit through volume depletion in this context; the elevated hematocrit reflects true increased red cell mass from EPO stimulation.",
+        "There is no indication of carbon monoxide exposure in this patient; the erythrocytosis is explained by hypoxia-driven EPO release from sleep apnea itself."
       ],
-      "overview": "Malingering involves consciously falsifying symptoms for secondary (external) gain, such as obtaining workers' compensation, avoiding work, or securing disability payments. It is distinguished from factitious disorder by the presence of an identifiable external motive, and it is self-limited, typically resolving once the desired gain is achieved.",
-      "id": "2026-09-19-21"
-    },
-    {
-      "format": "simple4",
-      "topic": "Tardive dyskinesia",
-      "angle": "clinical_presentation",
-      "stem": "A patient who has taken a first-generation antipsychotic for several years develops involuntary lip smacking, tongue movements, and facial grimacing that persist even after the drug is discontinued. This is most consistent with which extrapyramidal symptom?",
-      "options": [
-        "Tardive dyskinesia",
-        "Acute dystonia",
-        "Drug-induced parkinsonism (bradykinesia)",
-        "Akathisia"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "Tardive dyskinesia occurs months to years after starting an antipsychotic and presents as choreoathetosis, including lip smacking, tongue movements, and grimacing; it is often irreversible even after stopping the drug.",
-        "Acute dystonia occurs within hours to days of starting the drug, presenting as muscle spasms and stiffness, not the choreoathetoid facial/oral movements described here after years of use.",
-        "Drug-induced parkinsonism (bradykinesia) presents as slow movements resembling Parkinson's disease weeks after starting the drug, not choreoathetoid facial movements.",
-        "Akathisia presents as restlessness and an urge to move, occurring within days of starting the drug, not the specific orofacial movements described."
-      ],
-      "overview": "Extrapyramidal symptoms from dopamine receptor blockade include acute dystonia (hours-days), akathisia (days), drug-induced parkinsonism/bradykinesia (weeks), and tardive dyskinesia (months-years). Tardive dyskinesia presents as choreoathetosis (irregular movements and writhing) of the mouth, tongue, face, and limbs, and is often irreversible even after stopping the offending drug.",
-      "id": "2026-09-19-22"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Panic attack",
-      "angle": "diagnosis",
-      "stem": "A 28-year-old woman is brought to the emergency department after a sudden episode during a movie in which she felt an intense wave of fear with no clear trigger. She describes a pounding heart, sweating, trembling, chest tightness, and a strange sensation of watching herself from outside her body. The episode lasted about 20 minutes and then resolved completely. Vital signs and cardiac workup are now normal. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Panic attack",
-        "Social anxiety disorder (specific phobia of social settings)",
-        "Acute stress disorder",
-        "Agoraphobia",
-        "Generalized anxiety disorder"
-      ],
-      "correctIndex": 0,
-      "explanations": [
-        "This sudden, brief surge of intense fear with palpitations, sweating, trembling, chest discomfort, and depersonalization (watching herself from outside her body) that peaks and resolves within minutes to an hour is the classic description of a panic attack.",
-        "Social anxiety disorder involves fear specific to social or performance situations and being judged, which is not described here since the attack was not related to social scrutiny.",
-        "Acute stress disorder requires exposure to a specific traumatic event (threatened death, injury, or sexual assault) with dissociative symptoms lasting less than one month; there is no described trauma here.",
-        "Agoraphobia is fear of being unable to escape or get help in public/open spaces, not simply the occurrence of a discrete panic attack.",
-        "Generalized anxiety disorder involves chronic, persistent worry about multiple activities lasting more than 6 months, not a sudden, brief episode of intense fear like this one."
-      ],
-      "overview": "A panic attack is a sudden, discrete surge of intense fear peaking within minutes, with at least 4 of a defined list of physical and cognitive symptoms including palpitations, sweating, trembling, chest discomfort, dizziness, fear of dying, and depersonalization/derealization. Panic attacks can occur in isolation or as part of panic disorder, which requires recurrent unexpected attacks followed by at least a month of worry about future attacks or behavioral change. Panic attacks are brief, lasting minutes to about an hour, distinguishing them from more chronic anxiety conditions.",
-      "id": "2026-09-19-23"
-    },
-    {
-      "format": "simple4",
-      "topic": "Reactive attachment disorder",
-      "angle": "clinical_presentation",
-      "stem": "A child with reactive attachment disorder, associated with severe early deprivation, would most likely display which behavior?",
-      "options": [
-        "Excessive clinginess and reluctance to leave the caregiver",
-        "Indiscriminate hugging of and sitting on the laps of strangers",
-        "Repetitive hand-wringing with loss of purposeful hand use",
-        "Detached, withdrawn behavior that is unresponsive to comforting"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Excessive clinginess describes separation anxiety disorder, not reactive attachment disorder, which is characterized by detachment rather than clinginess.",
-        "Indiscriminate affection toward strangers describes disinhibited social engagement disorder (DSED), the opposite pattern of attachment disorder.",
-        "Repetitive hand-wringing with loss of purposeful hand use is a hallmark of Rett syndrome, not reactive attachment disorder.",
-        "Reactive attachment disorder presents with a detached, inhibited child who is unresponsive to comforting and withdrawn/avoidant, resulting from severe early deprivation."
-      ],
-      "overview": "Reactive attachment disorder is a DSM-5 disorder of attachment associated with severe early deprivation, presenting as a detached, inhibited child who is unresponsive to comforting and withdrawn/avoidant. It contrasts with disinhibited social engagement disorder, in which children show little reluctance to interact with or seek comfort from unfamiliar adults.",
-      "id": "2026-09-19-24"
-    },
-    {
-      "format": "simple4",
-      "topic": "Oppositional defiant disorder",
-      "angle": "treatment",
-      "stem": "What is the first-line treatment for oppositional defiant disorder, a condition that resolves in most children?",
-      "options": [
-        "Lithium",
-        "Antipsychotic medication as first-line therapy",
-        "Stimulant medication alone",
-        "Cognitive behavioral therapy"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Lithium is used for bipolar disorder, not oppositional defiant disorder.",
-        "Antipsychotics are not the first-line treatment for oppositional defiant disorder.",
-        "Stimulants are used for ADHD, not specifically for oppositional defiant disorder as a first-line treatment.",
-        "Oppositional defiant disorder is treated with cognitive behavioral therapy, and it resolves in most children."
-      ],
-      "overview": "Oppositional defiant disorder presents as an angry, irritable, argumentative, and defiant child who is vindictive toward authority figures, with symptoms lasting at least six months and occurring with at least one non-sibling individual. First-line treatment is cognitive behavioral therapy, and the disorder resolves in most children.",
-      "id": "2026-09-19-25"
-    },
-    {
-      "format": "simple4",
-      "topic": "Autism spectrum disorder",
-      "angle": "risk_factors",
-      "stem": "Which genetic disorder is most classically associated with autism spectrum disorder, featuring a long face, large ears, and macroorchidism?",
-      "options": [
-        "Turner syndrome",
-        "Fragile X syndrome",
-        "Klinefelter syndrome",
-        "Down syndrome"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Turner syndrome is not identified as an autism-associated disorder in these notes.",
-        "Fragile X syndrome, an X-linked trinucleotide repeat disorder, is associated with autism spectrum disorder and features a long face, large ears, and large testes (macroorchidism).",
-        "Klinefelter syndrome is not the disorder described; double Y males (XYY, tall with severe acne) are the other associated karyotype abnormality mentioned, not Klinefelter.",
-        "Down syndrome is not the genetic disorder classically linked to autism spectrum disorder in these notes."
-      ],
-      "overview": "Autism spectrum disorder is a neurodevelopmental disorder marked by abnormal social communication/interaction and restricted, repetitive behaviors, typically diagnosed around age 2 and more common in males (4x). Associated genetic disorders include Fragile X syndrome (long face, large ears, large testes) and double Y males (XYY, tall with severe acne).",
-      "id": "2026-09-19-26"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Alcohol withdrawal",
-      "angle": "treatment",
-      "stem": "A patient with a history of heavy daily alcohol use presents 18 hours after his last drink with tremor, anxiety, diaphoresis, tachycardia, and nausea. He is alert and oriented with no hallucinations or seizure activity. What is the most appropriate initial management?",
-      "options": [
-        "Haloperidol",
-        "Benzodiazepine dosing guided by a symptom-triggered protocol (e.g., CIWA scale)",
-        "Immediate ICU admission for delirium tremens",
-        "Disulfiram",
-        "Naltrexone"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Haloperidol is not the treatment for alcohol withdrawal and does not address the underlying GABA-glutamate imbalance driving withdrawal symptoms.",
-        "Benzodiazepines improve withdrawal symptoms and prevent progression to more severe stages (seizures, delirium tremens); symptom-triggered dosing using a scale such as CIWA allows regular assessment and administration based on symptom severity.",
-        "This patient has early, mild withdrawal symptoms (onset 6-24 hours, intact mental status, no hallucinations or seizures) rather than delirium tremens, which occurs 72-96 hours after the last drink with severe delirium; ICU admission is not yet indicated.",
-        "Disulfiram is used for relapse prevention by causing an aversive reaction to alcohol; it is not used to treat active withdrawal.",
-        "Naltrexone is used to reduce relapse risk in alcohol use disorder after detoxification, not to treat acute withdrawal symptoms."
-      ],
-      "overview": "Alcohol withdrawal begins 6-24 hours after the last drink with tremor, anxiety, GI upset, headache, sweating, and palpitations while mental status remains intact. More severe manifestations include withdrawal seizures (6-48 hours), alcoholic hallucinosis (12-48 hours), and delirium tremens (72-96 hours), the most severe and potentially fatal stage. Benzodiazepines, often dosed using a symptom-triggered scale like CIWA, are the mainstay of treatment to control symptoms and prevent progression.",
-      "id": "2026-09-19-27"
-    },
-    {
-      "format": "simple4",
-      "topic": "Clozapine",
+      "overview": "Obstructive sleep apnea causes recurrent nocturnal hypoxia due to soft tissue collapse in the pharynx, most strongly associated with obesity. Chronic hypoxia drives secondary erythrocytosis via increased erythropoietin, and it also contributes to hypertension, pulmonary hypertension, and arrhythmias through chronic sympathetic activation.",
+      "topic": "Obstructive sleep apnea",
       "angle": "complications",
-      "stem": "Patients on clozapine require regular monitoring of which laboratory value due to the risk of a potentially fatal complication?",
-      "options": [
-        "Serum creatinine, due to the risk of nephrogenic diabetes insipidus",
-        "Thyroid stimulating hormone, due to the risk of goiter",
-        "Liver enzymes, due to the risk of hepatotoxicity from a drug interaction with cannabis",
-        "White blood cell count, due to the risk of agranulocytosis"
-      ],
-      "correctIndex": 3,
-      "explanations": [
-        "Nephrogenic diabetes insipidus with creatinine monitoring is associated with lithium use, not clozapine.",
-        "Goiter and TSH monitoring are associated with lithium, which acts as a goitrogen, not clozapine.",
-        "Hepatotoxicity from a cannabis interaction is not a recognized clozapine complication in these notes; clozapine's key monitored complication is agranulocytosis.",
-        "Clozapine is toxic to bone marrow and can cause agranulocytosis in 1-2% of patients, requiring regular WBC monitoring (weekly initially, then less frequently); this is reversible when the drug is stopped."
-      ],
-      "overview": "Clozapine is a second-generation (atypical) antipsychotic that carries a risk of agranulocytosis in 1-2% of patients, requiring regular white blood cell count monitoring (weekly at first, then less frequently), with reversibility upon discontinuation. It can also cause seizures in a dose-related fashion and is associated with metabolic syndrome (weight gain, hyperglycemia, hyperlipidemia).",
-      "id": "2026-09-19-28"
-    },
-    {
-      "format": "vignette5",
-      "topic": "Serotonin syndrome",
-      "angle": "diagnosis",
-      "stem": "A patient who has been taking fluoxetine for depression is started on tramadol for post-surgical pain. Two days later she develops agitation, diaphoresis, tachycardia, hyperthermia, tremor, hyperreflexia, clonus, and bilateral Babinski signs. Which of the following is the most likely diagnosis?",
-      "options": [
-        "Alcohol withdrawal",
-        "Serotonin syndrome",
-        "PCP intoxication",
-        "Neuroleptic malignant syndrome",
-        "Anticholinergic toxicity"
-      ],
-      "correctIndex": 1,
-      "explanations": [
-        "Alcohol withdrawal occurs after cessation of chronic alcohol use with tremor and autonomic symptoms, but there is no history of alcohol use or cessation described, and it does not produce this neuromuscular hyperactivity pattern from a drug interaction.",
-        "The combination of mental status changes (agitation), autonomic hyperactivity (diaphoresis, tachycardia, hyperthermia), and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski) is the classic triad of serotonin syndrome, precipitated by combining an SSRI (fluoxetine) with tramadol, which also inhibits serotonin reuptake.",
-        "PCP intoxication causes agitation and hypertension but is associated with nystagmus and violent behavior rather than this specific serotonergic drug-interaction triad.",
-        "Neuroleptic malignant syndrome occurs after starting a neuroleptic/antipsychotic and features rigidity and elevated creatine kinase rather than the hyperreflexia/clonus pattern, and there is no antipsychotic exposure here.",
-        "Anticholinergic toxicity causes dry skin, mydriasis, urinary retention, and delirium but not the neuromuscular hyperactivity (clonus, hyperreflexia, Babinski signs) seen here."
-      ],
-      "overview": "Serotonin syndrome results from excess serotonergic activity, classically from combining two or more serotonergic drugs (SSRIs, SNRIs, MAOIs, TCAs, tramadol, meperidine, triptans, MDMA, linezolid, dextromethorphan, St. John's wort). It presents with a triad of mental status changes, autonomic hyperactivity, and neuromuscular hyperactivity (tremor, clonus, hyperreflexia, bilateral Babinski signs), and is treated with the serotonin antagonist cyproheptadine.",
-      "id": "2026-09-19-29"
+      "id": "2026-09-20-09"
     },
     {
       "format": "simple4",
-      "topic": "Avoidant personality disorder",
-      "angle": "clinical_presentation",
-      "stem": "A patient desires close relationships but avoids them due to intense fear of embarrassment and rejection, differing from schizoid personality disorder in which the patient prefers isolation. Which personality disorder does this describe?",
+      "stem": "An asthmatic patient presents with recurrent fever, brownish mucus plugs, peripheral eosinophilia, and an elevated IgE level. Bronchiectasis is noted on imaging. Which organism is most likely responsible?",
       "options": [
-        "Avoidant personality disorder",
-        "Dependent personality disorder",
-        "Schizotypal personality disorder",
-        "Schizoid personality disorder"
+        "Aspergillus fumigatus",
+        "Histoplasma capsulatum",
+        "Mycoplasma pneumoniae",
+        "Pseudomonas aeruginosa"
       ],
       "correctIndex": 0,
       "explanations": [
-        "Avoidant personality disorder involves social inhibition and feelings of inadequacy, with a desire for relationships that is thwarted by fear of embarrassment or rejection\u2014distinct from schizoid personality disorder's preference for aloneness.",
-        "Dependent personality disorder involves clinginess and excessive reliance on others for decision-making, not primarily avoidance due to fear of embarrassment.",
-        "Schizotypal personality disorder involves odd beliefs, magical thinking, and social anxiety, not primarily a fear of rejection despite wanting relationships.",
-        "Schizoid personality disorder is characterized by a preference for social isolation and little interest in close relationships, the opposite of the desire for connection described here."
+        "Correct. Allergic bronchopulmonary aspergillosis is a hypersensitivity reaction to Aspergillus fumigatus colonization, classically occurring in asthma and cystic fibrosis patients and causing eosinophilia, elevated IgE, brownish mucus plugs, and bronchiectasis.",
+        "Histoplasma is a dimorphic fungus causing a different clinical syndrome and is not linked to this eosinophilic hypersensitivity presentation.",
+        "Mycoplasma causes atypical pneumonia with a more indolent course and is not associated with eosinophilia or brownish mucus plugs.",
+        "Pseudomonas aeruginosa is a common colonizer in cystic fibrosis airways but does not cause the eosinophilic hypersensitivity reaction described here."
       ],
-      "overview": "Avoidant personality disorder involves social inhibition, feelings of inadequacy, and hypersensitivity to criticism or rejection, causing the patient to avoid social interactions despite wanting relationships. This contrasts with schizoid personality disorder, in which the patient prefers to be alone and has little interest in socializing at all.",
-      "id": "2026-09-19-30"
+      "overview": "ABPA is a hypersensitivity (mixed Th2-mediated) reaction to Aspergillus fumigatus colonizing the airways, occurring predominantly in asthma and cystic fibrosis patients. It presents with recurrent cough, fever, brownish mucus plugs, hemoptysis, peripheral eosinophilia, elevated IgE, and bronchiectasis, and is treated with steroids and itraconazole.",
+      "topic": "Allergic bronchopulmonary aspergillosis",
+      "angle": "diagnosis",
+      "id": "2026-09-20-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which patient is at the highest risk for developing aspiration pneumonia?",
+      "options": [
+        "A patient with mild intermittent asthma",
+        "A young healthy marathon runner",
+        "A patient with well-controlled seasonal allergic rhinitis",
+        "A chronic alcoholic patient with reduced consciousness after a binge"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Mild intermittent asthma does not impair airway protective reflexes and is not associated with increased aspiration risk.",
+        "A young healthy runner has no risk factors for impaired airway protection and is not at increased risk for aspiration pneumonia.",
+        "Allergic rhinitis does not impair consciousness or swallowing and is not a risk factor for aspiration pneumonia.",
+        "Correct. Reduced consciousness (from alcohol intoxication, anesthesia, or seizures) is a major risk factor for aspiration pneumonia, as it impairs protective airway reflexes, allowing oropharyngeal or gastric contents to enter the lungs, classically involving anaerobic organisms."
+      ],
+      "overview": "Aspiration pneumonia occurs when oropharyngeal or gastric microorganisms enter the lungs, typically due to risk factors that impair airway protection such as reduced consciousness (alcohol use, anesthesia), seizures, or dysphagia from neuromuscular disease. It is often caused by anaerobic bacteria and treated with amoxicillin-clavulanate.",
+      "topic": "Aspiration pneumonia",
+      "angle": "risk_factors",
+      "id": "2026-09-20-11"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman develops sudden pleuritic chest pain, dyspnea, and tachycardia three days after abdominal surgery. An ECG is obtained showing a prominent S wave in lead I, a Q wave in lead III, and an inverted T wave in lead III.",
+      "options": [
+        "Severe hyperkalemia",
+        "Acute right heart strain from pulmonary embolism",
+        "Acute anterior wall myocardial infarction",
+        "Acute pericarditis",
+        "Acute left ventricular failure"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Hyperkalemia produces peaked T waves and widened QRS complexes, not the S1Q3T3 pattern.",
+        "Correct. The S1Q3T3 pattern is a classic, though uncommon, ECG finding indicating acute right ventricular strain from sudden pressure overload, seen in massive or submassive pulmonary embolism; sinus tachycardia is the most common ECG finding overall.",
+        "Anterior MI would typically show ST elevations and Q waves in the anterior precordial leads (V1-V4), not the S1Q3T3 pattern.",
+        "Pericarditis classically causes diffuse ST elevations with PR depression, not the S1Q3T3 pattern.",
+        "Left ventricular failure does not produce the S1Q3T3 pattern, which specifically reflects right heart strain."
+      ],
+      "overview": "Pulmonary embolism most commonly causes sinus tachycardia on ECG, but the classic (though rare) S1Q3T3 pattern reflects acute right ventricular strain from sudden increased pulmonary vascular resistance. Clinical presentation includes pleuritic chest pain, dyspnea, tachypnea, and hypoxemia, often in a post-surgical or immobilized patient with risk factors from Virchow's triad.",
+      "topic": "Pulmonary embolism",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman with severe COPD (FEV1 35% predicted) is evaluated in clinic for chronic dyspnea on minimal exertion. Arterial blood gas on room air shows PaO2 52 mmHg and O2 saturation 86%. She is already using short- and long-acting bronchodilators and inhaled corticosteroids.",
+      "options": [
+        "Long-term home oxygen therapy",
+        "Starting theophylline",
+        "Starting roflumilast",
+        "Increasing inhaled albuterol frequency",
+        "Prophylactic azithromycin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. In COPD patients with PaO2 <55 mmHg or O2 saturation <88%, long-term supplemental oxygen therapy is the only intervention shown to improve survival.",
+        "Theophylline is a bronchodilator with a narrow therapeutic index used in refractory cases; it does not address hypoxemia or confer a survival benefit.",
+        "Roflumilast, a PDE-4 inhibitor, is reserved for severe COPD with chronic bronchitis to reduce exacerbations; it does not correct hypoxemia or improve survival on its own.",
+        "Increasing albuterol use treats symptoms of bronchoconstriction but does not address chronic hypoxemia or improve survival.",
+        "Azithromycin prophylaxis can reduce exacerbation frequency in select COPD patients but has not been shown to improve survival the way oxygen therapy has for hypoxemic patients."
+      ],
+      "overview": "Home oxygen therapy is indicated in COPD patients with resting PaO2 below 55 mmHg (or below 60 mmHg with cor pulmonale/polycythemia) or oxygen saturation below 88%, and it is the only COPD therapy proven to increase survival. Other therapies like bronchodilators, steroids, and roflumilast reduce symptoms and exacerbations but do not confer this same survival benefit.",
+      "topic": "COPD",
+      "angle": "treatment",
+      "id": "2026-09-20-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient has hypoxemia with a normal A-a gradient on room air. Which underlying process is most consistent with this finding?",
+      "options": [
+        "Pulmonary fibrosis",
+        "Acute respiratory distress syndrome (ARDS)",
+        "Pulmonary embolism",
+        "Hypoventilation"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Pulmonary fibrosis causes a diffusion limitation, which produces hypoxemia with an elevated A-a gradient, not a normal one.",
+        "ARDS causes significant intrapulmonary shunting, producing hypoxemia with a markedly elevated A-a gradient.",
+        "Pulmonary embolism produces V/Q mismatch, which causes hypoxemia with an elevated A-a gradient.",
+        "Correct. Hypoventilation causes hypoxemia through elevated PaCO2 lowering alveolar PAO2 (per the alveolar gas equation) while the A-a gradient itself remains normal, since both alveolar and arterial oxygen fall proportionally."
+      ],
+      "overview": "The A-a gradient distinguishes causes of hypoxemia: a normal gradient points to high altitude or hypoventilation (extrapulmonary causes), while an elevated gradient indicates a primary lung problem such as diffusion limitation, shunt, or V/Q mismatch. Calculating it requires the alveolar gas equation using PaCO2 and PIO2.",
+      "topic": "A-a gradient",
+      "angle": "diagnosis",
+      "id": "2026-09-20-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old man with a 40-year history of shipyard work presents with progressive dyspnea, dry cough, and chest pain. Imaging reveals pleural thickening and a pleural effusion. Symptoms began decades after his last occupational exposure.",
+      "options": [
+        "Crystalline silica exposure",
+        "Coal dust exposure",
+        "Radon exposure",
+        "Asbestos exposure",
+        "Cigarette smoking"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Silica exposure causes silicosis, a distinct pneumoconiosis, and is not linked to mesothelioma.",
+        "Coal dust exposure causes coal miner's lung (a pneumoconiosis with upper lobe nodular opacities), not mesothelioma.",
+        "Radon exposure is associated with increased lung cancer risk generally but is not the specific risk factor for mesothelioma described in these notes.",
+        "Correct. Asbestos is the only known risk factor for mesothelioma, a pleural tumor that characteristically presents with pleural thickening and effusion many decades after occupational exposure such as shipbuilding.",
+        "Cigarette smoking is strongly linked to lung cancers such as squamous and small cell carcinoma but is not a risk factor for mesothelioma."
+      ],
+      "overview": "Mesothelioma is a pleural tumor for which asbestos is the only known risk factor, with a latency of decades between exposure and disease onset. It presents with pleural thickening and effusion, slow-onset dyspnea, cough, and chest pain, and carries a poor prognosis despite treatment.",
+      "topic": "Mesothelioma",
+      "angle": "risk_factors",
+      "id": "2026-09-20-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with heart failure develops a pleural effusion. Which mechanism best explains this transudative effusion?",
+      "options": [
+        "Increased capillary permeability from inflammation",
+        "Increased pulmonary capillary hydrostatic pressure",
+        "Bacterial infection of the pleural space",
+        "Decreased lymphatic drainage from malignant obstruction"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Increased capillary permeability with high protein content characterizes exudative effusions (e.g., from pneumonia or malignancy), not the transudative effusion of heart failure.",
+        "Correct. Heart failure raises pulmonary capillary hydrostatic pressure, driving fluid out of capillaries into the pleural space with low protein content, producing a transudative effusion.",
+        "Bacterial infection produces an exudative effusion or empyema, not the transudative effusion seen in heart failure.",
+        "Lymphatic obstruction from malignancy or thoracic duct injury causes a chylothorax (an exudative lymphatic effusion), not a transudate from heart failure."
+      ],
+      "overview": "Transudative pleural effusions result from increased hydrostatic pressure (e.g., heart failure) or decreased oncotic pressure (e.g., cirrhosis, nephrotic syndrome) with an intact capillary membrane, producing low-protein fluid. This contrasts with exudative effusions, which arise from increased capillary permeability and have high protein content, often requiring drainage.",
+      "topic": "Transudative pleural effusion",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which serum marker is most useful for identifying neuroendocrine lung tumors such as carcinoid tumors?",
+      "options": [
+        "Carcinoembryonic antigen (CEA)",
+        "CA-125",
+        "Chromogranin A",
+        "Alpha-fetoprotein (AFP)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "CEA is a nonspecific tumor marker used in colorectal and other adenocarcinomas, not specific for neuroendocrine lung tumors.",
+        "CA-125 is associated with ovarian cancer, not neuroendocrine lung tumors.",
+        "Correct. Chromogranin A is a marker secreted by neuroendocrine cells and is elevated in neuroendocrine tumors of the lung, including carcinoid tumors and small cell carcinoma.",
+        "AFP is a marker for hepatocellular carcinoma and germ cell tumors, not neuroendocrine lung tumors."
+      ],
+      "overview": "Carcinoid tumors are well-differentiated neuroendocrine tumors of the lung, most common in nonsmokers, with an excellent prognosis and rare metastasis. Chromogranin A positivity confirms their neuroendocrine origin, and rare cases secrete serotonin causing carcinoid syndrome (flushing, diarrhea, wheezing).",
+      "topic": "Carcinoid tumor",
+      "angle": "diagnosis",
+      "id": "2026-09-20-17"
+    },
+    {
+      "format": "simple4",
+      "stem": "A woman develops sudden respiratory distress, hypoxemia, and hypotension during labor, followed hours later by disseminated intravascular coagulation and massive hemorrhage. What best characterizes this second phase of her presentation?",
+      "options": [
+        "Isolated pulmonary hypertension without bleeding",
+        "Simple hypoxemia without any hematologic abnormality",
+        "Isolated right heart failure without coagulopathy",
+        "The hemorrhagic phase of amniotic fluid embolism, marked by DIC and bleeding"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Phase I involves pulmonary artery vasospasm and heart failure, but the question describes the later hemorrhagic complication, which specifically involves DIC and bleeding, not isolated pulmonary hypertension.",
+        "The described presentation specifically involves a coagulopathy (DIC) with hemorrhage, not merely hypoxemia without hematologic abnormality.",
+        "Right heart failure is part of Phase I; the scenario described (DIC and hemorrhage) is specific to Phase II, not isolated right heart failure.",
+        "Correct. Amniotic fluid embolism progresses in two phases: an initial phase with pulmonary vasospasm, right and left heart dysfunction, and hypoxemia, followed by a hemorrhagic phase characterized by DIC, massive hemorrhage, and seizures."
+      ],
+      "overview": "Amniotic fluid embolism occurs when amniotic fluid and fetal debris enter maternal circulation during or shortly after labor, triggering an inflammatory reaction. Phase I involves pulmonary vasospasm, right and left heart dysfunction, and hypoxemia from V/Q mismatch, while Phase II is a hemorrhagic phase with DIC, massive hemorrhage, and seizures, and the condition is often fatal.",
+      "topic": "Amniotic fluid embolism",
+      "angle": "complications",
+      "id": "2026-09-20-18"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 6-month-old infant has a history of recurrent respiratory infections and poor weight gain despite a good appetite. The stools are described as frequent, foul-smelling, oily, and prone to floating. The pediatrician suspects an inherited disorder of chloride transport.",
+      "options": [
+        "Fecal elastase level",
+        "Sputum culture for Pseudomonas aeruginosa",
+        "Genetic testing for the delta F508 mutation as the initial test",
+        "Nasal transepithelial potential difference measurement",
+        "Sweat chloride test via pilocarpine iontophoresis"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Fecal elastase assesses pancreatic exocrine function and can support a diagnosis of pancreatic insufficiency but is not the primary diagnostic test for cystic fibrosis itself.",
+        "Sputum culture would help identify infecting organisms in a patient already diagnosed with CF but is not used to establish the initial diagnosis.",
+        "While delta F508 is the most common CFTR mutation, genetic testing is typically performed after an abnormal sweat test rather than as the initial screening test in a symptomatic infant.",
+        "Nasal potential difference measurement is a secondary test used in patients with a negative or borderline sweat test, not the first-line diagnostic test.",
+        "Correct. The sweat chloride test using pilocarpine iontophoresis is the standard diagnostic test for cystic fibrosis; elevated sweat chloride reflects the CFTR defect in sweat gland chloride reabsorption. DNA testing is done if the sweat test is equivocal."
+      ],
+      "overview": "Cystic fibrosis results from CFTR mutations causing thick secretions in the lungs and GI tract, presenting in infancy with recurrent pulmonary infections, failure to thrive, and steatorrhea from pancreatic insufficiency. The sweat chloride test remains the standard diagnostic test, with DNA testing reserved for confirmatory or equivocal cases.",
+      "topic": "Cystic fibrosis",
+      "angle": "diagnosis",
+      "id": "2026-09-20-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which lung cancer subtype is most commonly diagnosed in nonsmoking women and typically arises peripherally in the lung?",
+      "options": [
+        "Large cell carcinoma",
+        "Adenocarcinoma",
+        "Small cell carcinoma",
+        "Squamous cell carcinoma"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Large cell carcinoma is a poorly differentiated tumor associated with smoking, not specifically linked to nonsmoking women.",
+        "Correct. Adenocarcinoma is the most common lung cancer overall and is the most common type found in nonsmokers and women, typically arising peripherally away from the mediastinum.",
+        "Small cell carcinoma is strongly associated with smoking, arises centrally, and is a fast-growing neuroendocrine tumor, not the typical nonsmoker/female presentation.",
+        "Squamous cell carcinoma is strongly associated with smoking and typically arises centrally as a hilar mass, not the classic profile of a nonsmoking female patient."
+      ],
+      "overview": "Adenocarcinoma is the most common lung cancer type overall and is the predominant subtype seen in nonsmokers and women, typically arising peripherally and staining for mucin. Its bronchioloalveolar (lepidic) subtype can mimic pneumonia on imaging and carries a comparatively better prognosis.",
+      "topic": "Adenocarcinoma",
+      "angle": "epidemiology",
+      "id": "2026-09-20-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "Thoracentesis in a febrile patient reveals foul-smelling, purulent pleural fluid with a positive bacterial culture. What is this finding called?",
+      "options": [
+        "Empyema",
+        "Hemothorax",
+        "Transudative effusion",
+        "Chylothorax"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Empyema refers to infected pleural fluid, characterized by pus, putrid odor, and positive culture, typically requiring drainage and antibiotics.",
+        "Hemothorax is characterized by a high hematocrit in the pleural fluid from bleeding, not by pus and positive culture.",
+        "A transudative effusion has low protein content and clear fluid, not pus or positive bacterial culture.",
+        "Chylothorax is a lymphatic effusion from thoracic duct injury or obstruction, presenting as milky fluid with very high triglycerides, not pus."
+      ],
+      "overview": "Empyema is infected pleural fluid presenting as pus with a putrid odor and positive culture, representing a complication of pneumonia or other infections that typically requires drainage in addition to antibiotics, distinguishing it from other exudative or transudative effusions.",
+      "topic": "Empyema",
+      "angle": "diagnosis",
+      "id": "2026-09-20-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which drug class used in idiopathic pulmonary arterial hypertension acts as a potent vasodilator by mimicking a naturally occurring prostaglandin?",
+      "options": [
+        "Phosphodiesterase-5 inhibitors such as sildenafil",
+        "Prostacyclin (PGI2) analogs such as epoprostenol",
+        "Endothelin receptor antagonists such as bosentan",
+        "Soluble guanylate cyclase stimulators such as riociguat"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "PDE-5 inhibitors like sildenafil increase cAMP-mediated smooth muscle relaxation by preventing cGMP breakdown, a different mechanism than prostacyclin mimicry.",
+        "Correct. Epoprostenol and related synthetic analogs mimic prostacyclin (PGI2), a potent endogenous vasodilator, and are administered intravenously to lower pulmonary vascular resistance in PAH.",
+        "Endothelin receptor antagonists like bosentan block the vasoconstrictor endothelin-1 rather than mimicking a prostaglandin.",
+        "Riociguat stimulates soluble guanylate cyclase to relax pulmonary arteries via the nitric oxide pathway, not through prostacyclin mimicry."
+      ],
+      "overview": "Idiopathic pulmonary arterial hypertension features increased vasoconstrictor activity (endothelin) and decreased vasodilator activity (nitric oxide), and treatment options include prostacyclin analogs (mimicking PGI2), endothelin receptor antagonists, PDE-5 inhibitors, and soluble guanylate cyclase stimulators, all aimed at lowering pulmonary vascular resistance.",
+      "topic": "Idiopathic pulmonary arterial hypertension",
+      "angle": "treatment",
+      "id": "2026-09-20-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A male smoker presents with a hilar mass, confusion, and hypercalcemia. Biopsy shows keratin pearls and intercellular bridges. Which paraneoplastic mechanism best explains the hypercalcemia?",
+      "options": [
+        "Secretion of PTHrP by tumor cells",
+        "Autoantibodies against presynaptic calcium channels",
+        "Ectopic ACTH secretion",
+        "Ectopic ADH secretion"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Squamous cell carcinoma classically secretes PTHrP, which mimics parathyroid hormone action and causes hypercalcemia, manifesting with bone pain, abdominal pain, and confusion.",
+        "Antibodies against presynaptic calcium channels cause Lambert-Eaton myasthenic syndrome, a paraneoplastic feature of small cell carcinoma, not a cause of hypercalcemia.",
+        "Ectopic ACTH secretion causing Cushing syndrome is a paraneoplastic feature of small cell carcinoma, not squamous cell carcinoma.",
+        "Ectopic ADH secretion causing SIADH and hyponatremia is associated with small cell carcinoma, not squamous cell carcinoma or hypercalcemia."
+      ],
+      "overview": "Squamous cell carcinoma of the lung is a centrally located, smoking-associated non-small cell cancer characterized histologically by keratin pearls and intercellular bridges, and it classically causes hypercalcemia via PTHrP secretion (\"stones, bones, groans, and psychiatric overtones\").",
+      "topic": "Squamous cell carcinoma",
+      "angle": "pathophysiology",
+      "id": "2026-09-20-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old man with a 40-pack-year smoking history presents with progressive right shoulder pain radiating toward the axilla, along with weakness and paresthesias of the right arm. On examination he has right-sided ptosis, miosis, and anhidrosis.",
+      "options": [
+        "Small cell carcinoma with Lambert-Eaton syndrome",
+        "Superior vena cava syndrome",
+        "Pancoast tumor with Horner syndrome",
+        "Malignant mesothelioma",
+        "Bronchial carcinoid tumor"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Lambert-Eaton syndrome from small cell lung cancer produces proximal muscle weakness from autoantibodies against presynaptic calcium channels, not localized shoulder/arm pain with Horner syndrome.",
+        "SVC syndrome presents with facial/arm swelling and head fullness from venous obstruction, not with arm plexus symptoms and Horner syndrome.",
+        "Correct. A Pancoast tumor arises at the lung apex in the superior sulcus and can compress the brachial plexus (arm pain, weakness, paresthesias) and the sympathetic chain, producing Horner syndrome (ptosis, miosis, anhidrosis).",
+        "Mesothelioma classically presents with pleural thickening, effusion, and slow-onset dyspnea/chest pain related to asbestos exposure, not with a Pancoast-type presentation.",
+        "Carcinoid tumors are typically indolent and may cause carcinoid syndrome (flushing, diarrhea) but do not classically produce Pancoast-type brachial plexus and sympathetic chain compression."
+      ],
+      "overview": "A Pancoast tumor is a lung cancer arising at the apex in the superior sulcus that can invade the brachial plexus (causing arm pain, weakness, and paresthesias) and the sympathetic chain (causing Horner syndrome: ptosis, miosis, anhidrosis). It is an important localized complication distinct from mediastinal or systemic paraneoplastic effects of lung cancer.",
+      "topic": "Pancoast tumor",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "An HIV-positive patient with a CD4 count of 80 cells/microL is diagnosed with Pneumocystis jirovecii pneumonia based on silver-stained sputum microscopy. What is the first-line treatment?",
+      "options": [
+        "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+        "Isoniazid",
+        "Voriconazole",
+        "Amphotericin B"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. TMP-SMX is the first-line treatment for Pneumocystis jirovecii pneumonia, and it is also used for prophylaxis in patients with CD4 counts below 200 cells/microL.",
+        "Isoniazid is used to treat and prevent tuberculosis, not Pneumocystis pneumonia.",
+        "Voriconazole is used to treat invasive aspergillosis, not Pneumocystis jirovecii pneumonia.",
+        "Amphotericin B is used for invasive fungal infections such as aspergillosis or cryptococcosis, not as the first-line treatment for PJP."
+      ],
+      "overview": "Pneumocystis jirovecii pneumonia is an AIDS-defining diffuse interstitial pneumonia occurring in immunocompromised hosts, diagnosed by silver staining of sputum or bronchoalveolar lavage since the organism cannot be cultured. TMP-SMX is first-line treatment and is also used for prophylaxis when CD4 counts fall below 200 cells/microL.",
+      "topic": "Pneumocystis jirovecii pneumonia",
+      "angle": "treatment",
+      "id": "2026-09-20-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A child presents with a high-pitched inspiratory wheeze that is loudest over the neck, associated with partial obstruction of the upper airway. What is this finding called?",
+      "options": [
+        "Stridor",
+        "Rales",
+        "Wheezing",
+        "Rhonchi"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Stridor is a predominantly inspiratory sound loudest over the neck, indicating partial obstruction of the larynx or trachea, classically seen in croup, epiglottitis, retropharyngeal abscess, or diphtheria.",
+        "Rales (crackles) result from small airway popping open, as in pulmonary edema or pneumonia, and are distinct from the upper airway sound of stridor.",
+        "Wheezes are usually expiratory or biphasic sounds from narrowed lower airways (e.g., asthma), not the neck-localized inspiratory sound described here.",
+        "Rhonchi are coarse sounds from secretions in large airways, classically heard in COPD, not localized to the neck as an inspiratory sound."
+      ],
+      "overview": "Stridor is a high-pitched, predominantly inspiratory sound best heard over the neck that indicates partial obstruction of the larynx or trachea, with classic causes including croup, epiglottitis, retropharyngeal abscess, and diphtheria, distinguishing it from lower airway sounds like wheezes, rhonchi, and rales.",
+      "topic": "Stridor",
+      "angle": "clinical_presentation",
+      "id": "2026-09-20-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "A postoperative patient develops atelectasis due to shallow breathing from incisional pain. Which mechanical ventilation strategy helps prevent alveolar collapse by maintaining pressure during exhalation?",
+      "options": [
+        "Negative pressure ventilation",
+        "Positive end-expiratory pressure (PEEP)",
+        "Increasing FiO2 alone",
+        "Decreasing tidal volume"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Negative pressure ventilation (e.g., historical iron lung) is a different ventilatory approach and is not the standard method used to prevent atelectasis in modern postoperative or ICU care.",
+        "Correct. PEEP maintains a positive pressure at the end of exhalation (rather than allowing pressure to fall to atmospheric/zero), which keeps alveoli open and reduces collapse, commonly used to treat or prevent atelectasis in ventilated patients.",
+        "Increasing FiO2 improves oxygenation but does not directly prevent alveolar collapse the way PEEP does.",
+        "Decreasing tidal volume would provide less lung expansion and would not specifically prevent end-expiratory alveolar collapse."
+      ],
+      "overview": "Atelectasis (alveolar collapse) can be obstructive, compressive, adhesive (surfactant deficiency), or postoperative from reduced tidal volumes due to pain. Incentive spirometry encourages deep breathing to prevent postoperative atelectasis, while mechanical ventilation with PEEP keeps alveoli open by maintaining positive pressure during exhalation.",
+      "topic": "Atelectasis",
+      "angle": "treatment",
+      "id": "2026-09-20-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with a small spontaneous pneumothorax is treated with 100% supplemental oxygen. What is the mechanism by which this speeds resolution of the pneumothorax?",
+      "options": [
+        "It directly applies positive pressure to reinflate the alveoli",
+        "It increases surfactant production to reinflate the lung",
+        "It reduces pleural inflammation and fibrin deposition",
+        "It creates a nitrogen partial pressure gradient favoring reabsorption of pleural air"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Supplemental oxygen via face mask or nasal cannula does not provide positive pressure ventilation; larger pneumothoraces requiring reinflation need a chest tube.",
+        "Oxygen therapy does not act by increasing surfactant production; surfactant relates to alveolar surface tension, not pneumothorax resolution.",
+        "The mechanism of benefit relates to a diffusion gradient for nitrogen reabsorption, not an anti-inflammatory or antifibrotic effect.",
+        "Correct. Breathing 100% oxygen reduces blood nitrogen content toward zero while the pleural air remains about 78% nitrogen, creating a gradient that promotes nitrogen (and therefore overall gas volume) reabsorption from the pleural space, shrinking the pneumothorax."
+      ],
+      "overview": "Small spontaneous pneumothoraces, often occurring in tall thin young men (primary) or older patients with lung disease (secondary), can be managed with observation and 100% oxygen, which promotes reabsorption of pleural air via a nitrogen concentration gradient; larger pneumothoraces require chest tube placement.",
+      "topic": "Spontaneous pneumothorax",
+      "angle": "treatment",
+      "id": "2026-09-20-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to the alveolar ventilation equation, what happens to alveolar PCO2 (PACO2) when a patient hypoventilates (decreased alveolar ventilation) with constant CO2 production?",
+      "options": [
+        "PACO2 decreases",
+        "PACO2 falls to zero",
+        "PACO2 increases",
+        "PACO2 remains unchanged"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "A decrease in PACO2 would occur with increased alveolar ventilation (hyperventilation), not hypoventilation.",
+        "PACO2 approaching zero would require extremely high alveolar ventilation relative to CO2 production, the opposite of hypoventilation.",
+        "Correct. The alveolar ventilation equation shows PACO2 is proportional to CO2 production divided by alveolar ventilation; when alveolar ventilation falls (hypoventilation), PACO2 rises for a given rate of CO2 production.",
+        "PACO2 is inversely related to alveolar ventilation, so a change in ventilation will change PACO2, not leave it unchanged."
+      ],
+      "overview": "The alveolar ventilation equation states that PACO2 is directly proportional to the rate of CO2 production and inversely proportional to alveolar ventilation. The three major causes of elevated CO2 are increased CO2 production, hypoventilation (decreased alveolar ventilation), and increased dead space ventilation.",
+      "topic": "Alveolar ventilation equation",
+      "angle": "mechanism",
+      "id": "2026-09-20-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A patient being treated with isoniazid for latent tuberculosis infection develops numbness, tingling, and burning pain in both feet several weeks into therapy.",
+      "options": [
+        "Co-administer pyridoxine (vitamin B6)",
+        "Co-administer folate",
+        "Discontinue isoniazid permanently with no substitute",
+        "Co-administer thiamine (vitamin B1)",
+        "Co-administer cyanocobalamin (vitamin B12)"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Isoniazid competes with vitamin B6 (pyridoxine) as a cofactor in neurotransmitter synthesis, leading to peripheral neuropathy; pyridoxine is co-administered to prevent and treat this neurotoxicity.",
+        "Folate is not the cofactor depleted by isoniazid; the relevant vitamin is B6.",
+        "Isoniazid does not need to be permanently discontinued for this side effect; pyridoxine supplementation typically allows continued treatment.",
+        "Thiamine deficiency causes Wernicke-Korsakoff syndrome and beriberi, unrelated to isoniazid's mechanism of neurotoxicity.",
+        "Vitamin B12 deficiency causes a different type of neuropathy and is not the mechanism of isoniazid-induced neurotoxicity."
+      ],
+      "overview": "Isoniazid blocks mycolic acid synthesis in Mycobacterium tuberculosis but also causes peripheral neuropathy by competing with pyridoxine (B6) as a cofactor for neurotransmitter synthesis. Co-administration of pyridoxine limits this neurotoxicity, while hepatotoxicity is monitored separately.",
+      "topic": "Isoniazid",
+      "angle": "complications",
+      "id": "2026-09-20-30"
     }
   ]
 }
