@@ -1,5 +1,5 @@
 {
-  "cycle_index": 13,
+  "cycle_index": 14,
   "cycle_number": 2,
   "tail_order": [
     "Reproductive",
@@ -3392,6 +3392,126 @@
       {
         "topic": "Complete hydatidiform mole",
         "angle": "diagnosis"
+      },
+      {
+        "topic": "Lobular carcinoma in situ (LCIS)",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Inflammatory breast carcinoma",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "BRCA1 mutation",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Ectopic pregnancy",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Preeclampsia",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Placental abruption",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Varicocele",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Prostate adenocarcinoma",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Endometrial carcinoma",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Congenital rubella syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Fibroadenoma",
+        "angle": "epidemiology"
+      },
+      {
+        "topic": "Intraductal papilloma",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Mammary duct ectasia",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Periductal mastitis",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Sonic Hedgehog gene",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Wnt-7a",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "HOX genes",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Amniotic band syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Treacher Collins syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Branchial cleft cyst",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Thalidomide",
+        "angle": "complications"
+      },
+      {
+        "topic": "Diethylstilbestrol",
+        "angle": "complications"
+      },
+      {
+        "topic": "Fetal hydantoin syndrome (phenytoin)",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Valproic acid",
+        "angle": "complications"
+      },
+      {
+        "topic": "Warfarin",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Peyronie disease",
+        "angle": "treatment"
+      },
+      {
+        "topic": "PDE5 inhibitors (Sildenafil)",
+        "angle": "complications"
+      },
+      {
+        "topic": "Hydrocele",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Cryptorchidism",
+        "angle": "complications"
+      },
+      {
+        "topic": "Leydig cell tumor",
+        "angle": "clinical_presentation"
       }
     ],
     "Renal": [

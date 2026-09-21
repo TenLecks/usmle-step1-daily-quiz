@@ -650,6 +650,656 @@
       "id": "2026-09-01-30",
       "topic": "Complete hydatidiform mole",
       "angle": "diagnosis"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 6-year-old child presents with a non-tender neck mass located below the angle of the mandible and anterior to the sternocleidomastoid muscle. The mass does not move with swallowing. What is the most likely diagnosis?",
+      "options": [
+        "Cervical lymphadenitis",
+        "Branchial cleft cyst (second cleft)",
+        "Cystic hygroma",
+        "Thyroglossal duct cyst"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: cervical lymphadenitis presents as tender, inflamed nodes typically due to infection, not a persistent cystic mass in this classic location.",
+        "Correct: second pharyngeal cleft cysts are the most common branchial cleft cysts, presenting as a lateral neck mass below the angle of the mandible, anterior to the sternocleidomastoid muscle, that does not move with swallowing.",
+        "Incorrect: cystic hygroma is a lymphatic malformation typically found in the posterior triangle, often associated with Turner syndrome, not matching this specific location.",
+        "Incorrect: a thyroglossal duct cyst is a midline mass that moves with swallowing, unlike this lateral, non-moving mass."
+      ],
+      "overview": "Pharyngeal clefts are lined by ectoderm, and second cleft cysts (the most common branchial cleft cysts) present as a lateral neck mass below the angle of the mandible and anterior to the sternocleidomastoid muscle that does not move with swallowing\u2014distinguishing them from the midline, swallow-mobile thyroglossal duct cyst.",
+      "topic": "Branchial cleft cyst",
+      "angle": "diagnosis",
+      "id": "2026-09-21-01"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 52-year-old woman presents with rapidly progressive erythema, warmth, and swelling of the right breast over three weeks, with skin dimpling resembling an orange peel. She is afebrile. Mammogram shows diffuse skin thickening without a discrete mass, and skin punch biopsy reveals tumor emboli within dermal lymphatic vessels. What is the most likely diagnosis?",
+      "options": [
+        "Paget disease of the breast",
+        "Fibroadenoma",
+        "Acute mastitis",
+        "Fat necrosis",
+        "Inflammatory breast carcinoma"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: Paget disease causes nipple erythema/eczema from underlying DCIS extending to the nipple, not diffuse peau d'orange skin change across the breast.",
+        "Incorrect: fibroadenoma presents as a well-defined, mobile, benign mass without skin changes or dermal lymphatic invasion.",
+        "Incorrect: acute mastitis occurs mainly in lactating women with fever and signs of infection, and does not show dermal lymphatic tumor emboli on biopsy.",
+        "Incorrect: fat necrosis follows trauma and presents as a painless mass, not diffuse erythema with dermal lymphatic tumor emboli.",
+        "Correct: inflammatory carcinoma results from tumor invasion of dermal lymphatic vessels, producing erythema, swelling, and peau d'orange skin change that mimics infection; it is high grade with a poor prognosis."
+      ],
+      "overview": "Inflammatory breast carcinoma results from tumor invasion of dermal lymphatic vessels, producing erythema, swelling, and peau d'orange skin changes that mimic infection rather than presenting as a discrete palpable mass. It is a high-grade cancer with a poor prognosis and requires skin biopsy showing dermal lymphatic tumor emboli for diagnosis.",
+      "topic": "Inflammatory breast carcinoma",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "An infant born to a mother treated with phenytoin during pregnancy for epilepsy presents with growth deficiency, microcephaly, a broad short nose, wide-spaced eyes, and cleft lip/palate. What is this constellation of findings called?",
+      "options": [
+        "Fetal alcohol syndrome",
+        "Aminopterin/methotrexate embryopathy",
+        "Fetal hydantoin syndrome",
+        "Warfarin embryopathy"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: fetal alcohol syndrome causes a smooth philtrum, short palpebral fissures, and thin vermillion border, but is caused by alcohol, not phenytoin.",
+        "Incorrect: methotrexate embryopathy includes neural tube defects and limb anomalies, not this classic phenytoin-associated presentation.",
+        "Correct: fetal hydantoin syndrome is associated with phenytoin use in pregnancy and includes growth deficiency, abnormal facial features (broad short nose, wide-spaced eyes, malformed ears), microcephaly, and cleft lip/palate.",
+        "Incorrect: warfarin embryopathy causes nasal hypoplasia, stippled epiphyses, and limb hypoplasia, not this classic phenytoin-associated presentation."
+      ],
+      "overview": "Fetal hydantoin syndrome results from maternal phenytoin use during pregnancy and includes growth deficiency, microcephaly, characteristic facial abnormalities (broad short nose, wide-spaced eyes, malformed ears), and cleft lip/palate, one of several teratogenic syndromes caused by anti-seizure drugs.",
+      "topic": "Fetal hydantoin syndrome (phenytoin)",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-03"
+    },
+    {
+      "format": "simple4",
+      "stem": "A neonate has bilateral underdeveloped facial bones, a small mandible (micrognathia), absent or small ears, and retraction of the tongue causing airway obstruction. This constellation of findings is caused by a defect in which embryologic process?",
+      "options": [
+        "Failure of the palatal shelves to fuse",
+        "Failure of neural crest cell migration into the first and second pharyngeal arches",
+        "Failure of fusion of the medial nasal prominences",
+        "Persistence of the thyroglossal duct"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: failure of palatal shelf fusion causes isolated cleft palate, not the ear and mandibular findings described.",
+        "Correct: Treacher Collins syndrome is a first and second pharyngeal arch syndrome caused by failure of neural crest cell migration, leading to underdeveloped facial bones (mandibular hypoplasia/micrognathia), absent or small ears, and glossoptosis causing airway obstruction.",
+        "Incorrect: failure of medial nasal prominence fusion causes cleft lip, not this arch-derived constellation.",
+        "Incorrect: thyroglossal duct persistence causes a midline neck cyst, unrelated to Treacher Collins syndrome."
+      ],
+      "overview": "Treacher Collins syndrome is a first and second pharyngeal arch syndrome resulting from failure of neural crest cell migration, producing underdeveloped facial bones, mandibular hypoplasia (micrognathia), absent or small ears, and glossoptosis that can obstruct the airway via tongue retraction.",
+      "topic": "Treacher Collins syndrome",
+      "angle": "pathophysiology",
+      "id": "2026-09-21-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "An infant born to a mother anticoagulated with warfarin throughout pregnancy is noted to have nasal hypoplasia, limb hypoplasia, and small round calcific densities on the epiphyses seen on x-ray. What is this finding called?",
+      "options": [
+        "Stippled epiphyses",
+        "Call-Exner bodies",
+        "Schiller-Duval bodies",
+        "Psammoma bodies"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: warfarin embryopathy includes stippled epiphyses (small, round densities on x-ray), nasal hypoplasia, and limb hypoplasia due to bone and cartilage abnormalities.",
+        "Incorrect: Call-Exner bodies are seen in granulosa cell tumors, not warfarin embryopathy.",
+        "Incorrect: Schiller-Duval bodies are glomeruloid structures seen in yolk sac tumors, unrelated to warfarin.",
+        "Incorrect: psammoma bodies are seen in serous ovarian tumors, not warfarin embryopathy."
+      ],
+      "overview": "Warfarin is a pregnancy class D teratogen causing fetal hemorrhage, spontaneous abortion, and optic atrophy, along with characteristic warfarin embryopathy featuring bone and cartilage abnormalities: stippled epiphyses, nasal hypoplasia, and limb hypoplasia.",
+      "topic": "Warfarin",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-05"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old man undergoes routine screening; PSA is 12 ng/mL. Digital rectal exam reveals a firm nodule in the posterior lobe of the prostate. What is the most appropriate next step to establish a diagnosis?",
+      "options": [
+        "Serum alkaline phosphatase measurement",
+        "Repeat PSA in 6 months",
+        "Bone scan",
+        "Transrectal ultrasound-guided prostate biopsy",
+        "CT of the abdomen and pelvis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: alkaline phosphatase may be elevated with osteoblastic bone metastases but does not establish the primary tissue diagnosis.",
+        "Incorrect: PSA >10 ng/mL with a palpable nodule is highly suspicious for cancer; repeating in 6 months unnecessarily delays diagnosis.",
+        "Incorrect: bone scan is used for staging metastatic disease after diagnosis, not for initial diagnosis.",
+        "Correct: diagnosis of prostate adenocarcinoma requires histologic confirmation via transrectal biopsy, often with transrectal ultrasound (TRUS) guidance, especially given the elevated PSA and palpable posterior lobe nodule (the classic tumor location).",
+        "Incorrect: imaging alone does not provide a histologic diagnosis of malignancy."
+      ],
+      "overview": "Prostate adenocarcinoma classically arises in the peripheral zone (posterior lobe), often felt as an asymmetric nodule on digital rectal exam, and is screened for with PSA (levels >10 ng/mL are highly suspicious for cancer). Diagnosis requires transrectal ultrasound-guided biopsy, with prognosis and treatment guided by Gleason grade and stage.",
+      "topic": "Prostate adenocarcinoma",
+      "angle": "diagnosis",
+      "id": "2026-09-21-06"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 44-year-old woman undergoes a breast biopsy for an incidental mammographic finding unrelated to calcifications. Pathology reveals lobular carcinoma in situ (LCIS) with loss of E-cadherin expression and a discohesive growth pattern. There is no palpable mass, and imaging does not show microcalcifications. What is the most appropriate management given her risk of future invasive carcinoma in either breast?",
+      "options": [
+        "Neoadjuvant chemotherapy followed by lumpectomy",
+        "Immediate bilateral mastectomy",
+        "Whole-breast radiation therapy",
+        "Surveillance with consideration of chemoprevention (e.g., tamoxifen)",
+        "Wide local excision alone with no further follow-up"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: chemotherapy is reserved for invasive cancer and is not indicated for a non-invasive risk lesion like LCIS.",
+        "Incorrect: mastectomy is overly aggressive as initial management; LCIS is a risk marker, not an invasive cancer requiring immediate surgical removal of the breast.",
+        "Incorrect: radiation is not indicated for LCIS, unlike for some cases of DCIS, since LCIS is a risk marker rather than a treated malignancy.",
+        "Correct: LCIS is a non-invasive risk factor (not a precursor lesion) for invasive carcinoma in either breast, so management is surveillance with consideration of chemoprevention such as tamoxifen (a SERM).",
+        "Incorrect: excision alone does not address the ongoing bilateral future cancer risk; continued surveillance is still needed."
+      ],
+      "overview": "LCIS arises from proliferation of cells in the terminal duct lobular unit with loss of the adhesion protein E-cadherin, producing a discohesive growth pattern; unlike DCIS, it does not form microcalcifications and is often an incidental biopsy finding. Because it is a risk factor (not a direct precursor) for invasive carcinoma in either breast, management is surveillance with consideration of chemoprevention (e.g., tamoxifen) rather than aggressive surgery.",
+      "topic": "Lobular carcinoma in situ (LCIS)",
+      "angle": "treatment",
+      "id": "2026-09-21-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 4-year-old boy with a history of an undescended left testicle that never required surgical correction is at increased long-term risk for which of the following?",
+      "options": [
+        "Varicocele",
+        "Sertoli cell tumor",
+        "Testicular lymphoma",
+        "Germ cell tumor of the testis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: varicocele is caused by venous outflow obstruction (nutcracker effect), not related to cryptorchidism.",
+        "Incorrect: Sertoli cell tumors are not specifically associated with cryptorchidism as a risk factor.",
+        "Incorrect: testicular lymphoma is most common in men over 60 and is not specifically linked to cryptorchidism.",
+        "Correct: cryptorchidism increases the risk of low sperm counts, inguinal hernia, testicular torsion, and germ cell tumors due to increased temperature effects on the testis."
+      ],
+      "overview": "Cryptorchidism (undescended testes) increases risk of germ cell tumors, low sperm counts, inguinal hernias, and testicular torsion due to elevated intra-abdominal temperature affecting the testis; orchiopexy (usually performed if descent has not occurred by 6 months of age) is used to reposition the testis and can help normalize sperm counts.",
+      "topic": "Cryptorchidism",
+      "angle": "complications",
+      "id": "2026-09-21-08"
+    },
+    {
+      "format": "simple4",
+      "stem": "Female offspring of mothers who took diethylstilbestrol (DES) during pregnancy are at increased risk for which of the following?",
+      "options": [
+        "Ebstein anomaly",
+        "Stippled epiphyses",
+        "Vaginal clear cell adenocarcinoma",
+        "Aplasia cutis"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: Ebstein anomaly is associated with lithium exposure, not DES.",
+        "Incorrect: stippled epiphyses are associated with warfarin embryopathy, not DES.",
+        "Correct: DES exposure in utero causes vaginal adenosis and is classically associated with vaginal clear cell adenocarcinoma, along with hypoplastic uterus, cervical hypoplasia, and infertility.",
+        "Incorrect: aplasia cutis is associated with methimazole exposure, not DES."
+      ],
+      "overview": "Diethylstilbestrol (DES) is a nonsteroidal estrogen formerly used to prevent miscarriage that causes reproductive tract abnormalities in female offspring, including hypoplastic uterus, cervical hypoplasia, vaginal adenosis, and vaginal clear cell adenocarcinoma, along with high rates of infertility.",
+      "topic": "Diethylstilbestrol",
+      "angle": "complications",
+      "id": "2026-09-21-09"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 38-year-old woman with a strong family history of breast and ovarian cancer undergoes genetic testing and is found to carry a BRCA1 mutation. Which of the following statements is most accurate regarding her risk profile?",
+      "options": [
+        "BRCA1 mutations are inherited in an autosomal recessive pattern with complete penetrance",
+        "Familial mutations account for the majority of all breast cancer cases",
+        "BRCA2 mutations are more strongly associated with ovarian cancer than BRCA1",
+        "BRCA1 mutations increase risk of ovarian cancer and are inherited in an autosomal dominant pattern with incomplete penetrance",
+        "BRCA1 mutations primarily cause male breast cancer and pancreatic cancer"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: BRCA1/2 mutations are inherited in an autosomal dominant pattern with incomplete penetrance, not autosomal recessive with complete penetrance.",
+        "Incorrect: familial mutations (including BRCA1/2) account for only about 10% of all breast cancer cases, not the majority.",
+        "Incorrect: BRCA1, not BRCA2, is more strongly associated with ovarian cancer; BRCA2 is more associated with male breast cancer and pancreatic cancer.",
+        "Correct: BRCA1 and BRCA2 are germline, autosomal dominant mutations with incomplete penetrance in DNA repair genes; BRCA1 is specifically associated with increased ovarian cancer risk.",
+        "Incorrect: male breast cancer and pancreatic cancer associations describe BRCA2, not BRCA1."
+      ],
+      "overview": "BRCA1 and BRCA2 encode DNA repair proteins and are inherited in an autosomal dominant pattern with incomplete penetrance, accounting for about 85% of single-gene familial breast cancers (roughly 10% of all breast cancers). BRCA1 carries additional risk for ovarian cancer, while BRCA2 is more strongly linked to male breast cancer and pancreatic cancer.",
+      "topic": "BRCA1 mutation",
+      "angle": "risk_factors",
+      "id": "2026-09-21-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 55-year-old man presents with penile pain, a palpable nodule, and abnormal curvature of the penis during erection. Biopsy would show localized fibrosis of the tunica albuginea. Which of the following is a treatment option that reduces inflammation and prevents collagen deposition?",
+      "options": [
+        "Finasteride",
+        "Leuprolide",
+        "Pentoxifylline",
+        "Sildenafil"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: finasteride is a 5\u03b1-reductase inhibitor used for BPH, not Peyronie disease.",
+        "Incorrect: leuprolide is a GnRH analog used in prostate cancer treatment and endometriosis, unrelated to Peyronie disease.",
+        "Correct: pentoxifylline, a phosphodiesterase inhibitor, reduces inflammation and prevents collagen deposition in Peyronie disease and can be given orally or by injection.",
+        "Incorrect: sildenafil is a PDE5 inhibitor used for erectile dysfunction, not specifically indicated to treat the fibrosis of Peyronie disease."
+      ],
+      "overview": "Peyronie disease is an acquired condition of localized fibrosis of the tunica albuginea, likely related to trauma in a susceptible individual, causing pain, a palpable nodule, abnormal curvature with erection, and erectile dysfunction. Treatment includes pentoxifylline, a phosphodiesterase inhibitor that reduces inflammation and prevents further collagen deposition.",
+      "topic": "Peyronie disease",
+      "angle": "treatment",
+      "id": "2026-09-21-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "A neonate is found to have a single-lobed forebrain without separation of the cerebral hemispheres, along with cyclopia and cleft lip/palate. This is most likely due to a defect in which signaling pathway?",
+      "options": [
+        "HOX gene signaling",
+        "Wnt-7a signaling",
+        "Sonic Hedgehog (SHH)",
+        "FGF signaling at the apical ectodermal ridge"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: HOX genes govern anterior-posterior limb and body segment patterning, not forebrain cleavage.",
+        "Incorrect: Wnt-7a governs dorsal-ventral limb patterning, unrelated to forebrain separation.",
+        "Correct: SHH signaling is required for cleavage and separation of the prosencephalon; mutations cause holoprosencephaly, with a single-lobed brain, cyclopia, and midline facial defects such as cleft lip/palate.",
+        "Incorrect: FGF/apical ectodermal ridge signaling governs proximal-distal limb growth, not forebrain cleavage."
+      ],
+      "overview": "Sonic Hedgehog (SHH) signaling establishes the midline and separates the cerebral hemispheres during forebrain development; mutations cause holoprosencephaly, characterized by failure of prosencephalon cleavage, a single-lobed brain, and midline facial defects including cyclopia and cleft lip/palate. SHH also plays an essential role in limb anterior-posterior patterning via the zone of polarizing activity.",
+      "topic": "Sonic Hedgehog gene",
+      "angle": "pathophysiology",
+      "id": "2026-09-21-12"
+    },
+    {
+      "format": "simple4",
+      "stem": "Deletion of the Wnt-7a gene in a mouse embryo limb bud would most likely result in which of the following limb abnormalities?",
+      "options": [
+        "Two ventral (sole) surfaces on the paw instead of a dorsal and ventral surface",
+        "Absence of the entire limb",
+        "Failure of proximal-distal limb elongation",
+        "Duplication of digits along the anterior-posterior axis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Wnt-7a activates LMX-1 in the underlying mesoderm, 'dorsalizing' the limb; its deletion results in two ventral surfaces (soles) on the paw instead of a normal dorsal-ventral distinction.",
+        "Incorrect: absence of the entire limb would result from removal of the apical ectodermal ridge, not loss of Wnt-7a.",
+        "Incorrect: proximal-distal limb elongation depends on FGF signaling from the apical ectodermal ridge, not Wnt-7a.",
+        "Incorrect: digit duplication along the anterior-posterior axis relates to abnormalities of the zone of polarizing activity/SHH or HOX genes, not Wnt-7a."
+      ],
+      "overview": "Wnt-7a is expressed in the dorsal ectoderm and activates LMX-1 in the underlying mesoderm to 'dorsalize' the limb, establishing the dorsal-ventral axis (extensors dorsal, flexors ventral). Loss of Wnt-7a produces a double-ventral limb phenotype (soles on both surfaces), distinct from FGF's role in proximal-distal growth and SHH/HOX genes' role in anterior-posterior patterning.",
+      "topic": "Wnt-7a",
+      "angle": "mechanism",
+      "id": "2026-09-21-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "Homeobox (HOX) genes primarily function during embryogenesis by which of the following mechanisms?",
+      "options": [
+        "Inhibiting p53 and Rb tumor suppressor proteins",
+        "Serving as an adhesion protein connecting epithelial cells",
+        "Encoding a diffusible morphogen secreted by the apical ectodermal ridge",
+        "Encoding transcription factors that regulate anterior-posterior axis patterning and body segment formation"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: this describes the HPV oncoproteins E6/E7, unrelated to HOX gene function.",
+        "Incorrect: this describes E-cadherin, an adhesion protein, not a HOX gene function.",
+        "Incorrect: this describes FGF, a diffusible signaling protein secreted by the apical ectodermal ridge, not a HOX gene function.",
+        "Correct: HOX genes are homeotic genes encoding transcription factors that regulate the anterior-posterior axis and the formation of body segments; mutations can cause abnormal digit formation such as polydactyly or syndactyly."
+      ],
+      "overview": "Homeotic (HOX) genes encode transcription factors that share a conserved ~180 base pair homeobox sequence and regulate anterior-posterior axis development and body segment identity. Mutations in HOX genes can cause homeotic transformations and limb/digit anomalies such as polydactyly or syndactyly.",
+      "topic": "HOX genes",
+      "angle": "mechanism",
+      "id": "2026-09-21-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 24-year-old man presents for infertility evaluation. On exam, standing produces a palpable 'bag of worms' mass in the left hemiscrotum that decreases in size when he lies supine. Ultrasound confirms dilated veins of the pampiniform plexus. What best explains the left-sided predominance of this condition?",
+      "options": [
+        "The left spermatic vein drains directly into the IVC",
+        "Left-sided varicoceles are caused by retrograde lymphatic flow",
+        "The right testicular artery is shorter, causing venous congestion on the left",
+        "The left epididymis lacks valves entirely",
+        "The left spermatic vein has a longer course and drains into the left renal vein, which is compressed between the aorta and superior mesenteric artery"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: it is the right spermatic vein that drains directly into the IVC, not the left.",
+        "Incorrect: varicocele is a venous, not lymphatic, phenomenon.",
+        "Incorrect: arterial anatomy is not the mechanism underlying varicocele formation.",
+        "Incorrect: the described mechanism relates to venous drainage anatomy, not epididymal valve anatomy.",
+        "Correct: the left spermatic vein has a long course draining into the left renal vein, which can be compressed between the aorta and superior mesenteric artery (the 'nutcracker effect'), causing venous outflow obstruction and left-sided predominance of varicocele."
+      ],
+      "overview": "A varicocele is dilation of the pampiniform venous plexus, occurring more commonly on the left due to the long course of the left spermatic vein into the left renal vein, which can be compressed between the aorta and superior mesenteric artery (the 'nutcracker effect'). It presents as a 'bag of worms' that enlarges with standing or Valsalva and can impair fertility through increased scrotal temperature and poor blood flow.",
+      "topic": "Varicocele",
+      "angle": "pathophysiology",
+      "id": "2026-09-21-15"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 7-year-old boy presents with early onset of pubic hair, penile enlargement, and a testicular mass. Biopsy of the mass reveals a golden-brown tumor with Reinke crystals in the cytoplasm of tumor cells. What is the most likely diagnosis?",
+      "options": [
+        "Leydig cell tumor",
+        "Seminoma",
+        "Sertoli cell tumor",
+        "Yolk sac tumor"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: Leydig cell tumors produce androgens and estrogens, causing gynecomastia or sexual precocity (early puberty) in children; classic histology shows a golden-brown mass with Reinke crystals in tumor cell cytoplasm.",
+        "Incorrect: seminoma is a germ cell tumor with 'fried egg' histology occurring in young men, not associated with precocious puberty or Reinke crystals.",
+        "Incorrect: Sertoli cell tumors (androblastomas) usually do not produce hormones and are typically benign, not associated with precocious puberty.",
+        "Incorrect: yolk sac tumor occurs in young children and secretes AFP with Schiller-Duval bodies, not androgen-driven precocious puberty with Reinke crystals."
+      ],
+      "overview": "Leydig cell tumors are non-germ cell testicular (sex cord-stromal) tumors that produce androgens and estrogens, causing gynecomastia in adults or sexual precocity in children, with characteristic golden-brown, lipid-rich tumor tissue and Reinke crystals seen on histology.",
+      "topic": "Leydig cell tumor",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-16"
+    },
+    {
+      "format": "simple4",
+      "stem": "A newborn is found to have constriction rings around several digits with distal amputation defects. Prenatal ultrasound had shown fibrous strands within the amniotic cavity. This is an example of which category of morphogenesis error?",
+      "options": [
+        "Malformation (intrinsic)",
+        "Agenesis (intrinsic)",
+        "Disruption (extrinsic)",
+        "Deformation (extrinsic)"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect: malformation is an intrinsic abnormal development of a structure (e.g., cleft palate), not caused by external entrapment.",
+        "Incorrect: agenesis is an intrinsic failure of an organ to form due to absent embryonic tissue, unrelated to external bands.",
+        "Correct: amniotic band syndrome is a disruption, an extrinsic error in which fibrous bands entrap normally developing fetal tissue (commonly limbs/digits), arresting further growth.",
+        "Incorrect: deformation is an extrinsic external force that misshapes (rather than arrests via entrapment/amputation) growth, as in Potter sequence."
+      ],
+      "overview": "Errors in morphogenesis are divided into intrinsic causes (agenesis, aplasia, hypoplasia, malformation\u2014due to abnormal genes or internal processes) and extrinsic causes (disruption, deformation\u2014due to external forces). Amniotic band syndrome is a classic disruption, in which fibrous amniotic bands entrap fetal limbs or digits, arresting their normal growth.",
+      "topic": "Amniotic band syndrome",
+      "angle": "pathophysiology",
+      "id": "2026-09-21-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 32-year-old primigravid woman at 34 weeks gestation presents with new-onset blood pressure of 158/102 mmHg, 2+ proteinuria on urine dipstick, and a headache. She also reports right upper quadrant pain, and labs show mildly elevated liver enzymes. What is the most likely diagnosis?",
+      "options": [
+        "Gestational hypertension",
+        "HELLP syndrome",
+        "Eclampsia",
+        "Chronic hypertension",
+        "Preeclampsia"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: gestational hypertension lacks proteinuria or end-organ involvement, whereas this patient has both proteinuria and hepatic involvement.",
+        "Incorrect: HELLP syndrome requires hemolysis, elevated liver enzymes, AND low platelets; no evidence of hemolysis or thrombocytopenia is given.",
+        "Incorrect: eclampsia requires seizures, which are not present in this vignette.",
+        "Incorrect: chronic hypertension predates pregnancy or is diagnosed before 20 weeks; this is new-onset hypertension in the third trimester.",
+        "Correct: preeclampsia is defined as new-onset hypertension after 20 weeks plus proteinuria or evidence of end-organ dysfunction (headache, liver involvement), classically in a first pregnancy."
+      ],
+      "overview": "Preeclampsia is a multisystem disorder of pregnancy defined by new-onset hypertension after 20 weeks plus proteinuria or evidence of end-organ dysfunction (renal, CNS, or hepatic), arising from abnormal placental spiral artery remodeling and diffuse maternal endothelial dysfunction. It typically occurs in the third trimester of a first pregnancy and resolves with delivery of the placenta.",
+      "topic": "Preeclampsia",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-18"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A newborn is found to have sensorineural hearing loss, bilateral cataracts, and a continuous 'machine-like' murmur consistent with a patent ductus arteriosus. The mother reports a mild febrile illness with a rash and joint pain early in pregnancy that went untreated. Skin exam of the infant shows purpuric, non-blanching papules. What is the most likely diagnosis?",
+      "options": [
+        "Congenital varicella syndrome",
+        "Congenital toxoplasmosis",
+        "Congenital syphilis",
+        "Congenital rubella syndrome",
+        "Congenital CMV infection"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: congenital varicella causes dermatomal scars, limb hypoplasia, and CNS/ocular abnormalities, not the classic deafness-cataract-PDA triad.",
+        "Incorrect: the classic toxoplasmosis triad is hydrocephalus, chorioretinitis, and intracranial calcifications, not cataracts and PDA.",
+        "Incorrect: congenital syphilis presents with maculopapular rash, rhinitis ('snuffles'), saddle nose, saber shins, and Hutchinson teeth, not cataracts and PDA.",
+        "Correct: the classic triad of congenital rubella syndrome is sensorineural deafness, cataracts, and cardiac malformations (classically PDA); the purpuric 'blueberry muffin' lesions reflect persistent extramedullary hematopoiesis.",
+        "Incorrect: CMV classically causes sensorineural hearing loss and periventricular calcifications, but cataracts and PDA are not the classic CMV triad."
+      ],
+      "overview": "Congenital rubella syndrome results from maternal infection via respiratory droplets and produces a classic triad of sensorineural deafness, cataracts, and cardiac malformations (classically patent ductus arteriosus), along with 'blueberry muffin baby' purpuric lesions from persistent extramedullary hematopoiesis. It arises when a typically mild, self-limited maternal illness (rash, lymphadenopathy, arthralgia) crosses the placenta during critical periods of fetal organogenesis.",
+      "topic": "Congenital rubella syndrome",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-19"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 29-year-old woman at 33 weeks gestation with a history of smoking and chronic hypertension presents with sudden-onset severe, painful vaginal bleeding, abdominal pain, and frequent uterine contractions. Fetal heart tracing shows late decelerations. Ultrasound does not clearly identify a source of bleeding. What is the most likely diagnosis?",
+      "options": [
+        "Uterine rupture",
+        "Placental abruption",
+        "Placenta previa",
+        "Placenta accreta",
+        "Vasa previa"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: uterine rupture typically occurs with a prior uterine scar (e.g., C-section) and presents with sudden severe pain and loss of fetal station, less consistent with this presentation.",
+        "Correct: placental abruption presents with abrupt, painful vaginal bleeding, abdominal/back pain, and uterine contractions, often in the setting of hypertension and smoking; ultrasound is notoriously unreliable for this diagnosis, which is largely clinical.",
+        "Incorrect: placenta previa classically causes painless vaginal bleeding, not painful bleeding with contractions.",
+        "Incorrect: placenta accreta usually presents with failure of placental separation after delivery, not antepartum painful bleeding.",
+        "Incorrect: vasa previa presents with bleeding at rupture of membranes and fetal distress, a different clinical scenario than described here."
+      ],
+      "overview": "Placental abruption is premature separation of a normally implanted placenta, presenting with abrupt, painful vaginal bleeding, abdominal/back pain, and uterine contractions; diagnosis is largely clinical since ultrasound is unreliable. Risk factors include hypertension/preeclampsia, smoking, cocaine use, trauma, and abnormal uterine anatomy, and it can progress to maternal shock, DIC, and fetal distress.",
+      "topic": "Placental abruption",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "In which age group and hormonal context is fibroadenoma of the breast most commonly diagnosed?",
+      "options": [
+        "Prepubertal girls",
+        "Men aged 60 to 70",
+        "Postmenopausal women older than 60",
+        "Premenopausal women, ages 15-35, hormone-sensitive"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: fibroadenomas do not typically present before puberty.",
+        "Incorrect: male breast cancer, not fibroadenoma, is classically described in men aged 60-70.",
+        "Incorrect: postmenopausal women older than 60 with a stromal tumor is more typical of phyllodes tumor, not fibroadenoma.",
+        "Correct: fibroadenoma is the most common benign breast tumor, occurring in premenopausal women ages 15-35; it is hormone-sensitive, increasing in size with the menstrual cycle and pregnancy and regressing after menopause."
+      ],
+      "overview": "Fibroadenoma is the most common benign breast tumor, arising from intralobular stroma in premenopausal women (typically ages 15-35). It is hormone-sensitive, growing during the menstrual cycle and pregnancy and regressing after menopause, and presents as a well-defined, mobile, solid mass.",
+      "topic": "Fibroadenoma",
+      "angle": "epidemiology",
+      "id": "2026-09-21-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "A drug once used as a sedative in pregnancy during the 1950s, and now used to treat multiple myeloma, is associated with which fetal complication when taken during the first trimester?",
+      "options": [
+        "Ebstein anomaly",
+        "Neural tube defects",
+        "Vaginal clear cell adenocarcinoma",
+        "Limb defects such as phocomelia and amelia"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: Ebstein anomaly is associated with lithium exposure, not thalidomide.",
+        "Incorrect: neural tube defects are associated with valproic acid, methotrexate, and other folate antagonists, not thalidomide.",
+        "Incorrect: vaginal clear cell adenocarcinoma is associated with diethylstilbestrol exposure, not thalidomide.",
+        "Correct: thalidomide is a pregnancy class X drug causing severe limb deformities including amelia (absent limb), micromelia (short limbs), and phocomelia (abnormal limb)."
+      ],
+      "overview": "Thalidomide is a pregnancy category X teratogen, historically used as a sedative in pregnancy in the 1950s and now used for multiple myeloma, that causes characteristic limb deformities (amelia, micromelia, phocomelia) when taken during the vulnerable embryonic period of limb formation.",
+      "topic": "Thalidomide",
+      "angle": "complications",
+      "id": "2026-09-21-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 45-year-old woman presents with unilateral bloody nipple discharge and a small subareolar mass. Biopsy shows a benign proliferation of ductal epithelial cells forming finger-like projections within a duct. What is the diagnosis?",
+      "options": [
+        "Mammary duct ectasia",
+        "Paget disease of the breast",
+        "Ductal carcinoma in situ",
+        "Intraductal papilloma"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: mammary duct ectasia causes thick, dirty white/green/black discharge in older multiparous women, not bloody discharge with papillary histology.",
+        "Incorrect: Paget disease presents with nipple erythema/eczema from underlying malignancy, not a discrete papillary intraductal growth.",
+        "Incorrect: DCIS is malignant and associated with microcalcifications, not a benign papillary proliferation.",
+        "Correct: intraductal papilloma is a benign growth of ductal epithelial cells forming finger-like ('papillary') projections, classically presenting with bloody or serous nipple discharge and a small mass near the nipple."
+      ],
+      "overview": "Intraductal papilloma is a benign proliferation of ductal epithelial cells growing in finger-like papillary projections within a duct or lactiferous sinus, classically presenting with bloody or serous nipple discharge and sometimes a small palpable mass near the nipple.",
+      "topic": "Intraductal papilloma",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-23"
+    },
+    {
+      "format": "simple4",
+      "stem": "Squamous metaplasia of the lactiferous ducts (periductal mastitis) occurs in more than 90% of cases in association with which risk factor?",
+      "options": [
+        "Recent breastfeeding",
+        "Cigarette smoking",
+        "Obesity",
+        "Multiparity"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: recent breastfeeding is associated with acute lactational mastitis (typically S. aureus), not periductal mastitis.",
+        "Correct: more than 90% of periductal mastitis cases occur in female smokers, as smoking is toxic to subareolar ducts and may cause relative vitamin A deficiency.",
+        "Incorrect: obesity is not the classic risk factor cited for periductal mastitis.",
+        "Incorrect: multiparity is a classic risk factor for mammary duct ectasia, not specifically periductal mastitis."
+      ],
+      "overview": "Periductal mastitis is squamous metaplasia of the lactiferous ducts occurring overwhelmingly (>90% of cases) in female smokers, thought to result from the toxic effects of smoking and a relative vitamin A deficiency in the ducts. It presents as a periareolar mass with redness, tenderness, and warmth, often requiring antibiotics or incision and drainage for secondary infection.",
+      "topic": "Periductal mastitis",
+      "angle": "risk_factors",
+      "id": "2026-09-21-24"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 61-year-old obese woman with a history of polycystic ovarian syndrome presents with postmenopausal vaginal bleeding. Endometrial biopsy reveals endometrioid-type adenocarcinoma. Which of the following best explains her increased risk for this tumor subtype?",
+      "options": [
+        "Chronic unopposed estrogen exposure from anovulation and peripheral aromatization of androgens in adipose tissue",
+        "Estrogen-independent atrophic endometrial transformation",
+        "Mismatch repair-independent p53 mutation as the primary driver",
+        "HPV infection of the endocervical transformation zone",
+        "Persistent progesterone stimulation of the endometrium"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: endometrioid (Type I) endometrial carcinoma is estrogen-dependent; obesity increases peripheral conversion of androgens to estrogen, and PCOS causes chronic anovulation, both producing unopposed estrogen exposure that drives endometrial hyperplasia progressing to carcinoma.",
+        "Incorrect: endometrioid carcinoma is estrogen-dependent, not estrogen-independent/atrophic, which instead describes the serous subtype.",
+        "Incorrect: p53 mutation is the hallmark of the estrogen-independent serous (Type II) subtype, not the endometrioid subtype.",
+        "Incorrect: HPV infection is relevant to cervical carcinoma, not endometrial carcinoma.",
+        "Incorrect: progesterone opposes and reverses estrogen-driven endometrial hyperplasia; it does not cause carcinoma."
+      ],
+      "overview": "Endometrioid (Type I) endometrial carcinoma is driven by chronic unopposed estrogen exposure from sources such as obesity (via peripheral aromatization), PCOS-related anovulation, tamoxifen, or estrogen-only hormone therapy, and is typically preceded by endometrial hyperplasia. This contrasts with the estrogen-independent, p53-mutated serous (Type II) subtype, which arises from atrophic endometrium and carries a worse prognosis.",
+      "topic": "Endometrial carcinoma",
+      "angle": "risk_factors",
+      "id": "2026-09-21-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 52-year-old multiparous woman presents with a subareolar breast mass and thick, greenish-black nipple discharge without pain or erythema. What is the most likely diagnosis?",
+      "options": [
+        "Acute mastitis",
+        "Intraductal papilloma",
+        "Fat necrosis",
+        "Mammary duct ectasia"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect: acute mastitis occurs during breastfeeding with erythema, tenderness, and fever, which does not match this painless presentation.",
+        "Incorrect: intraductal papilloma causes bloody or serous discharge, not thick dirty-colored discharge.",
+        "Incorrect: fat necrosis follows trauma and presents as a painless mass without the characteristic discharge described.",
+        "Correct: mammary duct ectasia is a benign inflammatory condition of older, multiparous women causing distension of subareolar ducts with dirty white, greenish, or black discharge, usually without pain or erythema."
+      ],
+      "overview": "Mammary duct ectasia is a benign condition of subareolar duct dilation due to chronic inflammation and fibrosis, occurring in older multiparous women (around 50 years old) and presenting with a breast mass and dirty white, green, or black nipple discharge, usually without pain or erythema, requiring differentiation from breast cancer.",
+      "topic": "Mammary duct ectasia",
+      "angle": "clinical_presentation",
+      "id": "2026-09-21-26"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 28-year-old woman with a history of pelvic inflammatory disease presents with 6 weeks of amenorrhea, lower abdominal pain, and light vaginal spotting. Serum \u03b2-hCG is lower than expected for gestational age. Transvaginal ultrasound shows no intrauterine gestational sac. What is the most likely diagnosis and its most common anatomic location?",
+      "options": [
+        "Threatened abortion; intrauterine",
+        "Molar pregnancy; uterine cavity",
+        "Ectopic pregnancy; ovarian implantation",
+        "Corpus luteal cyst rupture; ovary",
+        "Ectopic pregnancy; ampulla of the fallopian tube"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect: threatened abortion would show an intrauterine gestational sac, which is absent here.",
+        "Incorrect: molar pregnancy typically shows a characteristic 'snowstorm' appearance within the uterus and markedly elevated (not low) hCG, not an absent intrauterine sac with low hCG.",
+        "Incorrect: ovarian implantation of an ectopic pregnancy is rare and not the most common site.",
+        "Incorrect: a ruptured corpus luteal cyst does not explain the abnormal hCG rise and amenorrhea pattern consistent with pregnancy.",
+        "Correct: ectopic pregnancy occurs when implantation happens outside the uterus, 98% of the time in the fallopian tube, most commonly the ampulla; prior PID (tubal damage) is a major risk factor."
+      ],
+      "overview": "Ectopic pregnancy occurs when implantation happens outside the uterus, 98% of the time in the fallopian tube (most commonly the ampulla). Risk factors include prior pelvic inflammatory disease, tubal surgery, and prior ectopic pregnancy; patients present with abnormally low hCG rise for gestational age, abdominal pain, and vaginal bleeding, with diagnosis confirmed by ultrasound.",
+      "topic": "Ectopic pregnancy",
+      "angle": "diagnosis",
+      "id": "2026-09-21-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "Among anti-seizure medications used in pregnancy, which is most strongly associated with neural tube defects?",
+      "options": [
+        "Valproic acid",
+        "Lamotrigine",
+        "Gabapentin",
+        "Levetiracetam"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: valproic acid carries the highest risk among anti-seizure drugs for neural tube defects, in part related to drug-induced decreased folic acid.",
+        "Incorrect: lamotrigine is not identified as a high-risk anti-seizure drug for neural tube defects.",
+        "Incorrect: gabapentin is not identified as a classic teratogen causing neural tube defects.",
+        "Incorrect: levetiracetam is not highlighted as a high-risk drug for neural tube defects."
+      ],
+      "overview": "Anti-seizure drugs used during pregnancy can cause neural tube defects, congenital heart disease, cleft palate, and abnormal facial features, often related to drug-induced folic acid deficiency. Valproic acid carries the highest risk of neural tube defects among these agents, making high-dose folic acid supplementation important for women with epilepsy who are planning pregnancy.",
+      "topic": "Valproic acid",
+      "angle": "complications",
+      "id": "2026-09-21-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 60-year-old man taking sildenafil for erectile dysfunction should be counseled to avoid which of the following medications due to risk of life-threatening hypotension?",
+      "options": [
+        "Nitroglycerin",
+        "Amlodipine",
+        "Atorvastatin",
+        "Metformin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct: PDE5 inhibitors are contraindicated with nitrates (e.g., nitroglycerin, isosorbide) due to the risk of life-threatening hypotension from excessive cGMP-mediated vasodilation.",
+        "Incorrect: amlodipine is not the classic absolute contraindication; nitrates specifically carry the life-threatening hypotension risk.",
+        "Incorrect: atorvastatin does not have this specific contraindication with PDE5 inhibitors.",
+        "Incorrect: metformin has no significant interaction with PDE5 inhibitors causing hypotension."
+      ],
+      "overview": "PDE5 inhibitors (sildenafil, vardenafil, tadalafil) block breakdown of cGMP, promoting smooth muscle relaxation and improved erectile response to nitric oxide; they are absolutely contraindicated with nitrates due to risk of severe, life-threatening hypotension. Other side effects include headache, flushing, priapism, and (specifically with sildenafil) transient blue vision from PDE6 cross-reactivity in the retina.",
+      "topic": "PDE5 inhibitors (Sildenafil)",
+      "angle": "complications",
+      "id": "2026-09-21-29"
+    },
+    {
+      "format": "simple4",
+      "stem": "A newborn boy is noted to have scrotal swelling that transilluminates with light and fluctuates in size. This is due to incomplete closure of which embryologic structure?",
+      "options": [
+        "Allantois",
+        "Processus vaginalis",
+        "Wolffian duct",
+        "Gubernaculum"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect: the allantois gives rise to the urachus, unrelated to hydrocele formation.",
+        "Correct: a communicating hydrocele in a newborn results from incomplete closure of the processus vaginalis, allowing peritoneal fluid to collect in the tunica vaginalis; it usually resolves spontaneously by age 1.",
+        "Incorrect: the Wolffian (mesonephric) duct gives rise to male internal genital structures, unrelated to hydrocele formation.",
+        "Incorrect: the gubernaculum guides testicular descent, and its abnormal function relates to cryptorchidism, not hydrocele."
+      ],
+      "overview": "A hydrocele is fluid accumulation within the tunica vaginalis that transilluminates with light, distinguishing it from a solid mass. The newborn (communicating) form results from incomplete closure of the processus vaginalis and typically resolves spontaneously by one year of age, while the adult (noncommunicating) form is often idiopathic or secondary to infection, torsion, or trauma.",
+      "topic": "Hydrocele",
+      "angle": "pathophysiology",
+      "id": "2026-09-21-30"
     }
   ]
 }
