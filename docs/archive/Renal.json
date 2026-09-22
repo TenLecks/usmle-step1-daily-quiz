@@ -650,6 +650,656 @@
       "id": "2026-09-02-30",
       "topic": "Distal (type 1) renal tubular acidosis",
       "angle": "diagnosis"
+    },
+    {
+      "format": "vignette5",
+      "topic": "SIADH",
+      "angle": "treatment",
+      "stem": "A 58-year-old man with a 40-pack-year smoking history presents with confusion and a witnessed seizure. Serum sodium is 118 mEq/L, serum osmolality is 250 mOsm/kg, urine osmolality is 450 mOsm/kg, and urine sodium is 65 mEq/L. He is euvolemic on exam with no edema or signs of volume depletion. Chest CT reveals a central mass, and biopsy confirms small cell lung cancer. Given his severe neurologic symptoms, which of the following is the most appropriate initial treatment for his hyponatremia?",
+      "options": [
+        "Demeclocycline",
+        "Oral salt tablets",
+        "Free water restriction alone",
+        "Normal (0.9%) saline infusion",
+        "Hypertonic (3%) saline infusion"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect. Demeclocycline is a chronic ADH antagonist used for long-term management of SIADH; its onset of action takes days, making it inappropriate for acute, symptomatic hyponatremia with seizures.",
+        "Incorrect. Oral salt tablets are a slower, adjunctive measure for chronic SIADH management, not appropriate as first-line therapy for a patient with acute severe neurologic symptoms.",
+        "Incorrect. Fluid restriction is appropriate for mild, chronic SIADH but acts too slowly to address severe symptomatic hyponatremia presenting with seizures; a more rapid intervention is needed.",
+        "Incorrect. In SIADH, normal saline is typically ineffective or can worsen hyponatremia, since the excess ADH causes the free water to be retained while the infused sodium is excreted, resulting in a net gain of free water relative to sodium.",
+        "Correct. This patient has SIADH (euvolemic hyponatremia, inappropriately concentrated urine, elevated urine sodium) from ectopic ADH secretion by small cell lung cancer, presenting with severe neurologic symptoms (seizure). Hypertonic 3% saline is indicated for rapid, controlled correction of severe symptomatic hyponatremia, with close sodium monitoring to avoid overly rapid correction and osmotic demyelination."
+      ],
+      "overview": "SIADH causes euvolemic hyponatremia due to inappropriate ADH release, commonly from ectopic production by small cell lung cancer, CNS disorders, or certain drugs. Diagnosis requires low serum osmolality, inappropriately concentrated urine (>100 mOsm/kg), elevated urine sodium, and normal volume status. Severe symptomatic hyponatremia (seizures, coma) warrants hypertonic saline, while chronic or mild cases are managed with fluid restriction, salt tablets, or ADH antagonists.",
+      "id": "2026-09-22-01"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Wilms tumor",
+      "angle": "clinical_presentation",
+      "stem": "A 3-year-old girl is brought to her pediatrician after her mother noticed a large, firm, non-tender mass on the left side of her abdomen while bathing her. The mass does not cross the midline. Blood pressure is elevated for age, and urinalysis shows microscopic hematuria. Which of the following genetic abnormalities is most classically associated with this tumor?",
+      "options": [
+        "Mutation in the WT1 tumor suppressor gene on chromosome 11",
+        "Translocation involving the EWSR1 gene",
+        "Amplification of the N-MYC oncogene",
+        "Mutation in the RET proto-oncogene",
+        "Mutation in the VHL tumor suppressor gene on chromosome 3"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Wilms tumor (nephroblastoma) is the most common renal malignancy of young children (ages 2-4), arising from proliferation of embryonic metanephric blastema, and is classically associated with loss-of-function mutations in the WT1 tumor suppressor gene on chromosome 11. It presents as a large, unilateral, non-midline-crossing abdominal mass with possible hematuria and hypertension from renin secretion, and can occur sporadically or as part of syndromes like WAGR or Beckwith-Wiedemann.",
+        "Incorrect. EWSR1 translocations are characteristic of Ewing sarcoma, a bone/soft tissue tumor, not Wilms tumor.",
+        "Incorrect. N-MYC amplification is characteristic of neuroblastoma, an adrenal tumor that classically crosses the midline, unlike the non-midline-crossing mass described in this vignette.",
+        "Incorrect. RET mutations are associated with multiple endocrine neoplasia syndromes (MEN 2A/2B) and medullary thyroid carcinoma, not Wilms tumor.",
+        "Incorrect. VHL gene mutations on chromosome 3 are associated with renal cell carcinoma (particularly clear cell type) and von Hippel-Lindau syndrome, an adult-onset condition, not the classic pediatric renal tumor described here."
+      ],
+      "overview": "Wilms tumor (nephroblastoma) is the most common pediatric renal malignancy, typically presenting between ages 2-4 as a large, painless, non-midline-crossing abdominal mass, often with hematuria and hypertension from tumor renin secretion. It arises from proliferation of embryonic metanephric blastema and is linked to WT1 tumor suppressor gene mutations on chromosome 11, occurring sporadically or as part of syndromes such as WAGR, Denys-Drash, or Beckwith-Wiedemann.",
+      "id": "2026-09-22-02"
+    },
+    {
+      "format": "simple4",
+      "topic": "Bartter and Gitelman syndrome",
+      "angle": "diagnosis",
+      "stem": "A 16-year-old girl presents with muscle cramps, fatigue, and paresthesias. Laboratory studies show hypokalemia, hypochloremia, metabolic alkalosis, and hypomagnesemia. Urinary calcium excretion is low. Which of the following diagnoses is most consistent with this laboratory pattern?",
+      "options": [
+        "Gitelman syndrome",
+        "Bartter syndrome",
+        "Type IV renal tubular acidosis",
+        "Liddle syndrome"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Gitelman syndrome, caused by a defect in the distal convoluted tubule Na-Cl cotransporter (mimicking thiazide diuretic action), classically presents with hypokalemia, metabolic alkalosis, hypomagnesemia, and hypocalciuria (low urinary calcium)-the combination of hypomagnesemia with hypocalciuria distinguishes it from Bartter syndrome.",
+        "Incorrect. Bartter syndrome, caused by a defect resembling loop diuretic action (NKCC2 dysfunction), typically causes hypercalciuria (high urinary calcium), not the hypocalciuria described here.",
+        "Incorrect. Type IV RTA causes hyperkalemia and mild metabolic acidosis, the opposite electrolyte and acid-base pattern from this hypokalemic, alkalotic presentation.",
+        "Incorrect. Liddle syndrome is caused by a gain-of-function ENaC mutation, presenting with hypertension, hypokalemia, and metabolic alkalosis, but with low (not high) renin and aldosterone, and does not typically feature hypomagnesemia and hypocalciuria as prominently."
+      ],
+      "overview": "Bartter and Gitelman syndromes are inherited renal tubulopathies causing salt wasting, hypokalemia, and metabolic alkalosis with secondary hyperreninemic hyperaldosteronism, mimicking loop and thiazide diuretic effects respectively. They are distinguished by calcium and magnesium handling: Bartter syndrome causes hypercalciuria with normal-to-mildly-low magnesium, while Gitelman syndrome causes hypocalciuria with more pronounced hypomagnesemia.",
+      "id": "2026-09-22-03"
+    },
+    {
+      "format": "simple4",
+      "topic": "Urine anion gap",
+      "angle": "mechanism",
+      "stem": "A patient with a non-anion gap metabolic acidosis has a urine anion gap (Na + K - Cl) that is strongly negative. This finding most directly indicates which of the following?",
+      "options": [
+        "Impaired distal tubule ammonium excretion, as seen in distal renal tubular acidosis",
+        "A gastrointestinal source of bicarbonate loss with impaired renal acid excretion",
+        "Concurrent proximal tubule bicarbonate wasting only, without distal involvement",
+        "Intact distal tubule ammonium excretion, with urinary NH4+ accompanied by chloride"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Impaired distal ammonium excretion (as in distal RTA) causes a positive, not negative, urine anion gap, because NH4+ excretion with chloride fails to rise appropriately.",
+        "Incorrect. While lower GI losses (diarrhea) are a classic cause of non-anion gap acidosis with a negative UAG, the negative UAG itself reflects intact renal acid excretion (via NH4+), not impaired renal excretion.",
+        "Incorrect. Proximal RTA can also show a negative UAG once acidosis is established (since distal acidification is intact), but the UAG finding itself specifically reflects ammonium excretion status, not localization to a particular tubule segment alone.",
+        "Correct. The urine anion gap is a surrogate marker for urinary ammonium (NH4+) excretion, since NH4+ is excreted paired with chloride. When the kidney appropriately increases NH4+ excretion in response to acidosis, urinary chloride rises, making the urine anion gap strongly negative-indicating intact distal acidification and ammonium excretion, as seen in diarrhea-induced acidosis."
+      ],
+      "overview": "The urine anion gap (Na+ + K+ - Cl-) serves as an indirect measure of urinary ammonium excretion, since NH4+ is excreted with chloride. A negative UAG indicates appropriately increased ammonium excretion (intact distal acidification), as seen in GI causes of acidosis or proximal RTA, while a positive UAG indicates impaired ammonium excretion, as seen in distal (type I) or type IV RTA.",
+      "id": "2026-09-22-04"
+    },
+    {
+      "format": "simple4",
+      "topic": "Non-anion gap metabolic acidosis",
+      "angle": "risk_factors",
+      "stem": "Which of the following is most likely to cause a non-anion gap (hyperchloremic) metabolic acidosis rather than an anion gap metabolic acidosis?",
+      "options": [
+        "Methanol ingestion",
+        "Severe diarrhea",
+        "Lactic acidosis from shock",
+        "Diabetic ketoacidosis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Methanol ingestion causes an anion gap metabolic acidosis from accumulation of its toxic metabolite, formic acid, an unmeasured anion (part of the GOLDMARK causes).",
+        "Correct. Severe diarrhea causes loss of bicarbonate-rich intestinal fluid, and the body compensates by retaining chloride to maintain electroneutrality, producing a hyperchloremic, non-anion gap metabolic acidosis rather than accumulation of an unmeasured organic acid.",
+        "Incorrect. Lactic acidosis from tissue hypoperfusion produces an anion gap metabolic acidosis due to accumulation of lactate as an unmeasured anion.",
+        "Incorrect. Diabetic ketoacidosis produces an anion gap metabolic acidosis from accumulation of ketoacids (beta-hydroxybutyrate and acetoacetate), which serve as unmeasured anions."
+      ],
+      "overview": "Metabolic acidoses are divided into anion gap and non-anion gap (hyperchloremic) types based on whether an unmeasured acid anion accumulates. Non-anion gap acidosis occurs when bicarbonate is lost directly (as in diarrhea or proximal RTA) and chloride rises to compensate, whereas anion gap acidosis occurs when an organic or toxic acid is retained (ketoacids, lactate, toxic alcohol metabolites, uremic acids).",
+      "id": "2026-09-22-05"
+    },
+    {
+      "format": "simple4",
+      "topic": "Proximal (Type II) renal tubular acidosis",
+      "angle": "pathophysiology",
+      "stem": "A patient with proximal (type II) renal tubular acidosis has reached a new steady state after initial onset. Which of the following findings would be expected at this steady state?",
+      "options": [
+        "Urine pH less than 5.5 because distal tubule acid secretion remains intact",
+        "Urine pH persistently greater than 5.5 despite ongoing systemic acidosis",
+        "Hyperkalemia due to impaired distal potassium secretion",
+        "Severe systemic acidosis with serum bicarbonate typically below 10 mEq/L"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. In proximal (type II) RTA, the primary defect is reduced proximal tubule bicarbonate reabsorption, but the distal nephron (alpha-intercalated cells) functions normally and can still acidify the urine. Once plasma bicarbonate falls to a new steady state that matches the lowered reabsorption threshold, bicarbonate is no longer wasted in the urine, and the urine becomes appropriately acidic (pH <5.5), reflecting intact distal acid secretion.",
+        "Incorrect. High urine pH (>5.5) with bicarbonaturia occurs only transiently at the onset of proximal RTA, when plasma bicarbonate still exceeds the lowered reabsorption threshold; once a new lower steady-state plasma bicarbonate is reached, filtered bicarbonate no longer exceeds the reabsorptive capacity and it is no longer spilled into urine.",
+        "Incorrect. Proximal RTA classically causes hypokalemia (from increased distal sodium/water delivery and secondary hyperaldosteronism), not hyperkalemia.",
+        "Incorrect. Proximal RTA typically causes a milder acidosis than distal RTA, with bicarbonate usually in the 12-20 mEq/L range rather than falling below 10 mEq/L."
+      ],
+      "overview": "Proximal (type II) RTA results from impaired proximal tubule bicarbonate reabsorption; once plasma bicarbonate falls to match the lowered reabsorption threshold, further bicarbonate wasting stops and the distal nephron, which functions normally, acidifies urine appropriately (pH <5.5). This produces a milder acidosis than distal RTA, typically accompanied by hypokalemia.",
+      "id": "2026-09-22-06"
+    },
+    {
+      "format": "simple4",
+      "topic": "Licorice-induced pseudohyperaldosteronism",
+      "angle": "mechanism",
+      "stem": "Excessive ingestion of a substance containing glycyrrhetinic acid (found in licorice) produces hypertension, hypokalemia, and metabolic alkalosis with low plasma renin and aldosterone levels. Which of the following mechanisms best explains this presentation?",
+      "options": [
+        "Inhibition of renal 11-beta-hydroxylase in the adrenal cortex",
+        "Inhibition of the renal enzyme that normally inactivates cortisol, allowing cortisol to activate mineralocorticoid receptors",
+        "Direct stimulation of adrenal aldosterone secretion",
+        "Direct activation of the epithelial sodium channel (ENaC)"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. 11-beta-hydroxylase deficiency is a cause of congenital adrenal hyperplasia and is unrelated to the mechanism of licorice-induced pseudohyperaldosteronism, which involves 11-beta-hydroxysteroid dehydrogenase type 2, a different enzyme.",
+        "Correct. Glycyrrhetinic acid in licorice inhibits 11-beta-hydroxysteroid dehydrogenase type 2, the enzyme that normally inactivates cortisol in the nephron. Without this inactivation, cortisol (present at much higher concentrations than aldosterone) inappropriately activates mineralocorticoid receptors, producing a syndrome resembling hyperaldosteronism (hypertension, hypokalemia, metabolic alkalosis) despite suppressed renin and aldosterone-this is the same mechanism as Syndrome of Apparent Mineralocorticoid Excess (SAME).",
+        "Incorrect. Licorice suppresses, rather than stimulates, renin and aldosterone secretion because the mineralocorticoid receptor activation by cortisol suppresses the renin-angiotensin-aldosterone axis via negative feedback.",
+        "Incorrect. Direct ENaC activation is the mechanism of Liddle syndrome, a genetic gain-of-function ENaC mutation, not the mechanism by which licorice causes its effects."
+      ],
+      "overview": "Licorice contains glycyrrhetinic acid, which inhibits 11-beta-hydroxysteroid dehydrogenase type 2, the enzyme that normally inactivates cortisol within the nephron. This allows cortisol to inappropriately stimulate mineralocorticoid receptors, producing hypertension, hypokalemia, and metabolic alkalosis with suppressed renin and aldosterone-mirroring the genetic disorder known as Syndrome of Apparent Mineralocorticoid Excess.",
+      "id": "2026-09-22-07"
+    },
+    {
+      "format": "simple4",
+      "topic": "Ammoniagenesis",
+      "angle": "pathophysiology",
+      "stem": "In a patient with chronic metabolic acidosis, which of the following renal adaptations most significantly increases the kidney's capacity for net acid excretion over days to weeks?",
+      "options": [
+        "Increased proximal tubule glutamine metabolism and ammoniagenesis",
+        "Upregulation of the Na-K-2Cl cotransporter in the thick ascending limb",
+        "Increased aldosterone-independent bicarbonate reabsorption in the proximal tubule",
+        "Increased filtration of titratable phosphate buffer"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Chronic acidosis upregulates proximal tubule enzymes (including glutaminase) that metabolize glutamine to ammonia (NH3) and generate new bicarbonate for the blood. Increased ammonia production provides an adaptable urinary buffer for H+ secretion in the collecting duct, forming NH4+ for excretion; this is the kidney's most important long-term adaptive mechanism to chronic acid loads, since titratable acid supply is fixed.",
+        "Incorrect. NKCC2 in the thick ascending limb is involved in sodium, potassium, and chloride reabsorption and generation of the medullary concentration gradient, not in acid-base adaptation to chronic acidosis.",
+        "Incorrect. While bicarbonate reabsorption is important, the key adaptive change in chronic acidosis is increased ammoniagenesis (which also generates new bicarbonate), not simply an unrelated increase in bicarbonate reabsorption.",
+        "Incorrect. Titratable acid (phosphate) excretion capacity is essentially fixed by dietary/metabolic phosphate turnover and cannot increase significantly to meet a chronic acid load, unlike ammonia production."
+      ],
+      "overview": "Chronic acidosis triggers a critical adaptive response in the proximal tubule: increased glutamine metabolism (via glutaminase) generates ammonia for urinary buffering and new bicarbonate for blood buffering. This adaptable ammoniagenesis, in contrast to the fixed capacity of titratable acid buffering, is essential for the kidney's ability to sustain increased net acid excretion during prolonged acid loads.",
+      "id": "2026-09-22-08"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Papillary necrosis",
+      "angle": "clinical_presentation",
+      "stem": "A 56-year-old man with long-standing type 2 diabetes mellitus and osteoarthritis, for which he takes ibuprofen daily, presents with painless gross hematuria. Blood urea nitrogen and creatinine are within normal limits. Urinalysis shows numerous red blood cells and a few white blood cells but no casts. CT urogram shows irregular areas of nonenhancement involving the renal papillae. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Papillary necrosis",
+        "Acute tubular necrosis",
+        "Renal cell carcinoma",
+        "Post-streptococcal glomerulonephritis",
+        "Acute interstitial nephritis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Papillary necrosis results from ischemic or toxic injury to the renal papillae, classically caused by chronic NSAID use, diabetes mellitus, sickle cell disease, and pyelonephritis (mnemonic: NSAID, DM, sickle cell, and infection). It typically presents with painless (or occasionally painful, if sloughed tissue obstructs the ureter) gross hematuria, normal renal function, and characteristic nonenhancing papillary areas on imaging, without casts.",
+        "Incorrect. Acute tubular necrosis presents with rising BUN/creatinine and muddy-brown granular casts, not normal renal function with painless hematuria and papillary nonenhancement on imaging.",
+        "Incorrect. Renal cell carcinoma can cause hematuria but would typically show a renal mass on imaging rather than nonenhancing papillary defects, and is not specifically linked to chronic NSAID use and diabetes in this way.",
+        "Incorrect. Post-streptococcal GN causes a nephritic syndrome with dysmorphic RBCs, red cell casts, and reduced renal function, following a streptococcal infection, not painless hematuria with papillary nonenhancement in a diabetic on chronic NSAIDs.",
+        "Incorrect. Acute interstitial nephritis presents with white blood cell casts, sterile pyuria, peripheral eosinophilia, and rising creatinine, not isolated painless hematuria with normal renal function."
+      ],
+      "overview": "Papillary necrosis is caused by ischemic or toxic damage to the renal papillae where collecting ducts converge, classically triggered by sickle cell disease, chronic NSAID use, diabetes mellitus, or pyelonephritis. It presents with gross hematuria (often painless) and normal renal function unless sloughed papillary tissue causes obstruction, distinguishing it from glomerular or tubular causes of hematuria that show casts or renal dysfunction.",
+      "id": "2026-09-22-09"
+    },
+    {
+      "format": "simple4",
+      "topic": "Renal embryology",
+      "angle": "anatomy_histology",
+      "stem": "Which embryologic structure gives rise to the glomerulus, proximal convoluted tubule, loop of Henle, and distal convoluted tubule of the definitive kidney?",
+      "options": [
+        "Metanephric mesenchyme",
+        "Mesonephric (Wolffian) duct",
+        "Ureteric bud",
+        "Pronephros"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. The metanephric mesenchyme (also called metanephric blastema) interacts with the invading ureteric bud and differentiates to form the nephron, including the glomerulus, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
+        "Incorrect. The mesonephric (Wolffian) duct gives rise to structures such as the vas deferens and epididymis in males and gives off the ureteric bud, but does not itself form the definitive nephron.",
+        "Incorrect. The ureteric bud, an outgrowth of the mesonephric duct, gives rise to the collecting ducts, calyces, renal pelvis, and ureter, not the nephron itself.",
+        "Incorrect. The pronephros is a rudimentary, non-functional structure that forms and degenerates by week 4 of development; it does not contribute to the definitive nephron."
+      ],
+      "overview": "The definitive (metanephric) kidney develops from reciprocal induction between two structures: the ureteric bud, which forms the collecting system (collecting ducts, calyces, pelvis, ureter), and the metanephric mesenchyme, which forms the nephron itself (glomerulus through distal convoluted tubule). Disruption of this interaction underlies many congenital renal malformations, including renal agenesis and obstructive uropathies.",
+      "id": "2026-09-22-10"
+    },
+    {
+      "format": "simple4",
+      "topic": "Renal anatomy",
+      "angle": "anatomy_histology",
+      "stem": "Which of the following structures is classified as a retroperitoneal organ, consistent with its position in the mnemonic 'SAD PUCKER'?",
+      "options": [
+        "Stomach",
+        "Kidney",
+        "Spleen",
+        "Liver"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. The stomach is an intraperitoneal organ, suspended by mesentery, and is not included in the SAD PUCKER mnemonic of retroperitoneal structures.",
+        "Correct. The kidney is a retroperitoneal structure, located posterior to the parietal peritoneum and anterior to the posterior abdominal wall, as represented by the 'K' in the SAD PUCKER mnemonic (Suprarenal glands, Aorta/IVC, Duodenum, Pancreas, Ureters, Colon, Kidneys, Esophagus, Rectum).",
+        "Incorrect. The spleen is an intraperitoneal organ, not part of the retroperitoneal SAD PUCKER structures.",
+        "Incorrect. The liver is an intraperitoneal organ (largely covered by peritoneum, with a bare area), not classified among the retroperitoneal SAD PUCKER structures."
+      ],
+      "overview": "The retroperitoneum contains structures located posterior to the parietal peritoneum, remembered by the mnemonic SAD PUCKER: Suprarenal (adrenal) glands, Aorta/IVC, Duodenum (2nd-4th parts), Pancreas, Ureters, Colon (ascending/descending), Kidneys, Esophagus (abdominal part), and Rectum (upper two-thirds). This anatomic location has clinical relevance for surgical approaches and patterns of disease spread.",
+      "id": "2026-09-22-11"
+    },
+    {
+      "format": "simple4",
+      "topic": "Acid excretion (titratable acid buffering)",
+      "angle": "mechanism",
+      "stem": "Which of the following is the primary urinary titratable acid buffer that combines with secreted H+ in the collecting duct, allowing net acid excretion without further lowering urine pH?",
+      "options": [
+        "Ammonia (NH3)",
+        "Phosphate (HPO4^2-)",
+        "Bicarbonate",
+        "Citrate"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Ammonia is a critical urinary buffer, but it is classified separately from 'titratable acids' and is the buffer whose production is most adaptable in chronic acidosis, not the classic titratable acid.",
+        "Correct. Filtered phosphate (as HPO4^2-) combines with secreted H+ in the collecting duct to form H2PO4-, which is excreted in urine; because this reaction is measured by titration, phosphate is termed a 'titratable acid' and is the primary titratable buffer, though its supply is fixed by dietary/metabolic phosphate load.",
+        "Incorrect. Bicarbonate is the major plasma buffer that must be regenerated by the kidney, not a urinary titratable acid buffer; in fact, its reabsorption (not its presence in urine) is what necessitates urinary buffers in the first place.",
+        "Incorrect. Citrate is relevant to kidney stone prevention (it binds calcium) but is not a major urinary titratable acid buffer for H+ excretion."
+      ],
+      "overview": "The kidney excretes the daily nonvolatile acid load using two main urinary buffers: titratable acids (mainly filtered phosphate, HPO4^2- converting to H2PO4- upon H+ binding) and ammonia (NH3, which becomes NH4+ upon binding H+). Titratable acid capacity is limited by a fixed filtered phosphate load, whereas ammonia production is adaptable and increases substantially during chronic acidosis.",
+      "id": "2026-09-22-12"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Type IV renal tubular acidosis",
+      "angle": "clinical_presentation",
+      "stem": "A 68-year-old man with type 2 diabetes mellitus and chronic kidney disease is found on routine labs to have a serum potassium of 6.2 mEq/L and a serum bicarbonate of 19 mEq/L. He takes lisinopril for hypertension. His urine pH is 5.2, and the anion gap is normal. Which of the following mechanisms best explains this patient's acid-base and electrolyte abnormalities?",
+      "options": [
+        "Loss-of-function mutation in the thick ascending limb Na-K-2Cl transporter",
+        "Defective proximal tubule bicarbonate reabsorption",
+        "Reduced ammoniagenesis resulting from hypoaldosteronism-induced hyperkalemia",
+        "Autoimmune destruction of the adrenal cortex",
+        "Impaired distal nephron acid secretion due to alpha-intercalated cell dysfunction"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. NKCC2 dysfunction describes Bartter syndrome, which causes hypokalemia and metabolic alkalosis, the opposite electrolyte pattern from this patient.",
+        "Incorrect. Defective proximal bicarbonate reabsorption describes proximal (type II) RTA, which causes hypokalemia (not hyperkalemia) and is not primarily driven by aldosterone deficiency.",
+        "Correct. This is type IV RTA, driven by hypoaldosteronism (here from diabetic hyporeninemic hypoaldosteronism, exacerbated by the ACE inhibitor). Reduced aldosterone effect leads to hyperkalemia, and hyperkalemia itself suppresses proximal tubule ammoniagenesis, reducing urinary ammonium buffering and acid excretion. This produces a mild non-anion gap metabolic acidosis with a low urine pH (since the limited acid excretion still occurs, just insufficient to handle the full acid load) and hyperkalemia, the hallmark of type IV RTA.",
+        "Incorrect. Primary adrenal insufficiency (Addison disease) can cause hyperkalemia and acidosis but is not suggested here; this patient's picture is explained by diabetes-associated hyporeninemic hypoaldosteronism and ACE inhibitor use, a far more common cause of type IV RTA.",
+        "Incorrect. Primary alpha-intercalated cell dysfunction describes distal (type I) RTA, which classically presents with a high (not low) urine pH and more severe acidosis, not the hyperkalemia and mildly low bicarbonate seen here."
+      ],
+      "overview": "Type IV renal tubular acidosis results from aldosterone deficiency or resistance, most commonly due to hyporeninemic hypoaldosteronism in diabetic nephropathy or drugs that block the renin-angiotensin-aldosterone system. The hallmark is hyperkalemia, which itself impairs proximal tubule ammoniagenesis, producing only a mild non-anion gap metabolic acidosis (bicarbonate usually above 17 mEq/L) with a urine pH that remains appropriately acidic (below 5.3).",
+      "id": "2026-09-22-13"
+    },
+    {
+      "format": "simple4",
+      "topic": "Isoniazid overdose",
+      "angle": "complications",
+      "stem": "A patient who took a large overdose of isoniazid develops refractory status epilepticus followed by an anion gap metabolic acidosis. Which of the following mechanisms best explains the acidosis in this setting?",
+      "options": [
+        "Isoniazid is metabolized directly to formic acid",
+        "Isoniazid inhibits carbonic anhydrase in the proximal tubule",
+        "Isoniazid directly uncouples oxidative phosphorylation in mitochondria",
+        "Prolonged seizure activity generates excess lactic acid"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Formic acid is the toxic metabolite of methanol, not isoniazid.",
+        "Incorrect. Carbonic anhydrase inhibition is the mechanism of acetazolamide, not isoniazid, and would cause a non-anion gap (not anion gap) metabolic acidosis.",
+        "Incorrect. Direct uncoupling of oxidative phosphorylation is the mechanism described for salicylate (aspirin) toxicity, not isoniazid.",
+        "Correct. Isoniazid inhibits pyridoxine (vitamin B6), reducing GABA synthesis and precipitating often severe, refractory seizures. The resulting intense muscular activity during status epilepticus generates excess lactate, producing an anion gap metabolic acidosis (lactic acidosis) as a downstream consequence of the seizures."
+      ],
+      "overview": "Isoniazid overdose classically causes refractory seizures by inhibiting pyridoxine (vitamin B6)-dependent GABA synthesis, often manifesting as severe status epilepticus. The resulting anion gap metabolic acidosis is a secondary consequence of seizure-induced lactate production rather than a direct toxic effect of the drug on acid-base handling.",
+      "id": "2026-09-22-14"
+    },
+    {
+      "format": "simple4",
+      "topic": "Diabetes insipidus",
+      "angle": "treatment",
+      "stem": "A patient with polyuria and polydipsia undergoes a water deprivation test showing persistently dilute urine despite fluid restriction. Administration of desmopressin (DDAVP) results in a significant increase in urine osmolality. Which of the following is the most appropriate long-term treatment for this patient?",
+      "options": [
+        "Hydrochlorothiazide",
+        "Indomethacin",
+        "Desmopressin (DDAVP)",
+        "Amiloride"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Hydrochlorothiazide is used for nephrogenic diabetes insipidus (paradoxically reducing urine output via proximal sodium/water reabsorption), not for central DI, where desmopressin replacement is the direct and appropriate treatment.",
+        "Incorrect. Indomethacin, an NSAID that inhibits prostaglandins antagonizing ADH, is used as adjunctive therapy for nephrogenic DI, not for central DI where the response to desmopressin is intact.",
+        "Correct. A rise in urine osmolality after desmopressin administration indicates that the kidneys respond appropriately to exogenous ADH, confirming a diagnosis of central diabetes insipidus (inadequate endogenous ADH secretion). Desmopressin, a synthetic ADH (V2 receptor) analog, is the appropriate long-term treatment, replacing the deficient hormone.",
+        "Incorrect. Amiloride is used to reduce lithium entry into collecting duct cells in lithium-induced nephrogenic diabetes insipidus, which would show no response to desmopressin, unlike this patient."
+      ],
+      "overview": "Diabetes insipidus is distinguished as central (deficient ADH secretion) or nephrogenic (renal resistance to ADH) using the response to desmopressin after a water deprivation test: urine concentration in response to desmopressin indicates central DI, while failure to concentrate indicates nephrogenic DI. Central DI is treated with desmopressin (DDAVP) replacement, while nephrogenic DI requires treating the underlying cause plus agents like thiazides, indomethacin, or amiloride (for lithium-induced cases).",
+      "id": "2026-09-22-15"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Acute tubular necrosis",
+      "angle": "diagnosis",
+      "stem": "A 74-year-old woman is hospitalized for septic shock requiring vasopressor support. On hospital day 3, her urine output falls and serum creatinine rises from 0.9 to 2.8 mg/dL. Urinalysis reveals granular, muddy-brown casts. Urine sodium is 55 mEq/L, and the fractional excretion of sodium is calculated at 3.2%. Which of the following best explains her acute kidney injury?",
+      "options": [
+        "Rapidly progressive glomerulonephritis",
+        "Pre-renal azotemia from volume depletion",
+        "Bilateral ureteral obstruction",
+        "Ischemic acute tubular necrosis",
+        "Acute interstitial nephritis"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. RPGN would show dysmorphic red blood cells and red cell casts on urinalysis, not muddy-brown granular casts, and typically evolves over a longer, subacute course rather than 3 days after a hypotensive insult.",
+        "Incorrect. Pre-renal azotemia would show a low urine sodium (<20 mEq/L) and FeNa <1% due to intact tubular sodium reabsorption; this patient's FeNa of 3.2% and high urine sodium indicate the tubules cannot conserve sodium, arguing against a pre-renal cause.",
+        "Incorrect. Post-renal (obstructive) failure typically presents with anuria/oliguria and hydronephrosis on imaging, not muddy-brown granular casts, which are a specific marker of tubular epithelial cell injury.",
+        "Correct. Prolonged hypotension from septic shock causes ischemic injury to tubular epithelial cells (especially the proximal tubule and thick ascending limb), producing acute tubular necrosis. The muddy-brown granular casts reflect sloughed necrotic tubular cells, and the elevated FeNa (>2%) and urine sodium (>20 mEq/L) reflect loss of tubular sodium reabsorptive capacity, both classic for intrinsic renal (ATN) failure.",
+        "Incorrect. Acute interstitial nephritis classically presents with white blood cell casts, sterile pyuria, and peripheral eosinophilia, typically following a drug exposure, not the granular casts described here."
+      ],
+      "overview": "Acute tubular necrosis is the most common cause of intrinsic acute kidney injury in hospitalized patients, typically resulting from ischemia (e.g., shock, hypotension) or nephrotoxins. It is characterized by muddy-brown granular casts on urinalysis, an FeNa greater than 2% (or urine sodium >20 mEq/L) reflecting impaired tubular sodium reabsorption, and a BUN:creatinine ratio that remains near normal (20:1) since tubular concentrating function is lost.",
+      "id": "2026-09-22-16"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Lupus nephritis (diffuse proliferative glomerulonephritis)",
+      "angle": "diagnosis",
+      "stem": "A 29-year-old woman with a malar rash and polyarthralgia is found to have hematuria and proteinuria on urinalysis, with red cell casts. Serum complement levels (C3 and C4) are low, and anti-double stranded DNA antibody titer is markedly elevated. Renal biopsy shows diffuse endocapillary hypercellularity with 'wire-loop' capillary wall thickening in more than 50% of glomeruli. Which of the following immunofluorescence patterns is classically described in this condition?",
+      "options": [
+        "Negative immunofluorescence (pauci-immune)",
+        "IgA-dominant mesangial deposition",
+        "Isolated C3 deposition only",
+        "Linear IgG deposition",
+        "'Full house' immunofluorescence (IgG, IgA, IgM, C3, C1q)"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect. A negative, pauci-immune pattern is seen in ANCA-associated vasculitis, not immune complex-mediated lupus nephritis.",
+        "Incorrect. IgA-dominant mesangial deposition is characteristic of IgA nephropathy (Berger disease), not lupus nephritis, which shows the broader 'full house' pattern.",
+        "Incorrect. Isolated C3 staining without immunoglobulin is characteristic of complement-mediated (dense deposit) MPGN type II, not lupus nephritis.",
+        "Incorrect. Linear IgG deposition is characteristic of anti-GBM (Goodpasture) disease, not lupus nephritis, which shows a granular pattern.",
+        "Correct. Diffuse proliferative lupus nephritis (Class IV) classically shows a 'full house' immunofluorescence pattern with granular deposition of IgG, IgA, IgM, C3, and C1q, reflecting immune complex deposition (subendothelial deposits, producing the 'wire-loop' lesions) and classical complement pathway activation with resultant hypocomplementemia."
+      ],
+      "overview": "Diffuse proliferative lupus nephritis (WHO/ISN Class IV) is the most severe and common renal manifestation of SLE, involving more than 50% of glomeruli with endocapillary and mesangial proliferation, 'wire-loop' subendothelial deposits, and hypocomplementemia driven by anti-dsDNA immune complexes. The pathognomonic immunofluorescence finding is the 'full house' pattern of IgG, IgA, IgM, C3, and C1q deposition.",
+      "id": "2026-09-22-17"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Aspirin overdose",
+      "angle": "clinical_presentation",
+      "stem": "A 22-year-old woman is brought to the emergency department 6 hours after a suspected intentional ingestion of a large quantity of aspirin tablets. She is tachypneic and reports tinnitus. Arterial blood gas and electrolytes show: pH 7.42, PaCO2 20 mmHg, HCO3- 13 mEq/L, Na+ 140 mEq/L, Cl- 100 mEq/L. Which of the following best describes her acid-base status?",
+      "options": [
+        "Normal acid-base status due to full compensation",
+        "Combined anion gap metabolic acidosis and respiratory alkalosis",
+        "Pure respiratory alkalosis",
+        "Pure anion gap metabolic acidosis",
+        "Combined metabolic acidosis and metabolic alkalosis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. The near-normal pH reflects two offsetting primary disorders, not true normalcy or complete compensation, which is rarely fully achieved.",
+        "Correct. The anion gap is elevated (140-100-13=27), confirming an anion gap metabolic acidosis from salicylate-induced uncoupling of oxidative phosphorylation. Winter's formula predicts an expected PaCO2 of about 1.5(13)+8=27.5 mmHg, but the actual PaCO2 is only 20 mmHg, lower than expected, revealing a concomitant respiratory alkalosis from direct salicylate stimulation of the medullary respiratory center. The near-normal pH reflects two offsetting primary disorders.",
+        "Incorrect. A pure respiratory alkalosis would not explain the markedly low bicarbonate (13) and elevated anion gap (27); HCO3- is far too low to be simple renal compensation for hypocapnia alone.",
+        "Incorrect. A pure anion gap metabolic acidosis would have a PaCO2 near the Winter's formula prediction (about 27 mmHg); here PaCO2 is far lower than expected, indicating an additional respiratory disorder.",
+        "Incorrect. There is no evidence of a second metabolic disorder here; the mismatch is between actual and predicted PaCO2, pointing to a respiratory disorder, not a second metabolic one."
+      ],
+      "overview": "Salicylate toxicity classically produces two sequential acid-base disorders: early respiratory alkalosis from direct stimulation of the medullary respiratory center, followed hours later by an anion gap metabolic acidosis from uncoupling of oxidative phosphorylation and accumulation of lactate, pyruvate, and ketoacids. Because both can be present simultaneously, pH may appear deceptively normal despite markedly abnormal PaCO2 and HCO3-. Winter's formula is used to unmask the mixed disorder by comparing the predicted versus actual PaCO2.",
+      "id": "2026-09-22-18"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Alport syndrome",
+      "angle": "clinical_presentation",
+      "stem": "An 8-year-old boy is evaluated for intermittent gross hematuria noted since age 5, often occurring 1-2 days after upper respiratory infections. His mother reports he failed his school hearing screening twice. Ophthalmologic exam reveals anterior lenticonus. His maternal uncle developed end-stage renal disease in his 20s. Which of the following underlying defects best explains this presentation?",
+      "options": [
+        "Mutation in the WT1 tumor suppressor gene",
+        "Mutation in type IV collagen alpha chains",
+        "Deposition of IgA immune complexes in the mesangium",
+        "Autoantibodies directed against the glomerular basement membrane",
+        "Loss-of-function mutation in the epithelial sodium channel"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. WT1 mutations are associated with Wilms tumor and Denys-Drash syndrome, not with hereditary hematuria, hearing loss, and lenticonus.",
+        "Correct. Alport syndrome is caused by mutations in the genes encoding the alpha-3, alpha-4, or alpha-5 chains of type IV collagen, a structural component of basement membranes in the kidney, inner ear, and eye. This produces the classic triad of hematuria, sensorineural hearing loss, and ocular disturbances (including anterior lenticonus), typically inherited in an X-linked pattern with a family history of renal failure in male relatives.",
+        "Incorrect. IgA nephropathy also causes gross hematuria following mucosal infections, but it does not cause hearing loss or ocular lenticonus, and lacks the strong hereditary pattern seen in this family.",
+        "Incorrect. Autoantibodies against the GBM cause anti-GBM (Goodpasture) disease, which presents with rapidly progressive glomerulonephritis and often pulmonary hemorrhage, not the chronic hereditary triad of hematuria, hearing loss, and ocular findings described here.",
+        "Incorrect. ENaC loss-of-function mutations cause a salt-wasting disorder (pseudohypoaldosteronism type 1), unrelated to the sensorineural and ocular features described."
+      ],
+      "overview": "Alport syndrome is a hereditary type IV collagen disorder, most commonly X-linked, that disrupts basement membranes in the kidney, cochlea, and eye. It classically presents with recurrent hematuria, progressive sensorineural hearing loss, and ocular abnormalities such as anterior lenticonus, with a family history of renal failure being a key diagnostic clue.",
+      "id": "2026-09-22-19"
+    },
+    {
+      "format": "simple4",
+      "topic": "Hyponatremia due to psychogenic polydipsia",
+      "angle": "pathophysiology",
+      "stem": "A psychiatric patient who compulsively drinks more than 15 liters of water daily develops hyponatremia. Urine osmolality is found to be very low (less than 100 mOsm/kg). Which of the following best explains why this patient's kidneys were unable to prevent hyponatremia despite an appropriately suppressed ADH level?",
+      "options": [
+        "Aldosterone secretion was inappropriately elevated, promoting water retention",
+        "Renal ammoniagenesis was impaired, reducing free water clearance",
+        "The distal nephron was unable to generate a lumen-negative voltage needed for dilution",
+        "Water intake exceeded the kidneys' maximal free water excretion capacity"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect. Aldosterone primarily regulates sodium and potassium balance, not free water excretion; it is not the mechanism responsible for dilutional hyponatremia in psychogenic polydipsia, and there is no indication of aldosterone excess here.",
+        "Incorrect. Ammoniagenesis relates to acid-base regulation (urinary buffering), not to free water clearance or urinary dilution, and is not implicated in this mechanism.",
+        "Incorrect. The very low urine osmolality (<100 mOsm/kg) demonstrates that the distal nephron IS diluting the urine appropriately; the problem is the sheer volume of water intake overwhelming this normally functioning diluting capacity, not a defect in dilution itself.",
+        "Correct. With a normal diet, the kidney can dilute urine to about 50 mOsm/kg, giving a maximal free water excretion capacity (solute intake divided by minimum urine osmolality) that is limited. When water intake grossly exceeds this maximal excretory capacity, as in psychogenic polydipsia with extreme water intake, hyponatremia develops even though ADH is appropriately suppressed and urine is maximally dilute-the kidneys are working correctly but are simply overwhelmed by the volume of water ingested."
+      ],
+      "overview": "Primary (psychogenic) polydipsia causes hyponatremia through a purely quantitative mechanism: even with appropriately suppressed ADH and maximally dilute urine (as low as 50 mOsm/kg), the kidney's maximum free water excretion capacity is finite (determined by daily solute load divided by minimum urine osmolality), and water intake that exceeds this capacity results in net water retention and hyponatremia despite normally functioning renal water-handling mechanisms.",
+      "id": "2026-09-22-20"
+    },
+    {
+      "format": "vignette5",
+      "topic": "Milk-alkali syndrome",
+      "angle": "diagnosis",
+      "stem": "A 70-year-old woman with chronic dyspepsia treated with large daily doses of calcium carbonate presents with confusion, constipation, and nausea. Laboratory studies show a calcium level of 13.2 mg/dL, bicarbonate of 32 mEq/L, and creatinine of 2.1 mg/dL (baseline 0.9 mg/dL). Which of the following classic triads best characterizes her condition?",
+      "options": [
+        "Hypercalcemia, metabolic acidosis, nephrolithiasis",
+        "Hypercalcemia, metabolic alkalosis, renal failure",
+        "Hypocalcemia, metabolic acidosis, renal failure",
+        "Hyperkalemia, metabolic acidosis, hypertension",
+        "Hypocalcemia, metabolic alkalosis, tetany"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. While hypercalcemia is correct, milk-alkali syndrome causes metabolic alkalosis (not acidosis) due to excess bicarbonate/alkali ingestion, and nephrolithiasis is not the classic associated renal finding (renal failure is).",
+        "Correct. Milk-alkali syndrome results from excessive ingestion of calcium and absorbable alkali (classically calcium carbonate), producing the triad of hypercalcemia, metabolic alkalosis, and renal failure. The alkalosis further promotes renal calcium reabsorption, and hypercalcemia-induced diuresis and vasoconstriction reduce GFR, creating a self-perpetuating cycle.",
+        "Incorrect. Milk-alkali syndrome causes hypercalcemia (from excess calcium intake), not hypocalcemia, and metabolic alkalosis (from excess base), not acidosis.",
+        "Incorrect. This triad describes findings more consistent with type IV RTA or mineralocorticoid deficiency, not the calcium- and alkali-driven pathology of milk-alkali syndrome.",
+        "Incorrect. Milk-alkali syndrome causes hypercalcemia, not hypocalcemia, due to excessive calcium intake; hypocalcemic tetany is not part of this syndrome."
+      ],
+      "overview": "Milk-alkali syndrome is caused by excessive intake of calcium and alkali (historically milk and bicarbonate, now most often calcium carbonate antacids or supplements), producing a classic triad of hypercalcemia, metabolic alkalosis, and renal failure. The alkalosis and hypercalcemia are mutually reinforcing since alkalosis increases renal calcium reabsorption, while hypercalcemia impairs GFR and promotes further volume contraction and alkalosis.",
+      "id": "2026-09-22-21"
+    },
+    {
+      "format": "simple4",
+      "topic": "Rhabdomyolysis",
+      "angle": "diagnosis",
+      "stem": "A patient with a crush injury has dark urine. Urinalysis dipstick testing is strongly positive for heme, but microscopy reveals no red blood cells. Serum creatine kinase is markedly elevated. Which of the following best explains the positive dipstick finding for heme?",
+      "options": [
+        "Hemoglobinuria from intravascular hemolysis",
+        "Myoglobinuria from muscle breakdown",
+        "Gross hematuria from glomerular injury",
+        "Contamination of the sample with bacterial peroxidase"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. Hemoglobinuria from intravascular hemolysis would also cause a heme-positive, RBC-negative urinalysis, but the clinical context (crush injury with markedly elevated CK) and absence of hemolysis findings (e.g., anemia, schistocytes) point to myoglobin, not hemoglobin, as the source.",
+        "Correct. In rhabdomyolysis, damaged muscle releases myoglobin into the bloodstream, which is filtered into the urine. Myoglobin has peroxidase activity that produces a positive dipstick 'heme' reaction, but because it is not a red blood cell, no red cells are seen on microscopy-this dissociation (heme-positive, RBC-negative) is the classic diagnostic clue for rhabdomyolysis, combined with a markedly elevated creatine kinase.",
+        "Incorrect. Glomerular hematuria would show red blood cells (often dysmorphic, with casts) on microscopy, which is explicitly absent in this scenario.",
+        "Incorrect. Bacterial peroxidase contamination is not a recognized cause of a positive urine heme dipstick in this clinical context and is a distractor rather than a real diagnostic consideration."
+      ],
+      "overview": "Rhabdomyolysis results from muscle necrosis (from trauma, ischemia, drugs, or exertion) that releases muscle contents including creatine kinase, potassium, phosphate, and myoglobin into the circulation. Myoglobin is toxic to the kidney (causing tubular obstruction and vasoconstriction) and produces a urine dipstick positive for heme with no red blood cells seen on microscopy, a key distinguishing laboratory clue from true hematuria.",
+      "id": "2026-09-22-22"
+    },
+    {
+      "format": "simple4",
+      "topic": "Hyperkalemia",
+      "angle": "treatment",
+      "stem": "A patient with a serum potassium of 7.1 mEq/L has peaked T waves and a widened QRS complex on EKG. Which of the following should be administered first to stabilize the cardiac membrane before other potassium-lowering therapies are given?",
+      "options": [
+        "IV calcium gluconate",
+        "IV insulin with dextrose",
+        "Nebulized albuterol",
+        "Sodium polystyrene sulfonate"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. IV calcium gluconate is administered first in severe hyperkalemia with EKG changes because it directly stabilizes the cardiac cell membrane, reducing the risk of life-threatening arrhythmias, even though it does not lower serum potassium levels; it acts within minutes, buying time for other therapies to take effect.",
+        "Incorrect. Insulin with dextrose is an important therapy that drives potassium into cells (via Na-K-ATPase stimulation), lowering serum potassium, but it does not provide the immediate cardiac membrane stabilization that calcium gluconate does and should follow, not precede, calcium administration in symptomatic hyperkalemia.",
+        "Incorrect. Nebulized albuterol shifts potassium into cells via beta-receptor stimulation but, like insulin, does not provide the rapid cardiac membrane stabilization achieved by calcium gluconate and is not the first-line intervention when EKG changes are present.",
+        "Incorrect. Potassium-binding resins like sodium polystyrene sulfonate remove potassium from the body via the GI tract, but act slowly over hours and are not appropriate as the first step in a patient with acute EKG changes."
+      ],
+      "overview": "Severe hyperkalemia with EKG changes (peaked T waves progressing to QRS widening and sine-wave pattern) is a medical emergency requiring immediate IV calcium gluconate to stabilize the cardiac membrane, followed by therapies that shift potassium intracellularly (insulin with dextrose, beta-agonists, bicarbonate) and then therapies that remove potassium from the body (potassium-binding resins, dialysis).",
+      "id": "2026-09-22-23"
+    },
+    {
+      "format": "simple4",
+      "topic": "Fanconi syndrome",
+      "angle": "clinical_presentation",
+      "stem": "A child with a generalized proximal tubular reabsorptive defect presents with glucosuria despite normal plasma glucose, phosphaturia, and aminoaciduria. Which of the following additional findings would be most expected in this condition?",
+      "options": [
+        "Non-anion gap metabolic acidosis and rickets",
+        "Metabolic alkalosis and hypertension",
+        "Isolated hematuria without proteinuria",
+        "Anion gap metabolic acidosis and hyperkalemia"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Fanconi syndrome is a generalized proximal tubular dysfunction causing impaired reabsorption of bicarbonate, glucose, amino acids, and phosphate. The bicarbonate wasting produces a non-anion gap metabolic acidosis (similar to proximal RTA), and chronic phosphate wasting along with acidosis impairs bone mineralization, causing rickets in children (or osteomalacia in adults) along with growth failure.",
+        "Incorrect. Fanconi syndrome causes acidosis (not alkalosis) due to bicarbonate wasting, and hypertension is not a typical feature.",
+        "Incorrect. Fanconi syndrome is characterized by multiple abnormal urinary losses (glucose, amino acids, phosphate, bicarbonate, protein) rather than isolated hematuria.",
+        "Incorrect. Fanconi syndrome produces a non-anion gap (not anion gap) metabolic acidosis, since the defect involves loss of filtered/reabsorbed solutes like bicarbonate rather than retention of an unmeasured organic acid; it also typically causes hypokalemia, not hyperkalemia."
+      ],
+      "overview": "Fanconi syndrome is a generalized dysfunction of the proximal tubule causing combined wasting of bicarbonate, glucose, amino acids, phosphate, and other solutes, resulting in normoglycemic glucosuria, non-anion gap metabolic acidosis, hypophosphatemia, and hypokalemia. Chronic phosphate loss and acidosis impair bone mineralization, leading to rickets in children or osteomalacia in adults, and can be caused by inherited disorders (cystinosis, Wilson disease) or acquired causes (multiple myeloma, heavy metals, certain drugs).",
+      "id": "2026-09-22-24"
+    },
+    {
+      "format": "simple4",
+      "topic": "Renal amyloidosis",
+      "angle": "diagnosis",
+      "stem": "A 65-year-old man with multiple myeloma develops nephrotic-range proteinuria, and a renal biopsy is performed. Which staining technique, when examined under polarized light, produces the classic finding used to diagnose amyloid deposition in this patient's kidney?",
+      "options": [
+        "Periodic acid-Schiff (PAS) stain showing mesangial expansion",
+        "Congo red stain showing apple-green birefringence",
+        "Masson trichrome stain showing interstitial fibrosis",
+        "Silver stain showing basement membrane spikes"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. PAS staining showing mesangial expansion is characteristic of diabetic nephropathy (e.g., Kimmelstiel-Wilson nodules), not the specific diagnostic finding for amyloidosis.",
+        "Correct. Amyloid deposits bind Congo red stain and exhibit classic apple-green birefringence when viewed under polarized light, the diagnostic hallmark of amyloidosis. In the kidney, amyloid deposition is a classic complication of multiple myeloma (from light chain deposition) and often presents as nephrotic syndrome progressing to chronic kidney disease.",
+        "Incorrect. Masson trichrome staining highlighting fibrosis is a general fibrosis stain and is not the specific diagnostic technique for identifying amyloid protein deposition.",
+        "Incorrect. Silver staining showing basement membrane 'spike and dome' appearance is characteristic of membranous nephropathy, not amyloidosis."
+      ],
+      "overview": "Renal amyloidosis results from extracellular deposition of misfolded amyloid proteins, classically as a complication of multiple myeloma (AL amyloid from light chains) or chronic inflammatory states (AA amyloid), and often presents as nephrotic syndrome progressing to chronic kidney disease. The diagnostic hallmark is apple-green birefringence under polarized light after Congo red staining of the biopsy specimen.",
+      "id": "2026-09-22-25"
+    },
+    {
+      "format": "simple4",
+      "topic": "Membranoproliferative glomerulonephritis",
+      "angle": "treatment",
+      "stem": "A patient with MPGN is found to have complement-mediated (dense deposit) disease on renal biopsy, characterized by isolated C3 deposition on immunofluorescence without immunoglobulin staining. Which of the following agents acts by binding complement C5 to inhibit the alternative complement pathway and is used as targeted therapy in this condition?",
+      "options": [
+        "Eculizumab",
+        "Cyclophosphamide",
+        "Rituximab",
+        "Tenofovir"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct. Eculizumab is a monoclonal antibody that binds complement C5, blocking its cleavage and inhibiting downstream complement activation. It is used as targeted therapy for complement-mediated (C3-only, dense deposit disease) MPGN, which is driven by overactivation of the alternative complement pathway (often via C3 nephritic factor stabilizing C3 convertase).",
+        "Incorrect. Cyclophosphamide is a cytotoxic immunosuppressant used for immune complex-mediated glomerular diseases (e.g., lupus nephritis), not specifically targeted at the complement pathway in complement-mediated MPGN.",
+        "Incorrect. Rituximab is an anti-CD20 monoclonal antibody used to deplete B cells in various immune-mediated diseases, but it does not target the complement pathway directly and is not the specific therapy described.",
+        "Incorrect. Tenofovir is an antiretroviral medication that can itself cause proximal tubule toxicity (Fanconi syndrome); it has no role in treating complement-mediated MPGN."
+      ],
+      "overview": "MPGN is divided into immune complex-mediated (subendothelial IgG and C3 deposits, associated with hepatitis C) and complement-mediated (isolated C3 deposits, dense deposit disease, associated with C3 nephritic factor and childhood onset) subtypes based on immunofluorescence findings. Immune complex-mediated MPGN is treated by addressing the underlying cause (e.g., treating hepatitis), while complement-mediated MPGN can be treated with eculizumab, which blocks the terminal complement pathway at C5.",
+      "id": "2026-09-22-26"
+    },
+    {
+      "format": "simple4",
+      "topic": "Mannitol (osmotic diuretic)",
+      "angle": "treatment",
+      "stem": "Mannitol is used therapeutically to reduce intracranial pressure in patients with cerebral edema. Which of the following best explains its mechanism of action in this setting?",
+      "options": [
+        "It blocks aquaporin-2 channels in the collecting duct, preventing water reabsorption",
+        "It antagonizes aldosterone receptors in the collecting duct",
+        "It creates a hyperosmolar plasma state that draws fluid out of brain tissue into the vasculature for excretion",
+        "It inhibits the Na-K-2Cl cotransporter in the thick ascending limb"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Mannitol does not act on aquaporin channels; it works through an osmotic gradient effect rather than blocking specific water channels.",
+        "Incorrect. Aldosterone receptor antagonism describes the mechanism of spironolactone/eplerenone, unrelated to mannitol's osmotic mechanism.",
+        "Correct. Mannitol is an osmotically active sugar that remains largely within the plasma and raises plasma osmolarity, creating an osmotic gradient that draws free water out of swollen brain cells and tissue into the vasculature; this fluid is then excreted by the kidneys, reducing cerebral edema and intracranial pressure.",
+        "Incorrect. Inhibition of the Na-K-2Cl cotransporter describes the mechanism of loop diuretics, not mannitol, which works purely through osmotic effects filtered at the glomerulus without tubular reabsorption."
+      ],
+      "overview": "Mannitol is an osmotic diuretic that is freely filtered but not reabsorbed, raising both urinary and plasma osmolarity. By creating a hyperosmolar plasma state, it draws fluid out of swollen tissues (brain in cerebral edema, eye in acute angle-closure glaucoma) into the vasculature for subsequent renal excretion, but it must be avoided in heart failure or severe renal disease due to risk of volume overload and pulmonary edema.",
+      "id": "2026-09-22-27"
+    },
+    {
+      "format": "simple4",
+      "topic": "Efferent arteriole vasoconstriction (ACE inhibitors)",
+      "angle": "mechanism",
+      "stem": "ACE inhibitors reduce angiotensin II-mediated constriction of the efferent arteriole. In a patient with bilateral renal artery stenosis, this effect can precipitate acute kidney injury through which of the following mechanisms?",
+      "options": [
+        "Direct toxic injury to proximal tubule epithelial cells by the drug",
+        "Decreased glomerular hydrostatic pressure due to efferent arteriole dilation, lowering GFR",
+        "Increased glomerular hydrostatic pressure due to afferent arteriole constriction, raising GFR excessively",
+        "Increased oncotic pressure within the glomerular capillary, raising GFR"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect. ACE inhibitor-induced AKI in renal artery stenosis is a hemodynamic effect from altered arteriolar tone, not direct tubular toxicity.",
+        "Correct. In renal artery stenosis, reduced renal perfusion pressure activates angiotensin II-mediated efferent arteriole constriction as a compensatory mechanism to maintain glomerular hydrostatic pressure and GFR despite low renal blood flow. ACE inhibitors block this angiotensin II effect, causing efferent arteriole dilation, which drops glomerular hydrostatic pressure and can precipitate a significant fall in GFR and acute kidney injury in this specific setting.",
+        "Incorrect. ACE inhibitors reduce (not increase) angiotensin II effects, so they cause efferent arteriole dilation rather than afferent constriction, and they lower rather than raise GFR in this setting.",
+        "Incorrect. Oncotic pressure changes are not the mechanism by which ACE inhibitors affect GFR in this setting; the effect is due to loss of efferent arteriolar tone and reduced glomerular hydrostatic pressure."
+      ],
+      "overview": "Efferent arteriole tone, maintained by angiotensin II, is critical for preserving glomerular filtration pressure when renal blood flow is compromised, as in bilateral renal artery stenosis. Because ACE inhibitors and ARBs block this compensatory efferent constriction, they can precipitate a sharp fall in GFR and acute kidney injury in patients with renal artery stenosis or severe volume depletion who depend on this mechanism.",
+      "id": "2026-09-22-28"
+    },
+    {
+      "format": "vignette5",
+      "topic": "ANCA-associated (pauci-immune) rapidly progressive glomerulonephritis",
+      "angle": "diagnosis",
+      "stem": "A 62-year-old man presents with a 2-week history of fatigue, anorexia, and rapidly worsening renal function. Urinalysis shows dysmorphic red blood cells and red cell casts. Serum creatinine has risen from 1.0 to 4.5 mg/dL over 10 days. Renal biopsy demonstrates crescent formation on light microscopy with no significant staining for immunoglobulin or complement on immunofluorescence. Which of the following serologic tests is most likely to be positive in this patient?",
+      "options": [
+        "Anti-double stranded DNA antibody",
+        "Anti-glomerular basement membrane antibody",
+        "Antineutrophil cytoplasmic antibody",
+        "Antistreptolysin O titer",
+        "Anti-phospholipase A2 receptor antibody"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Anti-dsDNA antibodies are associated with lupus nephritis, which shows granular ('full house') immunofluorescence with immune complex deposition, not a pauci-immune pattern.",
+        "Incorrect. Anti-GBM antibodies produce a linear immunofluorescence pattern (type I RPGN), not the negative ('pauci-immune') pattern described in this patient.",
+        "Correct. Crescentic glomerulonephritis with negative immunofluorescence staining for immunoglobulin and complement is termed 'pauci-immune' (type III RPGN) and is most commonly associated with ANCA-associated vasculitides such as granulomatosis with polyangiitis (c-ANCA) or microscopic polyangiitis (p-ANCA).",
+        "Incorrect. ASO titers support a diagnosis of post-streptococcal glomerulonephritis, which shows granular immune complex deposition (IgG and C3) on immunofluorescence, not a pauci-immune pattern.",
+        "Incorrect. Anti-PLA2R antibodies are associated with primary membranous nephropathy, a nephrotic (not crescentic/nephritic) glomerular disease with subepithelial deposits, not a pauci-immune crescentic pattern."
+      ],
+      "overview": "Rapidly progressive glomerulonephritis (RPGN) is classified by immunofluorescence pattern into three types: linear (anti-GBM disease), granular (immune complex-mediated, e.g., lupus or post-infectious GN), and negative or 'pauci-immune' (ANCA-associated vasculitis), the most common cause of RPGN in adults. Pauci-immune RPGN presents with rapid renal function decline, systemic symptoms, and a positive c-ANCA or p-ANCA in most patients.",
+      "id": "2026-09-22-29"
+    },
+    {
+      "format": "simple4",
+      "topic": "Inulin clearance and GFR",
+      "angle": "mechanism",
+      "stem": "Inulin is used experimentally as a marker to measure glomerular filtration rate. Which of the following properties of inulin makes it an ideal marker for this purpose?",
+      "options": [
+        "It is not filtered but is entirely secreted into the tubular lumen",
+        "It is freely filtered and partially reabsorbed by the proximal tubule",
+        "It is freely filtered at the glomerulus and undergoes no tubular secretion or reabsorption",
+        "It is freely filtered and partially secreted by the proximal tubule"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect. Inulin is freely filtered by the glomerulus (not excluded from filtration) and does not undergo secretion, distinguishing it from substances handled purely by secretion.",
+        "Incorrect. If inulin were partially reabsorbed, its clearance would underestimate GFR (as occurs with substances like sodium or glucose); this is not the case for inulin.",
+        "Correct. Inulin is freely filtered at the glomerulus, and once filtered, undergoes no additional tubular secretion or reabsorption; therefore, the amount of inulin excreted in the urine exactly equals the amount filtered, making its clearance an exact measure of GFR.",
+        "Incorrect. This describes para-aminohippuric acid (PAH), which is filtered and additionally secreted, making its clearance a marker of renal plasma flow rather than a precise measure of GFR."
+      ],
+      "overview": "Glomerular filtration rate can be precisely measured using a marker that is freely filtered and undergoes no tubular reabsorption or secretion, such as inulin; its clearance therefore exactly equals GFR. In clinical practice, creatinine (which undergoes a small amount of tubular secretion) is used as a more practical surrogate, though this leads to a slight overestimation of true GFR.",
+      "id": "2026-09-22-30"
     }
   ]
 }

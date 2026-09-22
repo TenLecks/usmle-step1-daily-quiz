@@ -1,10 +1,7 @@
 {
-  "cycle_index": 14,
-  "cycle_number": 2,
-  "tail_order": [
-    "Reproductive",
-    "Renal"
-  ],
+  "cycle_index": 0,
+  "cycle_number": 3,
+  "tail_order": null,
   "history": {
     "Cardiology": [
       {
@@ -3634,6 +3631,126 @@
       {
         "topic": "Distal (type 1) renal tubular acidosis",
         "angle": "diagnosis"
+      },
+      {
+        "topic": "Aspirin overdose",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Alport syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "ANCA-associated (pauci-immune) rapidly progressive glomerulonephritis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Type IV renal tubular acidosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Acute tubular necrosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "SIADH",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Milk-alkali syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Lupus nephritis (diffuse proliferative glomerulonephritis)",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Papillary necrosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Wilms tumor",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Acid excretion (titratable acid buffering)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Ammoniagenesis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Non-anion gap metabolic acidosis",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Isoniazid overdose",
+        "angle": "complications"
+      },
+      {
+        "topic": "Proximal (Type II) renal tubular acidosis",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Urine anion gap",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Bartter and Gitelman syndrome",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Licorice-induced pseudohyperaldosteronism",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Membranoproliferative glomerulonephritis",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Renal amyloidosis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Hyperkalemia",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Fanconi syndrome",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Renal anatomy",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Renal embryology",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Inulin clearance and GFR",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Efferent arteriole vasoconstriction (ACE inhibitors)",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Mannitol (osmotic diuretic)",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Rhabdomyolysis",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Diabetes insipidus",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Hyponatremia due to psychogenic polydipsia",
+        "angle": "pathophysiology"
       }
     ]
   }
