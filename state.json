@@ -1,7 +1,10 @@
 {
-  "cycle_index": 0,
+  "cycle_index": 1,
   "cycle_number": 3,
-  "tail_order": null,
+  "tail_order": [
+    "Reproductive",
+    "Renal"
+  ],
   "history": {
     "Cardiology": [
       {
@@ -243,6 +246,126 @@
       {
         "topic": "Cardiac tamponade",
         "angle": "pathophysiology"
+      },
+      {
+        "topic": "Right ventricular infarction",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Aortic stenosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Constrictive pericarditis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Atrial fibrillation",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Mitral regurgitation",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "NSTEMI",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Cardiac tamponade",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Digoxin toxicity",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Aortic dissection",
+        "angle": "complications"
+      },
+      {
+        "topic": "Hypertrophic cardiomyopathy",
+        "angle": "complications"
+      },
+      {
+        "topic": "Preload",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Afterload",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Cardiac hypertrophy",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Mitral stenosis",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Atrial septal defect",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Wolff-Parkinson-White syndrome",
+        "angle": "pathophysiology"
+      },
+      {
+        "topic": "Tetralogy of Fallot",
+        "angle": "clinical_presentation"
+      },
+      {
+        "topic": "Coarctation of the aorta",
+        "angle": "complications"
+      },
+      {
+        "topic": "Patent ductus arteriosus",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Cardiac rhabdomyoma",
+        "angle": "anatomy_histology"
+      },
+      {
+        "topic": "Infective endocarditis",
+        "angle": "risk_factors"
+      },
+      {
+        "topic": "Atherosclerosis",
+        "angle": "mechanism"
+      },
+      {
+        "topic": "Prinzmetal angina",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Cardiogenic shock",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Beta blockers",
+        "angle": "treatment"
+      },
+      {
+        "topic": "Nitrate tolerance",
+        "angle": "complications"
+      },
+      {
+        "topic": "Restrictive cardiomyopathy",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Bundle branch block",
+        "angle": "diagnosis"
+      },
+      {
+        "topic": "Flecainide",
+        "angle": "complications"
+      },
+      {
+        "topic": "Ebstein anomaly",
+        "angle": "risk_factors"
       }
     ],
     "Dermatology": [

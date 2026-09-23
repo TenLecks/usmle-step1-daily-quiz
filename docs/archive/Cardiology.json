@@ -1270,6 +1270,656 @@
       "id": "2026-09-03-30",
       "topic": "Cardiac tamponade",
       "angle": "pathophysiology"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following pharmacologic approaches would help promote closure of a patent ductus arteriosus in a term newborn?",
+      "options": [
+        "Furosemide",
+        "Indomethacin, an NSAID that inhibits prostaglandin synthesis",
+        "A prostaglandin E2 analog",
+        "Continuous alprostadil (PGE1) infusion"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 furosemide is a diuretic used for heart failure symptoms from a PDA, but it does not close the ductus.",
+        "Correct \u2014 indomethacin inhibits cyclooxygenase, reducing prostaglandin synthesis; since prostaglandins (particularly PGE2) maintain ductal patency, lowering them promotes closure of the PDA.",
+        "Incorrect \u2014 a prostaglandin analog would maintain, not close, ductal patency, since prostaglandins keep the ductus open.",
+        "Incorrect \u2014 alprostadil is a prostaglandin E1 analog used to keep the ductus arteriosus open (e.g., in duct-dependent congenital lesions), the opposite of what is needed to close a PDA."
+      ],
+      "overview": "Patency of the ductus arteriosus in utero and immediately after birth is maintained by low oxygen tension and prostaglandins (PGE2). Indomethacin (an NSAID/COX inhibitor) lowers prostaglandin levels and is used to pharmacologically close a PDA, whereas alprostadil (PGE1) is used to keep the ductus open in duct-dependent cardiac lesions.",
+      "topic": "Patent ductus arteriosus",
+      "angle": "treatment",
+      "id": "2026-09-23-01"
+    },
+    {
+      "format": "simple4",
+      "stem": "A cardiac tumor found in an infant with tuberous sclerosis is composed of bizarre, elongated myocytes with clear cytoplasm and septa stretching from the cell membrane to the nucleus ('spider cells'). Which tumor is this?",
+      "options": [
+        "Rhabdomyoma",
+        "Myxoma",
+        "Metastatic tumor",
+        "Cardiac fibroma"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 cardiac rhabdomyomas are the most common primary cardiac tumor in children, are strongly associated with tuberous sclerosis (~90% of cases), and show the classic histologic finding of 'spider cells' \u2014 myocytes with clear cytoplasm and radiating septa.",
+        "Incorrect \u2014 myxoma is the most common primary cardiac tumor overall (in adults), typically found in the left atrium, and composed of mesenchymal/endothelial cells and mucopolysaccharide stroma, not spider cells.",
+        "Incorrect \u2014 metastatic tumors are the most common cardiac tumor overall but are not associated with tuberous sclerosis or the described histology in an infant.",
+        "Incorrect \u2014 cardiac fibroma is a distinct benign tumor of fibrous tissue, not associated with tuberous sclerosis or spider cell histology."
+      ],
+      "overview": "Cardiac rhabdomyomas are benign tumors of myocytes that are the most common primary cardiac tumor in children, usually presenting in infancy and strongly linked to tuberous sclerosis. Histology classically shows 'spider cells' with clear cytoplasm, and most tumors regress spontaneously.",
+      "topic": "Cardiac rhabdomyoma",
+      "angle": "anatomy_histology",
+      "id": "2026-09-23-02"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which class of beta blockers is generally preferred for treatment of chronic stable angina in a patient with mild asthma, to minimize the risk of bronchospasm?",
+      "options": [
+        "Cardioselective \u03b21-blockers such as metoprolol or atenolol",
+        "Partial agonist beta blockers such as pindolol",
+        "Nonselective \u03b21/\u03b22-blockers such as propranolol",
+        "Peripheral \u03b11-blockers such as prazosin"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 cardioselective (\u03b21-selective) blockers like metoprolol and atenolol reduce heart rate and contractility (lowering myocardial O2 demand) while sparing \u03b22 receptors in the bronchi, minimizing bronchospasm risk in patients with reactive airway disease.",
+        "Incorrect \u2014 partial agonists (intrinsic sympathomimetic activity) like pindolol are specifically avoided in angina because they can provoke angina via \u03b21 stimulation during low sympathetic tone.",
+        "Incorrect \u2014 nonselective beta blockers block \u03b22 receptors as well, which can trigger bronchospasm in patients with asthma/COPD.",
+        "Incorrect \u2014 \u03b11-blockers are not first-line antianginal therapy and do not provide the heart rate/contractility-lowering benefit of beta blockers for reducing myocardial oxygen demand."
+      ],
+      "overview": "Beta blockers reduce myocardial oxygen demand in stable angina primarily by lowering heart rate and contractility. Cardioselective (\u03b21) agents such as metoprolol and atenolol are preferred when there is concern for bronchospasm, since nonselective agents block bronchodilatory \u03b22 receptors, and partial agonists are avoided because they can provoke angina.",
+      "topic": "Beta blockers",
+      "angle": "treatment",
+      "id": "2026-09-23-03"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 55-year-old man with a history of poorly controlled hypertension presents with sudden-onset tearing chest pain radiating to his back. Blood pressure is 160/95 mmHg in the right arm and 118/70 mmHg in the left arm. CT angiography reveals a dissection flap originating in the ascending aorta and extending into the aortic arch. Minutes later, he becomes acutely hypotensive with distended neck veins. Which complication most likely explains his new hypotension and jugular venous distension?",
+      "options": [
+        "New severe aortic regurgitation",
+        "Acute inferior wall myocardial infarction",
+        "Cardiac tamponade from proximal extension of the dissection into the pericardial space",
+        "Embolic stroke",
+        "Mesenteric ischemia from extension into the abdominal aorta"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 aortic regurgitation from dissection extending to the aortic root causes a diastolic murmur and volume overload, not the acute hypotension/JVD picture of tamponade.",
+        "Incorrect \u2014 while dissection can occlude the RCA ostium and cause inferior MI, this would present with ischemic ECG changes and chest pain, not primarily hypotension with JVD as its dominant physiology.",
+        "Correct \u2014 a Type A dissection involving the ascending aorta can propagate proximally and rupture into the pericardial space, causing hemopericardium and cardiac tamponade, which presents with hypotension and jugular venous distension and is a leading cause of death in aortic dissection.",
+        "Incorrect \u2014 stroke from carotid extension would cause focal neurologic deficits, not hypotension with JVD.",
+        "Incorrect \u2014 mesenteric ischemia presents with abdominal pain, not hypotension with jugular venous distension as the primary finding."
+      ],
+      "overview": "Type A aortic dissections involve the ascending aorta and/or arch and are managed surgically due to the risk of life-threatening complications, most notably retrograde extension into the pericardium causing tamponade, as well as aortic regurgitation and coronary ostial occlusion. Type B dissections (descending aorta only) are typically managed medically with blood pressure control.",
+      "topic": "Aortic dissection",
+      "angle": "complications",
+      "id": "2026-09-23-04"
+    },
+    {
+      "format": "simple4",
+      "stem": "Maternal use of which medication during pregnancy is most classically associated with Ebstein anomaly in the fetus?",
+      "options": [
+        "Isotretinoin",
+        "ACE inhibitors",
+        "Warfarin",
+        "Lithium"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 isotretinoin is associated with a range of congenital malformations (craniofacial, cardiac) but is not the classic drug linked specifically to Ebstein anomaly.",
+        "Incorrect \u2014 ACE inhibitors are teratogenic but are classically associated with fetal renal damage and other malformations, not specifically Ebstein anomaly.",
+        "Incorrect \u2014 warfarin is associated with a distinct fetal warfarin syndrome (nasal hypoplasia, skeletal abnormalities), not Ebstein anomaly.",
+        "Correct \u2014 lithium is a teratogen that crosses the placenta and is classically associated with Ebstein anomaly, characterized by apical displacement of the tricuspid valve and 'atrialization' of the right ventricle."
+      ],
+      "overview": "Ebstein anomaly is a congenital malformation in which the tricuspid valve is apically displaced into the right ventricle, causing atrialization of RV tissue, severe tricuspid regurgitation, and often coexisting WPW-related accessory pathways. It is classically linked to maternal lithium exposure during pregnancy.",
+      "topic": "Ebstein anomaly",
+      "angle": "risk_factors",
+      "id": "2026-09-23-05"
+    },
+    {
+      "format": "simple4",
+      "stem": "Adult-type (postductal) coarctation of the aorta is most strongly associated with which long-term vascular complication?",
+      "options": [
+        "Renal vein thrombosis",
+        "Abdominal aortic aneurysm from atherosclerosis",
+        "Intracranial (berry) aneurysm",
+        "Pulmonary embolism"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 renal vein thrombosis is not associated with coarctation; coarctation instead activates the renin-angiotensin system due to reduced renal perfusion, contributing to secondary hypertension.",
+        "Incorrect \u2014 abdominal aortic aneurysm is classically associated with atherosclerosis, smoking, and older age, not specifically with coarctation.",
+        "Correct \u2014 coarctation of the aorta is associated with intracranial (berry) aneurysms in the Circle of Willis in roughly 10% of patients, likely related to associated connective tissue/vascular abnormalities and hypertension proximal to the coarctation.",
+        "Incorrect \u2014 pulmonary embolism is not a recognized complication of coarctation of the aorta."
+      ],
+      "overview": "Postductal (adult-type) coarctation of the aorta causes upper extremity hypertension with weak, delayed femoral pulses (brachio-femoral delay), rib notching from collateral intercostal arteries, and is associated with bicuspid aortic valve (up to 60%) and intracranial berry aneurysms (~10%), which can rupture and cause subarachnoid hemorrhage.",
+      "topic": "Coarctation of the aorta",
+      "angle": "complications",
+      "id": "2026-09-23-06"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 50-year-old woman with a history of mediastinal radiation for Hodgkin lymphoma 15 years ago presents with progressive dyspnea, abdominal distension, and lower extremity edema. On exam, jugular venous pressure is markedly elevated and rises further with inspiration. There is hepatomegaly and a pericardial 'knock' is heard early in diastole. Echocardiogram shows a thickened, calcified pericardium with normal ventricular wall thickness. Which finding would help distinguish this patient's condition from cardiac tamponade?",
+      "options": [
+        "Elevated right atrial pressure",
+        "Jugular venous pressure that rises with inspiration (Kussmaul's sign)",
+        "Prominent pulsus paradoxus",
+        "Distant or muffled heart sounds",
+        "Equalization of diastolic pressures across all cardiac chambers"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 elevated RA pressure occurs in both conditions and is not distinguishing.",
+        "Correct \u2014 Kussmaul's sign (a paradoxical rise in JVP with inspiration) is characteristic of constrictive pericarditis and restrictive cardiomyopathy because the stiff pericardium prevents the ventricle from accommodating the increased venous return; it is classically absent in tamponade.",
+        "Incorrect \u2014 pulsus paradoxus is the classic finding in cardiac tamponade and is much less common in constrictive pericarditis (~20% of cases).",
+        "Incorrect \u2014 muffled heart sounds are part of Beck's triad for tamponade, not a distinguishing feature favoring constriction.",
+        "Incorrect \u2014 equalization of diastolic pressures occurs in both tamponade and constriction, so it does not distinguish between them."
+      ],
+      "overview": "Constrictive pericarditis results from a fibrotic, thickened pericardium (often after radiation, cardiac surgery, TB, or prior pericarditis) that restricts diastolic filling and causes prominent right heart failure signs. Unlike tamponade, constriction classically produces Kussmaul's sign and only rarely causes pulsus paradoxus, even though both conditions show equalization of diastolic pressures.",
+      "topic": "Constrictive pericarditis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-07"
+    },
+    {
+      "format": "simple4",
+      "stem": "According to findings from the Cardiac Arrhythmia Suppression Trial (CAST), administering flecainide to post-myocardial infarction patients with asymptomatic ventricular arrhythmias resulted in which outcome?",
+      "options": [
+        "Improved ejection fraction and reduced hospitalizations",
+        "Decreased overall mortality compared to placebo",
+        "Suppression of arrhythmias but a 3.6-fold increased risk of arrhythmic death",
+        "No significant effect on arrhythmia frequency or mortality"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 the trial did not show improved ejection fraction or reduced hospitalization; it showed increased arrhythmic death, leading to a major reduction in antiarrhythmic drug use in this population.",
+        "Incorrect \u2014 mortality was increased, not decreased, in the treatment arm, which was the landmark and unexpected finding of the trial.",
+        "Correct \u2014 the CAST trial found that although flecainide (and encainide) successfully suppressed arrhythmias, patients receiving these Class Ic drugs had a 3.6-fold increased risk of arrhythmic death, disproving the 'suppression hypothesis' and leading to flecainide being contraindicated post-MI/in structural heart disease.",
+        "Incorrect \u2014 the trial did show an effect \u2014 arrhythmias were suppressed, but mortality significantly worsened, a very significant, not null, result."
+      ],
+      "overview": "Class Ic antiarrhythmics like flecainide and propafenone are effective at suppressing arrhythmias but are proarrhythmic and dangerous in patients with structural heart disease or prior MI, as shown definitively by the CAST trial. They are now reserved for patients with structurally normal hearts, such as for atrial fibrillation.",
+      "topic": "Flecainide",
+      "angle": "complications",
+      "id": "2026-09-23-08"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 58-year-old man presents to the emergency department with substernal chest pain that began 45 minutes ago. ECG shows ST-segment elevations in leads II, III, and aVF. He is given aspirin, morphine, and sublingual nitroglycerin. Shortly after the nitroglycerin, his blood pressure drops from 130/80 mmHg to 78/50 mmHg, his heart rate is 58/min, his jugular venous pressure is markedly elevated, and his lungs are clear to auscultation bilaterally. Which of the following best explains this patient's hypotension?",
+      "options": [
+        "Anaphylactic reaction to nitroglycerin",
+        "Acute papillary muscle rupture causing severe mitral regurgitation",
+        "Infarction of the right ventricle causing preload-dependent hypotension after venodilation",
+        "Cardiac tamponade from free wall rupture",
+        "Massive left ventricular infarction causing cardiogenic shock"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 nitroglycerin does not cause anaphylaxis; its known hemodynamic effect is preload reduction via venodilation.",
+        "Incorrect \u2014 papillary muscle rupture presents with acute pulmonary edema and a new holosystolic murmur, and lungs would not be clear; it also typically occurs days after MI, not immediately after nitroglycerin.",
+        "Correct \u2014 ST elevations in II, III, aVF indicate inferior STEMI, usually from RCA occlusion, which frequently also infarcts the right ventricle (supplied by the acute marginal branch of the RCA). An infarcted RV depends on adequate preload to maintain output; nitroglycerin's venodilating effect drops preload and precipitates hypotension with clear lungs and elevated JVP.",
+        "Incorrect \u2014 free wall rupture and tamponade usually occur 5\u201310 days post-MI, not within an hour of symptom onset, and would show muffled heart sounds/pulsus paradoxus.",
+        "Incorrect \u2014 cardiogenic shock from LV pump failure would typically present with pulmonary edema/rales, not clear lungs, and is not specifically triggered by nitroglycerin timing."
+      ],
+      "overview": "Inferior STEMI (ST elevation in II, III, aVF) most often results from RCA occlusion and can also infarct the right ventricle via the acute marginal branch. RV infarction causes preload-dependent hypotension with clear lungs and elevated JVP; nitrates and diuretics can precipitate severe hypotension in this setting and should be avoided or used cautiously.",
+      "topic": "Right ventricular infarction",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-09"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 35-year-old smoker has recurrent episodes of chest pain at rest, typically in the early morning, with transient ST-segment elevation during episodes and a normal coronary angiogram. Which of the following medications should be avoided in her treatment?",
+      "options": [
+        "Diltiazem",
+        "Propranolol",
+        "Nitroglycerin",
+        "Nifedipine"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 diltiazem is also a calcium channel blocker used to relieve and prevent coronary vasospasm.",
+        "Correct \u2014 nonselective beta blockers like propranolol block \u03b22-mediated vasodilation, leaving \u03b11-mediated vasoconstriction unopposed, which can worsen coronary vasospasm in vasospastic (Prinzmetal) angina.",
+        "Incorrect \u2014 nitrates are vasodilators that help relieve vasospasm and are a mainstay of therapy for Prinzmetal angina.",
+        "Incorrect \u2014 nifedipine, a dihydropyridine calcium channel blocker, is a vasodilator used to treat and prevent coronary vasospasm."
+      ],
+      "overview": "Vasospastic (Prinzmetal) angina causes transient coronary artery spasm producing rest pain and transient ST elevation, typically in patients with few traditional atherosclerotic risk factors other than smoking, and with angiographically normal or minimally diseased coronaries. Treatment includes calcium channel blockers and nitrates, while nonselective beta blockers should be avoided due to risk of unopposed alpha-mediated vasoconstriction.",
+      "topic": "Prinzmetal angina",
+      "angle": "treatment",
+      "id": "2026-09-23-10"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient receiving a continuous nitroglycerin infusion for more than 24 hours without interruption develops recurrent angina despite an unchanged infusion rate. What is the most likely explanation?",
+      "options": [
+        "Reflex bradycardia from baroreceptor activation",
+        "Coronary steal from vasodilation of nondiseased vessels",
+        "Nitrate tolerance due to continuous dosing without a nitrate-free interval",
+        "Nitrate withdrawal syndrome"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 nitrates typically cause reflex tachycardia (from preload reduction and sympathetic activation), not bradycardia, and this would not explain a loss of anginal control.",
+        "Incorrect \u2014 coronary steal is a phenomenon more associated with agents like adenosine/dipyridamole in pharmacologic stress testing, not a typical complication of prolonged nitroglycerin infusion causing recurrent angina.",
+        "Correct \u2014 continuous, uninterrupted nitrate exposure leads to tolerance (loss of efficacy), which is why nitrate-free intervals of several hours per day are recommended (except with agents like daily isosorbide mononitrate, which are less prone to tolerance).",
+        "Incorrect \u2014 nitrate withdrawal occurs after abruptly stopping a nitrate, causing rebound angina, not during continued unchanged infusion."
+      ],
+      "overview": "Nitrates lose efficacy with continuous, unbroken exposure (nitrate tolerance), so intermittent dosing with a nitrate-free interval is required to maintain effectiveness \u2014 an important exception being daily isosorbide mononitrate. This is distinct from nitrate withdrawal, in which abruptly stopping high-dose long-acting nitrates causes rebound anginal symptoms.",
+      "topic": "Nitrate tolerance",
+      "angle": "complications",
+      "id": "2026-09-23-11"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which ECG feature is characteristic of an isolated bundle branch block (only one bundle branch affected), as opposed to a higher-grade AV conduction disturbance?",
+      "options": [
+        "Complete dissociation between P waves and QRS complexes",
+        "Prolonged QRS duration with a normal PR interval",
+        "Progressive PR prolongation culminating in a dropped QRS complex",
+        "Prolonged PR interval with a normal QRS duration"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 complete AV dissociation describes third-degree (complete) heart block, which requires block of both bundle branches or the AV node, not an isolated single bundle branch block.",
+        "Correct \u2014 blocking only one bundle branch (right or left) does not impair AV nodal conduction, so the PR interval remains normal, but ventricular depolarization is delayed and asynchronous, prolonging the QRS duration.",
+        "Incorrect \u2014 progressive PR prolongation with a dropped beat describes Mobitz I (Wenckebach) second-degree AV block, a disease of the AV node, not an isolated bundle branch block.",
+        "Incorrect \u2014 a prolonged PR interval with normal QRS describes first-degree AV block (a disease of the AV node), not an isolated bundle branch block."
+      ],
+      "overview": "A bundle branch block affecting only one branch (RBBB or LBBB) delays ventricular depolarization and widens the QRS complex, but because AV nodal conduction is intact, the PR interval remains normal. This distinguishes isolated bundle branch block from AV nodal or complete heart block, where PR interval changes or AV dissociation occur.",
+      "topic": "Bundle branch block",
+      "angle": "diagnosis",
+      "id": "2026-09-23-12"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 62-year-old man develops sudden hypotension, distended neck veins, and muffled heart sounds two days after a cardiac catheterization complicated by a small coronary perforation. His blood pressure is 82/58 mmHg, and pulses become weaker with inspiration. Which finding, together with hypotension and jugular venous distension, completes the classic triad seen in this patient's condition?",
+      "options": [
+        "Pulsus paradoxus greater than 10 mmHg",
+        "Widened pulse pressure",
+        "A new S3 gallop",
+        "Bilateral pulmonary crackles",
+        "Distant/muffled heart sounds"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect \u2014 pulsus paradoxus is a separate, classic exam finding in tamponade but is not one of the three components of Beck's triad.",
+        "Incorrect \u2014 tamponade classically narrows, rather than widens, pulse pressure due to reduced stroke volume.",
+        "Incorrect \u2014 an S3 gallop reflects volume overload of the ventricle, not the pericardial compression of tamponade.",
+        "Incorrect \u2014 pulmonary crackles suggest left heart failure/pulmonary edema, not the pericardial compression seen in tamponade.",
+        "Correct \u2014 Beck's triad for cardiac tamponade consists of hypotension, jugular venous distension, and distant/muffled heart sounds, caused by fluid accumulation in the pericardial space compressing the heart."
+      ],
+      "overview": "Cardiac tamponade results from pericardial fluid accumulating faster than the pericardium can stretch, compressing cardiac chambers and impairing filling. Beck's triad \u2014 hypotension, jugular venous distension, and muffled heart sounds \u2014 is the classic bedside presentation, often accompanied by pulsus paradoxus, and requires urgent pericardiocentesis or drainage.",
+      "topic": "Cardiac tamponade",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-13"
+    },
+    {
+      "format": "simple4",
+      "stem": "An infant with tetralogy of Fallot experiences a sudden hypercyanotic ('tet') spell during crying. Which maneuver is used to improve oxygenation by increasing systemic vascular resistance and reducing right-to-left shunting?",
+      "options": [
+        "Trendelenburg (head-down) positioning",
+        "Squatting or knee-to-chest positioning",
+        "Valsalva maneuver",
+        "Standing the infant upright"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 Trendelenburg positioning affects venous return via gravity but is not the described mechanism used for tet spells, which specifically relies on raising afterload.",
+        "Correct \u2014 squatting or knee-to-chest positioning increases systemic vascular resistance/afterload, which raises left ventricular pressure and reduces the right-to-left shunt across the VSD, directing more blood through the (obstructed) right ventricular outflow tract to the lungs and improving oxygenation.",
+        "Incorrect \u2014 Valsalva decreases venous return and would not correct the shunt physiology of a tet spell; it is used to unmask HCM murmurs and vagal maneuvers for SVT, not tet spells.",
+        "Incorrect \u2014 standing does not specifically increase systemic vascular resistance in the way squatting does, and offers no therapeutic benefit for a tet spell."
+      ],
+      "overview": "Tetralogy of Fallot combines a VSD, overriding aorta, right ventricular outflow tract (subpulmonic) obstruction, and RVH. Severe obstruction causes right-to-left shunting across the VSD and cyanosis; hypercyanotic 'tet spells' are treated by increasing systemic vascular resistance (squatting, knee-to-chest, phenylephrine) to reduce the right-to-left shunt and increase pulmonary blood flow.",
+      "topic": "Tetralogy of Fallot",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-14"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 72-year-old man reports several months of exertional dyspnea and one episode of syncope while climbing stairs. On exam, he has a harsh, late-peaking crescendo-decrescendo systolic murmur at the right upper sternal border radiating to the carotids, a soft and delayed S2, and weak, delayed carotid upstrokes. Echocardiogram confirms a severely calcified, stenotic valve with a high transvalvular gradient. The mechanism of this patient's exertional syncope is best explained by which of the following?",
+      "options": [
+        "Orthostatic hypotension due to autonomic neuropathy",
+        "Acute rupture of a papillary muscle causing sudden severe mitral regurgitation",
+        "Fixed valvular obstruction prevents an adequate rise in cardiac output during exercise-induced peripheral vasodilation",
+        "Vasovagal reflex triggered by carotid sinus hypersensitivity",
+        "Paroxysmal atrial fibrillation with rapid ventricular response"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 the presentation (exertional, with a loud murmur and delayed carotid upstroke) points to a cardiac outflow obstruction, not an autonomic/orthostatic cause.",
+        "Incorrect \u2014 this describes an acute complication of myocardial infarction, not a mechanism intrinsic to chronic aortic stenosis, and would present with acute pulmonary edema and a new holosystolic murmur.",
+        "Correct \u2014 in severe aortic stenosis, the fixed outflow obstruction limits the ability to increase cardiac output during exercise, when peripheral vasodilation drops systemic vascular resistance; the resulting mismatch between fixed obstruction and falling resistance causes syncope.",
+        "Incorrect \u2014 carotid sinus hypersensitivity causes reflex bradycardia/vasodilation unrelated to the fixed valvular pathology described here.",
+        "Incorrect \u2014 while arrhythmias can contribute to symptoms in valvular disease, the classic mechanism of exertional syncope in AS is the fixed obstruction to forward flow, not an arrhythmia."
+      ],
+      "overview": "Aortic stenosis produces a classic triad of angina, syncope, and heart failure symptoms as the disease progresses. Because the stenotic valve fixes resistance to outflow, the heart cannot increase cardiac output appropriately during exertion, when systemic vasodilation would otherwise require higher flow \u2014 this mismatch produces exertional syncope. Physical exam classically shows a crescendo-decrescendo systolic murmur, soft/single S2, and pulsus parvus et tardus.",
+      "topic": "Aortic stenosis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-15"
+    },
+    {
+      "format": "vignette5",
+      "stem": "An 80-year-old woman with heart failure on chronic digoxin and furosemide presents with nausea, vomiting, confusion, and complaints of yellow-green halos around lights. Her serum creatinine has risen from her baseline due to a recent illness with poor oral intake. ECG shows frequent premature ventricular contractions and a new AV block. Which serum electrolyte finding would be expected to correlate with the severity of her acute digoxin toxicity?",
+      "options": [
+        "Hyponatremia",
+        "Hypokalemia",
+        "Hypomagnesemia",
+        "Hypercalcemia",
+        "Hyperkalemia"
+      ],
+      "correctIndex": 4,
+      "explanations": [
+        "Incorrect \u2014 sodium disturbances are not a hallmark of digoxin toxicity severity.",
+        "Incorrect \u2014 hypokalemia predisposes to and worsens chronic digoxin toxicity (often from loop diuretics like furosemide) but is not the marker of acute toxicity severity described here; acute overdose classically causes hyperkalemia, not hypokalemia.",
+        "Incorrect \u2014 hypomagnesemia can predispose to arrhythmias generally but is not the classic marker of digoxin toxicity severity.",
+        "Incorrect \u2014 calcium is not the classically implicated electrolyte in digoxin toxicity severity; hypocalcemia (not hypercalcemia) can promote toxicity via calcium-mediated effects.",
+        "Correct \u2014 digoxin inhibits the Na+/K+-ATPase pump; in acute, severe toxicity this can cause potassium to shift out of cells, producing hyperkalemia, and the degree of hyperkalemia correlates with the severity of toxicity and prognosis."
+      ],
+      "overview": "Digoxin toxicity presents with GI symptoms (nausea, vomiting), neurologic symptoms (confusion, visual disturbances such as yellow-green halos), and cardiac arrhythmias (increased automaticity and AV block) due to Na+/K+-ATPase inhibition and increased vagal tone. Renal impairment and diuretic-induced hypokalemia predispose to chronic toxicity, while acute severe overdose can paradoxically cause hyperkalemia, which correlates with prognosis.",
+      "topic": "Digoxin toxicity",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-16"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 68-year-old woman presents with 3 days of palpitations and fatigue. She is hemodynamically stable with a blood pressure of 128/76 mmHg. ECG shows an irregularly irregular rhythm without discernible P waves at a rate of 132/min, consistent with atrial fibrillation. She has a history of hypertension and diabetes. She is unsure exactly when her symptoms began but believes it may have been longer than 3 days. Which of the following is the most appropriate next step in management before attempting to restore sinus rhythm?",
+      "options": [
+        "Begin therapeutic anticoagulation and obtain a transesophageal echocardiogram to exclude left atrial thrombus before cardioversion",
+        "Proceed immediately with electrical cardioversion without anticoagulation",
+        "No anticoagulation is necessary since symptoms are recent",
+        "Start aspirin alone for stroke prevention and proceed with cardioversion",
+        "Give IV adenosine to terminate the arrhythmia"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 because the duration of atrial fibrillation is unclear and possibly greater than 48 hours, there is risk of atrial thrombus formation; guidelines recommend either 3 weeks of anticoagulation before cardioversion or a TEE to exclude thrombus, followed by anticoagulation.",
+        "Incorrect \u2014 cardioverting without addressing thrombus risk in AF of uncertain/prolonged duration can dislodge a left atrial appendage thrombus and cause embolic stroke.",
+        "Incorrect \u2014 because duration is uncertain and may exceed 48 hours, anticoagulation is required regardless of rate control status, especially given her risk factors (hypertension, diabetes).",
+        "Incorrect \u2014 aspirin alone is a much weaker anticoagulant strategy and is reserved for patients with very low stroke risk; this patient has significant risk factors warranting more effective anticoagulation.",
+        "Incorrect \u2014 adenosine transiently blocks the AV node and is used to diagnose/treat AV nodal-dependent SVTs (like AVNRT), not to terminate atrial fibrillation."
+      ],
+      "overview": "In atrial fibrillation, thrombus can form in the left atrial appendage within 48 hours. If AF has been present for more than 48 hours or the duration is unknown, cardioversion (electrical or chemical) requires either 3 weeks of anticoagulation beforehand or a TEE to rule out thrombus, followed by anticoagulation, to prevent embolic stroke.",
+      "topic": "Atrial fibrillation",
+      "angle": "treatment",
+      "id": "2026-09-23-17"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 45-year-old woman with known myxomatous mitral valve disease has had progressively worsening exertional dyspnea over the past several years. Echocardiogram shows a dilated left ventricle with hyperdynamic contraction, an ejection fraction of 58%, and severe mitral regurgitation with a large regurgitant jet into the left atrium. Her apical impulse is displaced laterally. Which of the following best describes the chronic hemodynamic effect of her valve disease on the left ventricle?",
+      "options": [
+        "Decreased preload and decreased afterload without hypertrophy",
+        "Decreased preload and increased afterload",
+        "No significant change in loading conditions",
+        "Increased preload and decreased afterload leading to eccentric hypertrophy",
+        "Increased afterload and increased preload leading to concentric hypertrophy"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 afterload is reduced, but preload is increased, not decreased, in chronic MR.",
+        "Incorrect \u2014 MR increases, not decreases, preload due to the added regurgitant volume returning to the LV.",
+        "Incorrect \u2014 chronic significant MR clearly alters loading conditions, producing volume overload.",
+        "Correct \u2014 in chronic mitral regurgitation, regurgitant flow into the low-pressure left atrium increases LV preload (via increased LA/LV filling) while effectively lowering afterload (blood can exit backward across the incompetent valve as well as forward), producing eccentric (volume overload) hypertrophy with LV dilation.",
+        "Incorrect \u2014 increased afterload with concentric hypertrophy describes pressure-overload conditions like aortic stenosis or hypertension, not MR."
+      ],
+      "overview": "Chronic mitral regurgitation causes volume overload of the left ventricle: preload rises because more blood returns to the LV each cycle, while afterload falls because the LV can eject part of its volume backward into the low-pressure left atrium. Over time this produces eccentric hypertrophy with LV dilation, and ejection fraction may appear falsely preserved until late-stage systolic dysfunction develops.",
+      "topic": "Mitral regurgitation",
+      "angle": "pathophysiology",
+      "id": "2026-09-23-18"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which pattern of ventricular remodeling is expected in a patient with long-standing, poorly controlled hypertension?",
+      "options": [
+        "Atrophy of the ventricular wall",
+        "Ventricular dilation without any increase in myocyte size",
+        "Eccentric hypertrophy with sarcomeres added in series and a dilated cavity",
+        "Concentric hypertrophy with sarcomeres added in parallel and increased wall thickness"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 chronic pressure overload causes hypertrophy, not atrophy, of the myocardium.",
+        "Incorrect \u2014 hypertension causes true myocyte hypertrophy (increased cell size), not simple dilation without hypertrophy.",
+        "Incorrect \u2014 eccentric hypertrophy with sarcomeres in series occurs with volume overload (e.g., aortic or mitral regurgitation), not pressure overload.",
+        "Correct \u2014 chronic pressure overload (hypertension, aortic stenosis) causes concentric hypertrophy, where sarcomeres are added in parallel, increasing wall thickness while distributing wall tension over more muscle mass and often decreasing chamber compliance."
+      ],
+      "overview": "The heart hypertrophies differently based on the type of overload: pressure overload (hypertension, aortic stenosis) causes concentric hypertrophy with sarcomeres in parallel and increased wall thickness, while volume overload (regurgitant valve lesions) causes eccentric hypertrophy with sarcomeres in series and cavity dilation without necessarily increasing wall thickness.",
+      "topic": "Cardiac hypertrophy",
+      "angle": "pathophysiology",
+      "id": "2026-09-23-19"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which organism is most likely to cause acute, rapidly progressive endocarditis on a previously normal, undamaged native heart valve?",
+      "options": [
+        "Viridans group streptococci",
+        "Staphylococcus aureus",
+        "Enterococcus species",
+        "Staphylococcus epidermidis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 viridans streptococci are low-virulence organisms that typically infect previously damaged valves (e.g., after dental procedures) and cause a subacute course over days to weeks.",
+        "Correct \u2014 Staphylococcus aureus is a highly virulent organism capable of infecting normal, previously undamaged valves and causing acute endocarditis with rapid symptom progression over days.",
+        "Incorrect \u2014 enterococcus typically causes subacute endocarditis, often in older men after GI/GU tract manipulation, rather than acute infection of normal valves.",
+        "Incorrect \u2014 Staphylococcus epidermidis is a low-virulence skin organism that mainly causes prosthetic valve or catheter-related infections, not acute native valve endocarditis."
+      ],
+      "overview": "Infective endocarditis organisms differ by virulence and valve predisposition: S. aureus is highly virulent and can infect normal valves causing acute disease, while viridans streptococci, enterococcus, and S. bovis are lower-virulence organisms typically causing subacute endocarditis on previously damaged valves, each with characteristic predisposing exposures (dental work, GI/GU procedures, colon cancer, respectively).",
+      "topic": "Infective endocarditis",
+      "angle": "risk_factors",
+      "id": "2026-09-23-20"
+    },
+    {
+      "format": "simple4",
+      "stem": "The delta wave seen on ECG in Wolff-Parkinson-White syndrome is directly caused by which of the following?",
+      "options": [
+        "Delayed conduction through a diseased, fibrotic AV node",
+        "Retrograde-only conduction from ventricle to atrium via a bypass tract",
+        "An ectopic atrial focus firing faster than the sinus node",
+        "Early ventricular depolarization conducted through an accessory pathway that bypasses the AV node"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 WPW involves an accessory pathway that speeds up, not delays, conduction relative to the normal AV node.",
+        "Incorrect \u2014 the delta wave results from antegrade (atrium-to-ventricle) conduction over the bypass tract, not purely retrograde conduction.",
+        "Incorrect \u2014 an ectopic atrial focus would alter P wave morphology, not produce the characteristic delta wave/short PR pattern of pre-excitation.",
+        "Correct \u2014 the accessory pathway (bundle of Kent) conducts impulses from atria to ventricle without the normal AV nodal delay, causing early ('pre-excited') depolarization of part of the ventricle, which produces the slurred upstroke of the QRS (delta wave) and a short PR interval."
+      ],
+      "overview": "WPW syndrome results from an accessory atrioventricular pathway (bundle of Kent) that bypasses the AV node's normal conduction delay, producing pre-excitation seen as a short PR interval and delta wave on ECG. This substrate predisposes to AV reentrant tachycardias (AVRT) and is dangerous in atrial fibrillation because AV-nodal blocking drugs can promote rapid conduction over the bypass tract.",
+      "topic": "Wolff-Parkinson-White syndrome",
+      "angle": "pathophysiology",
+      "id": "2026-09-23-21"
+    },
+    {
+      "format": "simple4",
+      "stem": "In the pathogenesis of atherosclerotic plaque formation, macrophages that phagocytose oxidized LDL but cannot degrade it transform into which cell type?",
+      "options": [
+        "Fibroblasts",
+        "Multinucleated giant cells",
+        "Myofibroblasts",
+        "Foam cells"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 fibroblasts are not derived from lipid-laden macrophages; smooth muscle cells (not fibroblasts) proliferate in the intima and lay down extracellular matrix in more advanced plaques.",
+        "Incorrect \u2014 multinucleated giant cells are associated with granulomatous inflammation (e.g., foreign body or TB granulomas), not the typical lipid-laden macrophage of atherosclerosis.",
+        "Incorrect \u2014 myofibroblasts are not the classic lipid-engorged macrophage-derived cell of atherosclerotic plaques.",
+        "Correct \u2014 macrophages scavenge oxidized LDL that has accumulated in the intima; because they cannot degrade the lipid, they become lipid-laden 'foam cells,' which aggregate to form the earliest visible lesion, the fatty streak."
+      ],
+      "overview": "Atherosclerosis begins with endothelial injury and LDL accumulation/oxidation in the intima; macrophages engulf oxidized LDL and become foam cells, forming fatty streaks. Chronic inflammation and PDGF-driven smooth muscle proliferation then build the fibrous, lipid-core plaque, which can be complicated by rupture, thrombosis, hemorrhage, or aneurysm formation.",
+      "topic": "Atherosclerosis",
+      "angle": "mechanism",
+      "id": "2026-09-23-22"
+    },
+    {
+      "format": "simple4",
+      "stem": "A 'shunt run' obtained during cardiac catheterization in a patient with an uncorrected atrial septal defect would most likely show which of the following oxygen saturation patterns?",
+      "options": [
+        "A step-up in oxygen saturation from the vena cavae to the right atrium",
+        "Equal oxygen saturation in the right atrium and pulmonary artery only, with no change elsewhere",
+        "A step-up in oxygen saturation from the right atrium to the right ventricle, with normal right atrial saturation",
+        "A step-down in oxygen saturation from the vena cavae to the right atrium"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 in ASD, oxygenated blood shunts left-to-right from the left atrium into the right atrium, raising oxygen saturation in the right atrium (and subsequently RV and pulmonary artery) compared to the vena cavae \u2014 a classic 'step-up.'",
+        "Incorrect \u2014 the step-up occurs at the level of the right atrium (the site of the defect) and persists through the RV and PA, not confined to the RA-PA segment alone.",
+        "Incorrect \u2014 the step-up in ASD occurs at the atrial level (RA), not later at the RA-to-RV transition, since the shunt itself is at the atrial septum.",
+        "Incorrect \u2014 the shunt adds oxygenated blood, so saturation rises (steps up), not down, entering the right atrium."
+      ],
+      "overview": "Atrial septal defect allows left-to-right shunting of oxygenated blood at the atrial level, producing a measurable oxygen saturation step-up in the right atrium during a shunt run, along with a wide, fixed splitting of S2 due to delayed pulmonic valve closure from increased right-sided flow.",
+      "topic": "Atrial septal defect",
+      "angle": "diagnosis",
+      "id": "2026-09-23-23"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 17-year-old competitive basketball player collapses suddenly during a game and cannot be resuscitated. He had no prior cardiac symptoms, but his uncle died suddenly at age 22 during exercise. Autopsy reveals asymmetric septal hypertrophy with myocyte disarray and interstitial fibrosis on histology. Which of the following mechanisms most likely caused this patient's sudden death?",
+      "options": [
+        "Pulmonary embolism from a lower extremity deep vein thrombosis",
+        "Ventricular tachycardia or fibrillation arising from disorganized, hypertrophied myocardium",
+        "Complete heart block from Lyme carditis",
+        "Acute plaque rupture with coronary thrombosis",
+        "Aortic root rupture from cystic medial necrosis"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 pulmonary embolism would present with dyspnea/hypoxia and would not explain the cardiac histology described.",
+        "Correct \u2014 hypertrophic cardiomyopathy, suggested by the family history of sudden death and histology showing myocyte disarray/fibrosis, predisposes to fatal ventricular arrhythmias, which is the most common cause of sudden cardiac death in young athletes.",
+        "Incorrect \u2014 Lyme carditis can cause AV block but does not produce asymmetric septal hypertrophy with myocyte disarray.",
+        "Incorrect \u2014 coronary atherosclerosis causing plaque rupture is exceedingly rare in a healthy 17-year-old and does not explain the described histology.",
+        "Incorrect \u2014 aortic rupture from cystic medial necrosis is associated with Marfan syndrome or longstanding hypertension, not the myocyte disarray described here, and typically presents with tearing chest/back pain rather than sudden collapse without warning."
+      ],
+      "overview": "Hypertrophic cardiomyopathy is an autosomal dominant sarcomeric protein disorder causing asymmetric septal hypertrophy, myocyte disarray, and interstitial fibrosis. It is the most common cause of sudden cardiac death in young, otherwise healthy athletes, due to ventricular arrhythmias arising from the abnormal myocardium, and exercise (via catecholamine surge) increases this risk.",
+      "topic": "Hypertrophic cardiomyopathy",
+      "angle": "complications",
+      "id": "2026-09-23-24"
+    },
+    {
+      "format": "simple4",
+      "stem": "In a patient with mitral stenosis, a shorter interval between S2 and the opening snap on auscultation suggests which of the following?",
+      "options": [
+        "Milder mitral stenosis with lower left atrial pressure",
+        "Coexisting mitral regurgitation",
+        "Coexisting aortic stenosis",
+        "More severe mitral stenosis with higher left atrial pressure"
+      ],
+      "correctIndex": 3,
+      "explanations": [
+        "Incorrect \u2014 milder disease with lower left atrial pressure produces a longer, not shorter, S2-opening snap interval.",
+        "Incorrect \u2014 the timing of the opening snap reflects left atrial pressure from stenosis, not the presence of coexisting regurgitation.",
+        "Incorrect \u2014 aortic stenosis affects the aortic valve and does not determine the mitral opening snap timing.",
+        "Correct \u2014 a shorter S2-to-opening-snap interval reflects a higher left atrial pressure, which forces the mitral valve open sooner after aortic valve closure, indicating more severe stenosis."
+      ],
+      "overview": "Mitral stenosis produces a diastolic rumble preceded by an opening snap; the time from S2 to the opening snap inversely correlates with disease severity because more severely elevated left atrial pressure forces the stiff mitral valve open earlier in diastole.",
+      "topic": "Mitral stenosis",
+      "angle": "clinical_presentation",
+      "id": "2026-09-23-25"
+    },
+    {
+      "format": "simple4",
+      "stem": "Which of the following interventions would be expected to increase left ventricular preload?",
+      "options": [
+        "Sudden standing from a supine position",
+        "Administration of sublingual nitroglycerin",
+        "Venous constriction increasing venous return to the heart",
+        "Acute hemorrhage"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 standing allows gravity to pool blood in the lower extremities, decreasing venous return and preload.",
+        "Incorrect \u2014 nitroglycerin predominantly causes venodilation, pooling blood in the veins and decreasing preload.",
+        "Correct \u2014 venoconstriction (e.g., sympathetic \u03b11 stimulation) forces more blood out of the large-capacitance venous system back toward the heart, increasing venous return and thus LV preload/LVEDV.",
+        "Incorrect \u2014 hemorrhage reduces circulating blood volume and therefore decreases preload."
+      ],
+      "overview": "Preload reflects the volume/stretch of the left ventricle just before contraction (LVEDV/LVEDP) and is increased by adding volume or constricting veins (which hold a large reservoir of blood), and decreased by hemorrhage, dehydration, or venodilating drugs like nitrates.",
+      "topic": "Preload",
+      "angle": "mechanism",
+      "id": "2026-09-23-26"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient with cardiac amyloidosis develops restrictive cardiomyopathy with thickened ventricular walls on echocardiogram. Which of the following is a classic, seemingly paradoxical ECG finding in this condition?",
+      "options": [
+        "Tall, high-voltage QRS complexes consistent with left ventricular hypertrophy",
+        "Low-voltage QRS complexes",
+        "Diffuse ST-segment elevation with PR depression",
+        "Delta waves with a short PR interval"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 true LVH from pressure overload would produce high, not low, QRS voltage; amyloid classically shows the opposite (low voltage) despite thick walls on imaging.",
+        "Correct \u2014 despite echocardiographic wall thickening, amyloid infiltration (and Fabry disease) classically produces low-voltage QRS complexes on ECG, because infiltrated tissue conducts electrical activity poorly \u2014 a discordance between imaging 'hypertrophy' and low ECG voltage that is a key diagnostic clue.",
+        "Incorrect \u2014 diffuse ST elevation with PR depression is characteristic of acute pericarditis, not restrictive cardiomyopathy.",
+        "Incorrect \u2014 delta waves and short PR intervals are characteristic of Wolff-Parkinson-White syndrome, not restrictive cardiomyopathy/amyloidosis."
+      ],
+      "overview": "Restrictive cardiomyopathy results from myocardial infiltration (amyloidosis, sarcoidosis, hemochromatosis, Fabry disease) causing severe diastolic dysfunction with normal or near-normal ejection fraction and biatrial enlargement. A classic clue for amyloidosis specifically is low ECG voltage despite increased wall thickness on echocardiography, reflecting infiltration rather than true hypertrophy.",
+      "topic": "Restrictive cardiomyopathy",
+      "angle": "diagnosis",
+      "id": "2026-09-23-27"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient develops cardiogenic shock after a large anterior wall myocardial infarction. A pulmonary artery (Swan-Ganz) catheter is placed. Which hemodynamic profile is expected?",
+      "options": [
+        "High cardiac output, low systemic vascular resistance",
+        "Low cardiac output, low systemic vascular resistance, low wedge pressure",
+        "Low cardiac output, high pulmonary capillary wedge pressure, high systemic vascular resistance",
+        "Low cardiac output, low pulmonary capillary wedge pressure, high systemic vascular resistance"
+      ],
+      "correctIndex": 2,
+      "explanations": [
+        "Incorrect \u2014 high cardiac output with low SVR describes distributive shock (e.g., septic shock), not cardiogenic shock.",
+        "Incorrect \u2014 cardiogenic shock has high SVR (compensatory vasoconstriction) and high wedge pressure, not low values for both.",
+        "Correct \u2014 cardiogenic shock results from severe pump failure; low cardiac output raises upstream cardiac filling pressures (high PCWP reflecting elevated left atrial pressure), while the sympathetic response to low output raises systemic vascular resistance.",
+        "Incorrect \u2014 cardiogenic shock has high, not low, filling pressures (high PCWP) because blood backs up behind the failing left ventricle."
+      ],
+      "overview": "Cardiogenic shock is characterized hemodynamically by low cardiac output with high cardiac filling pressures (elevated RA pressure, RV pressure, and PCWP) and high systemic vascular resistance from compensatory sympathetic activation \u2014 distinguishing it from hypovolemic shock (low filling pressures) and distributive shock (low SVR, variable/high output).",
+      "topic": "Cardiogenic shock",
+      "angle": "diagnosis",
+      "id": "2026-09-23-28"
+    },
+    {
+      "format": "simple4",
+      "stem": "A patient develops severe, symptomatic aortic stenosis. Which of the following best describes the primary hemodynamic burden imposed on the left ventricle?",
+      "options": [
+        "Decreased afterload from peripheral vasodilation",
+        "Increased afterload due to fixed resistance to outflow across the stenotic valve",
+        "Decreased contractility from primary myocardial ischemia",
+        "Increased preload due to chronic volume overload of the ventricle"
+      ],
+      "correctIndex": 1,
+      "explanations": [
+        "Incorrect \u2014 the valve obstruction increases, not decreases, resistance to LV outflow.",
+        "Correct \u2014 a stenotic aortic valve creates a fixed obstruction the LV must overcome to eject blood, which is the definition of increased afterload ('pressure overload'), ultimately driving concentric hypertrophy.",
+        "Incorrect \u2014 while severe AS can secondarily cause subendocardial ischemia via increased LVEDP and O2 demand, the primary hemodynamic burden is the mechanical outflow obstruction (afterload), not primary ischemia.",
+        "Incorrect \u2014 aortic stenosis is a pressure-overload lesion, not a volume-overload lesion; regurgitant valve lesions (AR, MR) increase preload."
+      ],
+      "overview": "Afterload is the resistance the ventricle must overcome to eject blood; it rises with high blood pressure or fixed outflow obstruction (aortic stenosis, HCM). Chronic afterload elevation drives concentric hypertrophy with sarcomeres added in parallel, distinguishing it from volume-overload (preload) lesions that cause eccentric hypertrophy.",
+      "topic": "Afterload",
+      "angle": "mechanism",
+      "id": "2026-09-23-29"
+    },
+    {
+      "format": "vignette5",
+      "stem": "A 60-year-old man presents with 30 minutes of crushing substernal chest pain at rest, associated with diaphoresis and nausea. ECG shows ST-segment depressions and T-wave inversions in leads V4-V6 without ST elevation. Troponin I, drawn on arrival, returns elevated at 0.8 ng/mL. He is treated with aspirin, heparin, and metoprolol. What is the most likely diagnosis?",
+      "options": [
+        "Non-ST-elevation myocardial infarction (NSTEMI)",
+        "Unstable angina",
+        "ST-elevation myocardial infarction (STEMI)",
+        "Stable angina",
+        "Acute pericarditis"
+      ],
+      "correctIndex": 0,
+      "explanations": [
+        "Correct \u2014 chest pain at rest with ST depressions/T-wave inversions and elevated cardiac biomarkers (troponin) indicates subendocardial infarction without complete vessel occlusion, i.e., NSTEMI.",
+        "Incorrect \u2014 unstable angina has the same ischemic ECG changes and clinical picture but with normal (not elevated) cardiac biomarkers; this patient's troponin is elevated, indicating infarction rather than unstable angina.",
+        "Incorrect \u2014 STEMI requires ST-segment elevations reflecting transmural ischemia from complete (100%) vessel occlusion, which is not described here.",
+        "Incorrect \u2014 stable angina occurs with exertion, is relieved by rest, and has normal biomarkers; this patient has pain at rest with elevated troponin.",
+        "Incorrect \u2014 pericarditis classically causes diffuse ST elevations with PR depressions and pleuritic, positional chest pain, not focal ST depressions with elevated troponin."
+      ],
+      "overview": "Acute coronary syndromes form a spectrum based on degree of occlusion and biomarker status: stable angina (exertional, no biomarker rise), unstable angina/NSTEMI (subtotal occlusion causing subendocardial ischemia with ST depression/T-wave inversion, distinguished from each other by biomarker elevation), and STEMI (complete occlusion causing transmural ischemia with ST elevation).",
+      "topic": "NSTEMI",
+      "angle": "diagnosis",
+      "id": "2026-09-23-30"
     }
   ]
 }
